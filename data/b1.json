@@ -1,0 +1,7137 @@
+[
+  {
+    "id": "s241",
+    "number": 241,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Espero que tengas un buen viaje a España.",
+    "ko": "네가 스페인으로 즐거운 여행을 하기를 바라.",
+    "audioUrl": {
+      "female": "/audio/female/s241.mp3",
+      "male": "/audio/male/s241.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Espero",
+        "pos": "동사",
+        "meaning": "바라다",
+        "note": "esperar의 직설법 현재 1인칭 단수"
+      },
+      {
+        "word": "que",
+        "pos": "접속사",
+        "meaning": "~라는 것을",
+        "note": "명사절을 이끄는 접속사, 뒤에 접속법 요구"
+      },
+      {
+        "word": "tengas",
+        "pos": "동사",
+        "meaning": "가지다",
+        "note": "tener의 접속법 현재 2인칭 단수"
+      },
+      {
+        "word": "un buen viaje",
+        "pos": "명사구",
+        "meaning": "즐거운 여행",
+        "note": "bueno가 남성 단수 명사 앞에서 buen으로 축약"
+      },
+      {
+        "word": "a España",
+        "pos": "전치사구",
+        "meaning": "스페인으로",
+        "note": "방향의 전치사 a"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "esperar",
+        "meaning": "바라다, 기다리다",
+        "tense": "직설법 현재",
+        "usedForm": "Espero",
+        "conjugation": {
+          "yo": "espero",
+          "tu": "esperas",
+          "el": "espera",
+          "nosotros": "esperamos",
+          "vosotros": "esperáis",
+          "ellos": "esperan"
+        }
+      },
+      {
+        "infinitive": "tener",
+        "meaning": "가지다",
+        "tense": "접속법 현재",
+        "usedForm": "tengas",
+        "conjugation": {
+          "yo": "tenga",
+          "tu": "tengas",
+          "el": "tenga",
+          "nosotros": "tengamos",
+          "vosotros": "tengáis",
+          "ellos": "tengan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s242",
+    "number": 242,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Quiero que me llames cuando llegues al hotel.",
+    "ko": "호텔에 도착하면 나에게 전화해 주길 원해.",
+    "audioUrl": {
+      "female": "/audio/female/s242.mp3",
+      "male": "/audio/male/s242.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Quiero",
+        "pos": "동사",
+        "meaning": "원하다",
+        "note": "querer의 직설법 현재 1인칭 단수"
+      },
+      {
+        "word": "que",
+        "pos": "접속사",
+        "meaning": "~하는 것을",
+        "note": "접속법 유도"
+      },
+      {
+        "word": "me",
+        "pos": "대명사",
+        "meaning": "나에게",
+        "note": "간접목적대명사 1인칭 단수"
+      },
+      {
+        "word": "llames",
+        "pos": "동사",
+        "meaning": "전화하다",
+        "note": "llamar의 접속법 현재 2인칭 단수"
+      },
+      {
+        "word": "cuando",
+        "pos": "접속사",
+        "meaning": "~할 때",
+        "note": "미래 불확정 상황이므로 접속법 동반"
+      },
+      {
+        "word": "llegues",
+        "pos": "동사",
+        "meaning": "도착하다",
+        "note": "llegar의 접속법 현재 2인칭 단수 (g->gu)"
+      },
+      {
+        "word": "al hotel",
+        "pos": "전치사구",
+        "meaning": "호텔에",
+        "note": "al = a + el, el hotel"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "querer",
+        "meaning": "원하다",
+        "tense": "직설법 현재",
+        "usedForm": "Quiero",
+        "conjugation": {
+          "yo": "quiero",
+          "tu": "quieres",
+          "el": "quiere",
+          "nosotros": "queremos",
+          "vosotros": "queréis",
+          "ellos": "quieren"
+        }
+      },
+      {
+        "infinitive": "llamar",
+        "meaning": "부르다, 전화하다",
+        "tense": "접속법 현재",
+        "usedForm": "llames",
+        "conjugation": {
+          "yo": "llame",
+          "tu": "llames",
+          "el": "llame",
+          "nosotros": "llamemos",
+          "vosotros": "llaméis",
+          "ellos": "llamen"
+        }
+      },
+      {
+        "infinitive": "llegar",
+        "meaning": "도착하다",
+        "tense": "접속법 현재",
+        "usedForm": "llegues",
+        "conjugation": {
+          "yo": "llegue",
+          "tu": "llegues",
+          "el": "llegue",
+          "nosotros": "lleguemos",
+          "vosotros": "lleguéis",
+          "ellos": "lleguen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s243",
+    "number": 243,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Me alegro de que apruebes el examen de español.",
+    "ko": "네가 스페인어 시험에 합격해서 기뻐.",
+    "audioUrl": {
+      "female": "/audio/female/s243.mp3",
+      "male": "/audio/male/s243.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Me alegro de que",
+        "pos": "동사구",
+        "meaning": "~해서 기쁘다",
+        "note": "alegrarse de que + 접속법"
+      },
+      {
+        "word": "apruebes",
+        "pos": "동사",
+        "meaning": "합격하다, 통과하다",
+        "note": "aprobar의 접속법 현재 2인칭 단수 (o->ue)"
+      },
+      {
+        "word": "el examen",
+        "pos": "명사구",
+        "meaning": "시험",
+        "note": "el examen"
+      },
+      {
+        "word": "de español",
+        "pos": "전치사구",
+        "meaning": "스페인어의",
+        "note": "el español"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "alegrarse",
+        "meaning": "기뻐하다",
+        "tense": "직설법 현재",
+        "usedForm": "Me alegro",
+        "conjugation": {
+          "yo": "me alegro",
+          "tu": "te alegras",
+          "el": "se alegra",
+          "nosotros": "nos alegramos",
+          "vosotros": "os alegráis",
+          "ellos": "se alegran"
+        }
+      },
+      {
+        "infinitive": "aprobar",
+        "meaning": "통과하다, 합격하다",
+        "tense": "접속법 현재",
+        "usedForm": "apruebes",
+        "conjugation": {
+          "yo": "apruebe",
+          "tu": "apruebes",
+          "el": "apruebe",
+          "nosotros": "aprobemos",
+          "vosotros": "aprobéis",
+          "ellos": "aprueben"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s244",
+    "number": 244,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Siento mucho que no puedas venir a la fiesta.",
+    "ko": "네가 파티에 올 수 없어서 정말 아쉬워.",
+    "audioUrl": {
+      "female": "/audio/female/s244.mp3",
+      "male": "/audio/male/s244.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Siento mucho",
+        "pos": "동사구",
+        "meaning": "매우 유감이다/아쉽다",
+        "note": "sentir의 직설법 현재 1인칭 단수"
+      },
+      {
+        "word": "que",
+        "pos": "접속사",
+        "meaning": "~라는 것이",
+        "note": "감정 표현 뒤 접속법 유도"
+      },
+      {
+        "word": "no puedas",
+        "pos": "동사구",
+        "meaning": "~할 수 없다",
+        "note": "poder의 접속법 현재 2인칭 단수"
+      },
+      {
+        "word": "venir",
+        "pos": "동사원형",
+        "meaning": "오다",
+        "note": ""
+      },
+      {
+        "word": "a la fiesta",
+        "pos": "전치사구",
+        "meaning": "파티에",
+        "note": "la fiesta"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "sentir",
+        "meaning": "느끼다, 유감이다",
+        "tense": "직설법 현재",
+        "usedForm": "Siento",
+        "conjugation": {
+          "yo": "siento",
+          "tu": "sientes",
+          "el": "siente",
+          "nosotros": "sentimos",
+          "vosotros": "sentís",
+          "ellos": "sienten"
+        }
+      },
+      {
+        "infinitive": "poder",
+        "meaning": "~할 수 있다",
+        "tense": "접속법 현재",
+        "usedForm": "puedas",
+        "conjugation": {
+          "yo": "pueda",
+          "tu": "puedas",
+          "el": "pueda",
+          "nosotros": "podamos",
+          "vosotros": "podáis",
+          "ellos": "puedan"
+        }
+      },
+      {
+        "infinitive": "venir",
+        "meaning": "오다",
+        "tense": "동사원형",
+        "usedForm": "venir",
+        "conjugation": {
+          "yo": "vengo",
+          "tu": "vienes",
+          "el": "viene",
+          "nosotros": "venimos",
+          "vosotros": "venís",
+          "ellos": "vienen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s245",
+    "number": 245,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Dudo que ellos sepan la verdad sobre el problema.",
+    "ko": "그들이 그 문제에 대한 진실을 알고 있는지 의심스러워.",
+    "audioUrl": {
+      "female": "/audio/female/s245.mp3",
+      "male": "/audio/male/s245.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Dudo",
+        "pos": "동사",
+        "meaning": "의심하다",
+        "note": "dudar의 직설법 현재 1인칭 단수"
+      },
+      {
+        "word": "que",
+        "pos": "접속사",
+        "meaning": "~라는 것을",
+        "note": "의심 표현 뒤 접속법 유도"
+      },
+      {
+        "word": "ellos",
+        "pos": "대명사",
+        "meaning": "그들은",
+        "note": "주격 3인칭 복수"
+      },
+      {
+        "word": "sepan",
+        "pos": "동사",
+        "meaning": "알다",
+        "note": "saber의 접속법 현재 3인칭 복수"
+      },
+      {
+        "word": "la verdad",
+        "pos": "명사구",
+        "meaning": "진실",
+        "note": "la verdad"
+      },
+      {
+        "word": "sobre el problema",
+        "pos": "전치사구",
+        "meaning": "그 문제에 대하여",
+        "note": "el problema (-ma로 끝나는 남성 명사)"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "dudar",
+        "meaning": "의심하다",
+        "tense": "직설법 현재",
+        "usedForm": "Dudo",
+        "conjugation": {
+          "yo": "dudo",
+          "tu": "dudas",
+          "el": "duda",
+          "nosotros": "dudamos",
+          "vosotros": "dudáis",
+          "ellos": "dudan"
+        }
+      },
+      {
+        "infinitive": "saber",
+        "meaning": "알다",
+        "tense": "접속법 현재",
+        "usedForm": "sepan",
+        "conjugation": {
+          "yo": "sepa",
+          "tu": "sepas",
+          "el": "sepa",
+          "nosotros": "sepamos",
+          "vosotros": "sepáis",
+          "ellos": "sepan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s246",
+    "number": 246,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "No creo que este proyecto sea una buena idea.",
+    "ko": "나는 이 프로젝트가 좋은 아이디어라고 생각하지 않는다.",
+    "audioUrl": {
+      "female": "/audio/female/s246.mp3",
+      "male": "/audio/male/s246.mp3"
+    },
+    "vocab": [
+      {
+        "word": "No creo que",
+        "pos": "동사구",
+        "meaning": "~라고 생각하지 않는다",
+        "note": "부정의 creer 뒤에 접속법 사용"
+      },
+      {
+        "word": "este proyecto",
+        "pos": "명사구",
+        "meaning": "이 프로젝트",
+        "note": "el proyecto"
+      },
+      {
+        "word": "sea",
+        "pos": "동사",
+        "meaning": "~이다",
+        "note": "ser의 접속법 현재 3인칭 단수"
+      },
+      {
+        "word": "una buena idea",
+        "pos": "명사구",
+        "meaning": "좋은 아이디어",
+        "note": "la idea"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "creer",
+        "meaning": "생각하다, 믿다",
+        "tense": "직설법 현재",
+        "usedForm": "creo",
+        "conjugation": {
+          "yo": "creo",
+          "tu": "crees",
+          "el": "cree",
+          "nosotros": "creemos",
+          "vosotros": "creéis",
+          "ellos": "creen"
+        }
+      },
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "접속법 현재",
+        "usedForm": "sea",
+        "conjugation": {
+          "yo": "sea",
+          "tu": "seas",
+          "el": "sea",
+          "nosotros": "seamos",
+          "vosotros": "seáis",
+          "ellos": "sean"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s247",
+    "number": 247,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Ojalá haga buen tiempo mañana durante la excursión.",
+    "ko": "내일 소풍 동안 날씨가 좋기를 바란다.",
+    "audioUrl": {
+      "female": "/audio/female/s247.mp3",
+      "male": "/audio/male/s247.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Ojalá",
+        "pos": "감탄사/부사",
+        "meaning": "부디 ~하기를",
+        "note": "항상 접속법을 유도하는 기원 표현"
+      },
+      {
+        "word": "haga buen tiempo",
+        "pos": "동사구",
+        "meaning": "날씨가 좋다",
+        "note": "hacer의 접속법 현재 3인칭 단수"
+      },
+      {
+        "word": "mañana",
+        "pos": "부사",
+        "meaning": "내일",
+        "note": ""
+      },
+      {
+        "word": "durante la excursión",
+        "pos": "전치사구",
+        "meaning": "소풍 동안에",
+        "note": "la excursión"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "hacer",
+        "meaning": "하다, 날씨가 ~하다",
+        "tense": "접속법 현재",
+        "usedForm": "haga",
+        "conjugation": {
+          "yo": "haga",
+          "tu": "hagas",
+          "el": "haga",
+          "nosotros": "hagamos",
+          "vosotros": "hagáis",
+          "ellos": "hagan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s248",
+    "number": 248,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Es importante que estudies todos los días para el examen.",
+    "ko": "시험을 위해 매일 공부하는 것이 중요하다.",
+    "audioUrl": {
+      "female": "/audio/female/s248.mp3",
+      "male": "/audio/male/s248.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Es importante que",
+        "pos": "비인칭구문",
+        "meaning": "~하는 것이 중요하다",
+        "note": "비인칭 가치 판단 구문 + 접속법"
+      },
+      {
+        "word": "estudies",
+        "pos": "동사",
+        "meaning": "공부하다",
+        "note": "estudiar의 접속법 현재 2인칭 단수"
+      },
+      {
+        "word": "todos los días",
+        "pos": "명사구",
+        "meaning": "매일",
+        "note": "el día의 복수형"
+      },
+      {
+        "word": "para el examen",
+        "pos": "전치사구",
+        "meaning": "시험을 위해",
+        "note": "el examen"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "직설법 현재",
+        "usedForm": "Es",
+        "conjugation": {
+          "yo": "soy",
+          "tu": "eres",
+          "el": "es",
+          "nosotros": "somos",
+          "vosotros": "sois",
+          "ellos": "son"
+        }
+      },
+      {
+        "infinitive": "estudiar",
+        "meaning": "공부하다",
+        "tense": "접속법 현재",
+        "usedForm": "estudies",
+        "conjugation": {
+          "yo": "estudie",
+          "tu": "estudies",
+          "el": "estudie",
+          "nosotros": "estudiemos",
+          "vosotros": "estudiéis",
+          "ellos": "estudien"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s249",
+    "number": 249,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Es necesario que enviemos el informe antes de las cinco.",
+    "ko": "우리가 5시 전에 보고서를 보내는 것이 필요하다.",
+    "audioUrl": {
+      "female": "/audio/female/s249.mp3",
+      "male": "/audio/male/s249.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Es necesario que",
+        "pos": "비인칭구문",
+        "meaning": "~하는 것이 필요하다",
+        "note": "필요성 비인칭 구문 + 접속법"
+      },
+      {
+        "word": "enviemos",
+        "pos": "동사",
+        "meaning": "보내다",
+        "note": "enviar의 접속법 현재 1인칭 복수"
+      },
+      {
+        "word": "el informe",
+        "pos": "명사구",
+        "meaning": "보고서",
+        "note": "el informe"
+      },
+      {
+        "word": "antes de las cinco",
+        "pos": "전치사구",
+        "meaning": "5시 전에",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "직설법 현재",
+        "usedForm": "Es",
+        "conjugation": {
+          "yo": "soy",
+          "tu": "eres",
+          "el": "es",
+          "nosotros": "somos",
+          "vosotros": "sois",
+          "ellos": "son"
+        }
+      },
+      {
+        "infinitive": "enviar",
+        "meaning": "보내다",
+        "tense": "접속법 현재",
+        "usedForm": "enviemos",
+        "conjugation": {
+          "yo": "envíe",
+          "tu": "envíes",
+          "el": "envíe",
+          "nosotros": "enviemos",
+          "vosotros": "enviéis",
+          "ellos": "envíen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s250",
+    "number": 250,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "No me parece que esa respuesta sea correcta.",
+    "ko": "나는 그 대답이 옳다고 생각하지 않는다.",
+    "audioUrl": {
+      "female": "/audio/female/s250.mp3",
+      "male": "/audio/male/s250.mp3"
+    },
+    "vocab": [
+      {
+        "word": "No me parece que",
+        "pos": "동사구",
+        "meaning": "~라고 생각하지 않는다",
+        "note": "부정 의견 표현 + 접속법"
+      },
+      {
+        "word": "esa respuesta",
+        "pos": "명사구",
+        "meaning": "그 대답",
+        "note": "la respuesta"
+      },
+      {
+        "word": "sea",
+        "pos": "동사",
+        "meaning": "~이다",
+        "note": "ser의 접속법 현재 3인칭 단수"
+      },
+      {
+        "word": "correcta",
+        "pos": "형용사",
+        "meaning": "올바른",
+        "note": "여성 단수"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "parecer",
+        "meaning": "~처럼 보이다",
+        "tense": "직설법 현재",
+        "usedForm": "parece",
+        "conjugation": {
+          "yo": "parezco",
+          "tu": "pareces",
+          "el": "parece",
+          "nosotros": "parecemos",
+          "vosotros": "parecéis",
+          "ellos": "parecen"
+        }
+      },
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "접속법 현재",
+        "usedForm": "sea",
+        "conjugation": {
+          "yo": "sea",
+          "tu": "seas",
+          "el": "sea",
+          "nosotros": "seamos",
+          "vosotros": "seáis",
+          "ellos": "sean"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s251",
+    "number": 251,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Mis padres quieren que yo estudie una carrera universitaria.",
+    "ko": "부모님은 내가 대학 전공 과정을 공부하기를 원하신다.",
+    "audioUrl": {
+      "female": "/audio/female/s251.mp3",
+      "male": "/audio/male/s251.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Mis padres",
+        "pos": "명사구",
+        "meaning": "나의 부모님",
+        "note": "los padres"
+      },
+      {
+        "word": "quieren que",
+        "pos": "동사구",
+        "meaning": "~하기를 원한다",
+        "note": "주어가 다를 때 que + 접속법"
+      },
+      {
+        "word": "yo",
+        "pos": "대명사",
+        "meaning": "나",
+        "note": "주격 대명사 강조"
+      },
+      {
+        "word": "estudie",
+        "pos": "동사",
+        "meaning": "공부하다",
+        "note": "estudiar의 접속법 현재 1인칭 단수"
+      },
+      {
+        "word": "una carrera universitaria",
+        "pos": "명사구",
+        "meaning": "대학 학위 과정, 전공",
+        "note": "la carrera"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "querer",
+        "meaning": "원하다",
+        "tense": "직설법 현재",
+        "usedForm": "quieren",
+        "conjugation": {
+          "yo": "quiero",
+          "tu": "quieres",
+          "el": "quiere",
+          "nosotros": "queremos",
+          "vosotros": "queréis",
+          "ellos": "quieren"
+        }
+      },
+      {
+        "infinitive": "estudiar",
+        "meaning": "공부하다",
+        "tense": "접속법 현재",
+        "usedForm": "estudie",
+        "conjugation": {
+          "yo": "estudie",
+          "tu": "estudies",
+          "el": "estudie",
+          "nosotros": "estudiemos",
+          "vosotros": "estudiéis",
+          "ellos": "estudien"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s252",
+    "number": 252,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Temo que la medicina no tenga un efecto rápido.",
+    "ko": "약 효과가 빠르게 나타나지 않을까 봐 두렵다.",
+    "audioUrl": {
+      "female": "/audio/female/s252.mp3",
+      "male": "/audio/male/s252.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Temo que",
+        "pos": "동사구",
+        "meaning": "~할까 봐 두렵다",
+        "note": "공포/걱정 동사 + 접속법"
+      },
+      {
+        "word": "la medicina",
+        "pos": "명사구",
+        "meaning": "약, 의학",
+        "note": "la medicina"
+      },
+      {
+        "word": "no tenga",
+        "pos": "동사구",
+        "meaning": "가지지 않다",
+        "note": "tener의 접속법 현재 3인칭 단수"
+      },
+      {
+        "word": "un efecto rápido",
+        "pos": "명사구",
+        "meaning": "빠른 효과",
+        "note": "el efecto"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "temer",
+        "meaning": "두려워하다",
+        "tense": "직설법 현재",
+        "usedForm": "Temo",
+        "conjugation": {
+          "yo": "temo",
+          "tu": "temes",
+          "el": "teme",
+          "nosotros": "tememos",
+          "vosotros": "teméis",
+          "ellos": "temen"
+        }
+      },
+      {
+        "infinitive": "tener",
+        "meaning": "가지다",
+        "tense": "접속법 현재",
+        "usedForm": "tenga",
+        "conjugation": {
+          "yo": "tenga",
+          "tu": "tengas",
+          "el": "tenga",
+          "nosotros": "tengamos",
+          "vosotros": "tengáis",
+          "ellos": "tengan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s253",
+    "number": 253,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Te aconsejo que descanses un poco antes de salir.",
+    "ko": "출발하기 전에 좀 쉬는 것을 추천해.",
+    "audioUrl": {
+      "female": "/audio/female/s253.mp3",
+      "male": "/audio/male/s253.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Te aconsejo que",
+        "pos": "동사구",
+        "meaning": "너에게 ~할 것을 조언한다",
+        "note": "권고 동사 + 접속법"
+      },
+      {
+        "word": "descanses",
+        "pos": "동사",
+        "meaning": "쉬다",
+        "note": "descansar의 접속법 현재 2인칭 단수"
+      },
+      {
+        "word": "un poco",
+        "pos": "부사구",
+        "meaning": "조금, 약간",
+        "note": ""
+      },
+      {
+        "word": "antes de salir",
+        "pos": "전치사구",
+        "meaning": "출발하기 전에",
+        "note": "antes de + 동사원형"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "aconsejar",
+        "meaning": "조언하다",
+        "tense": "직설법 현재",
+        "usedForm": "aconsejo",
+        "conjugation": {
+          "yo": "aconsejo",
+          "tu": "aconsejas",
+          "el": "aconseja",
+          "nosotros": "aconsejamos",
+          "vosotros": "aconsejáis",
+          "ellos": "aconsejan"
+        }
+      },
+      {
+        "infinitive": "descansar",
+        "meaning": "쉬다",
+        "tense": "접속법 현재",
+        "usedForm": "descanses",
+        "conjugation": {
+          "yo": "descanse",
+          "tu": "descanses",
+          "el": "descanse",
+          "nosotros": "descansemos",
+          "vosotros": "descanséis",
+          "ellos": "descansen"
+        }
+      },
+      {
+        "infinitive": "salir",
+        "meaning": "출발하다, 나가다",
+        "tense": "동사원형",
+        "usedForm": "salir",
+        "conjugation": {
+          "yo": "salgo",
+          "tu": "sales",
+          "el": "sale",
+          "nosotros": "salimos",
+          "vosotros": "salís",
+          "ellos": "salen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s254",
+    "number": 254,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Es una pena que no hayan venido a la reunión.",
+    "ko": "그들이 회의에 오지 않았다니 아쉽다.",
+    "audioUrl": {
+      "female": "/audio/female/s254.mp3",
+      "male": "/audio/male/s254.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Es una pena que",
+        "pos": "비인칭구문",
+        "meaning": "~라니 유감이다/아쉽다",
+        "note": "감정 평가 표현 + 접속법"
+      },
+      {
+        "word": "no hayan venido",
+        "pos": "동사구",
+        "meaning": "오지 않았다",
+        "note": "venir의 접속법 과거완료 3인칭 복수"
+      },
+      {
+        "word": "a la reunión",
+        "pos": "전치사구",
+        "meaning": "회의에",
+        "note": "la reunión"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "직설법 현재",
+        "usedForm": "Es",
+        "conjugation": {
+          "yo": "soy",
+          "tu": "eres",
+          "el": "es",
+          "nosotros": "somos",
+          "vosotros": "sois",
+          "ellos": "son"
+        }
+      },
+      {
+        "infinitive": "venir",
+        "meaning": "오다",
+        "tense": "접속법 과거완료",
+        "usedForm": "hayan venido",
+        "conjugation": {
+          "yo": "haya venido",
+          "tu": "hayas venido",
+          "el": "haya venido",
+          "nosotros": "hayamos venido",
+          "vosotros": "hayáis venido",
+          "ellos": "hayan venido"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s255",
+    "number": 255,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "No estoy seguro de que ellos digan toda la verdad.",
+    "ko": "그들이 모든 진실을 말하고 있는지 확실하지 않다.",
+    "audioUrl": {
+      "female": "/audio/female/s255.mp3",
+      "male": "/audio/male/s255.mp3"
+    },
+    "vocab": [
+      {
+        "word": "No estoy seguro de que",
+        "pos": "형용사구",
+        "meaning": "~인지 확실하지 않다",
+        "note": "불확실성 표현 + 접속법"
+      },
+      {
+        "word": "ellos",
+        "pos": "대명사",
+        "meaning": "그들은",
+        "note": ""
+      },
+      {
+        "word": "digan",
+        "pos": "동사",
+        "meaning": "말하다",
+        "note": "decir의 접속법 현재 3인칭 복수"
+      },
+      {
+        "word": "toda la verdad",
+        "pos": "명사구",
+        "meaning": "모든 진실",
+        "note": "la verdad"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "estar",
+        "meaning": "~상태이다",
+        "tense": "직설법 현재",
+        "usedForm": "estoy",
+        "conjugation": {
+          "yo": "estoy",
+          "tu": "estás",
+          "el": "está",
+          "nosotros": "estamos",
+          "vosotros": "estáis",
+          "ellos": "están"
+        }
+      },
+      {
+        "infinitive": "decir",
+        "meaning": "말하다",
+        "tense": "접속법 현재",
+        "usedForm": "digan",
+        "conjugation": {
+          "yo": "diga",
+          "tu": "digas",
+          "el": "diga",
+          "nosotros": "digamos",
+          "vosotros": "digáis",
+          "ellos": "digan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s256",
+    "number": 256,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "El profesor nos pide que prestemos atención en clase.",
+    "ko": "선생님은 우리에게 수업 시간에 집중하라고 요구하신다.",
+    "audioUrl": {
+      "female": "/audio/female/s256.mp3",
+      "male": "/audio/male/s256.mp3"
+    },
+    "vocab": [
+      {
+        "word": "El profesor",
+        "pos": "명사구",
+        "meaning": "선생님, 교수",
+        "note": "el profesor"
+      },
+      {
+        "word": "nos pide que",
+        "pos": "동사구",
+        "meaning": "우리에게 ~하라고 요구하다",
+        "note": "pedir que + 접속법"
+      },
+      {
+        "word": "prestemos atención",
+        "pos": "동사구",
+        "meaning": "주의를 기울이다, 집중하다",
+        "note": "prestar의 접속법 현재 1인칭 복수"
+      },
+      {
+        "word": "en clase",
+        "pos": "전치사구",
+        "meaning": "수업 시간에",
+        "note": "la clase"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "pedir",
+        "meaning": "요구하다",
+        "tense": "직설법 현재",
+        "usedForm": "pide",
+        "conjugation": {
+          "yo": "pido",
+          "tu": "pides",
+          "el": "pide",
+          "nosotros": "pedimos",
+          "vosotros": "pedís",
+          "ellos": "piden"
+        }
+      },
+      {
+        "infinitive": "prestar",
+        "meaning": "기울이다, 빌려주다",
+        "tense": "접속법 현재",
+        "usedForm": "prestemos",
+        "conjugation": {
+          "yo": "preste",
+          "tu": "prestes",
+          "el": "preste",
+          "nosotros": "prestemos",
+          "vosotros": "prestéis",
+          "ellos": "presten"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s257",
+    "number": 257,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Prefiero que nos reunamos mañana por la tarde.",
+    "ko": "나는 우리가 내일 오후에 만나는 것을 선호해.",
+    "audioUrl": {
+      "female": "/audio/female/s257.mp3",
+      "male": "/audio/male/s257.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Prefiero que",
+        "pos": "동사구",
+        "meaning": "~하는 것을 선호하다",
+        "note": "preferir que + 접속법"
+      },
+      {
+        "word": "nos reunamos",
+        "pos": "동사",
+        "meaning": "우리가 모이다",
+        "note": "reunirse의 접속법 현재 1인칭 복수"
+      },
+      {
+        "word": "mañana",
+        "pos": "부사",
+        "meaning": "내일",
+        "note": ""
+      },
+      {
+        "word": "por la tarde",
+        "pos": "전치사구",
+        "meaning": "오후에",
+        "note": "la tarde"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "preferir",
+        "meaning": "선호하다",
+        "tense": "직설법 현재",
+        "usedForm": "Prefiero",
+        "conjugation": {
+          "yo": "prefiero",
+          "tu": "prefieres",
+          "el": "prefiere",
+          "nosotros": "preferimos",
+          "vosotros": "preferís",
+          "ellos": "prefieren"
+        }
+      },
+      {
+        "infinitive": "reunirse",
+        "meaning": "모이다",
+        "tense": "접속법 현재",
+        "usedForm": "nos reunamos",
+        "conjugation": {
+          "yo": "me reúna",
+          "tu": "te reúnas",
+          "el": "se reúna",
+          "nosotros": "nos reunamos",
+          "vosotros": "os reunáis",
+          "ellos": "se reúnan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s258",
+    "number": 258,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "¿Tal vez sea mejor esperar unos días más?",
+    "ko": "어쩌면 며칠 더 기다리는 게 나을까?",
+    "audioUrl": {
+      "female": "/audio/female/s258.mp3",
+      "male": "/audio/male/s258.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Tal vez",
+        "pos": "부사구",
+        "meaning": "어쩌면, 아마도",
+        "note": "추측/불확실성 표현 + 접속법"
+      },
+      {
+        "word": "sea mejor",
+        "pos": "동사구",
+        "meaning": "더 낫다",
+        "note": "ser의 접속법 현재 3인칭 단수"
+      },
+      {
+        "word": "esperar",
+        "pos": "동사원형",
+        "meaning": "기다리다",
+        "note": ""
+      },
+      {
+        "word": "unos días más",
+        "pos": "명사구",
+        "meaning": "며칠 더",
+        "note": "unos = 몇몇의"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "접속법 현재",
+        "usedForm": "sea",
+        "conjugation": {
+          "yo": "sea",
+          "tu": "seas",
+          "el": "sea",
+          "nosotros": "seamos",
+          "vosotros": "seáis",
+          "ellos": "sean"
+        }
+      },
+      {
+        "infinitive": "esperar",
+        "meaning": "기다리다",
+        "tense": "동사원형",
+        "usedForm": "esperar",
+        "conjugation": {
+          "yo": "espero",
+          "tu": "esperas",
+          "el": "espera",
+          "nosotros": "esperamos",
+          "vosotros": "esperáis",
+          "ellos": "esperan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s259",
+    "number": 259,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Es imposible que terminemos todo el trabajo hoy.",
+    "ko": "우리가 오늘 이 모든 일을 끝내는 것은 불가능하다.",
+    "audioUrl": {
+      "female": "/audio/female/s259.mp3",
+      "male": "/audio/male/s259.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Es imposible que",
+        "pos": "비인칭구문",
+        "meaning": "~하는 것은 불가능하다",
+        "note": "가능성 부정 구문 + 접속법"
+      },
+      {
+        "word": "terminemos",
+        "pos": "동사",
+        "meaning": "끝내다",
+        "note": "terminar의 접속법 현재 1인칭 복수"
+      },
+      {
+        "word": "todo el trabajo",
+        "pos": "명사구",
+        "meaning": "모든 일",
+        "note": "el trabajo"
+      },
+      {
+        "word": "hoy",
+        "pos": "부사",
+        "meaning": "오늘",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "직설법 현재",
+        "usedForm": "Es",
+        "conjugation": {
+          "yo": "soy",
+          "tu": "eres",
+          "el": "es",
+          "nosotros": "somos",
+          "vosotros": "sois",
+          "ellos": "son"
+        }
+      },
+      {
+        "infinitive": "terminar",
+        "meaning": "끝내다",
+        "tense": "접속법 현재",
+        "usedForm": "terminemos",
+        "conjugation": {
+          "yo": "termine",
+          "tu": "termines",
+          "el": "termine",
+          "nosotros": "terminemos",
+          "vosotros": "terminéis",
+          "ellos": "terminen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s260",
+    "number": 260,
+    "level": "B1",
+    "category": "소망·감정·의심·부정의 접속법 현재",
+    "es": "Me gusta que aprendas nuevas culturas cuando viajas.",
+    "ko": "네가 여행할 때 새로운 문화를 배우는 것을 나는 좋아해.",
+    "audioUrl": {
+      "female": "/audio/female/s260.mp3",
+      "male": "/audio/male/s260.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Me gusta que",
+        "pos": "동사구",
+        "meaning": "~하는 것이 좋다",
+        "note": "gustar류 동사 + que + 접속법"
+      },
+      {
+        "word": "aprendas",
+        "pos": "동사",
+        "meaning": "배우다",
+        "note": "aprender의 접속법 현재 2인칭 단수"
+      },
+      {
+        "word": "nuevas culturas",
+        "pos": "명사구",
+        "meaning": "새로운 문화들",
+        "note": "la cultura"
+      },
+      {
+        "word": "cuando viajas",
+        "pos": "접속사절",
+        "meaning": "네가 여행할 때",
+        "note": "일반적 습관 묘사이므로 직설법 viajas 사용"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "gustar",
+        "meaning": "기쁨을 주다, 좋아하다",
+        "tense": "직설법 현재",
+        "usedForm": "gusta",
+        "conjugation": {
+          "yo": "gusto",
+          "tu": "gustas",
+          "el": "gusta",
+          "nosotros": "gustamos",
+          "vosotros": "gustáis",
+          "ellos": "gustan"
+        }
+      },
+      {
+        "infinitive": "aprender",
+        "meaning": "배우다",
+        "tense": "접속법 현재",
+        "usedForm": "aprendas",
+        "conjugation": {
+          "yo": "aprenda",
+          "tu": "aprendas",
+          "el": "aprenda",
+          "nosotros": "aprendamos",
+          "vosotros": "aprendáis",
+          "ellos": "aprendan"
+        }
+      },
+      {
+        "infinitive": "viajar",
+        "meaning": "여행하다",
+        "tense": "직설법 현재",
+        "usedForm": "viajas",
+        "conjugation": {
+          "yo": "viajo",
+          "tu": "viajas",
+          "el": "viaja",
+          "nosotros": "viajamos",
+          "vosotros": "viajáis",
+          "ellos": "viajan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s261",
+    "number": 261,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Te llamaré tan pronto como llegue a la oficina.",
+    "ko": "사무실에 도착하자마자 너에게 전화할게.",
+    "audioUrl": {
+      "female": "/audio/female/s261.mp3",
+      "male": "/audio/male/s261.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Te llamaré",
+        "pos": "동사구",
+        "meaning": "너에게 전화할 것이다",
+        "note": "llamar의 직설법 미래 1인칭 단수"
+      },
+      {
+        "word": "tan pronto como",
+        "pos": "접속사구",
+        "meaning": "~하자마자",
+        "note": "미래 사건을 가리킬 때 접속법 동반"
+      },
+      {
+        "word": "llegue",
+        "pos": "동사",
+        "meaning": "도착하다",
+        "note": "llegar의 접속법 현재 1인칭 단수"
+      },
+      {
+        "word": "a la oficina",
+        "pos": "전치사구",
+        "meaning": "사무실에",
+        "note": "la oficina"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "llamar",
+        "meaning": "전화하다",
+        "tense": "직설법 미래",
+        "usedForm": "llamaré",
+        "conjugation": {
+          "yo": "llamaré",
+          "tu": "llamarás",
+          "el": "llamará",
+          "nosotros": "llamaremos",
+          "vosotros": "llamaréis",
+          "ellos": "llamarán"
+        }
+      },
+      {
+        "infinitive": "llegar",
+        "meaning": "도착하다",
+        "tense": "접속법 현재",
+        "usedForm": "llegue",
+        "conjugation": {
+          "yo": "llegue",
+          "tu": "llegues",
+          "el": "llegue",
+          "nosotros": "lleguemos",
+          "vosotros": "lleguéis",
+          "ellos": "lleguen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s262",
+    "number": 262,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Voy a explicarlo detalladamente para que lo entiendas bien.",
+    "ko": "네가 잘 이해할 수 있도록 내가 그것을 상세히 설명할게.",
+    "audioUrl": {
+      "female": "/audio/female/s262.mp3",
+      "male": "/audio/male/s262.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Voy a explicarlo",
+        "pos": "동사구",
+        "meaning": "그것을 설명할 것이다",
+        "note": "ir a + 동사원형 + lo"
+      },
+      {
+        "word": "detalladamente",
+        "pos": "부사",
+        "meaning": "상세하게",
+        "note": ""
+      },
+      {
+        "word": "para que",
+        "pos": "접속사구",
+        "meaning": "~하기 위하여, ~하도록",
+        "note": "항상 접속법 동반"
+      },
+      {
+        "word": "lo entiendas bien",
+        "pos": "동사구",
+        "meaning": "그것을 잘 이해하다",
+        "note": "entender의 접속법 현재 2인칭 단수"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 것이다)",
+        "tense": "직설법 현재",
+        "usedForm": "Voy",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "explicar",
+        "meaning": "설명하다",
+        "tense": "동사원형",
+        "usedForm": "explicarlo",
+        "conjugation": {
+          "yo": "explico",
+          "tu": "explicas",
+          "el": "explica",
+          "nosotros": "explicamos",
+          "vosotros": "explicáis",
+          "ellos": "explican"
+        }
+      },
+      {
+        "infinitive": "entender",
+        "meaning": "이해하다",
+        "tense": "접속법 현재",
+        "usedForm": "entiendas",
+        "conjugation": {
+          "yo": "entienda",
+          "tu": "entiendas",
+          "el": "entienda",
+          "nosotros": "entendamos",
+          "vosotros": "entendáis",
+          "ellos": "entiendan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s263",
+    "number": 263,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Aunque llueva mañana, iremos de excursión a la montaña.",
+    "ko": "내일 비가 오더라도 우리는 산으로 소풍을 갈 것이다.",
+    "audioUrl": {
+      "female": "/audio/female/s263.mp3",
+      "male": "/audio/male/s263.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Aunque",
+        "pos": "접속사",
+        "meaning": "비록 ~일지라도",
+        "note": "미래/불확실 양보일 때 접속법 사용"
+      },
+      {
+        "word": "llueva",
+        "pos": "동사",
+        "meaning": "비가 오다",
+        "note": "llover의 접속법 현재 3인칭 단수 (비인칭)"
+      },
+      {
+        "word": "mañana",
+        "pos": "부사",
+        "meaning": "내일",
+        "note": ""
+      },
+      {
+        "word": "iremos de excursión",
+        "pos": "동사구",
+        "meaning": "소풍을 갈 것이다",
+        "note": "ir의 직설법 미래 1인칭 복수"
+      },
+      {
+        "word": "a la montaña",
+        "pos": "전치사구",
+        "meaning": "산으로",
+        "note": "la montaña"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "llover",
+        "meaning": "비가 오다 (비인칭)",
+        "tense": "접속법 현재 (비인칭)",
+        "usedForm": "llueva",
+        "conjugation": null
+      },
+      {
+        "infinitive": "ir",
+        "meaning": "가다",
+        "tense": "직설법 미래",
+        "usedForm": "iremos",
+        "conjugation": {
+          "yo": "iré",
+          "tu": "irás",
+          "el": "irá",
+          "nosotros": "iremos",
+          "vosotros": "iréis",
+          "ellos": "irán"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s264",
+    "number": 264,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "No salgas a la calle hasta que pare de llover.",
+    "ko": "비가 그칠 때까지 거리에 나가지 마라.",
+    "audioUrl": {
+      "female": "/audio/female/s264.mp3",
+      "male": "/audio/male/s264.mp3"
+    },
+    "vocab": [
+      {
+        "word": "No salgas",
+        "pos": "동사구",
+        "meaning": "나가지 마라",
+        "note": "salir의 부정명령 2인칭 단수"
+      },
+      {
+        "word": "a la calle",
+        "pos": "전치사구",
+        "meaning": "거리로",
+        "note": "la calle"
+      },
+      {
+        "word": "hasta que",
+        "pos": "접속사구",
+        "meaning": "~할 때까지",
+        "note": "미래 시점까지 대기를 뜻할 때 접속법 사용"
+      },
+      {
+        "word": "pare de llover",
+        "pos": "동사구",
+        "meaning": "비가 그치다",
+        "note": "parar de + 동사원형: ~하기를 멈추다"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "salir",
+        "meaning": "나가다",
+        "tense": "접속법 현재 (부정명령)",
+        "usedForm": "salgas",
+        "conjugation": {
+          "yo": "salga",
+          "tu": "salgas",
+          "el": "salga",
+          "nosotros": "salgamos",
+          "vosotros": "salgáis",
+          "ellos": "salgan"
+        }
+      },
+      {
+        "infinitive": "parar",
+        "meaning": "멈추다",
+        "tense": "접속법 현재",
+        "usedForm": "pare",
+        "conjugation": {
+          "yo": "pare",
+          "tu": "pares",
+          "el": "pare",
+          "nosotros": "paremos",
+          "vosotros": "paréis",
+          "ellos": "paren"
+        }
+      },
+      {
+        "infinitive": "llover",
+        "meaning": "비 오다 (비인칭)",
+        "tense": "동사원형",
+        "usedForm": "llover",
+        "conjugation": null
+      }
+    ]
+  },
+  {
+    "id": "s265",
+    "number": 265,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Limpia la habitación antes de que vengan los invitados.",
+    "ko": "손님들이 오시기 전에 방을 청소해라.",
+    "audioUrl": {
+      "female": "/audio/female/s265.mp3",
+      "male": "/audio/male/s265.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Limpia",
+        "pos": "동사",
+        "meaning": "청소해라",
+        "note": "limpiar의 긍정명령 2인칭 단수"
+      },
+      {
+        "word": "la habitación",
+        "pos": "명사구",
+        "meaning": "방",
+        "note": "la habitación"
+      },
+      {
+        "word": "antes de que",
+        "pos": "접속사구",
+        "meaning": "~하기 전에",
+        "note": "항상 접속법을 유도"
+      },
+      {
+        "word": "vengan",
+        "pos": "동사",
+        "meaning": "오다",
+        "note": "venir의 접속법 현재 3인칭 복수"
+      },
+      {
+        "word": "los invitados",
+        "pos": "명사구",
+        "meaning": "손님들, 초대받은 사람들",
+        "note": "el invitado의 복수형"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "limpiar",
+        "meaning": "청소하다",
+        "tense": "직설법 현재 / 긍정명령",
+        "usedForm": "Limpia",
+        "conjugation": {
+          "yo": "limpio",
+          "tu": "limpias",
+          "el": "limpia",
+          "nosotros": "limpiamos",
+          "vosotros": "limpiáis",
+          "ellos": "limpian"
+        }
+      },
+      {
+        "infinitive": "venir",
+        "meaning": "오다",
+        "tense": "접속법 현재",
+        "usedForm": "vengan",
+        "conjugation": {
+          "yo": "venga",
+          "tu": "vengas",
+          "el": "venga",
+          "nosotros": "vengamos",
+          "vosotros": "vengáis",
+          "ellos": "vengan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s266",
+    "number": 266,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Te dejaré las llaves para que puedas entrar sin problema.",
+    "ko": "네가 문제없이 들어올 수 있도록 너에게 열쇠를 남겨둘게.",
+    "audioUrl": {
+      "female": "/audio/female/s266.mp3",
+      "male": "/audio/male/s266.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Te dejaré",
+        "pos": "동사구",
+        "meaning": "너에게 남겨둘 것이다",
+        "note": "dejar의 직설법 미래 1인칭 단수"
+      },
+      {
+        "word": "las llaves",
+        "pos": "명사구",
+        "meaning": "열쇠들",
+        "note": "la llave의 복수형"
+      },
+      {
+        "word": "para que",
+        "pos": "접속사구",
+        "meaning": "~하도록",
+        "note": "목적 접속사 + 접속법"
+      },
+      {
+        "word": "puedas entrar",
+        "pos": "동사구",
+        "meaning": "들어올 수 있다",
+        "note": "poder의 접속법 현재 2인칭 단수"
+      },
+      {
+        "word": "sin problema",
+        "pos": "전치사구",
+        "meaning": "문제없이",
+        "note": "el problema"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "dejar",
+        "meaning": "남기다, 두다",
+        "tense": "직설법 미래",
+        "usedForm": "dejaré",
+        "conjugation": {
+          "yo": "dejaré",
+          "tu": "dejarás",
+          "el": "dejará",
+          "nosotros": "dejaremos",
+          "vosotros": "dejaréis",
+          "ellos": "dejarán"
+        }
+      },
+      {
+        "infinitive": "poder",
+        "meaning": "~할 수 있다",
+        "tense": "접속법 현재",
+        "usedForm": "puedas",
+        "conjugation": {
+          "yo": "pueda",
+          "tu": "puedas",
+          "el": "pueda",
+          "nosotros": "podamos",
+          "vosotros": "podáis",
+          "ellos": "puedan"
+        }
+      },
+      {
+        "infinitive": "entrar",
+        "meaning": "들어오다",
+        "tense": "동사원형",
+        "usedForm": "entrar",
+        "conjugation": {
+          "yo": "entro",
+          "tu": "entras",
+          "el": "entra",
+          "nosotros": "entramos",
+          "vosotros": "entráis",
+          "ellos": "entran"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s267",
+    "number": 267,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Avisa a los clientes en cuanto sepas los resultados.",
+    "ko": "결과를 아는 대로 바로 고객들에게 알려줘.",
+    "audioUrl": {
+      "female": "/audio/female/s267.mp3",
+      "male": "/audio/male/s267.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Avisa",
+        "pos": "동사",
+        "meaning": "알려줘",
+        "note": "avisar의 긍정명령 2인칭 단수"
+      },
+      {
+        "word": "a los clientes",
+        "pos": "전치사구",
+        "meaning": "고객들에게",
+        "note": "el/la cliente"
+      },
+      {
+        "word": "en cuanto",
+        "pos": "접속사구",
+        "meaning": "~하자마자",
+        "note": "미래 시점 표현 시 접속법 사용"
+      },
+      {
+        "word": "sepas",
+        "pos": "동사",
+        "meaning": "알다",
+        "note": "saber의 접속법 현재 2인칭 단수"
+      },
+      {
+        "word": "los resultados",
+        "pos": "명사구",
+        "meaning": "결과들",
+        "note": "el resultado의 복수형"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "avisar",
+        "meaning": "알리다",
+        "tense": "직설법 현재 / 긍정명령",
+        "usedForm": "Avisa",
+        "conjugation": {
+          "yo": "aviso",
+          "tu": "avisas",
+          "el": "avisa",
+          "nosotros": "avisamos",
+          "vosotros": "avisáis",
+          "ellos": "avisan"
+        }
+      },
+      {
+        "infinitive": "saber",
+        "meaning": "알다",
+        "tense": "접속법 현재",
+        "usedForm": "sepas",
+        "conjugation": {
+          "yo": "sepa",
+          "tu": "sepas",
+          "el": "sepa",
+          "nosotros": "sepamos",
+          "vosotros": "sepáis",
+          "ellos": "sepan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s268",
+    "number": 268,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Le explicaré las reglas para que no haya confusiones.",
+    "ko": "혼란이 없도록 그에게 규칙들을 설명할 것입니다.",
+    "audioUrl": {
+      "female": "/audio/female/s268.mp3",
+      "male": "/audio/male/s268.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Le explicaré",
+        "pos": "동사구",
+        "meaning": "그에게 설명할 것이다",
+        "note": "explicar의 직설법 미래 1인칭 단수"
+      },
+      {
+        "word": "las reglas",
+        "pos": "명사구",
+        "meaning": "규칙들",
+        "note": "la regla의 복수형"
+      },
+      {
+        "word": "para que",
+        "pos": "접속사구",
+        "meaning": "~하도록",
+        "note": ""
+      },
+      {
+        "word": "no haya",
+        "pos": "동사구",
+        "meaning": "없다",
+        "note": "haber 비인칭의 접속법 현재"
+      },
+      {
+        "word": "confusiones",
+        "pos": "명사",
+        "meaning": "혼란들",
+        "note": "la confusión의 복수형"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "explicar",
+        "meaning": "설명하다",
+        "tense": "직설법 미래",
+        "usedForm": "explicaré",
+        "conjugation": {
+          "yo": "explicaré",
+          "tu": "explicarás",
+          "el": "explicará",
+          "nosotros": "explicaremos",
+          "vosotros": "explicaréis",
+          "ellos": "explicarán"
+        }
+      },
+      {
+        "infinitive": "haber",
+        "meaning": "있다 (비인칭)",
+        "tense": "접속법 현재 (비인칭)",
+        "usedForm": "haya",
+        "conjugation": null
+      }
+    ]
+  },
+  {
+    "id": "s269",
+    "number": 269,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Aunque no nos guste la decisión, tenemos que aceptarla.",
+    "ko": "비록 결정이 마음에 들지 않더라도, 우리는 그것을 받아들여야 합니다.",
+    "audioUrl": {
+      "female": "/audio/female/s269.mp3",
+      "male": "/audio/male/s269.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Aunque",
+        "pos": "접속사",
+        "meaning": "비록 ~일지라도",
+        "note": ""
+      },
+      {
+        "word": "no nos guste",
+        "pos": "동사구",
+        "meaning": "우리 마음에 들지 않다",
+        "note": "gustar의 접속법 현재 3인칭 단수"
+      },
+      {
+        "word": "la decisión",
+        "pos": "명사구",
+        "meaning": "결정",
+        "note": "la decisión"
+      },
+      {
+        "word": "tenemos que aceptarla",
+        "pos": "동사구",
+        "meaning": "우리는 그것을 받아들여야 한다",
+        "note": "tener que + 동사원형 + la"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "gustar",
+        "meaning": "마음에 들다",
+        "tense": "접속법 현재",
+        "usedForm": "guste",
+        "conjugation": {
+          "yo": "guste",
+          "tu": "gustes",
+          "el": "guste",
+          "nosotros": "gustemos",
+          "vosotros": "gustéis",
+          "ellos": "gusten"
+        }
+      },
+      {
+        "infinitive": "tener",
+        "meaning": "가지다 (tener que = ~해야 한다)",
+        "tense": "직설법 현재",
+        "usedForm": "tenemos",
+        "conjugation": {
+          "yo": "tengo",
+          "tu": "tienes",
+          "el": "tiene",
+          "nosotros": "tenemos",
+          "vosotros": "tenéis",
+          "ellos": "tienen"
+        }
+      },
+      {
+        "infinitive": "aceptar",
+        "meaning": "받아들이다",
+        "tense": "동사원형",
+        "usedForm": "aceptarla",
+        "conjugation": {
+          "yo": "acepto",
+          "tu": "aceptas",
+          "el": "acepta",
+          "nosotros": "aceptamos",
+          "vosotros": "aceptáis",
+          "ellos": "aceptan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s270",
+    "number": 270,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Cada vez que tomo una decisión importante, siento la necesidad de verificar todo.",
+    "ko": "중요한 결정을 내릴 때마다 나는 모든 것을 확인할 필요성을 느낀다.",
+    "audioUrl": {
+      "female": "/audio/female/s270.mp3",
+      "male": "/audio/male/s270.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Cada vez que",
+        "pos": "접속사구",
+        "meaning": "~할 때마다",
+        "note": "반복되는 현재 습관에는 직설법 사용"
+      },
+      {
+        "word": "tomo una decisión",
+        "pos": "동사구",
+        "meaning": "결정을 내리다",
+        "note": "tomar의 직설법 현재 1인칭 단수"
+      },
+      {
+        "word": "importante",
+        "pos": "형용사",
+        "meaning": "중요한",
+        "note": ""
+      },
+      {
+        "word": "siento la necesidad",
+        "pos": "동사구",
+        "meaning": "필요성을 느끼다",
+        "note": "sentir의 직설법 현재 1인칭 단수"
+      },
+      {
+        "word": "de verificar todo",
+        "pos": "전치사구",
+        "meaning": "모든 것을 확인할",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "tomar",
+        "meaning": "취하다, 내리다",
+        "tense": "직설법 현재",
+        "usedForm": "tomo",
+        "conjugation": {
+          "yo": "tomo",
+          "tu": "tomas",
+          "el": "toma",
+          "nosotros": "tomamos",
+          "vosotros": "tomáis",
+          "ellos": "toman"
+        }
+      },
+      {
+        "infinitive": "sentir",
+        "meaning": "느끼다",
+        "tense": "직설법 현재",
+        "usedForm": "siento",
+        "conjugation": {
+          "yo": "siento",
+          "tu": "sientes",
+          "el": "siente",
+          "nosotros": "sentimos",
+          "vosotros": "sentís",
+          "ellos": "sienten"
+        }
+      },
+      {
+        "infinitive": "verificar",
+        "meaning": "확인하다, 검증하다",
+        "tense": "동사원형",
+        "usedForm": "verificar",
+        "conjugation": {
+          "yo": "verifico",
+          "tu": "verificas",
+          "el": "verifica",
+          "nosotros": "verificamos",
+          "vosotros": "verificáis",
+          "ellos": "verifican"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s271",
+    "number": 271,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "No firmes el contrato sin que lo revise un abogado.",
+    "ko": "변호사가 검토하지 않은 채로 계약서에 서명하지 마라.",
+    "audioUrl": {
+      "female": "/audio/female/s271.mp3",
+      "male": "/audio/male/s271.mp3"
+    },
+    "vocab": [
+      {
+        "word": "No firmes",
+        "pos": "동사구",
+        "meaning": "서명하지 마라",
+        "note": "firmar의 부정명령 2인칭 단수"
+      },
+      {
+        "word": "el contrato",
+        "pos": "명사구",
+        "meaning": "계약서",
+        "note": "el contrato"
+      },
+      {
+        "word": "sin que",
+        "pos": "접속사구",
+        "meaning": "~하지 않은 채로",
+        "note": "항상 접속법 유도"
+      },
+      {
+        "word": "lo revise",
+        "pos": "동사구",
+        "meaning": "그것을 검토하다",
+        "note": "revisar의 접속법 현재 3인칭 단수"
+      },
+      {
+        "word": "un abogado",
+        "pos": "명사구",
+        "meaning": "변호사",
+        "note": "el/la abogado/a"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "firmar",
+        "meaning": "서명하다",
+        "tense": "접속법 현재 (부정명령)",
+        "usedForm": "firmes",
+        "conjugation": {
+          "yo": "firme",
+          "tu": "firmes",
+          "el": "firme",
+          "nosotros": "firmemos",
+          "vosotros": "firméis",
+          "ellos": "firmen"
+        }
+      },
+      {
+        "infinitive": "revisar",
+        "meaning": "검토하다",
+        "tense": "접속법 현재",
+        "usedForm": "revise",
+        "conjugation": {
+          "yo": "revise",
+          "tu": "revises",
+          "el": "revise",
+          "nosotros": "revisemos",
+          "vosotros": "reviséis",
+          "ellos": "revisen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s272",
+    "number": 272,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Cuando tengas tiempo libre, pásate por mi casa.",
+    "ko": "네가 자유 시간이 있을 때 우리 집에 잠깐 들러.",
+    "audioUrl": {
+      "female": "/audio/female/s272.mp3",
+      "male": "/audio/male/s272.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Cuando tengas",
+        "pos": "접속사절",
+        "meaning": "네가 ~를 가질 때",
+        "note": "미래 시점 조건이므로 접속법 tengas 사용"
+      },
+      {
+        "word": "tiempo libre",
+        "pos": "명사구",
+        "meaning": "자유 시간, 여가",
+        "note": "el tiempo"
+      },
+      {
+        "word": "pásate por",
+        "pos": "동사구",
+        "meaning": "~에 잠깐 들르다",
+        "note": "pasarse의 긍정명령 2인칭 단수"
+      },
+      {
+        "word": "mi casa",
+        "pos": "명사구",
+        "meaning": "내 집",
+        "note": "la casa"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "tener",
+        "meaning": "가지다",
+        "tense": "접속법 현재",
+        "usedForm": "tengas",
+        "conjugation": {
+          "yo": "tenga",
+          "tu": "tengas",
+          "el": "tenga",
+          "nosotros": "tengamos",
+          "vosotros": "tengáis",
+          "ellos": "tengan"
+        }
+      },
+      {
+        "infinitive": "pasarse",
+        "meaning": "들르다, 지나가다",
+        "tense": "직설법 현재 / 명령",
+        "usedForm": "pásate",
+        "conjugation": {
+          "yo": "me paso",
+          "tu": "te pasas",
+          "el": "se pasa",
+          "nosotros": "nos pasamos",
+          "vosotros": "os pasáis",
+          "ellos": "se pasan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s273",
+    "number": 273,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Te presto mi coche con tal de que conduzcas con cuidado.",
+    "ko": "조심해서 운전하기만 한다면 내 차를 빌려줄게.",
+    "audioUrl": {
+      "female": "/audio/female/s273.mp3",
+      "male": "/audio/male/s273.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Te presto",
+        "pos": "동사구",
+        "meaning": "너에게 빌려준다",
+        "note": "prestar의 직설법 현재 1인칭 단수"
+      },
+      {
+        "word": "mi coche",
+        "pos": "명사구",
+        "meaning": "내 차",
+        "note": "el coche"
+      },
+      {
+        "word": "con tal de que",
+        "pos": "접속사구",
+        "meaning": "~하기만 한다면",
+        "note": "조건 접속사 + 접속법"
+      },
+      {
+        "word": "conduzcas",
+        "pos": "동사",
+        "meaning": "운전하다",
+        "note": "conducir의 접속법 현재 2인칭 단수"
+      },
+      {
+        "word": "con cuidado",
+        "pos": "전치사구",
+        "meaning": "조심해서, 주의 깊게",
+        "note": "el cuidado"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "prestar",
+        "meaning": "빌려주다",
+        "tense": "직설법 현재",
+        "usedForm": "presto",
+        "conjugation": {
+          "yo": "presto",
+          "tu": "prestas",
+          "el": "presta",
+          "nosotros": "prestamos",
+          "vosotros": "prestáis",
+          "ellos": "prestan"
+        }
+      },
+      {
+        "infinitive": "conducir",
+        "meaning": "운전하다",
+        "tense": "접속법 현재",
+        "usedForm": "conduzcas",
+        "conjugation": {
+          "yo": "conduzca",
+          "tu": "conduzcas",
+          "el": "conduzca",
+          "nosotros": "conduzcamos",
+          "vosotros": "conduzcáis",
+          "ellos": "conduzcan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s274",
+    "number": 274,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "A medida que practiques más, hablarás con mayor fluidez.",
+    "ko": "더 많이 연습할수록 너는 더 유창하게 말하게 될 것이다.",
+    "audioUrl": {
+      "female": "/audio/female/s274.mp3",
+      "male": "/audio/male/s274.mp3"
+    },
+    "vocab": [
+      {
+        "word": "A medida que",
+        "pos": "접속사구",
+        "meaning": "~함에 따라, ~할수록",
+        "note": "미래 점진적 변화 시 접속법 사용"
+      },
+      {
+        "word": "practiques",
+        "pos": "동사",
+        "meaning": "연습하다",
+        "note": "practicar의 접속법 현재 2인칭 단수 (c->qu)"
+      },
+      {
+        "word": "hablarás",
+        "pos": "동사",
+        "meaning": "말하게 될 것이다",
+        "note": "hablar의 직설법 미래 2인칭 단수"
+      },
+      {
+        "word": "con mayor fluidez",
+        "pos": "전치사구",
+        "meaning": "더 큰 유창함으로",
+        "note": "la fluidez"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "practicar",
+        "meaning": "연습하다",
+        "tense": "접속법 현재",
+        "usedForm": "practiques",
+        "conjugation": {
+          "yo": "practique",
+          "tu": "practiques",
+          "el": "practique",
+          "nosotros": "practiquemos",
+          "vosotros": "practiquéis",
+          "ellos": "practiquen"
+        }
+      },
+      {
+        "infinitive": "hablar",
+        "meaning": "말하다",
+        "tense": "직설법 미래",
+        "usedForm": "hablarás",
+        "conjugation": {
+          "yo": "hablaré",
+          "tu": "hablarás",
+          "el": "hablará",
+          "nosotros": "hablaremos",
+          "vosotros": "hablaréis",
+          "ellos": "hablarán"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s275",
+    "number": 275,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Guarda este recibo por si necesitas cambiar el producto.",
+    "ko": "제품을 교환해야 할 경우를 대비해 이 영수증을 보관해 둬.",
+    "audioUrl": {
+      "female": "/audio/female/s275.mp3",
+      "male": "/audio/male/s275.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Guarda",
+        "pos": "동사",
+        "meaning": "보관해라",
+        "note": "guardar의 긍정명령 2인칭 단수"
+      },
+      {
+        "word": "este recibo",
+        "pos": "명사구",
+        "meaning": "이 영수증",
+        "note": "el recibo"
+      },
+      {
+        "word": "por si",
+        "pos": "접속사구",
+        "meaning": "~할 경우를 대비해",
+        "note": "por si 뒤에는 직설법 현재를 주로 사용"
+      },
+      {
+        "word": "necesitas cambiar",
+        "pos": "동사구",
+        "meaning": "교환할 필요가 있다",
+        "note": "necesitar의 직설법 현재 2인칭 단수"
+      },
+      {
+        "word": "el producto",
+        "pos": "명사구",
+        "meaning": "제품",
+        "note": "el producto"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "guardar",
+        "meaning": "보관하다",
+        "tense": "직설법 현재 / 명령",
+        "usedForm": "Guarda",
+        "conjugation": {
+          "yo": "guardo",
+          "tu": "guardas",
+          "el": "guarda",
+          "nosotros": "guardamos",
+          "vosotros": "guardáis",
+          "ellos": "guardan"
+        }
+      },
+      {
+        "infinitive": "necesitar",
+        "meaning": "필요로 하다",
+        "tense": "직설법 현재",
+        "usedForm": "necesitas",
+        "conjugation": {
+          "yo": "necesito",
+          "tu": "necesitas",
+          "el": "necesita",
+          "nosotros": "necesitamos",
+          "vosotros": "necesitáis",
+          "ellos": "necesitan"
+        }
+      },
+      {
+        "infinitive": "cambiar",
+        "meaning": "바꾸다, 교환하다",
+        "tense": "동사원형",
+        "usedForm": "cambiar",
+        "conjugation": {
+          "yo": "cambio",
+          "tu": "cambias",
+          "el": "cambia",
+          "nosotros": "cambiamos",
+          "vosotros": "cambiáis",
+          "ellos": "cambian"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s276",
+    "number": 276,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "En caso de que haya algún retraso, te avisaremos por mensaje.",
+    "ko": "지연이 발생할 경우를 대비해 메시지로 알려드리겠습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s276.mp3",
+      "male": "/audio/male/s276.mp3"
+    },
+    "vocab": [
+      {
+        "word": "En caso de que",
+        "pos": "접속사구",
+        "meaning": "~할 경우에는",
+        "note": "항상 접속법 유도"
+      },
+      {
+        "word": "haya",
+        "pos": "동사",
+        "meaning": "있다",
+        "note": "haber 비인칭 접속법 현재"
+      },
+      {
+        "word": "algún retraso",
+        "pos": "명사구",
+        "meaning": "어떤 지연",
+        "note": "el retraso"
+      },
+      {
+        "word": "te avisaremos",
+        "pos": "동사구",
+        "meaning": "너에게 알릴 것이다",
+        "note": "avisar의 직설법 미래 1인칭 복수"
+      },
+      {
+        "word": "por mensaje",
+        "pos": "전치사구",
+        "meaning": "메시지로",
+        "note": "el mensaje"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "haber",
+        "meaning": "있다 (비인칭)",
+        "tense": "접속법 현재 (비인칭)",
+        "usedForm": "haya",
+        "conjugation": null
+      },
+      {
+        "infinitive": "avisar",
+        "meaning": "알리다",
+        "tense": "직설법 미래",
+        "usedForm": "avisaremos",
+        "conjugation": {
+          "yo": "avisaré",
+          "tu": "avisarás",
+          "el": "avisará",
+          "nosotros": "avisaremos",
+          "vosotros": "avisaréis",
+          "ellos": "avisarán"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s277",
+    "number": 277,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Aunque sea tarde, quiero terminar este capítulo hoy.",
+    "ko": "비록 늦었더라도 오늘 이 챕터를 끝내고 싶어.",
+    "audioUrl": {
+      "female": "/audio/female/s277.mp3",
+      "male": "/audio/male/s277.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Aunque",
+        "pos": "접속사",
+        "meaning": "비록 ~일지라도",
+        "note": "화자가 중요치 않게 여기는 양보 시 접속법"
+      },
+      {
+        "word": "sea tarde",
+        "pos": "동사구",
+        "meaning": "늦다",
+        "note": "ser의 접속법 현재 3인칭 단수"
+      },
+      {
+        "word": "quiero terminar",
+        "pos": "동사구",
+        "meaning": "끝내고 싶다",
+        "note": "querer + 동사원형"
+      },
+      {
+        "word": "este capítulo",
+        "pos": "명사구",
+        "meaning": "이 챕터/장",
+        "note": "el capítulo"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "접속법 현재",
+        "usedForm": "sea",
+        "conjugation": {
+          "yo": "sea",
+          "tu": "seas",
+          "el": "sea",
+          "nosotros": "seamos",
+          "vosotros": "seáis",
+          "ellos": "sean"
+        }
+      },
+      {
+        "infinitive": "querer",
+        "meaning": "원하다",
+        "tense": "직설법 현재",
+        "usedForm": "quiero",
+        "conjugation": {
+          "yo": "quiero",
+          "tu": "quieres",
+          "el": "quiere",
+          "nosotros": "queremos",
+          "vosotros": "queréis",
+          "ellos": "quieren"
+        }
+      },
+      {
+        "infinitive": "terminar",
+        "meaning": "끝내다",
+        "tense": "동사원형",
+        "usedForm": "terminar",
+        "conjugation": {
+          "yo": "termine",
+          "tu": "termines",
+          "el": "termine",
+          "nosotros": "terminemos",
+          "vosotros": "terminéis",
+          "ellos": "terminen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s278",
+    "number": 278,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Habla más alto para que todos puedan oírte desde atrás.",
+    "ko": "뒤에서도 모두가 들을 수 있도록 더 크게 말해 줘.",
+    "audioUrl": {
+      "female": "/audio/female/s278.mp3",
+      "male": "/audio/male/s278.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Habla más alto",
+        "pos": "동사구",
+        "meaning": "더 크게 말해라",
+        "note": "hablar의 긍정명령 2인칭 단수"
+      },
+      {
+        "word": "para que",
+        "pos": "접속사구",
+        "meaning": "~하도록",
+        "note": "목적 접속사 + 접속법"
+      },
+      {
+        "word": "todos",
+        "pos": "대명사",
+        "meaning": "모두",
+        "note": ""
+      },
+      {
+        "word": "puedan oírte",
+        "pos": "동사구",
+        "meaning": "너를 들을 수 있다",
+        "note": "poder의 접속법 현재 3인칭 복수 + oír + te"
+      },
+      {
+        "word": "desde atrás",
+        "pos": "전치사구",
+        "meaning": "뒤에서부터",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "hablar",
+        "meaning": "말하다",
+        "tense": "직설법 현재 / 명령",
+        "usedForm": "Habla",
+        "conjugation": {
+          "yo": "hablo",
+          "tu": "hablas",
+          "el": "habla",
+          "nosotros": "hablamos",
+          "vosotros": "habláis",
+          "ellos": "hablan"
+        }
+      },
+      {
+        "infinitive": "poder",
+        "meaning": "~할 수 있다",
+        "tense": "접속법 현재",
+        "usedForm": "puedan",
+        "conjugation": {
+          "yo": "pueda",
+          "tu": "puedas",
+          "el": "pueda",
+          "nosotros": "podamos",
+          "vosotros": "podáis",
+          "ellos": "puedan"
+        }
+      },
+      {
+        "infinitive": "oír",
+        "meaning": "듣다",
+        "tense": "동사원형",
+        "usedForm": "oírte",
+        "conjugation": {
+          "yo": "oigo",
+          "tu": "oyes",
+          "el": "oye",
+          "nosotros": "oímos",
+          "vosotros": "oís",
+          "ellos": "oyen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s279",
+    "number": 279,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "No empezaremos la reunión hasta que llegue el director.",
+    "ko": "이사님이 도착하실 때까지 회의를 시작하지 않을 것입니다.",
+    "audioUrl": {
+      "female": "/audio/female/s279.mp3",
+      "male": "/audio/male/s279.mp3"
+    },
+    "vocab": [
+      {
+        "word": "No empezaremos",
+        "pos": "동사구",
+        "meaning": "시작하지 않을 것이다",
+        "note": "empezar의 직설법 미래 1인칭 복수"
+      },
+      {
+        "word": "la reunión",
+        "pos": "명사구",
+        "meaning": "회의",
+        "note": "la reunión"
+      },
+      {
+        "word": "hasta que",
+        "pos": "접속사구",
+        "meaning": "~할 때까지",
+        "note": "미래 시점이므로 접속법 llegue 사용"
+      },
+      {
+        "word": "llegue",
+        "pos": "동사",
+        "meaning": "도착하다",
+        "note": "llegar의 접속법 현재 3인칭 단수"
+      },
+      {
+        "word": "el director",
+        "pos": "명사구",
+        "meaning": "이사님, 책임자",
+        "note": "el director"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "empezar",
+        "meaning": "시작하다",
+        "tense": "직설법 미래",
+        "usedForm": "empezaremos",
+        "conjugation": {
+          "yo": "empezaré",
+          "tu": "empezarás",
+          "el": "empezará",
+          "nosotros": "empezaremos",
+          "vosotros": "empezaréis",
+          "ellos": "empezarán"
+        }
+      },
+      {
+        "infinitive": "llegar",
+        "meaning": "도착하다",
+        "tense": "접속법 현재",
+        "usedForm": "llegue",
+        "conjugation": {
+          "yo": "llegue",
+          "tu": "llegues",
+          "el": "llegue",
+          "nosotros": "lleguemos",
+          "vosotros": "lleguéis",
+          "ellos": "lleguen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s280",
+    "number": 280,
+    "level": "B1",
+    "category": "시간·목적·양보 접속사와 접속법 활용",
+    "es": "Cuando era joven, siempre viajaba en tren por toda Europa.",
+    "ko": "내가 젊었을 때는 항상 기차를 타고 유럽 전역을 여행하곤 했다.",
+    "audioUrl": {
+      "female": "/audio/female/s280.mp3",
+      "male": "/audio/male/s280.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Cuando era joven",
+        "pos": "접속사절",
+        "meaning": "젊었을 때",
+        "note": "과거 습관이므로 직설법 선과거 era 사용"
+      },
+      {
+        "word": "siempre viajaba",
+        "pos": "동사구",
+        "meaning": "항상 여행하곤 했다",
+        "note": "viajar의 직설법 선과거 1인칭 단수"
+      },
+      {
+        "word": "en tren",
+        "pos": "전치사구",
+        "meaning": "기차로",
+        "note": "el tren"
+      },
+      {
+        "word": "por toda Europa",
+        "pos": "전치사구",
+        "meaning": "유럽 전역을",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "직설법 선과거",
+        "usedForm": "era",
+        "conjugation": {
+          "yo": "era",
+          "tu": "eras",
+          "el": "era",
+          "nosotros": "éramos",
+          "vosotros": "erais",
+          "ellos": "eran"
+        }
+      },
+      {
+        "infinitive": "viajar",
+        "meaning": "여행하다",
+        "tense": "직설법 선과거",
+        "usedForm": "viajaba",
+        "conjugation": {
+          "yo": "viajaba",
+          "tu": "viajabas",
+          "el": "viajaba",
+          "nosotros": "viajábamos",
+          "vosotros": "viajabais",
+          "ellos": "viajaban"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s281",
+    "number": 281,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "Sería bueno que fuéramos amables y pacientes con los visitantes.",
+    "ko": "우리는 방문객들에게 친절하고 참을성 있게 구는 것이 좋을 것이다.",
+    "audioUrl": {
+      "female": "/audio/female/s281.mp3",
+      "male": "/audio/male/s281.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Sería bueno que",
+        "pos": "동사구",
+        "meaning": "~하는 것이 좋을 것이다",
+        "note": "ser의 조건법 + 접속법 과거 평가 구문"
+      },
+      {
+        "word": "fuéramos",
+        "pos": "동사",
+        "meaning": "~이다",
+        "note": "ser의 접속법 과거 1인칭 복수"
+      },
+      {
+        "word": "amables y pacientes",
+        "pos": "형용사구",
+        "meaning": "친절하고 인내심 있는",
+        "note": "복수형"
+      },
+      {
+        "word": "con los visitantes",
+        "pos": "전치사구",
+        "meaning": "방문객들에게",
+        "note": "el/la visitante의 복수형"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "조건법 / 접속법 과거",
+        "usedForm": "Sería / fuéramos",
+        "conjugation": {
+          "yo": "sería",
+          "tu": "serías",
+          "el": "sería",
+          "nosotros": "seríamos",
+          "vosotros": "seríais",
+          "ellos": "serían"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s282",
+    "number": 282,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "¿Podrías ayudarme a subir estas maletas, por favor?",
+    "ko": "이 여행 가방들 올리는 것 좀 도와줄 수 있겠니?",
+    "audioUrl": {
+      "female": "/audio/female/s282.mp3",
+      "male": "/audio/male/s282.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Podrías...?",
+        "pos": "동사",
+        "meaning": "~해 줄 수 있겠니?",
+        "note": "poder의 조건법 2인칭 단수 (정중한 부탁)"
+      },
+      {
+        "word": "ayudarme a",
+        "pos": "동사구",
+        "meaning": "내가 ~하도록 돕다",
+        "note": "ayudar + me + a + 동사원형"
+      },
+      {
+        "word": "subir",
+        "pos": "동사원형",
+        "meaning": "올리다, 올라가다",
+        "note": ""
+      },
+      {
+        "word": "estas maletas",
+        "pos": "명사구",
+        "meaning": "이 여행 가방들",
+        "note": "la maleta의 복수형"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "poder",
+        "meaning": "~할 수 있다",
+        "tense": "조건법",
+        "usedForm": "Podrías",
+        "conjugation": {
+          "yo": "podría",
+          "tu": "podrías",
+          "el": "podría",
+          "nosotros": "podríamos",
+          "vosotros": "podríais",
+          "ellos": "podrían"
+        }
+      },
+      {
+        "infinitive": "ayudar",
+        "meaning": "돕다",
+        "tense": "동사원형",
+        "usedForm": "ayudarme",
+        "conjugation": {
+          "yo": "ayudo",
+          "tu": "ayudas",
+          "el": "ayuda",
+          "nosotros": "ayudamos",
+          "vosotros": "ayudáis",
+          "ellos": "ayudan"
+        }
+      },
+      {
+        "infinitive": "subir",
+        "meaning": "올리다",
+        "tense": "동사원형",
+        "usedForm": "subir",
+        "conjugation": {
+          "yo": "subo",
+          "tu": "subes",
+          "el": "sube",
+          "nosotros": "subimos",
+          "vosotros": "subís",
+          "ellos": "suben"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s283",
+    "number": 283,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "En tu lugar, yo hablaría directamente con el jefe.",
+    "ko": "내가 네 입장이라면, 나는 상사와 직접 이야기할 거야.",
+    "audioUrl": {
+      "female": "/audio/female/s283.mp3",
+      "male": "/audio/male/s283.mp3"
+    },
+    "vocab": [
+      {
+        "word": "En tu lugar",
+        "pos": "전치사구",
+        "meaning": "네 입장이라면",
+        "note": "el lugar"
+      },
+      {
+        "word": "yo hablaría",
+        "pos": "동사구",
+        "meaning": "나는 이야기할 것이다",
+        "note": "hablar의 조건법 1인칭 단수 (조언)"
+      },
+      {
+        "word": "directamente",
+        "pos": "부사",
+        "meaning": "직접적으로",
+        "note": ""
+      },
+      {
+        "word": "con el jefe",
+        "pos": "전치사구",
+        "meaning": "상사와",
+        "note": "el jefe"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "hablar",
+        "meaning": "말하다, 이야기하다",
+        "tense": "조건법",
+        "usedForm": "hablaría",
+        "conjugation": {
+          "yo": "hablaría",
+          "tu": "hablarías",
+          "el": "hablaría",
+          "nosotros": "hablaríamos",
+          "vosotros": "hablaríais",
+          "ellos": "hablarían"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s284",
+    "number": 284,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "Me gustaría reservar una habitación doble para dos noches.",
+    "ko": "2박 동안 더블룸 하나를 예약하고 싶습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s284.mp3",
+      "male": "/audio/male/s284.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Me gustaría",
+        "pos": "동사구",
+        "meaning": "~하고 싶습니다",
+        "note": "gustar의 조건법 (정중한 희망 표현)"
+      },
+      {
+        "word": "reservar",
+        "pos": "동사원형",
+        "meaning": "예약하다",
+        "note": ""
+      },
+      {
+        "word": "una habitación doble",
+        "pos": "명사구",
+        "meaning": "더블룸 하나",
+        "note": "la habitación"
+      },
+      {
+        "word": "para dos noches",
+        "pos": "전치사구",
+        "meaning": "2박 동안",
+        "note": "la noche"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "gustar",
+        "meaning": "~하고 싶다 (조건법)",
+        "tense": "조건법",
+        "usedForm": "gustaría",
+        "conjugation": {
+          "yo": "gustaría",
+          "tu": "gustarías",
+          "el": "gustaría",
+          "nosotros": "gustaríamos",
+          "vosotros": "gustaríais",
+          "ellos": "gustarían"
+        }
+      },
+      {
+        "infinitive": "reservar",
+        "meaning": "예약하다",
+        "tense": "동사원형",
+        "usedForm": "reservar",
+        "conjugation": {
+          "yo": "reservo",
+          "tu": "reservas",
+          "el": "reserva",
+          "nosotros": "reservamos",
+          "vosotros": "reserváis",
+          "ellos": "reservan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s285",
+    "number": 285,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "¿Qué hora será? Ya debe de ser muy tarde.",
+    "ko": "지금 몇 시쯤 되었을까? 벌써 꽤 늦었을 거야.",
+    "audioUrl": {
+      "female": "/audio/female/s285.mp3",
+      "male": "/audio/male/s285.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Qué hora será?",
+        "pos": "의문구",
+        "meaning": "몇 시쯤 되었을까?",
+        "note": "ser의 직설법 미래 (현재에 대한 추측)"
+      },
+      {
+        "word": "Ya",
+        "pos": "부사",
+        "meaning": "이미, 벌써",
+        "note": ""
+      },
+      {
+        "word": "debe de ser",
+        "pos": "동사구",
+        "meaning": "~임에 틀림없다",
+        "note": "deber de + 동사원형: 강한 추측"
+      },
+      {
+        "word": "muy tarde",
+        "pos": "부사구",
+        "meaning": "매우 늦은",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "직설법 미래 (추측)",
+        "usedForm": "será",
+        "conjugation": {
+          "yo": "seré",
+          "tu": "serás",
+          "el": "será",
+          "nosotros": "seremos",
+          "vosotros": "seréis",
+          "ellos": "serán"
+        }
+      },
+      {
+        "infinitive": "deber",
+        "meaning": "~임에 틀림없다 (deber de)",
+        "tense": "직설법 현재",
+        "usedForm": "debe",
+        "conjugation": {
+          "yo": "debo",
+          "tu": "debes",
+          "el": "debe",
+          "nosotros": "debemos",
+          "vosotros": "debéis",
+          "ellos": "deben"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s286",
+    "number": 286,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "Deberías dormir al menos ocho horas cada noche.",
+    "ko": "너는 매일 밤 적어도 8시간은 자야 해.",
+    "audioUrl": {
+      "female": "/audio/female/s286.mp3",
+      "male": "/audio/male/s286.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Deberías",
+        "pos": "동사",
+        "meaning": "너는 ~해야 한다",
+        "note": "deber의 조건법 2인칭 단수 (부드러운 조언)"
+      },
+      {
+        "word": "dormir",
+        "pos": "동사원형",
+        "meaning": "자다",
+        "note": ""
+      },
+      {
+        "word": "al menos",
+        "pos": "부사구",
+        "meaning": "적어도, 최소한",
+        "note": ""
+      },
+      {
+        "word": "ocho horas",
+        "pos": "명사구",
+        "meaning": "8시간",
+        "note": "la hora"
+      },
+      {
+        "word": "cada noche",
+        "pos": "명사구",
+        "meaning": "매일 밤",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "deber",
+        "meaning": "~해야 한다",
+        "tense": "조건법",
+        "usedForm": "Deberías",
+        "conjugation": {
+          "yo": "debería",
+          "tu": "deberías",
+          "el": "debería",
+          "nosotros": "deberíamos",
+          "vosotros": "deberíais",
+          "ellos": "deberían"
+        }
+      },
+      {
+        "infinitive": "dormir",
+        "meaning": "자다",
+        "tense": "동사원형",
+        "usedForm": "dormir",
+        "conjugation": {
+          "yo": "duermo",
+          "tu": "duermes",
+          "el": "duerme",
+          "nosotros": "dormimos",
+          "vosotros": "dormís",
+          "ellos": "duermen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s287",
+    "number": 287,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "Si tuviera más tiempo libre, aprendería a tocar el piano.",
+    "ko": "내가 자유 시간이 더 있다면, 피아노 치는 법을 배울 텐데.",
+    "audioUrl": {
+      "female": "/audio/female/s287.mp3",
+      "male": "/audio/male/s287.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Si tuviera",
+        "pos": "조건절",
+        "meaning": "만약 내가 가진다면",
+        "note": "tener의 접속법 과거 (현재 사실 반대 가정)"
+      },
+      {
+        "word": "más tiempo libre",
+        "pos": "명사구",
+        "meaning": "더 많은 자유 시간",
+        "note": ""
+      },
+      {
+        "word": "aprendería a",
+        "pos": "동사구",
+        "meaning": "~하는 법을 배울 것이다",
+        "note": "aprender의 조건법 1인칭 단수"
+      },
+      {
+        "word": "tocar el piano",
+        "pos": "동사구",
+        "meaning": "피아노를 치다",
+        "note": "el piano"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "tener",
+        "meaning": "가지다",
+        "tense": "접속법 과거",
+        "usedForm": "tuviera",
+        "conjugation": {
+          "yo": "tuviera",
+          "tu": "tuvieras",
+          "el": "tuviera",
+          "nosotros": "tuviéramos",
+          "vosotros": "tuvierais",
+          "ellos": "tuvieran"
+        }
+      },
+      {
+        "infinitive": "aprender",
+        "meaning": "배우다",
+        "tense": "조건법",
+        "usedForm": "aprendería",
+        "conjugation": {
+          "yo": "aprendería",
+          "tu": "aprenderías",
+          "el": "aprendería",
+          "nosotros": "aprenderíamos",
+          "vosotros": "aprenderíais",
+          "ellos": "aprenderían"
+        }
+      },
+      {
+        "infinitive": "tocar",
+        "meaning": "연주하다, 만지다",
+        "tense": "동사원형",
+        "usedForm": "tocar",
+        "conjugation": {
+          "yo": "toco",
+          "tu": "tocas",
+          "el": "toca",
+          "nosotros": "tocamos",
+          "vosotros": "tocáis",
+          "ellos": "tocan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s288",
+    "number": 288,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "El año que viene nos mudaremos a un piso más luminoso.",
+    "ko": "내년에 우리는 더 햇빛이 잘 드는 아파트로 이사할 것입니다.",
+    "audioUrl": {
+      "female": "/audio/female/s288.mp3",
+      "male": "/audio/male/s288.mp3"
+    },
+    "vocab": [
+      {
+        "word": "El año que viene",
+        "pos": "시간구",
+        "meaning": "내년에",
+        "note": ""
+      },
+      {
+        "word": "nos mudaremos",
+        "pos": "동사",
+        "meaning": "우리는 이사할 것이다",
+        "note": "mudarse의 직설법 미래 1인칭 복수"
+      },
+      {
+        "word": "a un piso",
+        "pos": "전치사구",
+        "meaning": "아파트로",
+        "note": "el piso"
+      },
+      {
+        "word": "más luminoso",
+        "pos": "형용사구",
+        "meaning": "더 밝은/채광이 좋은",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "mudarse",
+        "meaning": "이사하다",
+        "tense": "직설법 미래",
+        "usedForm": "nos mudaremos",
+        "conjugation": {
+          "yo": "me mudaré",
+          "tu": "te mudarás",
+          "el": "se mudará",
+          "nosotros": "nos mudaremos",
+          "vosotros": "os mudaréis",
+          "ellos": "se mudarán"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s289",
+    "number": 289,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "¿Le importaría cerrar la puerta al salir, por favor?",
+    "ko": "나가실 때 문 좀 닫아 주시겠습니까?",
+    "audioUrl": {
+      "female": "/audio/female/s289.mp3",
+      "male": "/audio/male/s289.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Le importaría...?",
+        "pos": "동사구",
+        "meaning": "~해 주셔도 괜찮으시겠습니까?",
+        "note": "importar의 조건법 (최고 수준의 공손한 부탁)"
+      },
+      {
+        "word": "cerrar la puerta",
+        "pos": "동사구",
+        "meaning": "문을 닫다",
+        "note": "la puerta"
+      },
+      {
+        "word": "al salir",
+        "pos": "전치사구",
+        "meaning": "나갈 때",
+        "note": "al + 동사원형: ~할 때"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "importar",
+        "meaning": "상관있다, 신경 쓰이다",
+        "tense": "조건법",
+        "usedForm": "importaría",
+        "conjugation": {
+          "yo": "importaría",
+          "tu": "importarías",
+          "el": "importaría",
+          "nosotros": "importaríamos",
+          "vosotros": "importaríais",
+          "ellos": "importarían"
+        }
+      },
+      {
+        "infinitive": "cerrar",
+        "meaning": "닫다",
+        "tense": "동사원형",
+        "usedForm": "cerrar",
+        "conjugation": {
+          "yo": "cierro",
+          "tu": "cierras",
+          "el": "cierra",
+          "nosotros": "cerramos",
+          "vosotros": "cerráis",
+          "ellos": "cierran"
+        }
+      },
+      {
+        "infinitive": "salir",
+        "meaning": "나가다",
+        "tense": "동사원형",
+        "usedForm": "salir",
+        "conjugation": {
+          "yo": "salgo",
+          "tu": "sales",
+          "el": "sale",
+          "nosotros": "salimos",
+          "vosotros": "salís",
+          "ellos": "salen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s290",
+    "number": 290,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "No ha venido hoy; estará enfermo o tendrá mucho trabajo.",
+    "ko": "그는 오늘 오지 않았어; 아프거나 일이 많을 거야.",
+    "audioUrl": {
+      "female": "/audio/female/s290.mp3",
+      "male": "/audio/male/s290.mp3"
+    },
+    "vocab": [
+      {
+        "word": "No ha venido hoy",
+        "pos": "동사구",
+        "meaning": "오늘 오지 않았다",
+        "note": "venir의 현재완료 3인칭 단수"
+      },
+      {
+        "word": "estará enfermo",
+        "pos": "동사구",
+        "meaning": "아플 것이다 (추측)",
+        "note": "estar의 직설법 미래 (현재 상태 추측)"
+      },
+      {
+        "word": "o tendrá",
+        "pos": "동사구",
+        "meaning": "또는 가질 것이다 (추측)",
+        "note": "tener의 직설법 미래 3인칭 단수"
+      },
+      {
+        "word": "mucho trabajo",
+        "pos": "명사구",
+        "meaning": "많은 일",
+        "note": "el trabajo"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "venir",
+        "meaning": "오다",
+        "tense": "직설법 현재완료",
+        "usedForm": "ha venido",
+        "conjugation": {
+          "yo": "he venido",
+          "tu": "has venido",
+          "el": "ha venido",
+          "nosotros": "hemos venido",
+          "vosotros": "habéis venido",
+          "ellos": "han venido"
+        }
+      },
+      {
+        "infinitive": "estar",
+        "meaning": "~상태이다",
+        "tense": "직설법 미래 (추측)",
+        "usedForm": "estará",
+        "conjugation": {
+          "yo": "estaré",
+          "tu": "estarás",
+          "el": "estará",
+          "nosotros": "estaremos",
+          "vosotros": "estaréis",
+          "ellos": "estarán"
+        }
+      },
+      {
+        "infinitive": "tener",
+        "meaning": "가지다",
+        "tense": "직설법 미래 (추측)",
+        "usedForm": "tendrá",
+        "conjugation": {
+          "yo": "tendré",
+          "tu": "tendrás",
+          "el": "tendrá",
+          "nosotros": "tendremos",
+          "vosotros": "tendréis",
+          "ellos": "tendrán"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s291",
+    "number": 291,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "Yo que tú, no gastaría tanto dinero en ropa innecesaria.",
+    "ko": "내가 너라면, 불필요한 옷에 그렇게 많은 돈을 쓰지 않을 거야.",
+    "audioUrl": {
+      "female": "/audio/female/s291.mp3",
+      "male": "/audio/male/s291.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Yo que tú",
+        "pos": "관용구",
+        "meaning": "내가 너라면",
+        "note": "조언을 시작할 때 쓰는 구어 표현"
+      },
+      {
+        "word": "no gastaría",
+        "pos": "동사구",
+        "meaning": "쓰지 않을 것이다",
+        "note": "gastar의 조건법 1인칭 단수"
+      },
+      {
+        "word": "tanto dinero",
+        "pos": "명사구",
+        "meaning": "그렇게 많은 돈",
+        "note": "el dinero"
+      },
+      {
+        "word": "en ropa innecesaria",
+        "pos": "전치사구",
+        "meaning": "불필요한 옷에",
+        "note": "la ropa"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "gastar",
+        "meaning": "쓰다, 소비하다",
+        "tense": "조건법",
+        "usedForm": "gastaría",
+        "conjugation": {
+          "yo": "gastaría",
+          "tu": "gastarías",
+          "el": "gastaría",
+          "nosotros": "gastaríamos",
+          "vosotros": "gastaríais",
+          "ellos": "gastarían"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s292",
+    "number": 292,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "¿Sabrás llegar solo a la estación sin usar el mapa?",
+    "ko": "지도를 쓰지 않고 혼자 역까지 찾아갈 수 있겠니?",
+    "audioUrl": {
+      "female": "/audio/female/s292.mp3",
+      "male": "/audio/male/s292.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Sabrás llegar...?",
+        "pos": "동사구",
+        "meaning": "찾아갈 줄 알겠니?",
+        "note": "saber의 직설법 미래 2인칭 단수"
+      },
+      {
+        "word": "solo",
+        "pos": "형용사",
+        "meaning": "혼자서",
+        "note": ""
+      },
+      {
+        "word": "a la estación",
+        "pos": "전치사구",
+        "meaning": "역에",
+        "note": "la estación"
+      },
+      {
+        "word": "sin usar el mapa",
+        "pos": "전치사구",
+        "meaning": "지도를 사용하지 않고",
+        "note": "el mapa (남성 명사)"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "saber",
+        "meaning": "알다, 할 줄 알다",
+        "tense": "직설법 미래",
+        "usedForm": "Sabrás",
+        "conjugation": {
+          "yo": "sabré",
+          "tu": "sabrás",
+          "el": "sabrá",
+          "nosotros": "sabremos",
+          "vosotros": "sabréis",
+          "ellos": "sabrán"
+        }
+      },
+      {
+        "infinitive": "llegar",
+        "meaning": "도착하다",
+        "tense": "동사원형",
+        "usedForm": "llegar",
+        "conjugation": {
+          "yo": "llego",
+          "tu": "llegas",
+          "el": "llega",
+          "nosotros": "llegamos",
+          "vosotros": "llegáis",
+          "ellos": "llegan"
+        }
+      },
+      {
+        "infinitive": "usar",
+        "meaning": "사용하다",
+        "tense": "동사원형",
+        "usedForm": "usar",
+        "conjugation": {
+          "yo": "uso",
+          "tu": "usas",
+          "el": "usa",
+          "nosotros": "usamos",
+          "vosotros": "usáis",
+          "ellos": "usan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s293",
+    "number": 293,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "Con un poco más de esfuerzo, lograrás alcanzar todas tus metas.",
+    "ko": "조금만 더 노력하면, 너는 모든 목표를 달성할 수 있을 거야.",
+    "audioUrl": {
+      "female": "/audio/female/s293.mp3",
+      "male": "/audio/male/s293.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Con un poco más de esfuerzo",
+        "pos": "전치사구",
+        "meaning": "조금만 더 노력하면",
+        "note": "el esfuerzo"
+      },
+      {
+        "word": "lograrás alcanzar",
+        "pos": "동사구",
+        "meaning": "달성해 낼 것이다",
+        "note": "lograr의 직설법 미래 2인칭 단수"
+      },
+      {
+        "word": "todas tus metas",
+        "pos": "명사구",
+        "meaning": "너의 모든 목표들",
+        "note": "la meta의 복수형"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "lograr",
+        "meaning": "이루다, 달성하다",
+        "tense": "직설법 미래",
+        "usedForm": "lograrás",
+        "conjugation": {
+          "yo": "lograré",
+          "tu": "lograrás",
+          "el": "logrará",
+          "nosotros": "lograremos",
+          "vosotros": "lograréis",
+          "ellos": "lograrán"
+        }
+      },
+      {
+        "infinitive": "alcanzar",
+        "meaning": "도달하다, 성취하다",
+        "tense": "동사원형",
+        "usedForm": "alcanzar",
+        "conjugation": {
+          "yo": "alcanzo",
+          "tu": "alcanzas",
+          "el": "alcanza",
+          "nosotros": "alcanzamos",
+          "vosotros": "alcanzáis",
+          "ellos": "alcanzan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s294",
+    "number": 294,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "Valdría la pena visitar ese pueblo antiguo durante el otoño.",
+    "ko": "가을에 그 오래된 마을을 방문해 볼 가치가 있을 거야.",
+    "audioUrl": {
+      "female": "/audio/female/s294.mp3",
+      "male": "/audio/male/s294.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Valdría la pena",
+        "pos": "동사구",
+        "meaning": "~할 가치가 있을 것이다",
+        "note": "valer의 조건법 3인칭 단수 (불규칙 어간 valdr-)"
+      },
+      {
+        "word": "visitar",
+        "pos": "동사원형",
+        "meaning": "방문하다",
+        "note": ""
+      },
+      {
+        "word": "ese pueblo antiguo",
+        "pos": "명사구",
+        "meaning": "그 오래된 마을",
+        "note": "el pueblo"
+      },
+      {
+        "word": "durante el otoño",
+        "pos": "전치사구",
+        "meaning": "가을 동안에",
+        "note": "el otoño"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "valer",
+        "meaning": "가치가 있다",
+        "tense": "조건법",
+        "usedForm": "Valdría",
+        "conjugation": {
+          "yo": "valdría",
+          "tu": "valdrías",
+          "el": "valdría",
+          "nosotros": "valdríamos",
+          "vosotros": "valdríais",
+          "ellos": "valdrían"
+        }
+      },
+      {
+        "infinitive": "visitar",
+        "meaning": "방문하다",
+        "tense": "동사원형",
+        "usedForm": "visitar",
+        "conjugation": {
+          "yo": "visito",
+          "tu": "visitas",
+          "el": "visita",
+          "nosotros": "visitamos",
+          "vosotros": "visitáis",
+          "ellos": "visitan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s295",
+    "number": 295,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "Aquel día haría unos treinta grados a la sombra.",
+    "ko": "그날 그늘에서도 기온이 약 30도쯤 되었을 거야.",
+    "audioUrl": {
+      "female": "/audio/female/s295.mp3",
+      "male": "/audio/male/s295.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Aquel día",
+        "pos": "명사구",
+        "meaning": "그날 (과거)",
+        "note": "el día"
+      },
+      {
+        "word": "haría",
+        "pos": "동사",
+        "meaning": "(날씨가) ~였을 것이다",
+        "note": "hacer 조건법 (과거에 대한 추측)"
+      },
+      {
+        "word": "unos treinta grados",
+        "pos": "명사구",
+        "meaning": "약 30도",
+        "note": "el grado"
+      },
+      {
+        "word": "a la sombra",
+        "pos": "전치사구",
+        "meaning": "그늘에서",
+        "note": "la sombra"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "hacer",
+        "meaning": "날씨가 ~하다 (비인칭)",
+        "tense": "조건법 (비인칭 추측)",
+        "usedForm": "haría",
+        "conjugation": null
+      }
+    ]
+  },
+  {
+    "id": "s296",
+    "number": 296,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "¿Te vendría bien quedar el jueves a las seis de la tarde?",
+    "ko": "목요일 오후 6시에 만나는 게 너한테 괜찮겠니?",
+    "audioUrl": {
+      "female": "/audio/female/s296.mp3",
+      "male": "/audio/male/s296.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Te vendría bien...?",
+        "pos": "동사구",
+        "meaning": "너에게 ~가 괜찮겠니?",
+        "note": "venir의 조건법 3인칭 단수 (불규칙 어간 vendr-)"
+      },
+      {
+        "word": "quedar",
+        "pos": "동사원형",
+        "meaning": "만나다, 약속하다",
+        "note": ""
+      },
+      {
+        "word": "el jueves",
+        "pos": "명사구",
+        "meaning": "목요일에",
+        "note": "el jueves"
+      },
+      {
+        "word": "a las seis de la tarde",
+        "pos": "전치사구",
+        "meaning": "오후 6시에",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "venir",
+        "meaning": "오다, 맞다 (venir bien = 괜찮다)",
+        "tense": "조건법",
+        "usedForm": "vendría",
+        "conjugation": {
+          "yo": "vendría",
+          "tu": "vendrías",
+          "el": "vendría",
+          "nosotros": "vendríamos",
+          "vosotros": "vendríais",
+          "ellos": "vendrían"
+        }
+      },
+      {
+        "infinitive": "quedar",
+        "meaning": "만나다, 약속하다",
+        "tense": "동사원형",
+        "usedForm": "quedar",
+        "conjugation": {
+          "yo": "quedo",
+          "tu": "quedas",
+          "el": "queda",
+          "nosotros": "quedamos",
+          "vosotros": "quedáis",
+          "ellos": "quedan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s297",
+    "number": 297,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "Si nos damos prisa, todavía llegaremos a tiempo al vuelo.",
+    "ko": "우리가 서두른다면, 아직 비행기 시간에 맞춰 도착할 수 있을 거야.",
+    "audioUrl": {
+      "female": "/audio/female/s297.mp3",
+      "male": "/audio/male/s297.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Si nos damos prisa",
+        "pos": "조건절",
+        "meaning": "우리가 서두른다면",
+        "note": "darse prisa: 서두르다"
+      },
+      {
+        "word": "todavía",
+        "pos": "부사",
+        "meaning": "아직",
+        "note": ""
+      },
+      {
+        "word": "llegaremos a tiempo",
+        "pos": "동사구",
+        "meaning": "제시간에 도착할 것이다",
+        "note": "llegar의 직설법 미래 1인칭 복수"
+      },
+      {
+        "word": "al vuelo",
+        "pos": "전치사구",
+        "meaning": "항공편에",
+        "note": "al = a + el, el vuelo"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "darse",
+        "meaning": "주다 (darse prisa = 서두르다)",
+        "tense": "직설법 현재",
+        "usedForm": "nos damos",
+        "conjugation": {
+          "yo": "me doy",
+          "tu": "te das",
+          "el": "se da",
+          "nosotros": "nos damos",
+          "vosotros": "os dais",
+          "ellos": "se dan"
+        }
+      },
+      {
+        "infinitive": "llegar",
+        "meaning": "도착하다",
+        "tense": "직설법 미래",
+        "usedForm": "llegaremos",
+        "conjugation": {
+          "yo": "llegaré",
+          "tu": "llegarás",
+          "el": "llegará",
+          "nosotros": "llegaremos",
+          "vosotros": "llegaréis",
+          "ellos": "llegarán"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s298",
+    "number": 298,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "Me encantaría conocer algún día el sur de España.",
+    "ko": "언젠가 스페인 남부를 꼭 가보고 싶어요.",
+    "audioUrl": {
+      "female": "/audio/female/s298.mp3",
+      "male": "/audio/male/s298.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Me encantaría",
+        "pos": "동사구",
+        "meaning": "정말 ~하고 싶다",
+        "note": "encantar의 조건법 (강한 희망)"
+      },
+      {
+        "word": "conocer",
+        "pos": "동사원형",
+        "meaning": "알다, 가보다",
+        "note": ""
+      },
+      {
+        "word": "algún día",
+        "pos": "명사구",
+        "meaning": "언젠가",
+        "note": "el día"
+      },
+      {
+        "word": "el sur de España",
+        "pos": "명사구",
+        "meaning": "스페인 남부",
+        "note": "el sur"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "encantar",
+        "meaning": "매우 좋아하다",
+        "tense": "조건법",
+        "usedForm": "encantaría",
+        "conjugation": {
+          "yo": "encantaría",
+          "tu": "encantarías",
+          "el": "encantaría",
+          "nosotros": "encantaríamos",
+          "vosotros": "encantaríais",
+          "ellos": "encantarían"
+        }
+      },
+      {
+        "infinitive": "conocer",
+        "meaning": "알다, 경험하다",
+        "tense": "동사원형",
+        "usedForm": "conocer",
+        "conjugation": {
+          "yo": "conozco",
+          "tu": "conoces",
+          "el": "conoce",
+          "nosotros": "conocemos",
+          "vosotros": "conocéis",
+          "ellos": "conocen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s299",
+    "number": 299,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "Pondría las plantas cerca de la ventana para que reciban luz.",
+    "ko": "빛을 받을 수 있도록 창가 근처에 식물들을 놓을 텐데.",
+    "audioUrl": {
+      "female": "/audio/female/s299.mp3",
+      "male": "/audio/male/s299.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Pondría",
+        "pos": "동사",
+        "meaning": "놓을 것이다",
+        "note": "poner의 조건법 1인칭 단수 (불규칙 어간 pondr-)"
+      },
+      {
+        "word": "las plantas",
+        "pos": "명사구",
+        "meaning": "식물들",
+        "note": "la planta의 복수형"
+      },
+      {
+        "word": "cerca de la ventana",
+        "pos": "전치사구",
+        "meaning": "창문 근처에",
+        "note": "la ventana"
+      },
+      {
+        "word": "para que reciban luz",
+        "pos": "접속사절",
+        "meaning": "빛을 받도록",
+        "note": "recibir의 접속법 현재 3인칭 복수, la luz"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "poner",
+        "meaning": "놓다, 두다",
+        "tense": "조건법",
+        "usedForm": "Pondría",
+        "conjugation": {
+          "yo": "pondría",
+          "tu": "pondrías",
+          "el": "pondría",
+          "nosotros": "pondríamos",
+          "vosotros": "pondríais",
+          "ellos": "pondrían"
+        }
+      },
+      {
+        "infinitive": "recibir",
+        "meaning": "받다",
+        "tense": "접속법 현재",
+        "usedForm": "reciban",
+        "conjugation": {
+          "yo": "reciba",
+          "tu": "recibas",
+          "el": "reciba",
+          "nosotros": "recibamos",
+          "vosotros": "recibáis",
+          "ellos": "reciban"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s300",
+    "number": 300,
+    "level": "B1",
+    "category": "가정·정중한 요청·조언의 조건법과 직설법 미래",
+    "es": "Con paciencia y constancia, todo saldrá mucho mejor de lo esperado.",
+    "ko": "인내심과 꾸준함이 있다면 모든 것이 기대했던 것보다 훨씬 잘 풀릴 것입니다.",
+    "audioUrl": {
+      "female": "/audio/female/s300.mp3",
+      "male": "/audio/male/s300.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Con paciencia y constancia",
+        "pos": "전치사구",
+        "meaning": "인내심과 꾸준함으로",
+        "note": "la paciencia, la constancia"
+      },
+      {
+        "word": "todo saldrá",
+        "pos": "동사구",
+        "meaning": "모든 것이 (결과가) 나올 것이다",
+        "note": "salir의 직설법 미래 3인칭 단수 (saldr-)"
+      },
+      {
+        "word": "mucho mejor",
+        "pos": "부사구",
+        "meaning": "훨씬 더 좋게",
+        "note": ""
+      },
+      {
+        "word": "de lo esperado",
+        "pos": "비교구문",
+        "meaning": "기대된 것보다",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "salir",
+        "meaning": "나오다, (일이) 풀리다",
+        "tense": "직설법 미래",
+        "usedForm": "saldrá",
+        "conjugation": {
+          "yo": "saldré",
+          "tu": "saldrás",
+          "el": "saldrá",
+          "nosotros": "saldremos",
+          "vosotros": "saldréis",
+          "ellos": "saldrán"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s301",
+    "number": 301,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "Me dijo que llegaría un poco más tarde por el tráfico.",
+    "ko": "그는 교통 체증 때문에 조금 더 늦게 도착할 거라고 나에게 말했다.",
+    "audioUrl": {
+      "female": "/audio/female/s301.mp3",
+      "male": "/audio/male/s301.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Me dijo que",
+        "pos": "동사구",
+        "meaning": "나에게 ~라고 말했다",
+        "note": "decir 점과거 + 간접화법 전환"
+      },
+      {
+        "word": "llegaría",
+        "pos": "동사",
+        "meaning": "도착할 것이다",
+        "note": "직설법 미래(llegará)가 과거 전달 시 조건법(llegaría)으로 시제 일치"
+      },
+      {
+        "word": "un poco más tarde",
+        "pos": "부사구",
+        "meaning": "조금 더 늦게",
+        "note": ""
+      },
+      {
+        "word": "por el tráfico",
+        "pos": "전치사구",
+        "meaning": "교통 체증 때문에",
+        "note": "el tráfico"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "decir",
+        "meaning": "말하다",
+        "tense": "직설법 점과거",
+        "usedForm": "dijo",
+        "conjugation": {
+          "yo": "dije",
+          "tu": "dijiste",
+          "el": "dijo",
+          "nosotros": "dijimos",
+          "vosotros": "dijisteis",
+          "ellos": "dijeron"
+        }
+      },
+      {
+        "infinitive": "llegar",
+        "meaning": "도착하다",
+        "tense": "조건법 (간접화법)",
+        "usedForm": "llegaría",
+        "conjugation": {
+          "yo": "llegaría",
+          "tu": "llegarías",
+          "el": "llegaría",
+          "nosotros": "llegaríamos",
+          "vosotros": "llegaríais",
+          "ellos": "llegarían"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s302",
+    "number": 302,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "La ciudad donde nací ha cambiado muchísimo en los últimos años.",
+    "ko": "내가 태어난 도시는 최근 몇 년 사이에 엄청나게 변했다.",
+    "audioUrl": {
+      "female": "/audio/female/s302.mp3",
+      "male": "/audio/male/s302.mp3"
+    },
+    "vocab": [
+      {
+        "word": "La ciudad",
+        "pos": "명사구",
+        "meaning": "도시",
+        "note": "la ciudad"
+      },
+      {
+        "word": "donde",
+        "pos": "관계부사",
+        "meaning": "~한 곳 (장소 선행사 수식)",
+        "note": ""
+      },
+      {
+        "word": "nací",
+        "pos": "동사",
+        "meaning": "내가 태어났다",
+        "note": "nacer의 직설법 점과거 1인칭 단수"
+      },
+      {
+        "word": "ha cambiado muchísimo",
+        "pos": "동사구",
+        "meaning": "엄청나게 변했다",
+        "note": "cambiar의 현재완료 3인칭 단수"
+      },
+      {
+        "word": "en los últimos años",
+        "pos": "전치사구",
+        "meaning": "최근 몇 년 동안",
+        "note": "el año"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "nacer",
+        "meaning": "태어나다",
+        "tense": "직설법 점과거",
+        "usedForm": "nací",
+        "conjugation": {
+          "yo": "nací",
+          "tu": "naciste",
+          "el": "nació",
+          "nosotros": "nacimos",
+          "vosotros": "nacisteis",
+          "ellos": "nacieron"
+        }
+      },
+      {
+        "infinitive": "cambiar",
+        "meaning": "변하다, 바꾸다",
+        "tense": "직설법 현재완료",
+        "usedForm": "ha cambiado",
+        "conjugation": {
+          "yo": "he cambiado",
+          "tu": "has cambiado",
+          "el": "ha cambiado",
+          "nosotros": "hemos cambiado",
+          "vosotros": "habéis cambiado",
+          "ellos": "han cambiado"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s303",
+    "number": 303,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "Busco un piso que tenga terraza y mucha luz natural.",
+    "ko": "나는 테라스와 자연 채광이 풍부한 아파트를 찾고 있어.",
+    "audioUrl": {
+      "female": "/audio/female/s303.mp3",
+      "male": "/audio/male/s303.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Busco un piso",
+        "pos": "동사구",
+        "meaning": "아파트를 찾고 있다",
+        "note": "buscar의 직설법 현재 1인칭 단수"
+      },
+      {
+        "word": "que tenga",
+        "pos": "관계절",
+        "meaning": "~를 가진 (불특정 선행사)",
+        "note": "원하는 조건의 미확정 선행사 수식 시 접속법 tenga 사용"
+      },
+      {
+        "word": "terraza",
+        "pos": "명사",
+        "meaning": "테라스",
+        "note": "la terraza"
+      },
+      {
+        "word": "y mucha luz natural",
+        "pos": "명사구",
+        "meaning": "그리고 많은 자연광",
+        "note": "la luz"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "buscar",
+        "meaning": "찾다",
+        "tense": "직설법 현재",
+        "usedForm": "Busco",
+        "conjugation": {
+          "yo": "busco",
+          "tu": "buscas",
+          "el": "busca",
+          "nosotros": "buscamos",
+          "vosotros": "buscáis",
+          "ellos": "buscan"
+        }
+      },
+      {
+        "infinitive": "tener",
+        "meaning": "가지다",
+        "tense": "접속법 현재",
+        "usedForm": "tenga",
+        "conjugation": {
+          "yo": "tenga",
+          "tu": "tengas",
+          "el": "tenga",
+          "nosotros": "tengamos",
+          "vosotros": "tengáis",
+          "ellos": "tengan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s304",
+    "number": 304,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "En España se cena mucho más tarde que en Corea del Sur.",
+    "ko": "스페인에서는 한국보다 훨씬 더 늦게 저녁을 먹는다.",
+    "audioUrl": {
+      "female": "/audio/female/s304.mp3",
+      "male": "/audio/male/s304.mp3"
+    },
+    "vocab": [
+      {
+        "word": "En España",
+        "pos": "전치사구",
+        "meaning": "스페인에서는",
+        "note": ""
+      },
+      {
+        "word": "se cena",
+        "pos": "비인칭동사구",
+        "meaning": "(사람들이) 저녁을 먹는다",
+        "note": "일반 주어 비인칭 se + 3인칭 단수 동사"
+      },
+      {
+        "word": "mucho más tarde",
+        "pos": "부사구",
+        "meaning": "훨씬 더 늦게",
+        "note": ""
+      },
+      {
+        "word": "que en Corea del Sur",
+        "pos": "비교구문",
+        "meaning": "한국에서보다",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "cenar",
+        "meaning": "저녁을 먹다",
+        "tense": "직설법 현재 (비인칭 se)",
+        "usedForm": "se cena",
+        "conjugation": {
+          "yo": "ceno",
+          "tu": "cenas",
+          "el": "cena",
+          "nosotros": "cenamos",
+          "vosotros": "cenáis",
+          "ellos": "cenan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s305",
+    "number": 305,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "El libro del que te hablé ayer ya está disponible en la librería.",
+    "ko": "내가 어제 너에게 말했던 그 책이 서점에 벌써 나와 있어.",
+    "audioUrl": {
+      "female": "/audio/female/s305.mp3",
+      "male": "/audio/male/s305.mp3"
+    },
+    "vocab": [
+      {
+        "word": "El libro",
+        "pos": "명사구",
+        "meaning": "그 책",
+        "note": "el libro"
+      },
+      {
+        "word": "del que",
+        "pos": "전치사+관계대명사",
+        "meaning": "~에 관해 (hablar de)",
+        "note": "del = de + el"
+      },
+      {
+        "word": "te hablé ayer",
+        "pos": "동사구",
+        "meaning": "어제 너에게 말했다",
+        "note": "hablar의 직설법 점과거 1인칭 단수"
+      },
+      {
+        "word": "ya está disponible",
+        "pos": "동사구",
+        "meaning": "벌써 구할 수 있다/이용 가능하다",
+        "note": ""
+      },
+      {
+        "word": "en la librería",
+        "pos": "전치사구",
+        "meaning": "서점에",
+        "note": "la librería"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "hablar",
+        "meaning": "말하다",
+        "tense": "직설법 점과거",
+        "usedForm": "hablé",
+        "conjugation": {
+          "yo": "hablé",
+          "tu": "hablaste",
+          "el": "habló",
+          "nosotros": "hablamos",
+          "vosotros": "hablasteis",
+          "ellos": "hablaron"
+        }
+      },
+      {
+        "infinitive": "estar",
+        "meaning": "~상태이다",
+        "tense": "직설법 현재",
+        "usedForm": "está",
+        "conjugation": {
+          "yo": "estoy",
+          "tu": "estás",
+          "el": "está",
+          "nosotros": "estamos",
+          "vosotros": "estáis",
+          "ellos": "están"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s306",
+    "number": 306,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "Me preguntó si había visitado alguna vez el sur de Andalucía.",
+    "ko": "그는 나에게 안달루시아 남부를 방문해 본 적이 있는지 물었다.",
+    "audioUrl": {
+      "female": "/audio/female/s306.mp3",
+      "male": "/audio/male/s306.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Me preguntó si",
+        "pos": "동사구",
+        "meaning": "나에게 ~인지 물었다",
+        "note": "의문사 없는 간접의문문은 si로 연결"
+      },
+      {
+        "word": "había visitado",
+        "pos": "동사구",
+        "meaning": "방문했었는지",
+        "note": "visitar의 직설법 대과거 1인칭 단수"
+      },
+      {
+        "word": "alguna vez",
+        "pos": "부사구",
+        "meaning": "언젠가, 한 번이라도",
+        "note": ""
+      },
+      {
+        "word": "el sur de Andalucía",
+        "pos": "명사구",
+        "meaning": "안달루시아 남부",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "preguntar",
+        "meaning": "묻다",
+        "tense": "직설법 점과거",
+        "usedForm": "preguntó",
+        "conjugation": {
+          "yo": "pregunté",
+          "tu": "preguntaste",
+          "el": "preguntó",
+          "nosotros": "preguntamos",
+          "vosotros": "preguntasteis",
+          "ellos": "preguntaron"
+        }
+      },
+      {
+        "infinitive": "visitar",
+        "meaning": "방문하다",
+        "tense": "직설법 대과거",
+        "usedForm": "había visitado",
+        "conjugation": {
+          "yo": "había visitado",
+          "tu": "habías visitado",
+          "el": "había visitado",
+          "nosotros": "habíamos visitado",
+          "vosotros": "habíais visitado",
+          "ellos": "habían visitado"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s307",
+    "number": 307,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "Aquí se hablan varios idiomas además del español.",
+    "ko": "이곳에서는 스페인어 외에도 여러 언어가 사용됩니다.",
+    "audioUrl": {
+      "female": "/audio/female/s307.mp3",
+      "male": "/audio/male/s307.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Aquí",
+        "pos": "부사",
+        "meaning": "이곳에서",
+        "note": ""
+      },
+      {
+        "word": "se hablan",
+        "pos": "수동구문",
+        "meaning": "말해진다, 사용된다",
+        "note": "수동의 se + 복수 주어(varios idiomas)에 맞춘 복수 동사"
+      },
+      {
+        "word": "varios idiomas",
+        "pos": "명사구",
+        "meaning": "여러 언어들",
+        "note": "el idioma (남성 명사)"
+      },
+      {
+        "word": "además del español",
+        "pos": "전치사구",
+        "meaning": "스페인어 외에도",
+        "note": "además de + el = del"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "hablar",
+        "meaning": "말하다 (수동 se hablan)",
+        "tense": "직설법 현재 (수동의 se)",
+        "usedForm": "se hablan",
+        "conjugation": {
+          "yo": "hablo",
+          "tu": "hablas",
+          "el": "habla",
+          "nosotros": "hablamos",
+          "vosotros": "habláis",
+          "ellos": "hablan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s308",
+    "number": 308,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "La persona con quien trabajo me ayuda mucho todos los días.",
+    "ko": "나와 함께 일하는 그 사람은 매일 나를 많이 도와준다.",
+    "audioUrl": {
+      "female": "/audio/female/s308.mp3",
+      "male": "/audio/male/s308.mp3"
+    },
+    "vocab": [
+      {
+        "word": "La persona",
+        "pos": "명사구",
+        "meaning": "그 사람",
+        "note": "la persona"
+      },
+      {
+        "word": "con quien",
+        "pos": "전치사+관계대명사",
+        "meaning": "~와 함께 (사람 선행사)",
+        "note": ""
+      },
+      {
+        "word": "trabajo",
+        "pos": "동사",
+        "meaning": "내가 일하다",
+        "note": "trabajar의 직설법 현재 1인칭 단수"
+      },
+      {
+        "word": "me ayuda mucho",
+        "pos": "동사구",
+        "meaning": "나를 많이 돕는다",
+        "note": "ayudar의 직설법 현재 3인칭 단수"
+      },
+      {
+        "word": "todos los días",
+        "pos": "명사구",
+        "meaning": "매일",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "trabajar",
+        "meaning": "일하다",
+        "tense": "직설법 현재",
+        "usedForm": "trabajo",
+        "conjugation": {
+          "yo": "trabajo",
+          "tu": "trabajas",
+          "el": "trabaja",
+          "nosotros": "trabajamos",
+          "vosotros": "trabajáis",
+          "ellos": "trabajan"
+        }
+      },
+      {
+        "infinitive": "ayudar",
+        "meaning": "돕다",
+        "tense": "직설법 현재",
+        "usedForm": "ayuda",
+        "conjugation": {
+          "yo": "ayudo",
+          "tu": "ayudas",
+          "el": "ayuda",
+          "nosotros": "ayudamos",
+          "vosotros": "ayudáis",
+          "ellos": "ayudan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s309",
+    "number": 309,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "El médico me recomendó que bebiera más agua y descansara.",
+    "ko": "의사 선생님은 나에게 물을 더 많이 마시고 쉬라고 권하셨다.",
+    "audioUrl": {
+      "female": "/audio/female/s309.mp3",
+      "male": "/audio/male/s309.mp3"
+    },
+    "vocab": [
+      {
+        "word": "El médico",
+        "pos": "명사구",
+        "meaning": "의사 선생님",
+        "note": "el médico"
+      },
+      {
+        "word": "me recomendó que",
+        "pos": "동사구",
+        "meaning": "나에게 ~하라고 권했다",
+        "note": "과거 시제 권고 동사 + 접속법 과거"
+      },
+      {
+        "word": "bebiera más agua",
+        "pos": "동사구",
+        "meaning": "물을 더 많이 마시다",
+        "note": "beber의 접속법 과거 1인칭 단수"
+      },
+      {
+        "word": "y descansara",
+        "pos": "동사구",
+        "meaning": "그리고 쉬다",
+        "note": "descansar의 접속법 과거 1인칭 단수"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "recomendar",
+        "meaning": "추천하다, 권하다",
+        "tense": "직설법 점과거",
+        "usedForm": "recomendó",
+        "conjugation": {
+          "yo": "recomendé",
+          "tu": "recomendaste",
+          "el": "recomendó",
+          "nosotros": "recomendamos",
+          "vosotros": "recomendasteis",
+          "ellos": "recomendaron"
+        }
+      },
+      {
+        "infinitive": "beber",
+        "meaning": "마시다",
+        "tense": "접속법 과거",
+        "usedForm": "bebiera",
+        "conjugation": {
+          "yo": "bebiera",
+          "tu": "bebieras",
+          "el": "bebiera",
+          "nosotros": "bebiéramos",
+          "vosotros": "bebierais",
+          "ellos": "bebieran"
+        }
+      },
+      {
+        "infinitive": "descansar",
+        "meaning": "쉬다",
+        "tense": "접속법 과거",
+        "usedForm": "descansara",
+        "conjugation": {
+          "yo": "descansara",
+          "tu": "descansaras",
+          "el": "descansara",
+          "nosotros": "descansáramos",
+          "vosotros": "descansarais",
+          "ellos": "descansaran"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s310",
+    "number": 310,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "Lo que más me gusta de vivir aquí es la tranquilidad del barrio.",
+    "ko": "여기 사는 것에서 내가 가장 좋아하는 점은 동네의 고요함이다.",
+    "audioUrl": {
+      "female": "/audio/female/s310.mp3",
+      "male": "/audio/male/s310.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Lo que",
+        "pos": "중성관계대명사",
+        "meaning": "~하는 것",
+        "note": "추상적 개념이나 문장 전체를 받는 관계사"
+      },
+      {
+        "word": "más me gusta",
+        "pos": "동사구",
+        "meaning": "내가 가장 좋아하는",
+        "note": ""
+      },
+      {
+        "word": "de vivir aquí",
+        "pos": "전치사구",
+        "meaning": "여기에 사는 것 중",
+        "note": ""
+      },
+      {
+        "word": "es la tranquilidad",
+        "pos": "동사구",
+        "meaning": "고요함/평온함이다",
+        "note": "la tranquilidad"
+      },
+      {
+        "word": "del barrio",
+        "pos": "전치사구",
+        "meaning": "동네의",
+        "note": "el barrio"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "gustar",
+        "meaning": "좋아하다",
+        "tense": "직설법 현재",
+        "usedForm": "gusta",
+        "conjugation": {
+          "yo": "gusto",
+          "tu": "gustas",
+          "el": "gusta",
+          "nosotros": "gustamos",
+          "vosotros": "gustáis",
+          "ellos": "gustan"
+        }
+      },
+      {
+        "infinitive": "vivir",
+        "meaning": "살다",
+        "tense": "동사원형",
+        "usedForm": "vivir",
+        "conjugation": {
+          "yo": "vivo",
+          "tu": "vives",
+          "el": "vive",
+          "nosotros": "vivimos",
+          "vosotros": "vivís",
+          "ellos": "viven"
+        }
+      },
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "직설법 현재",
+        "usedForm": "es",
+        "conjugation": {
+          "yo": "soy",
+          "tu": "eres",
+          "el": "es",
+          "nosotros": "somos",
+          "vosotros": "sois",
+          "ellos": "son"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s311",
+    "number": 311,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "Los pedidos realizados antes de las dos se envían el mismo día.",
+    "ko": "2시 이전에 완료된 주문은 당일에 발송됩니다.",
+    "audioUrl": {
+      "female": "/audio/female/s311.mp3",
+      "male": "/audio/male/s311.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Los pedidos",
+        "pos": "명사구",
+        "meaning": "주문들",
+        "note": "el pedido의 복수형"
+      },
+      {
+        "word": "realizados",
+        "pos": "과거분사",
+        "meaning": "이루어진, 완료된",
+        "note": "realizar의 과거분사 형용사적 용법"
+      },
+      {
+        "word": "antes de las dos",
+        "pos": "전치사구",
+        "meaning": "2시 이전에",
+        "note": ""
+      },
+      {
+        "word": "se envían",
+        "pos": "수동구문",
+        "meaning": "발송된다",
+        "note": "enviar의 수동의 se + 3인칭 복수"
+      },
+      {
+        "word": "el mismo día",
+        "pos": "명사구",
+        "meaning": "같은 날, 당일",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "enviar",
+        "meaning": "보내다, 발송하다",
+        "tense": "직설법 현재 (수동의 se)",
+        "usedForm": "se envían",
+        "conjugation": {
+          "yo": "envío",
+          "tu": "envías",
+          "el": "envía",
+          "nosotros": "enviamos",
+          "vosotros": "enviáis",
+          "ellos": "envían"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s312",
+    "number": 312,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "Nos avisaron de que el vuelo se había retrasado una hora.",
+    "ko": "그들은 우리에게 비행기가 1시간 지연되었다고 알려주었다.",
+    "audioUrl": {
+      "female": "/audio/female/s312.mp3",
+      "male": "/audio/male/s312.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Nos avisaron de que",
+        "pos": "동사구",
+        "meaning": "우리에게 ~라고 알렸다",
+        "note": "avisar de que + 직설법"
+      },
+      {
+        "word": "el vuelo",
+        "pos": "명사구",
+        "meaning": "항공편, 비행기",
+        "note": "el vuelo"
+      },
+      {
+        "word": "se había retrasado",
+        "pos": "동사구",
+        "meaning": "지연되었었다",
+        "note": "retrasarse의 직설법 대과거 3인칭 단수"
+      },
+      {
+        "word": "una hora",
+        "pos": "명사구",
+        "meaning": "1시간",
+        "note": "la hora"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "avisar",
+        "meaning": "알리다",
+        "tense": "직설법 점과거",
+        "usedForm": "avisaron",
+        "conjugation": {
+          "yo": "avisé",
+          "tu": "avisaste",
+          "el": "avisó",
+          "nosotros": "avisamos",
+          "vosotros": "avisasteis",
+          "ellos": "avisaron"
+        }
+      },
+      {
+        "infinitive": "retrasarse",
+        "meaning": "지연되다, 늦어지다",
+        "tense": "직설법 대과거",
+        "usedForm": "se había retrasado",
+        "conjugation": {
+          "yo": "me había retrasado",
+          "tu": "te habías retrasado",
+          "el": "se había retrasado",
+          "nosotros": "nos habíamos retrasado",
+          "vosotros": "os habíais retrasado",
+          "ellos": "se habían retrasado"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s313",
+    "number": 313,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "No hay nadie que sepa resolver este problema tan rápido como tú.",
+    "ko": "너만큼 빠르게 이 문제를 풀 줄 아는 사람은 아무도 없어.",
+    "audioUrl": {
+      "female": "/audio/female/s313.mp3",
+      "male": "/audio/male/s313.mp3"
+    },
+    "vocab": [
+      {
+        "word": "No hay nadie que",
+        "pos": "부정구문",
+        "meaning": "~하는 사람은 아무도 없다",
+        "note": "부정 선행사(nadie)를 수식하는 관계절은 접속법 사용"
+      },
+      {
+        "word": "sepa resolver",
+        "pos": "동사구",
+        "meaning": "해결할 줄 알다",
+        "note": "saber의 접속법 현재 3인칭 단수"
+      },
+      {
+        "word": "este problema",
+        "pos": "명사구",
+        "meaning": "이 문제",
+        "note": "el problema"
+      },
+      {
+        "word": "tan rápido como tú",
+        "pos": "비교구문",
+        "meaning": "너만큼 빠르게",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "haber",
+        "meaning": "있다 (비인칭)",
+        "tense": "직설법 현재 (비인칭)",
+        "usedForm": "hay",
+        "conjugation": null
+      },
+      {
+        "infinitive": "saber",
+        "meaning": "알다, 할 줄 알다",
+        "tense": "접속법 현재",
+        "usedForm": "sepa",
+        "conjugation": {
+          "yo": "sepa",
+          "tu": "sepas",
+          "el": "sepa",
+          "nosotros": "sepamos",
+          "vosotros": "sepáis",
+          "ellos": "sepan"
+        }
+      },
+      {
+        "infinitive": "resolver",
+        "meaning": "해결하다",
+        "tense": "동사원형",
+        "usedForm": "resolver",
+        "conjugation": {
+          "yo": "resuelvo",
+          "tu": "resuelves",
+          "el": "resuelve",
+          "nosotros": "resolvemos",
+          "vosotros": "resolvéis",
+          "ellos": "resuelven"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s314",
+    "number": 314,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "El museo cuyas obras estamos admirando fue inaugurado en el siglo XIX.",
+    "ko": "우리가 작품들을 감상하고 있는 이 박물관은 19세기에 개관되었다.",
+    "audioUrl": {
+      "female": "/audio/female/s314.mp3",
+      "male": "/audio/male/s314.mp3"
+    },
+    "vocab": [
+      {
+        "word": "El museo",
+        "pos": "명사구",
+        "meaning": "박물관",
+        "note": "el museo"
+      },
+      {
+        "word": "cuyas obras",
+        "pos": "소유관계사구",
+        "meaning": "그 박물관의 작품들을",
+        "note": "cuyo는 뒤따르는 명사(obras)의 성·수에 일치"
+      },
+      {
+        "word": "estamos admirando",
+        "pos": "동사구",
+        "meaning": "감상하고 있다",
+        "note": "estar + 현재분사 (현재진행)"
+      },
+      {
+        "word": "fue inaugurado",
+        "pos": "수동태",
+        "meaning": "개관되었다",
+        "note": "ser 점과거 + 과거분사"
+      },
+      {
+        "word": "en el siglo XIX",
+        "pos": "전치사구",
+        "meaning": "19세기에",
+        "note": "el siglo"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "admirar",
+        "meaning": "감상하다, 존경하다",
+        "tense": "현재진행 (estamos admirando)",
+        "usedForm": "estamos admirando",
+        "conjugation": {
+          "yo": "admiro",
+          "tu": "admiras",
+          "el": "admira",
+          "nosotros": "admiramos",
+          "vosotros": "admiráis",
+          "ellos": "admiran"
+        }
+      },
+      {
+        "infinitive": "inaugurar",
+        "meaning": "개관하다, 시작하다",
+        "tense": "수동태 점과거",
+        "usedForm": "fue inaugurado",
+        "conjugation": {
+          "yo": "fui inaugurado",
+          "tu": "fuiste inaugurado",
+          "el": "fue inaugurado",
+          "nosotros": "fuimos inaugurados",
+          "vosotros": "fuisteis inaugurados",
+          "ellos": "fueron inaugurados"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s315",
+    "number": 315,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "Se prohibe aparcar delante de la entrada del garaje.",
+    "ko": "차고 입구 앞에 주차하는 것이 금지되어 있습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s315.mp3",
+      "male": "/audio/male/s315.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Se prohibe",
+        "pos": "수동/비인칭구문",
+        "meaning": "금지된다",
+        "note": "prohibir의 3인칭 단수 (뒤에 동사원형 주어)"
+      },
+      {
+        "word": "aparcar",
+        "pos": "동사원형",
+        "meaning": "주차하다",
+        "note": ""
+      },
+      {
+        "word": "delante de la entrada",
+        "pos": "전치사구",
+        "meaning": "입구 앞에",
+        "note": "la entrada"
+      },
+      {
+        "word": "del garaje",
+        "pos": "전치사구",
+        "meaning": "차고의",
+        "note": "el garaje"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "prohibir",
+        "meaning": "금지하다",
+        "tense": "직설법 현재 (수동의 se)",
+        "usedForm": "Se prohibe",
+        "conjugation": {
+          "yo": "prohíbo",
+          "tu": "prohíbes",
+          "el": "prohíbe",
+          "nosotros": "prohibimos",
+          "vosotros": "prohibís",
+          "ellos": "prohíben"
+        }
+      },
+      {
+        "infinitive": "aparcar",
+        "meaning": "주차하다",
+        "tense": "동사원형",
+        "usedForm": "aparcar",
+        "conjugation": {
+          "yo": "aparco",
+          "tu": "aparcas",
+          "el": "aparca",
+          "nosotros": "aparcamos",
+          "vosotros": "aparcáis",
+          "ellos": "aparcan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s316",
+    "number": 316,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "Mi amiga me pidió que le prestara mis apuntes de gramática.",
+    "ko": "내 친구는 나에게 내 문법 필기 노트를 빌려달라고 부탁했다.",
+    "audioUrl": {
+      "female": "/audio/female/s316.mp3",
+      "male": "/audio/male/s316.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Mi amiga",
+        "pos": "명사구",
+        "meaning": "내 여자친구(여사친)",
+        "note": "la amiga"
+      },
+      {
+        "word": "me pidió que",
+        "pos": "동사구",
+        "meaning": "나에게 ~하라고 부탁했다",
+        "note": "pedir 점과거 + 접속법 과거"
+      },
+      {
+        "word": "le prestara",
+        "pos": "동사구",
+        "meaning": "그녀에게 빌려주다",
+        "note": "prestar의 접속법 과거 1인칭 단수"
+      },
+      {
+        "word": "mis apuntes de gramática",
+        "pos": "명사구",
+        "meaning": "내 문법 필기 노트",
+        "note": "los apuntes"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "pedir",
+        "meaning": "부탁하다, 요청하다",
+        "tense": "직설법 점과거",
+        "usedForm": "pidió",
+        "conjugation": {
+          "yo": "pedí",
+          "tu": "pediste",
+          "el": "pidió",
+          "nosotros": "pedimos",
+          "vosotros": "pedisteis",
+          "ellos": "pidieron"
+        }
+      },
+      {
+        "infinitive": "prestar",
+        "meaning": "빌려주다",
+        "tense": "접속법 과거",
+        "usedForm": "prestara",
+        "conjugation": {
+          "yo": "prestara",
+          "tu": "prestaras",
+          "el": "prestara",
+          "nosotros": "prestáramos",
+          "vosotros": "prestarais",
+          "ellos": "prestaran"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s317",
+    "number": 317,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "La puerta estaba cerrada con llave cuando llegamos a la oficina.",
+    "ko": "우리가 사무실에 도착했을 때 문은 열쇠로 잠겨 있었다.",
+    "audioUrl": {
+      "female": "/audio/female/s317.mp3",
+      "male": "/audio/male/s317.mp3"
+    },
+    "vocab": [
+      {
+        "word": "La puerta",
+        "pos": "명사구",
+        "meaning": "문",
+        "note": "la puerta"
+      },
+      {
+        "word": "estaba cerrada",
+        "pos": "상태수동",
+        "meaning": "닫혀 있었다",
+        "note": "estar 선과거 + 과거분사 (결과 상태 묘사)"
+      },
+      {
+        "word": "con llave",
+        "pos": "전치사구",
+        "meaning": "열쇠로 (잠긴 채)",
+        "note": "la llave"
+      },
+      {
+        "word": "cuando llegamos a la oficina",
+        "pos": "접속사절",
+        "meaning": "우리가 사무실에 도착했을 때",
+        "note": "llegar 점과거 1인칭 복수"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "estar",
+        "meaning": "~상태이다",
+        "tense": "직설법 선과거",
+        "usedForm": "estaba",
+        "conjugation": {
+          "yo": "estaba",
+          "tu": "estabas",
+          "el": "estaba",
+          "nosotros": "estábamos",
+          "vosotros": "estabais",
+          "ellos": "estaban"
+        }
+      },
+      {
+        "infinitive": "llegar",
+        "meaning": "도착하다",
+        "tense": "직설법 점과거",
+        "usedForm": "llegamos",
+        "conjugation": {
+          "yo": "llegué",
+          "tu": "llegaste",
+          "el": "llegó",
+          "nosotros": "llegamos",
+          "vosotros": "llegasteis",
+          "ellos": "llegaron"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s318",
+    "number": 318,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "Necesitamos contratar a alguien que hable español e inglés con soltura.",
+    "ko": "우리는 스페인어와 영어를 유창하게 구사하는 사람을 채용해야 합니다.",
+    "audioUrl": {
+      "female": "/audio/female/s318.mp3",
+      "male": "/audio/male/s318.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Necesitamos contratar",
+        "pos": "동사구",
+        "meaning": "채용할 필요가 있다",
+        "note": "necesitar + 동사원형"
+      },
+      {
+        "word": "a alguien que",
+        "pos": "부정대명사구",
+        "meaning": "~하는 누군가를",
+        "note": "불특정 인물이므로 접속법 hable 사용"
+      },
+      {
+        "word": "hable",
+        "pos": "동사",
+        "meaning": "말하다",
+        "note": "hablar의 접속법 현재 3인칭 단수"
+      },
+      {
+        "word": "español e inglés",
+        "pos": "명사구",
+        "meaning": "스페인어와 영어",
+        "note": "i로 시작하는 단어 앞에서 y -> e로 변화"
+      },
+      {
+        "word": "con soltura",
+        "pos": "전치사구",
+        "meaning": "유창하게, 막힘없이",
+        "note": "la soltura"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "necesitar",
+        "meaning": "필요로 하다",
+        "tense": "직설법 현재",
+        "usedForm": "Necesitamos",
+        "conjugation": {
+          "yo": "necesito",
+          "tu": "necesitas",
+          "el": "necesita",
+          "nosotros": "necesitamos",
+          "vosotros": "necesitáis",
+          "ellos": "necesitan"
+        }
+      },
+      {
+        "infinitive": "contratar",
+        "meaning": "고용하다, 계약하다",
+        "tense": "동사원형",
+        "usedForm": "contratar",
+        "conjugation": {
+          "yo": "contrato",
+          "tu": "contratas",
+          "el": "contrata",
+          "nosotros": "contratamos",
+          "vosotros": "contratáis",
+          "ellos": "contratan"
+        }
+      },
+      {
+        "infinitive": "hablar",
+        "meaning": "말하다",
+        "tense": "접속법 현재",
+        "usedForm": "hable",
+        "conjugation": {
+          "yo": "hable",
+          "tu": "hables",
+          "el": "hable",
+          "nosotros": "hablemos",
+          "vosotros": "habléis",
+          "ellos": "hablen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s319",
+    "number": 319,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "Se dice que este restaurante prepara la mejor paella de la costa.",
+    "ko": "이 식당이 해안가에서 가장 맛있는 파에야를 만든다고들 한다.",
+    "audioUrl": {
+      "female": "/audio/female/s319.mp3",
+      "male": "/audio/male/s319.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Se dice que",
+        "pos": "비인칭구문",
+        "meaning": "~라고들 한다",
+        "note": "일반적 소문·전언 표현"
+      },
+      {
+        "word": "este restaurante",
+        "pos": "명사구",
+        "meaning": "이 식당",
+        "note": "el restaurante"
+      },
+      {
+        "word": "prepara",
+        "pos": "동사",
+        "meaning": "준비하다, 요리하다",
+        "note": "preparar의 직설법 현재 3인칭 단수"
+      },
+      {
+        "word": "la mejor paella",
+        "pos": "명사구",
+        "meaning": "최고의 파에야",
+        "note": "la paella"
+      },
+      {
+        "word": "de la costa",
+        "pos": "전치사구",
+        "meaning": "해안의",
+        "note": "la costa"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "decir",
+        "meaning": "말하다 (Se dice = ~라고들 한다)",
+        "tense": "직설법 현재 (비인칭)",
+        "usedForm": "Se dice",
+        "conjugation": {
+          "yo": "digo",
+          "tu": "dices",
+          "el": "dice",
+          "nosotros": "decimos",
+          "vosotros": "decís",
+          "ellos": "dicen"
+        }
+      },
+      {
+        "infinitive": "preparar",
+        "meaning": "준비하다, 요리하다",
+        "tense": "직설법 현재",
+        "usedForm": "prepara",
+        "conjugation": {
+          "yo": "preparo",
+          "tu": "preparas",
+          "el": "prepara",
+          "nosotros": "preparamos",
+          "vosotros": "preparáis",
+          "ellos": "preparan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s320",
+    "number": 320,
+    "level": "B1",
+    "category": "간접화법·관계대명사·수동·비인칭 구문",
+    "es": "El motivo por el cual te escribo es confirmar nuestra cita.",
+    "ko": "내가 너에게 글을 쓰는 이유는 우리의 약속을 확인하기 위해서야.",
+    "audioUrl": {
+      "female": "/audio/female/s320.mp3",
+      "male": "/audio/male/s320.mp3"
+    },
+    "vocab": [
+      {
+        "word": "El motivo",
+        "pos": "명사구",
+        "meaning": "이유, 동기",
+        "note": "el motivo"
+      },
+      {
+        "word": "por el cual",
+        "pos": "전치사+관계대명사",
+        "meaning": "~라는 이유로",
+        "note": "격식체 관계대명사"
+      },
+      {
+        "word": "te escribo",
+        "pos": "동사구",
+        "meaning": "너에게 글을 쓴다",
+        "note": "escribir의 직설법 현재 1인칭 단수"
+      },
+      {
+        "word": "es confirmar",
+        "pos": "동사구",
+        "meaning": "확인하는 것이다",
+        "note": ""
+      },
+      {
+        "word": "nuestra cita",
+        "pos": "명사구",
+        "meaning": "우리의 약속",
+        "note": "la cita"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "escribir",
+        "meaning": "쓰다",
+        "tense": "직설법 현재",
+        "usedForm": "escribo",
+        "conjugation": {
+          "yo": "escribo",
+          "tu": "escribes",
+          "el": "escribe",
+          "nosotros": "escribimos",
+          "vosotros": "escribís",
+          "ellos": "escriben"
+        }
+      },
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "직설법 현재",
+        "usedForm": "es",
+        "conjugation": {
+          "yo": "soy",
+          "tu": "eres",
+          "el": "es",
+          "nosotros": "somos",
+          "vosotros": "sois",
+          "ellos": "son"
+        }
+      },
+      {
+        "infinitive": "confirmar",
+        "meaning": "확인하다",
+        "tense": "동사원형",
+        "usedForm": "confirmar",
+        "conjugation": {
+          "yo": "confirmo",
+          "tu": "confirmas",
+          "el": "confirma",
+          "nosotros": "confirmamos",
+          "vosotros": "confirmáis",
+          "ellos": "confirman"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s321",
+    "number": 321,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Disculpe, ha habido un error con la factura de nuestra habitación.",
+    "ko": "실례합니다, 저희 방 계산서에 오류가 있었습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s321.mp3",
+      "male": "/audio/male/s321.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Disculpe",
+        "pos": "동사",
+        "meaning": "실례합니다, 죄송합니다",
+        "note": "disculpar의 정중 명령형 (usted)"
+      },
+      {
+        "word": "ha habido",
+        "pos": "동사구",
+        "meaning": "~가 있었다",
+        "note": "haber 비인칭 현재완료"
+      },
+      {
+        "word": "un error",
+        "pos": "명사구",
+        "meaning": "오류, 실수",
+        "note": "el error"
+      },
+      {
+        "word": "con la factura",
+        "pos": "전치사구",
+        "meaning": "계산서에",
+        "note": "la factura"
+      },
+      {
+        "word": "de nuestra habitación",
+        "pos": "전치사구",
+        "meaning": "저희 방의",
+        "note": "la habitación"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "disculpar",
+        "meaning": "용서하다, 양해하다",
+        "tense": "접속법 현재 (정중명령)",
+        "usedForm": "Disculpe",
+        "conjugation": {
+          "yo": "disculpe",
+          "tu": "disculpes",
+          "el": "disculpe",
+          "nosotros": "disculpemos",
+          "vosotros": "disculpéis",
+          "ellos": "disculpen"
+        }
+      },
+      {
+        "infinitive": "haber",
+        "meaning": "있다 (비인칭)",
+        "tense": "직설법 현재완료 (비인칭)",
+        "usedForm": "ha habido",
+        "conjugation": null
+      }
+    ]
+  },
+  {
+    "id": "s322",
+    "number": 322,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Estoy totalmente de acuerdo contigo en este punto.",
+    "ko": "이 점에 대해서는 네 의견에 전적으로 동의해.",
+    "audioUrl": {
+      "female": "/audio/female/s322.mp3",
+      "male": "/audio/male/s322.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Estoy totalmente de acuerdo",
+        "pos": "동사구",
+        "meaning": "전적으로 동의한다",
+        "note": "estar de acuerdo con: ~에 동의하다"
+      },
+      {
+        "word": "contigo",
+        "pos": "대명사",
+        "meaning": "너와",
+        "note": "con + ti의 결합형"
+      },
+      {
+        "word": "en este punto",
+        "pos": "전치사구",
+        "meaning": "이 점에 있어서",
+        "note": "el punto"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "estar",
+        "meaning": "~상태이다 (estar de acuerdo = 동의하다)",
+        "tense": "직설법 현재",
+        "usedForm": "Estoy",
+        "conjugation": {
+          "yo": "estoy",
+          "tu": "estás",
+          "el": "está",
+          "nosotros": "estamos",
+          "vosotros": "estáis",
+          "ellos": "están"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s323",
+    "number": 323,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Por un lado el teletrabajo ahorra tiempo, pero por otro reduce el contacto.",
+    "ko": "한편으로는 재택근무가 시간을 절약해 주지만, 다른 한편으로는 교류를 줄입니다.",
+    "audioUrl": {
+      "female": "/audio/female/s323.mp3",
+      "male": "/audio/male/s323.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Por un lado",
+        "pos": "부사구",
+        "meaning": "한편으로는",
+        "note": "대조 논리 전개 표현"
+      },
+      {
+        "word": "el teletrabajo",
+        "pos": "명사구",
+        "meaning": "재택근무, 원격근무",
+        "note": "el teletrabajo"
+      },
+      {
+        "word": "ahorra tiempo",
+        "pos": "동사구",
+        "meaning": "시간을 절약하다",
+        "note": "ahorrar의 직설법 현재 3인칭 단수"
+      },
+      {
+        "word": "pero por otro",
+        "pos": "부사구",
+        "meaning": "하지만 다른 한편으로는",
+        "note": ""
+      },
+      {
+        "word": "reduce el contacto",
+        "pos": "동사구",
+        "meaning": "접촉/교류를 줄이다",
+        "note": "reducir의 직설법 현재 3인칭 단수"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ahorrar",
+        "meaning": "절약하다, 저축하다",
+        "tense": "직설법 현재",
+        "usedForm": "ahorra",
+        "conjugation": {
+          "yo": "ahorro",
+          "tu": "ahorras",
+          "el": "ahorra",
+          "nosotros": "ahorramos",
+          "vosotros": "ahorráis",
+          "ellos": "ahorran"
+        }
+      },
+      {
+        "infinitive": "reducir",
+        "meaning": "줄이다, 감소시키다",
+        "tense": "직설법 현재",
+        "usedForm": "reduce",
+        "conjugation": {
+          "yo": "reduzco",
+          "tu": "reduces",
+          "el": "reduce",
+          "nosotros": "reducimos",
+          "vosotros": "reducís",
+          "ellos": "reducen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s324",
+    "number": 324,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Quisiera poner una reclamación porque mi equipaje no ha llegado.",
+    "ko": "제 수하물이 도착하지 않아서 불만 접수를 하고 싶습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s324.mp3",
+      "male": "/audio/male/s324.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Quisiera poner",
+        "pos": "동사구",
+        "meaning": "제기하고 싶습니다",
+        "note": "poner una reclamación: 이의/불만을 제기하다"
+      },
+      {
+        "word": "una reclamación",
+        "pos": "명사구",
+        "meaning": "불만 신고, 클레임",
+        "note": "la reclamación"
+      },
+      {
+        "word": "porque",
+        "pos": "접속사",
+        "meaning": "~때문에",
+        "note": ""
+      },
+      {
+        "word": "mi equipaje no ha llegado",
+        "pos": "동사구",
+        "meaning": "내 짐이 도착하지 않았다",
+        "note": "el equipaje, llegar 현재완료"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "querer",
+        "meaning": "원하다 (공손 요청)",
+        "tense": "접속법 과거",
+        "usedForm": "Quisiera",
+        "conjugation": {
+          "yo": "quisiera",
+          "tu": "quisieras",
+          "el": "quisiera",
+          "nosotros": "quisiéramos",
+          "vosotros": "quisierais",
+          "ellos": "quisieran"
+        }
+      },
+      {
+        "infinitive": "poner",
+        "meaning": "놓다, 제기하다",
+        "tense": "동사원형",
+        "usedForm": "poner",
+        "conjugation": {
+          "yo": "pongo",
+          "tu": "pones",
+          "el": "pone",
+          "nosotros": "ponemos",
+          "vosotros": "ponéis",
+          "ellos": "ponen"
+        }
+      },
+      {
+        "infinitive": "llegar",
+        "meaning": "도착하다",
+        "tense": "직설법 현재완료",
+        "usedForm": "ha llegado",
+        "conjugation": {
+          "yo": "he llegado",
+          "tu": "has llegado",
+          "el": "ha llegado",
+          "nosotros": "hemos llegado",
+          "vosotros": "habéis llegado",
+          "ellos": "han llegado"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s325",
+    "number": 325,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Todavía no hemos llegado a un acuerdo definitivo sobre el presupuesto.",
+    "ko": "우리는 아직 예산에 대해 최종 합의에 도달하지 못했습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s325.mp3",
+      "male": "/audio/male/s325.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Todavía no",
+        "pos": "부사구",
+        "meaning": "아직 ~않다",
+        "note": ""
+      },
+      {
+        "word": "hemos llegado a",
+        "pos": "동사구",
+        "meaning": "~에 도달했다",
+        "note": "llegar의 현재완료 1인칭 복수"
+      },
+      {
+        "word": "un acuerdo definitivo",
+        "pos": "명사구",
+        "meaning": "최종 합의",
+        "note": "el acuerdo"
+      },
+      {
+        "word": "sobre el presupuesto",
+        "pos": "전치사구",
+        "meaning": "예산에 관해",
+        "note": "el presupuesto"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "llegar",
+        "meaning": "도달하다, 도착하다",
+        "tense": "직설법 현재완료",
+        "usedForm": "hemos llegado",
+        "conjugation": {
+          "yo": "he llegado",
+          "tu": "has llegado",
+          "el": "ha llegado",
+          "nosotros": "hemos llegado",
+          "vosotros": "habéis llegado",
+          "ellos": "han llegado"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s326",
+    "number": 326,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Aplazaremos la reunión hasta la próxima semana por falta de tiempo.",
+    "ko": "시간 부족으로 인해 회의를 다음 주로 연기하겠습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s326.mp3",
+      "male": "/audio/male/s326.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Aplazaremos",
+        "pos": "동사",
+        "meaning": "연기할 것이다",
+        "note": "aplazar의 직설법 미래 1인칭 복수"
+      },
+      {
+        "word": "la reunión",
+        "pos": "명사구",
+        "meaning": "회의",
+        "note": "la reunión"
+      },
+      {
+        "word": "hasta la próxima semana",
+        "pos": "전치사구",
+        "meaning": "다음 주까지",
+        "note": "la semana"
+      },
+      {
+        "word": "por falta de tiempo",
+        "pos": "전치사구",
+        "meaning": "시간 부족 때문에",
+        "note": "la falta"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "aplazar",
+        "meaning": "연기하다, 미루다",
+        "tense": "직설법 미래",
+        "usedForm": "Aplazaremos",
+        "conjugation": {
+          "yo": "aplazaré",
+          "tu": "aplazarás",
+          "el": "aplazará",
+          "nosotros": "aplazaremos",
+          "vosotros": "aplazaréis",
+          "ellos": "aplazarán"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s327",
+    "number": 327,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Cada vez más gente se preocupa por cuidar el medio ambiente.",
+    "ko": "점점 더 많은 사람들이 환경을 보호하는 것에 관심을 기울이고 있습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s327.mp3",
+      "male": "/audio/male/s327.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Cada vez más gente",
+        "pos": "명사구",
+        "meaning": "점점 더 많은 사람들",
+        "note": "la gente (단수 취급 집합명사)"
+      },
+      {
+        "word": "se preocupa por",
+        "pos": "동사구",
+        "meaning": "~에 신경 쓰다/관심을 갖다",
+        "note": "preocuparse por + 동사원형"
+      },
+      {
+        "word": "cuidar",
+        "pos": "동사원형",
+        "meaning": "돌보다, 보호하다",
+        "note": ""
+      },
+      {
+        "word": "el medio ambiente",
+        "pos": "명사구",
+        "meaning": "환경",
+        "note": "el medio ambiente"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "preocuparse",
+        "meaning": "걱정하다, 관심을 기울이다",
+        "tense": "직설법 현재",
+        "usedForm": "se preocupa",
+        "conjugation": {
+          "yo": "me preocupo",
+          "tu": "te preocupas",
+          "el": "se preocupa",
+          "nosotros": "nos preocupamos",
+          "vosotros": "os preocupáis",
+          "ellos": "se preocupan"
+        }
+      },
+      {
+        "infinitive": "cuidar",
+        "meaning": "돌보다, 보호하다",
+        "tense": "동사원형",
+        "usedForm": "cuidar",
+        "conjugation": {
+          "yo": "cuido",
+          "tu": "cuidas",
+          "el": "cuida",
+          "nosotros": "cuidamos",
+          "vosotros": "cuidáis",
+          "ellos": "cuidan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s328",
+    "number": 328,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Lo siento, pero el producto que busca está agotado en este momento.",
+    "ko": "죄송하지만, 찾으시는 제품은 현재 품절입니다.",
+    "audioUrl": {
+      "female": "/audio/female/s328.mp3",
+      "male": "/audio/male/s328.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Lo siento",
+        "pos": "관용구",
+        "meaning": "죄송합니다, 유감입니다",
+        "note": ""
+      },
+      {
+        "word": "el producto que busca",
+        "pos": "명사구",
+        "meaning": "당신이 찾는 제품",
+        "note": "buscar의 직설법 현재 3인칭 단수 (usted)"
+      },
+      {
+        "word": "está agotado",
+        "pos": "동사구",
+        "meaning": "품절된 상태이다",
+        "note": "agotado = 매진된, 품절된"
+      },
+      {
+        "word": "en este momento",
+        "pos": "전치사구",
+        "meaning": "지금 이 순간에, 현재",
+        "note": "el momento"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "sentir",
+        "meaning": "느끼다, 유감이다",
+        "tense": "직설법 현재",
+        "usedForm": "siento",
+        "conjugation": {
+          "yo": "siento",
+          "tu": "sientes",
+          "el": "siente",
+          "nosotros": "sentimos",
+          "vosotros": "sentís",
+          "ellos": "sienten"
+        }
+      },
+      {
+        "infinitive": "buscar",
+        "meaning": "찾다",
+        "tense": "직설법 현재",
+        "usedForm": "busca",
+        "conjugation": {
+          "yo": "busco",
+          "tu": "buscas",
+          "el": "busca",
+          "nosotros": "buscamos",
+          "vosotros": "buscáis",
+          "ellos": "buscan"
+        }
+      },
+      {
+        "infinitive": "estar",
+        "meaning": "~상태이다",
+        "tense": "직설법 현재",
+        "usedForm": "está",
+        "conjugation": {
+          "yo": "estoy",
+          "tu": "estás",
+          "el": "está",
+          "nosotros": "estamos",
+          "vosotros": "estáis",
+          "ellos": "están"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s329",
+    "number": 329,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "En mi opinión, deberíamos invertir más recursos en educación pública.",
+    "ko": "제 의견으로는, 우리가 공교육에 더 많은 자원을 투자해야 합니다.",
+    "audioUrl": {
+      "female": "/audio/female/s329.mp3",
+      "male": "/audio/male/s329.mp3"
+    },
+    "vocab": [
+      {
+        "word": "En mi opinión",
+        "pos": "전치사구",
+        "meaning": "제 의견으로는",
+        "note": "la opinión"
+      },
+      {
+        "word": "deberíamos invertir",
+        "pos": "동사구",
+        "meaning": "우리는 투자해야 한다",
+        "note": "deber의 조건법 1인칭 복수"
+      },
+      {
+        "word": "más recursos",
+        "pos": "명사구",
+        "meaning": "더 많은 자원/예산",
+        "note": "el recurso의 복수형"
+      },
+      {
+        "word": "en educación pública",
+        "pos": "전치사구",
+        "meaning": "공교육에",
+        "note": "la educación"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "deber",
+        "meaning": "~해야 한다",
+        "tense": "조건법",
+        "usedForm": "deberíamos",
+        "conjugation": {
+          "yo": "debería",
+          "tu": "deberías",
+          "el": "debería",
+          "nosotros": "deberíamos",
+          "vosotros": "deberíais",
+          "ellos": "deberían"
+        }
+      },
+      {
+        "infinitive": "invertir",
+        "meaning": "투자하다",
+        "tense": "동사원형",
+        "usedForm": "invertir",
+        "conjugation": {
+          "yo": "invierto",
+          "tu": "inviertes",
+          "el": "invierte",
+          "nosotros": "invertimos",
+          "vosotros": "invertís",
+          "ellos": "invierten"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s330",
+    "number": 330,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Te agradezco de antemano toda tu colaboración en este proyecto.",
+    "ko": "이 프로젝트에 대한 너의 모든 협조에 미리 감사드립니다.",
+    "audioUrl": {
+      "female": "/audio/female/s330.mp3",
+      "male": "/audio/male/s330.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Te agradezco",
+        "pos": "동사구",
+        "meaning": "너에게 감사하다",
+        "note": "agradecer의 직설법 현재 1인칭 단수 (-zco 불규칙)"
+      },
+      {
+        "word": "de antemano",
+        "pos": "부사구",
+        "meaning": "미리, 사전에",
+        "note": ""
+      },
+      {
+        "word": "toda tu colaboración",
+        "pos": "명사구",
+        "meaning": "너의 모든 협조",
+        "note": "la colaboración"
+      },
+      {
+        "word": "en este proyecto",
+        "pos": "전치사구",
+        "meaning": "이 프로젝트에서",
+        "note": "el proyecto"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "agradecer",
+        "meaning": "감사하다",
+        "tense": "직설법 현재",
+        "usedForm": "agradezco",
+        "conjugation": {
+          "yo": "agradezco",
+          "tu": "agradeces",
+          "el": "agradece",
+          "nosotros": "agradecemos",
+          "vosotros": "agradecéis",
+          "ellos": "agradecen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s331",
+    "number": 331,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "No entiendo por qué se ha cancelado el tren sin previo aviso.",
+    "ko": "왜 사전 공지 없이 기차가 취소되었는지 이해가 안 됩니다.",
+    "audioUrl": {
+      "female": "/audio/female/s331.mp3",
+      "male": "/audio/male/s331.mp3"
+    },
+    "vocab": [
+      {
+        "word": "No entiendo por qué",
+        "pos": "동사구",
+        "meaning": "왜 ~인지 이해하지 못하겠다",
+        "note": "entender의 직설법 현재 1인칭 단수"
+      },
+      {
+        "word": "se ha cancelado",
+        "pos": "수동구문",
+        "meaning": "취소되었다",
+        "note": "cancelar의 수동의 se + 현재완료"
+      },
+      {
+        "word": "el tren",
+        "pos": "명사구",
+        "meaning": "기차",
+        "note": "el tren"
+      },
+      {
+        "word": "sin previo aviso",
+        "pos": "전치사구",
+        "meaning": "사전 통보 없이",
+        "note": "el aviso"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "entender",
+        "meaning": "이해하다",
+        "tense": "직설법 현재",
+        "usedForm": "entiendo",
+        "conjugation": {
+          "yo": "entiendo",
+          "tu": "entiendes",
+          "el": "entiende",
+          "nosotros": "entendemos",
+          "vosotros": "entendéis",
+          "ellos": "entienden"
+        }
+      },
+      {
+        "infinitive": "cancelar",
+        "meaning": "취소하다",
+        "tense": "직설법 현재완료 (수동)",
+        "usedForm": "se ha cancelado",
+        "conjugation": {
+          "yo": "he cancelado",
+          "tu": "has cancelado",
+          "el": "ha cancelado",
+          "nosotros": "hemos cancelado",
+          "vosotros": "habéis cancelado",
+          "ellos": "han cancelado"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s332",
+    "number": 332,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Antes de firmar, conviene leer con atención la letra pequeña.",
+    "ko": "서명하기 전에 작은 글씨(약관)를 주의 깊게 읽어보는 것이 좋습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s332.mp3",
+      "male": "/audio/male/s332.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Antes de firmar",
+        "pos": "전치사구",
+        "meaning": "서명하기 전에",
+        "note": ""
+      },
+      {
+        "word": "conviene leer",
+        "pos": "동사구",
+        "meaning": "읽는 것이 좋다/적합하다",
+        "note": "convenir의 직설법 현재 3인칭 단수"
+      },
+      {
+        "word": "con atención",
+        "pos": "전치사구",
+        "meaning": "주의 깊게",
+        "note": "la atención"
+      },
+      {
+        "word": "la letra pequeña",
+        "pos": "명사구",
+        "meaning": "작은 글씨, 세부 약관",
+        "note": "la letra"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "firmar",
+        "meaning": "서명하다",
+        "tense": "동사원형",
+        "usedForm": "firmar",
+        "conjugation": {
+          "yo": "firmo",
+          "tu": "firmas",
+          "el": "firma",
+          "nosotros": "firmamos",
+          "vosotros": "firmáis",
+          "ellos": "firman"
+        }
+      },
+      {
+        "infinitive": "convenir",
+        "meaning": "적합하다, ~하는 게 좋다",
+        "tense": "직설법 현재",
+        "usedForm": "conviene",
+        "conjugation": {
+          "yo": "convengo",
+          "tu": "convienes",
+          "el": "conviene",
+          "nosotros": "convenimos",
+          "vosotros": "convenís",
+          "ellos": "convienen"
+        }
+      },
+      {
+        "infinitive": "leer",
+        "meaning": "읽다",
+        "tense": "동사원형",
+        "usedForm": "leer",
+        "conjugation": {
+          "yo": "leo",
+          "tu": "lees",
+          "el": "lee",
+          "nosotros": "leemos",
+          "vosotros": "leéis",
+          "ellos": "leen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s333",
+    "number": 333,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "¿Podría indicarme dónde se encuentra la oficina de objetos perdidos?",
+    "ko": "분실물 센터가 어디에 있는지 알려주시겠습니까?",
+    "audioUrl": {
+      "female": "/audio/female/s333.mp3",
+      "male": "/audio/male/s333.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Podría indicarme...?",
+        "pos": "동사구",
+        "meaning": "저에게 알려주시겠습니까?",
+        "note": "poder 조건법 + indicar + me"
+      },
+      {
+        "word": "dónde se encuentra",
+        "pos": "의문절",
+        "meaning": "어디에 위치해 있는지",
+        "note": "encontrarse의 직설법 현재 3인칭 단수"
+      },
+      {
+        "word": "la oficina de objetos perdidos",
+        "pos": "명사구",
+        "meaning": "분실물 보관소",
+        "note": "el objeto perdido"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "poder",
+        "meaning": "~할 수 있다",
+        "tense": "조건법",
+        "usedForm": "Podría",
+        "conjugation": {
+          "yo": "podría",
+          "tu": "podrías",
+          "el": "podría",
+          "nosotros": "podríamos",
+          "vosotros": "podríais",
+          "ellos": "podrían"
+        }
+      },
+      {
+        "infinitive": "indicar",
+        "meaning": "가리키다, 알려주다",
+        "tense": "동사원형",
+        "usedForm": "indicarme",
+        "conjugation": {
+          "yo": "indico",
+          "tu": "indicas",
+          "el": "indica",
+          "nosotros": "indicamos",
+          "vosotros": "indicáis",
+          "ellos": "indican"
+        }
+      },
+      {
+        "infinitive": "encontrarse",
+        "meaning": "위치하다, 있다",
+        "tense": "직설법 현재",
+        "usedForm": "se encuentra",
+        "conjugation": {
+          "yo": "me encuentro",
+          "tu": "te encuentras",
+          "el": "se encuentra",
+          "nosotros": "nos encontramos",
+          "vosotros": "os encontráis",
+          "ellos": "se encuentran"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s334",
+    "number": 334,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "A diferencia de lo que ocurre en otros países, aquí las tiendas cierran al mediodía.",
+    "ko": "다른 나라에서 일어나는 것과 달리, 여기서는 상점들이 정오에 문을 닫습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s334.mp3",
+      "male": "/audio/male/s334.mp3"
+    },
+    "vocab": [
+      {
+        "word": "A diferencia de",
+        "pos": "전치사구",
+        "meaning": "~와는 달리",
+        "note": ""
+      },
+      {
+        "word": "lo que ocurre",
+        "pos": "관계절",
+        "meaning": "일어나는 것",
+        "note": "ocurrir의 직설법 현재 3인칭 단수"
+      },
+      {
+        "word": "en otros países",
+        "pos": "전치사구",
+        "meaning": "다른 나라들에서",
+        "note": "el país의 복수형"
+      },
+      {
+        "word": "las tiendas cierran",
+        "pos": "동사구",
+        "meaning": "상점들이 닫는다",
+        "note": "cerrar의 직설법 현재 3인칭 복수 (e->ie)"
+      },
+      {
+        "word": "al mediodía",
+        "pos": "전치사구",
+        "meaning": "정오에",
+        "note": "el mediodía"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ocurrir",
+        "meaning": "발생하다, 일어나다",
+        "tense": "직설법 현재",
+        "usedForm": "ocurre",
+        "conjugation": {
+          "yo": "ocurro",
+          "tu": "ocurres",
+          "el": "ocurre",
+          "nosotros": "ocurrimos",
+          "vosotros": "ocurrís",
+          "ellos": "ocurren"
+        }
+      },
+      {
+        "infinitive": "cerrar",
+        "meaning": "닫다",
+        "tense": "직설법 현재",
+        "usedForm": "cierran",
+        "conjugation": {
+          "yo": "cierro",
+          "tu": "cierras",
+          "el": "cierra",
+          "nosotros": "cerramos",
+          "vosotros": "cerráis",
+          "ellos": "cierran"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s335",
+    "number": 335,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Propongo que dividamos las tareas para avanzar más rápido.",
+    "ko": "더 빨리 진척시키기 위해 업무를 나누자고 제안합니다.",
+    "audioUrl": {
+      "female": "/audio/female/s335.mp3",
+      "male": "/audio/male/s335.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Propongo que",
+        "pos": "동사구",
+        "meaning": "~하자고 제안한다",
+        "note": "proponer의 직설법 현재 1인칭 단수 (-go 불규칙) + 접속법"
+      },
+      {
+        "word": "dividamos",
+        "pos": "동사",
+        "meaning": "우리가 나누다",
+        "note": "dividir의 접속법 현재 1인칭 복수"
+      },
+      {
+        "word": "las tareas",
+        "pos": "명사구",
+        "meaning": "업무들, 과제들",
+        "note": "la tarea의 복수형"
+      },
+      {
+        "word": "para avanzar más rápido",
+        "pos": "전치사구",
+        "meaning": "더 빨리 진전시키기 위해",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "proponer",
+        "meaning": "제안하다",
+        "tense": "직설법 현재",
+        "usedForm": "Propongo",
+        "conjugation": {
+          "yo": "propongo",
+          "tu": "propones",
+          "el": "propone",
+          "nosotros": "proponemos",
+          "vosotros": "proponéis",
+          "ellos": "proponen"
+        }
+      },
+      {
+        "infinitive": "dividir",
+        "meaning": "나누다, 분할하다",
+        "tense": "접속법 현재",
+        "usedForm": "dividamos",
+        "conjugation": {
+          "yo": "divida",
+          "tu": "dividas",
+          "el": "divida",
+          "nosotros": "dividamos",
+          "vosotros": "dividáis",
+          "ellos": "dividan"
+        }
+      },
+      {
+        "infinitive": "avanzar",
+        "meaning": "진전하다, 나아가다",
+        "tense": "동사원형",
+        "usedForm": "avanzar",
+        "conjugation": {
+          "yo": "avanzo",
+          "tu": "avanzas",
+          "el": "avanza",
+          "nosotros": "avanzamos",
+          "vosotros": "avanzáis",
+          "ellos": "avanzan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s336",
+    "number": 336,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Si surge cualquier inconveniente durante la estancia, no dude en llamarnos.",
+    "ko": "체류 중에 어떤 불편이라도 생기면 주저하지 말고 저희에게 전화해 주세요.",
+    "audioUrl": {
+      "female": "/audio/female/s336.mp3",
+      "male": "/audio/male/s336.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Si surge",
+        "pos": "조건절",
+        "meaning": "만약 발생한다면",
+        "note": "surgir의 직설법 현재 3인칭 단수"
+      },
+      {
+        "word": "cualquier inconveniente",
+        "pos": "명사구",
+        "meaning": "어떠한 불편/문제라도",
+        "note": "el inconveniente"
+      },
+      {
+        "word": "durante la estancia",
+        "pos": "전치사구",
+        "meaning": "체류 기간 동안",
+        "note": "la estancia"
+      },
+      {
+        "word": "no dude en llamarnos",
+        "pos": "명령구",
+        "meaning": "주저하지 말고 우리에게 전화하세요",
+        "note": "dudar의 정중 부정명령 (usted)"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "surgir",
+        "meaning": "생기다, 발생하다",
+        "tense": "직설법 현재",
+        "usedForm": "surge",
+        "conjugation": {
+          "yo": "surjo",
+          "tu": "surges",
+          "el": "surge",
+          "nosotros": "surgimos",
+          "vosotros": "surgís",
+          "ellos": "surgen"
+        }
+      },
+      {
+        "infinitive": "dudar",
+        "meaning": "주저하다, 의심하다",
+        "tense": "접속법 현재 (정중명령)",
+        "usedForm": "dude",
+        "conjugation": {
+          "yo": "dude",
+          "tu": "dudes",
+          "el": "dude",
+          "nosotros": "dudemos",
+          "vosotros": "dudéis",
+          "ellos": "duden"
+        }
+      },
+      {
+        "infinitive": "llamar",
+        "meaning": "전화하다",
+        "tense": "동사원형",
+        "usedForm": "llamarnos",
+        "conjugation": {
+          "yo": "llamo",
+          "tu": "llamas",
+          "el": "llama",
+          "nosotros": "llamamos",
+          "vosotros": "llamáis",
+          "ellos": "llaman"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s337",
+    "number": 337,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "A pesar de las dificultades iniciales, el equipo logró cumplir el plazo.",
+    "ko": "초기의 어려움에도 불구하고, 팀은 마감 기한을 맞추는 데 성공했습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s337.mp3",
+      "male": "/audio/male/s337.mp3"
+    },
+    "vocab": [
+      {
+        "word": "A pesar de",
+        "pos": "전치사구",
+        "meaning": "~에도 불구하고",
+        "note": ""
+      },
+      {
+        "word": "las dificultades iniciales",
+        "pos": "명사구",
+        "meaning": "초기의 어려움들",
+        "note": "la dificultad의 복수형"
+      },
+      {
+        "word": "el equipo",
+        "pos": "명사구",
+        "meaning": "팀",
+        "note": "el equipo"
+      },
+      {
+        "word": "logró cumplir el plazo",
+        "pos": "동사구",
+        "meaning": "마감 기한을 지키는 데 성공했다",
+        "note": "lograr 점과거, el plazo"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "lograr",
+        "meaning": "이루다, 해내다",
+        "tense": "직설법 점과거",
+        "usedForm": "logró",
+        "conjugation": {
+          "yo": "logré",
+          "tu": "lograste",
+          "el": "logró",
+          "nosotros": "logramos",
+          "vosotros": "lograsteis",
+          "ellos": "lograron"
+        }
+      },
+      {
+        "infinitive": "cumplir",
+        "meaning": "이행하다, (기한을) 지키다",
+        "tense": "동사원형",
+        "usedForm": "cumplir",
+        "conjugation": {
+          "yo": "cumplo",
+          "tu": "cumples",
+          "el": "cumple",
+          "nosotros": "cumplimos",
+          "vosotros": "cumplís",
+          "ellos": "cumplen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s338",
+    "number": 338,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Me cuesta mucho adaptarme al horario de comidas tan tarde en España.",
+    "ko": "스페인의 너무 늦은 식사 시간에 적응하는 것이 나에게는 꽤 힘들다.",
+    "audioUrl": {
+      "female": "/audio/female/s338.mp3",
+      "male": "/audio/male/s338.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Me cuesta mucho",
+        "pos": "동사구",
+        "meaning": "나에게 매우 힘들다/어렵다",
+        "note": "costar + 동사원형: ~하는 것이 힘들다"
+      },
+      {
+        "word": "adaptarme al horario",
+        "pos": "동사구",
+        "meaning": "시간표에 적응하다",
+        "note": "adaptarse a + el = al, el horario"
+      },
+      {
+        "word": "de comidas tan tarde",
+        "pos": "전치사구",
+        "meaning": "그렇게 늦은 식사의",
+        "note": "la comida"
+      },
+      {
+        "word": "en España",
+        "pos": "전치사구",
+        "meaning": "스페인에서",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "costar",
+        "meaning": "힘이 들다, 비용이 들다",
+        "tense": "직설법 현재",
+        "usedForm": "cuesta",
+        "conjugation": {
+          "yo": "cuesto",
+          "tu": "cuestas",
+          "el": "cuesta",
+          "nosotros": "costamos",
+          "vosotros": "costáis",
+          "ellos": "cuestan"
+        }
+      },
+      {
+        "infinitive": "adaptarse",
+        "meaning": "적응하다",
+        "tense": "동사원형+대명사",
+        "usedForm": "adaptarme",
+        "conjugation": {
+          "yo": "me adapto",
+          "tu": "te adaptas",
+          "el": "se adapta",
+          "nosotros": "nos adaptamos",
+          "vosotros": "os adaptáis",
+          "ellos": "se adaptan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s339",
+    "number": 339,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "Sería conveniente revisar los datos antes de presentar el informe final.",
+    "ko": "최종 보고서를 발표하기 전에 데이터를 다시 점검하는 것이 바람직할 것입니다.",
+    "audioUrl": {
+      "female": "/audio/female/s339.mp3",
+      "male": "/audio/male/s339.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Sería conveniente",
+        "pos": "비인칭구문",
+        "meaning": "~하는 것이 바람직할 것이다",
+        "note": "ser의 조건법 + 동사원형"
+      },
+      {
+        "word": "revisar los datos",
+        "pos": "동사구",
+        "meaning": "데이터를 점검하다",
+        "note": "el dato의 복수형"
+      },
+      {
+        "word": "antes de presentar",
+        "pos": "전치사구",
+        "meaning": "발표하기 전에",
+        "note": ""
+      },
+      {
+        "word": "el informe final",
+        "pos": "명사구",
+        "meaning": "최종 보고서",
+        "note": "el informe"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "조건법",
+        "usedForm": "Sería",
+        "conjugation": {
+          "yo": "sería",
+          "tu": "serías",
+          "el": "sería",
+          "nosotros": "seríamos",
+          "vosotros": "seríais",
+          "ellos": "serían"
+        }
+      },
+      {
+        "infinitive": "revisar",
+        "meaning": "점검하다, 검토하다",
+        "tense": "동사원형",
+        "usedForm": "revisar",
+        "conjugation": {
+          "yo": "reviso",
+          "tu": "revisas",
+          "el": "revisa",
+          "nosotros": "revisamos",
+          "vosotros": "revisáis",
+          "ellos": "revisan"
+        }
+      },
+      {
+        "infinitive": "presentar",
+        "meaning": "발표하다, 제출하다",
+        "tense": "동사원형",
+        "usedForm": "presentar",
+        "conjugation": {
+          "yo": "presento",
+          "tu": "presentas",
+          "el": "presenta",
+          "nosotros": "presentamos",
+          "vosotros": "presentáis",
+          "ellos": "presentan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s340",
+    "number": 340,
+    "level": "B1",
+    "category": "직장·사회·여행 문제 해결 및 토론 실전 표현",
+    "es": "En resumen, considero que esta solución es la más viable para todos.",
+    "ko": "요약하자면, 나는 이 해결책이 모두에게 가장 실현 가능하다고 생각합니다.",
+    "audioUrl": {
+      "female": "/audio/female/s340.mp3",
+      "male": "/audio/male/s340.mp3"
+    },
+    "vocab": [
+      {
+        "word": "En resumen",
+        "pos": "부사구",
+        "meaning": "요약하자면",
+        "note": "발표·토론 마무리 연결어"
+      },
+      {
+        "word": "considero que",
+        "pos": "동사구",
+        "meaning": "~라고 생각한다/간주한다",
+        "note": "considerar의 직설법 현재 1인칭 단수"
+      },
+      {
+        "word": "esta solución",
+        "pos": "명사구",
+        "meaning": "이 해결책",
+        "note": "la solución"
+      },
+      {
+        "word": "es la más viable",
+        "pos": "동사구",
+        "meaning": "가장 실현 가능하다",
+        "note": "viable = 실행 가능한"
+      },
+      {
+        "word": "para todos",
+        "pos": "전치사구",
+        "meaning": "모두에게",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "considerar",
+        "meaning": "생각하다, 간주하다",
+        "tense": "직설법 현재",
+        "usedForm": "considero",
+        "conjugation": {
+          "yo": "considero",
+          "tu": "consideras",
+          "el": "considera",
+          "nosotros": "consideramos",
+          "vosotros": "consideráis",
+          "ellos": "consideran"
+        }
+      },
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "직설법 현재",
+        "usedForm": "es",
+        "conjugation": {
+          "yo": "soy",
+          "tu": "eres",
+          "el": "es",
+          "nosotros": "somos",
+          "vosotros": "sois",
+          "ellos": "son"
+        }
+      }
+    ]
+  }
+]

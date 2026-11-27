@@ -1,0 +1,102 @@
+:root {
+  --surface: #f8f5ee;
+  --surface-card: #fffdf9;
+  --surface-container: #eae2d5;
+  --surface-container-low: #f3eee5;
+  --surface-highlight: #faf7f2;
+  --on-surface: #29221c;
+  --on-surface-variant: #665c54;
+  --on-surface-muted: #7d736a;
+  --primary: #85613d;
+  --on-primary: #ffffff;
+  --secondary: #634b2e;
+  --secondary-container: #ede5d6;
+  --border: #e6dfd3;
+  --border-light: #ebe5db;
+  --speaking-bar: #85613d;
+  --speaking-bg: #ede5d6;
+  --shadow-sm: 0 1px 3px rgba(99, 75, 46, 0.05);
+  --shadow-card: 0 4px 16px rgba(99, 75, 46, 0.05);
+}
+
+.dark {
+  --surface: #191512;
+  --surface-card: #231e1a;
+  --surface-container: #332b25;
+  --surface-container-low: #2b241f;
+  --surface-highlight: #3b322b;
+  --on-surface: #f5eee6;
+  --on-surface-variant: #c3b7ab;
+  --on-surface-muted: #9c8e80;
+  --primary: #d4a373;
+  --on-primary: #29221c;
+  --secondary: #deb887;
+  --secondary-container: #3d3126;
+  --border: #3d342d;
+  --border-light: #473d35;
+  --speaking-bar: #d4a373;
+  --speaking-bg: #3d3126;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-card: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button:focus,
+button:focus-visible {
+  outline: none;
+}
+
+body {
+  background-color: var(--surface);
+  color: var(--on-surface);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior: none;
+}
+
+/* Scrollbar hide */
+::-webkit-scrollbar {
+  display: none;
+}
+* {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Material Symbols */
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+  vertical-align: middle;
+  line-height: 1;
+}
+.material-symbols-outlined.fill {
+  font-variation-settings: 'FILL' 1;
+}
+
+/* Transitions */
+.smooth-transition {
+  transition: all 0.2s ease-in-out;
+}
+
+/* Ad Banner Safe Margin (Prevents bottom controls from overlapping) */
+.safe-ad-area {
+  padding-bottom: calc(env(safe-area-inset-bottom, 0px) + 68px);
+}
+
+.bottom-ad-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 56px;
+  background-color: var(--surface-card);
+  border-top: 1px solid var(--border);
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.04);
+}

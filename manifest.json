@@ -1,0 +1,17 @@
+{
+  "name": "Spanish Shadowing Studio",
+  "short_name": "ShadowCast",
+  "description": "스페인어 기초-중급(A1-B2) 440문장 섀도잉 스튜디오 PWA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f5ee",
+  "theme_color": "#85613d",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

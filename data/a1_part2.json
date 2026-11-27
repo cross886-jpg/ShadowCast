@@ -1,0 +1,3652 @@
+[
+  {
+    "id": "s066",
+    "number": 66,
+    "level": "A1",
+    "category": "일상 루틴·재귀동사",
+    "es": "¿A qué hora te acuestas normalmente?",
+    "ko": "너는 보통 몇 시에 잠자리에 드니?",
+    "audioUrl": {
+      "female": "/audio/female/s066.mp3",
+      "male": "/audio/male/s066.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿A qué hora...?",
+        "pos": "의문구",
+        "meaning": "몇 시에",
+        "note": ""
+      },
+      {
+        "word": "te",
+        "pos": "대명사",
+        "meaning": "너 자신을",
+        "note": "2인칭 재귀대명사"
+      },
+      {
+        "word": "acuestas",
+        "pos": "동사",
+        "meaning": "눕다/잠자리에 들다",
+        "note": "acostarse 2인칭 단수 현재 (o->ue 변형)"
+      },
+      {
+        "word": "normalmente",
+        "pos": "부사",
+        "meaning": "보통, 평소에",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "acostarse",
+        "meaning": "잠자리에 들다, 눕다",
+        "tense": "직설법 현재",
+        "usedForm": "te acuestas",
+        "conjugation": {
+          "yo": "me acuesto",
+          "tu": "te acuestas",
+          "el": "se acuesta",
+          "nosotros": "nos acostamos",
+          "vosotros": "os acostáis",
+          "ellos": "se acuestan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s067",
+    "number": 67,
+    "level": "A1",
+    "category": "일상 루틴·재귀동사",
+    "es": "Me duermo muy rápido por la noche.",
+    "ko": "나는 밤에 매우 빠르게 잠이 든다.",
+    "audioUrl": {
+      "female": "/audio/female/s067.mp3",
+      "male": "/audio/male/s067.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Me",
+        "pos": "대명사",
+        "meaning": "나 자신을",
+        "note": "1인칭 재귀대명사"
+      },
+      {
+        "word": "duermo",
+        "pos": "동사",
+        "meaning": "잠들다",
+        "note": "dormirse 1인칭 단수 현재 (o->ue 변형)"
+      },
+      {
+        "word": "muy",
+        "pos": "부사",
+        "meaning": "매우",
+        "note": ""
+      },
+      {
+        "word": "rápido",
+        "pos": "부사",
+        "meaning": "빠르게",
+        "note": ""
+      },
+      {
+        "word": "por la noche",
+        "pos": "전치사구",
+        "meaning": "밤에, 야간에",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "dormirse",
+        "meaning": "잠들다",
+        "tense": "직설법 현재",
+        "usedForm": "me duermo",
+        "conjugation": {
+          "yo": "me duermo",
+          "tu": "te duermes",
+          "el": "se duerme",
+          "nosotros": "nos dormimos",
+          "vosotros": "os dormís",
+          "ellos": "se duermen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s068",
+    "number": 68,
+    "level": "A1",
+    "category": "일상 루틴·재귀동사",
+    "es": "Mi padre se afeita todas las mañanas.",
+    "ko": "나의 아버지는 매일 아침 면도를 하신다.",
+    "audioUrl": {
+      "female": "/audio/female/s068.mp3",
+      "male": "/audio/male/s068.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Mi",
+        "pos": "소유형용사",
+        "meaning": "나의",
+        "note": ""
+      },
+      {
+        "word": "padre",
+        "pos": "명사",
+        "meaning": "아버지",
+        "note": "el padre"
+      },
+      {
+        "word": "se",
+        "pos": "대명사",
+        "meaning": "자기 자신을",
+        "note": "3인칭 재귀대명사"
+      },
+      {
+        "word": "afeita",
+        "pos": "동사",
+        "meaning": "면도하다",
+        "note": "afeitarse 3인칭 단수 현재"
+      },
+      {
+        "word": "todas las mañanas",
+        "pos": "명사구",
+        "meaning": "매일 아침마다",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "afeitarse",
+        "meaning": "면도하다",
+        "tense": "직설법 현재",
+        "usedForm": "se afeita",
+        "conjugation": {
+          "yo": "me afeito",
+          "tu": "te afeitas",
+          "el": "se afeita",
+          "nosotros": "nos afeitamos",
+          "vosotros": "os afeitáis",
+          "ellos": "se afeitan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s069",
+    "number": 69,
+    "level": "A1",
+    "category": "일상 루틴·재귀동사",
+    "es": "Hago ejercicio por las tardes.",
+    "ko": "나는 오후마다 운동을 한다.",
+    "audioUrl": {
+      "female": "/audio/female/s069.mp3",
+      "male": "/audio/male/s069.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Hago",
+        "pos": "동사",
+        "meaning": "나는 한다",
+        "note": "hacer 1인칭 단수 현재 (불규칙)"
+      },
+      {
+        "word": "ejercicio",
+        "pos": "명사",
+        "meaning": "운동, 연습",
+        "note": "el ejercicio"
+      },
+      {
+        "word": "por las tardes",
+        "pos": "전치사구",
+        "meaning": "오후마다",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "hacer",
+        "meaning": "하다, 만들다",
+        "tense": "직설법 현재",
+        "usedForm": "hago",
+        "conjugation": {
+          "yo": "hago",
+          "tu": "haces",
+          "el": "hace",
+          "nosotros": "hacemos",
+          "vosotros": "hacéis",
+          "ellos": "hacen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s070",
+    "number": 70,
+    "level": "A1",
+    "category": "일상 루틴·재귀동사",
+    "es": "Nos lavamos los dientes después de comer.",
+    "ko": "우리는 식사 후에 이빨을 닦는다.",
+    "audioUrl": {
+      "female": "/audio/female/s070.mp3",
+      "male": "/audio/male/s070.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Nos",
+        "pos": "대명사",
+        "meaning": "우리 자신에게",
+        "note": "1인칭 복수 재귀대명사"
+      },
+      {
+        "word": "lavamos",
+        "pos": "동사",
+        "meaning": "씻다",
+        "note": "lavarse 1인칭 복수 현재"
+      },
+      {
+        "word": "los",
+        "pos": "정관사",
+        "meaning": "그",
+        "note": ""
+      },
+      {
+        "word": "dientes",
+        "pos": "명사",
+        "meaning": "치아들",
+        "note": "el diente의 복수형"
+      },
+      {
+        "word": "después de",
+        "pos": "전치사구",
+        "meaning": "~ 후에",
+        "note": ""
+      },
+      {
+        "word": "comer",
+        "pos": "동사원형",
+        "meaning": "먹다, 식사하다",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "lavarse",
+        "meaning": "씻다",
+        "tense": "직설법 현재",
+        "usedForm": "nos lavamos",
+        "conjugation": {
+          "yo": "me lavo",
+          "tu": "te lavas",
+          "el": "se lava",
+          "nosotros": "nos lavamos",
+          "vosotros": "os laváis",
+          "ellos": "se lavan"
+        }
+      },
+      {
+        "infinitive": "comer",
+        "meaning": "먹다",
+        "tense": "동사원형",
+        "usedForm": "comer",
+        "conjugation": {
+          "yo": "como",
+          "tu": "comes",
+          "el": "come",
+          "nosotros": "comemos",
+          "vosotros": "coméis",
+          "ellos": "comen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s071",
+    "number": 71,
+    "level": "A1",
+    "category": "일상 루틴·재귀동사",
+    "es": "Siempre me maquillo antes de salir.",
+    "ko": "나는 외출하기 전에 항상 화장을 한다.",
+    "audioUrl": {
+      "female": "/audio/female/s071.mp3",
+      "male": "/audio/male/s071.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Siempre",
+        "pos": "부사",
+        "meaning": "항상, 언제나",
+        "note": ""
+      },
+      {
+        "word": "me",
+        "pos": "대명사",
+        "meaning": "나 자신을",
+        "note": "1인칭 재귀대명사"
+      },
+      {
+        "word": "maquillo",
+        "pos": "동사",
+        "meaning": "화장하다",
+        "note": "maquillarse 1인칭 단수 현재"
+      },
+      {
+        "word": "antes de",
+        "pos": "전치사구",
+        "meaning": "~ 전에",
+        "note": ""
+      },
+      {
+        "word": "salir",
+        "pos": "동사원형",
+        "meaning": "나가다, 외출하다",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "maquillarse",
+        "meaning": "화장하다",
+        "tense": "직설법 현재",
+        "usedForm": "me maquillo",
+        "conjugation": {
+          "yo": "me maquillo",
+          "tu": "te maquillas",
+          "el": "se maquilla",
+          "nosotros": "nos maquillamos",
+          "vosotros": "os maquilláis",
+          "ellos": "se maquillan"
+        }
+      },
+      {
+        "infinitive": "salir",
+        "meaning": "나가다",
+        "tense": "동사원형",
+        "usedForm": "salir",
+        "conjugation": {
+          "yo": "salgo",
+          "tu": "sales",
+          "el": "sale",
+          "nosotros": "salimos",
+          "vosotros": "salís",
+          "ellos": "salen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s072",
+    "number": 72,
+    "level": "A1",
+    "category": "일상 루틴·재귀동사",
+    "es": "¿Te bañas o te duchas?",
+    "ko": "너는 욕조 목욕을 하니, 아니면 샤워를 하니?",
+    "audioUrl": {
+      "female": "/audio/female/s072.mp3",
+      "male": "/audio/male/s072.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Te",
+        "pos": "대명사",
+        "meaning": "너 자신을",
+        "note": "2인칭 재귀대명사"
+      },
+      {
+        "word": "bañas",
+        "pos": "동사",
+        "meaning": "목욕하다",
+        "note": "bañarse 2인칭 단수 현재"
+      },
+      {
+        "word": "o",
+        "pos": "접속사",
+        "meaning": "또는",
+        "note": ""
+      },
+      {
+        "word": "duchas",
+        "pos": "동사",
+        "meaning": "샤워하다",
+        "note": "ducharse 2인칭 단수 현재"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "bañarse",
+        "meaning": "목욕하다",
+        "tense": "직설법 현재",
+        "usedForm": "te bañas",
+        "conjugation": {
+          "yo": "me baño",
+          "tu": "te bañas",
+          "el": "se baña",
+          "nosotros": "nos bañamos",
+          "vosotros": "os bañáis",
+          "ellos": "se bañan"
+        }
+      },
+      {
+        "infinitive": "ducharse",
+        "meaning": "샤워하다",
+        "tense": "직설법 현재",
+        "usedForm": "te duchas",
+        "conjugation": {
+          "yo": "me ducho",
+          "tu": "te duchas",
+          "el": "se ducha",
+          "nosotros": "nos duchamos",
+          "vosotros": "os ducháis",
+          "ellos": "se duchan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s073",
+    "number": 73,
+    "level": "A1",
+    "category": "일상 루틴·재귀동사",
+    "es": "Mis amigos se despiertan muy temprano.",
+    "ko": "내 친구들은 매우 일찍 깨어난다(일어난다).",
+    "audioUrl": {
+      "female": "/audio/female/s073.mp3",
+      "male": "/audio/male/s073.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Mis",
+        "pos": "소유형용사",
+        "meaning": "나의",
+        "note": "복수"
+      },
+      {
+        "word": "amigos",
+        "pos": "명사",
+        "meaning": "친구들",
+        "note": "el amigo의 복수형"
+      },
+      {
+        "word": "se",
+        "pos": "대명사",
+        "meaning": "자기 자신들을",
+        "note": "3인칭 복수 재귀대명사"
+      },
+      {
+        "word": "despiertan",
+        "pos": "동사",
+        "meaning": "깨어나다",
+        "note": "despertarse 3인칭 복수 현재 (e->ie 변형)"
+      },
+      {
+        "word": "muy",
+        "pos": "부사",
+        "meaning": "매우",
+        "note": ""
+      },
+      {
+        "word": "temprano",
+        "pos": "부사",
+        "meaning": "일찍",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "despertarse",
+        "meaning": "잠에서 깨다",
+        "tense": "직설법 현재",
+        "usedForm": "se despiertan",
+        "conjugation": {
+          "yo": "me despierto",
+          "tu": "te despiertas",
+          "el": "se despierta",
+          "nosotros": "nos despertamos",
+          "vosotros": "os despertáis",
+          "ellos": "se despiertan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s074",
+    "number": 74,
+    "level": "A1",
+    "category": "일상 루틴·재귀동사",
+    "es": "¿A qué hora os acostáis los fines de semana?",
+    "ko": "너희는 주말에 몇 시에 잠자리에 드니?",
+    "audioUrl": {
+      "female": "/audio/female/s074.mp3",
+      "male": "/audio/male/s074.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿A qué hora...?",
+        "pos": "의문구",
+        "meaning": "몇 시에",
+        "note": ""
+      },
+      {
+        "word": "os",
+        "pos": "대명사",
+        "meaning": "너희 자신들을",
+        "note": "2인칭 복수 재귀대명사"
+      },
+      {
+        "word": "acostáis",
+        "pos": "동사",
+        "meaning": "잠자리에 들다",
+        "note": "acostarse 2인칭 복수 현재"
+      },
+      {
+        "word": "los fines de semana",
+        "pos": "명사구",
+        "meaning": "주말마다",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "acostarse",
+        "meaning": "잠자리에 들다",
+        "tense": "직설법 현재",
+        "usedForm": "os acostáis",
+        "conjugation": {
+          "yo": "me acuesto",
+          "tu": "te acuestas",
+          "el": "se acuesta",
+          "nosotros": "nos acostamos",
+          "vosotros": "os acostáis",
+          "ellos": "se acuestan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s075",
+    "number": 75,
+    "level": "A1",
+    "category": "일상 루틴·재귀동사",
+    "es": "Leo un libro antes de dormirme.",
+    "ko": "나는 잠들기 전에 책을 한 권 읽는다.",
+    "audioUrl": {
+      "female": "/audio/female/s075.mp3",
+      "male": "/audio/male/s075.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Leo",
+        "pos": "동사",
+        "meaning": "나는 읽는다",
+        "note": "leer 1인칭 단수 현재"
+      },
+      {
+        "word": "un",
+        "pos": "부정관사",
+        "meaning": "하나의",
+        "note": ""
+      },
+      {
+        "word": "libro",
+        "pos": "명사",
+        "meaning": "책",
+        "note": "el libro"
+      },
+      {
+        "word": "antes de",
+        "pos": "전치사구",
+        "meaning": "~ 전에",
+        "note": ""
+      },
+      {
+        "word": "dormirme",
+        "pos": "동사원형+대명사",
+        "meaning": "내가 잠들다",
+        "note": "dormirse + me"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "leer",
+        "meaning": "읽다",
+        "tense": "직설법 현재",
+        "usedForm": "leo",
+        "conjugation": {
+          "yo": "leo",
+          "tu": "lees",
+          "el": "lee",
+          "nosotros": "leemos",
+          "vosotros": "leéis",
+          "ellos": "leen"
+        }
+      },
+      {
+        "infinitive": "dormirse",
+        "meaning": "잠들다",
+        "tense": "동사원형+대명사",
+        "usedForm": "dormirme",
+        "conjugation": {
+          "yo": "me duermo",
+          "tu": "te duermes",
+          "el": "se duerme",
+          "nosotros": "nos dormimos",
+          "vosotros": "os dormís",
+          "ellos": "se duermen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s076",
+    "number": 76,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "¿Qué desea tomar?",
+    "ko": "무엇을 드시겠습니까? (주문 받기)",
+    "audioUrl": {
+      "female": "/audio/female/s076.mp3",
+      "male": "/audio/male/s076.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Qué...?",
+        "pos": "의문사",
+        "meaning": "무엇",
+        "note": ""
+      },
+      {
+        "word": "desea",
+        "pos": "동사",
+        "meaning": "당신은 원하다/바라다",
+        "note": "desear 3인칭 단수 현재 (존칭)"
+      },
+      {
+        "word": "tomar",
+        "pos": "동사원형",
+        "meaning": "먹다, 마시다, 취하다",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "desear",
+        "meaning": "바라다, 원하다",
+        "tense": "직설법 현재",
+        "usedForm": "desea",
+        "conjugation": {
+          "yo": "deseo",
+          "tu": "deseas",
+          "el": "desea",
+          "nosotros": "deseamos",
+          "vosotros": "deseáis",
+          "ellos": "desean"
+        }
+      },
+      {
+        "infinitive": "tomar",
+        "meaning": "마시다, 먹다",
+        "tense": "동사원형",
+        "usedForm": "tomar",
+        "conjugation": {
+          "yo": "tomo",
+          "tu": "tomas",
+          "el": "toma",
+          "nosotros": "tomamos",
+          "vosotros": "tomáis",
+          "ellos": "toman"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s077",
+    "number": 77,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "Para mí, un café con leche, por favor.",
+    "ko": "저에게는 라떼(우유 넣은 커피) 한 잔 주세요.",
+    "audioUrl": {
+      "female": "/audio/female/s077.mp3",
+      "male": "/audio/male/s077.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Para mí",
+        "pos": "전치사구",
+        "meaning": "나에게는, 내 몫으로는",
+        "note": "mí는 전치사 뒤 강세 부호 표기"
+      },
+      {
+        "word": "un",
+        "pos": "부정관사",
+        "meaning": "하나의",
+        "note": ""
+      },
+      {
+        "word": "café con leche",
+        "pos": "명사구",
+        "meaning": "우유가 들어간 커피 (카페라떼)",
+        "note": "el café, la leche"
+      },
+      {
+        "word": "por favor",
+        "pos": "관용구",
+        "meaning": "부탁합니다, 제발",
+        "note": ""
+      }
+    ],
+    "verbs": []
+  },
+  {
+    "id": "s078",
+    "number": 78,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "¿Cuánto cuesta este libro?",
+    "ko": "이 책은 얼마인가요?",
+    "audioUrl": {
+      "female": "/audio/female/s078.mp3",
+      "male": "/audio/male/s078.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Cuánto...?",
+        "pos": "의문사",
+        "meaning": "얼마, 얼마나 많이",
+        "note": ""
+      },
+      {
+        "word": "cuesta",
+        "pos": "동사",
+        "meaning": "(가격이) ~이다",
+        "note": "costar 3인칭 단수 현재 (o->ue 변형)"
+      },
+      {
+        "word": "este",
+        "pos": "지시형용사",
+        "meaning": "이",
+        "note": "남성 단수"
+      },
+      {
+        "word": "libro",
+        "pos": "명사",
+        "meaning": "책",
+        "note": "el libro"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "costar",
+        "meaning": "비용이 들다, 가격이 ~이다",
+        "tense": "직설법 현재",
+        "usedForm": "cuesta",
+        "conjugation": {
+          "yo": "cuesto",
+          "tu": "cuestas",
+          "el": "cuesta",
+          "nosotros": "costamos",
+          "vosotros": "costáis",
+          "ellos": "cuestan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s079",
+    "number": 79,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "Quisiera una mesa para dos personas.",
+    "ko": "2명용 테이블 하나 부탁합니다 (예약/방문).",
+    "audioUrl": {
+      "female": "/audio/female/s079.mp3",
+      "male": "/audio/male/s079.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Quisiera",
+        "pos": "동사",
+        "meaning": "~하고 싶습니다",
+        "note": "querer 접속법 과거 (정중·공손한 요청)"
+      },
+      {
+        "word": "una",
+        "pos": "부정관사",
+        "meaning": "하나의",
+        "note": ""
+      },
+      {
+        "word": "mesa",
+        "pos": "명사",
+        "meaning": "테이블, 식탁",
+        "note": "la mesa"
+      },
+      {
+        "word": "para",
+        "pos": "전치사",
+        "meaning": "~를 위한",
+        "note": ""
+      },
+      {
+        "word": "dos",
+        "pos": "수사",
+        "meaning": "2 (둘)",
+        "note": ""
+      },
+      {
+        "word": "personas",
+        "pos": "명사",
+        "meaning": "사람들",
+        "note": "la persona의 복수형"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "querer",
+        "meaning": "원하다",
+        "tense": "접속법 과거 (공손 요청)",
+        "usedForm": "quisiera",
+        "conjugation": {
+          "yo": "quisiera",
+          "tu": "quisieras",
+          "el": "quisiera",
+          "nosotros": "quisiéramos",
+          "vosotros": "quisierais",
+          "ellos": "quisieran"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s080",
+    "number": 80,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "La cuenta, por favor.",
+    "ko": "계산서 주세요.",
+    "audioUrl": {
+      "female": "/audio/female/s080.mp3",
+      "male": "/audio/male/s080.mp3"
+    },
+    "vocab": [
+      {
+        "word": "La",
+        "pos": "정관사",
+        "meaning": "그",
+        "note": ""
+      },
+      {
+        "word": "cuenta",
+        "pos": "명사",
+        "meaning": "계산서, 계좌",
+        "note": "la cuenta"
+      },
+      {
+        "word": "por favor",
+        "pos": "관용구",
+        "meaning": "부탁합니다",
+        "note": ""
+      }
+    ],
+    "verbs": []
+  },
+  {
+    "id": "s081",
+    "number": 81,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "¿Tiene este pantalón en talla M?",
+    "ko": "이 바지 M 사이즈 있나요?",
+    "audioUrl": {
+      "female": "/audio/female/s081.mp3",
+      "male": "/audio/male/s081.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Tiene...?",
+        "pos": "동사",
+        "meaning": "가지고 있습니까?",
+        "note": "tener 3인칭 단수 현재 (usted 존칭)"
+      },
+      {
+        "word": "este",
+        "pos": "지시형용사",
+        "meaning": "이",
+        "note": ""
+      },
+      {
+        "word": "pantalón",
+        "pos": "명사",
+        "meaning": "바지",
+        "note": "el pantalón"
+      },
+      {
+        "word": "en",
+        "pos": "전치사",
+        "meaning": "~로, ~의 상태로",
+        "note": ""
+      },
+      {
+        "word": "talla",
+        "pos": "명사",
+        "meaning": "의류 치수, 사이즈",
+        "note": "la talla"
+      },
+      {
+        "word": "M",
+        "pos": "명사",
+        "meaning": "M (Medium)",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "tener",
+        "meaning": "가지다",
+        "tense": "직설법 현재",
+        "usedForm": "tiene",
+        "conjugation": {
+          "yo": "tengo",
+          "tu": "tienes",
+          "el": "tiene",
+          "nosotros": "tenemos",
+          "vosotros": "tenéis",
+          "ellos": "tienen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s082",
+    "number": 82,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "¿Puedo pagar con tarjeta de crédito?",
+    "ko": "신용카드로 결제할 수 있나요?",
+    "audioUrl": {
+      "female": "/audio/female/s082.mp3",
+      "male": "/audio/male/s082.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Puedo...?",
+        "pos": "동사",
+        "meaning": "내가 ~할 수 있습니까?",
+        "note": "poder 1인칭 단수 현재 (o->ue 변형)"
+      },
+      {
+        "word": "pagar",
+        "pos": "동사원형",
+        "meaning": "지불하다, 결제하다",
+        "note": ""
+      },
+      {
+        "word": "con",
+        "pos": "전치사",
+        "meaning": "~로",
+        "note": "결제 수단"
+      },
+      {
+        "word": "tarjeta de crédito",
+        "pos": "명사구",
+        "meaning": "신용카드",
+        "note": "la tarjeta de crédito"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "poder",
+        "meaning": "~할 수 있다",
+        "tense": "직설법 현재",
+        "usedForm": "puedo",
+        "conjugation": {
+          "yo": "puedo",
+          "tu": "puedes",
+          "el": "puede",
+          "nosotros": "podemos",
+          "vosotros": "podéis",
+          "ellos": "pueden"
+        }
+      },
+      {
+        "infinitive": "pagar",
+        "meaning": "지불하다",
+        "tense": "동사원형",
+        "usedForm": "pagar",
+        "conjugation": {
+          "yo": "pago",
+          "tu": "pagas",
+          "el": "paga",
+          "nosotros": "pagamos",
+          "vosotros": "pagáis",
+          "ellos": "pagan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s083",
+    "number": 83,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "¿Cuánto valen estas manzanas?",
+    "ko": "이 사과들은 얼마인가요?",
+    "audioUrl": {
+      "female": "/audio/female/s083.mp3",
+      "male": "/audio/male/s083.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Cuánto...?",
+        "pos": "의문사",
+        "meaning": "얼마",
+        "note": ""
+      },
+      {
+        "word": "valen",
+        "pos": "동사",
+        "meaning": "가치가 나가다, 가격이 ~이다",
+        "note": "valer 3인칭 복수 현재"
+      },
+      {
+        "word": "estas",
+        "pos": "지시형용사",
+        "meaning": "이",
+        "note": "여성 복수형"
+      },
+      {
+        "word": "manzanas",
+        "pos": "명사",
+        "meaning": "사과들",
+        "note": "la manzana의 복수형"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "valer",
+        "meaning": "가치가 있다, 가격이 ~이다",
+        "tense": "직설법 현재",
+        "usedForm": "valen",
+        "conjugation": {
+          "yo": "valgo",
+          "tu": "vales",
+          "el": "vale",
+          "nosotros": "valemos",
+          "vosotros": "valéis",
+          "ellos": "valen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s084",
+    "number": 84,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "De segundo plato quiero pescado.",
+    "ko": "두 번째 요리(메인 요리)로는 생선을 원합니다.",
+    "audioUrl": {
+      "female": "/audio/female/s084.mp3",
+      "male": "/audio/male/s084.mp3"
+    },
+    "vocab": [
+      {
+        "word": "De segundo plato",
+        "pos": "전치사구",
+        "meaning": "두 번째 요리(메인)로서",
+        "note": "el segundo plato"
+      },
+      {
+        "word": "quiero",
+        "pos": "동사",
+        "meaning": "나는 원한다",
+        "note": "querer 1인칭 단수 현재 (e->ie 변형)"
+      },
+      {
+        "word": "pescado",
+        "pos": "명사",
+        "meaning": "생선 요리",
+        "note": "el pescado"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "querer",
+        "meaning": "원하다",
+        "tense": "직설법 현재",
+        "usedForm": "quiero",
+        "conjugation": {
+          "yo": "quiero",
+          "tu": "quieres",
+          "el": "quiere",
+          "nosotros": "queremos",
+          "vosotros": "queréis",
+          "ellos": "quieren"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s085",
+    "number": 85,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "¿Tienen menú del día?",
+    "ko": "오늘의 정식(오늘의 메뉴)이 있나요?",
+    "audioUrl": {
+      "female": "/audio/female/s085.mp3",
+      "male": "/audio/male/s085.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Tienen...?",
+        "pos": "동사",
+        "meaning": "가지고 계십니까?",
+        "note": "tener 3인칭 복수 현재"
+      },
+      {
+        "word": "menú del día",
+        "pos": "명사구",
+        "meaning": "오늘의 정식/메뉴",
+        "note": "el menú del día (del = de + el)"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "tener",
+        "meaning": "가지다",
+        "tense": "직설법 현재",
+        "usedForm": "tienen",
+        "conjugation": {
+          "yo": "tengo",
+          "tu": "tienes",
+          "el": "tiene",
+          "nosotros": "tenemos",
+          "vosotros": "tenéis",
+          "ellos": "tienen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s086",
+    "number": 86,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "Esta camisa es muy cara.",
+    "ko": "이 셔츠는 매우 비싸다.",
+    "audioUrl": {
+      "female": "/audio/female/s086.mp3",
+      "male": "/audio/male/s086.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Esta",
+        "pos": "지시형용사",
+        "meaning": "이",
+        "note": "여성 단수"
+      },
+      {
+        "word": "camisa",
+        "pos": "명사",
+        "meaning": "셔츠",
+        "note": "la camisa"
+      },
+      {
+        "word": "es",
+        "pos": "동사",
+        "meaning": "~이다",
+        "note": "ser 3인칭 단수 현재"
+      },
+      {
+        "word": "muy",
+        "pos": "부사",
+        "meaning": "매우",
+        "note": ""
+      },
+      {
+        "word": "cara",
+        "pos": "형용사",
+        "meaning": "비싼",
+        "note": "여성 단수형"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "직설법 현재",
+        "usedForm": "es",
+        "conjugation": {
+          "yo": "soy",
+          "tu": "eres",
+          "el": "es",
+          "nosotros": "somos",
+          "vosotros": "sois",
+          "ellos": "son"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s087",
+    "number": 87,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "Busco un regalo para mi amigo.",
+    "ko": "내 친구를 위한 선물을 찾고 있습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s087.mp3",
+      "male": "/audio/male/s087.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Busco",
+        "pos": "동사",
+        "meaning": "나는 찾는다",
+        "note": "buscar 1인칭 단수 현재"
+      },
+      {
+        "word": "un",
+        "pos": "부정관사",
+        "meaning": "하나의",
+        "note": ""
+      },
+      {
+        "word": "regalo",
+        "pos": "명사",
+        "meaning": "선물",
+        "note": "el regalo"
+      },
+      {
+        "word": "para",
+        "pos": "전치사",
+        "meaning": "~를 위한",
+        "note": ""
+      },
+      {
+        "word": "mi",
+        "pos": "소유형용사",
+        "meaning": "나의",
+        "note": ""
+      },
+      {
+        "word": "amigo",
+        "pos": "명사",
+        "meaning": "친구 (남자)",
+        "note": "el amigo"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "buscar",
+        "meaning": "찾다",
+        "tense": "직설법 현재",
+        "usedForm": "busco",
+        "conjugation": {
+          "yo": "busco",
+          "tu": "buscas",
+          "el": "busca",
+          "nosotros": "buscamos",
+          "vosotros": "buscáis",
+          "ellos": "buscan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s088",
+    "number": 88,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "¿Me trae un poco más de agua, por favor?",
+    "ko": "물 좀 더 가져다주시겠어요?",
+    "audioUrl": {
+      "female": "/audio/female/s088.mp3",
+      "male": "/audio/male/s088.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Me",
+        "pos": "대명사",
+        "meaning": "나에게",
+        "note": "1인칭 간접목적격"
+      },
+      {
+        "word": "trae",
+        "pos": "동사",
+        "meaning": "가져오다",
+        "note": "traer 3인칭 단수 현재 (존칭)"
+      },
+      {
+        "word": "un poco más de",
+        "pos": "수량구",
+        "meaning": "약간 더 많은",
+        "note": ""
+      },
+      {
+        "word": "agua",
+        "pos": "명사",
+        "meaning": "물",
+        "note": "el agua"
+      },
+      {
+        "word": "por favor",
+        "pos": "관용구",
+        "meaning": "부탁합니다",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "traer",
+        "meaning": "가져오다",
+        "tense": "직설법 현재",
+        "usedForm": "trae",
+        "conjugation": {
+          "yo": "traigo",
+          "tu": "traes",
+          "el": "trae",
+          "nosotros": "traemos",
+          "vosotros": "traéis",
+          "ellos": "traen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s089",
+    "number": 89,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "¿Tienen descuentos para estudiantes?",
+    "ko": "학생 할인이 있나요?",
+    "audioUrl": {
+      "female": "/audio/female/s089.mp3",
+      "male": "/audio/male/s089.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Tienen...?",
+        "pos": "동사",
+        "meaning": "있습니까 / 가지고 계십니까",
+        "note": "tener 3인칭 복수 현재"
+      },
+      {
+        "word": "descuentos",
+        "pos": "명사",
+        "meaning": "할인들",
+        "note": "el descuento의 복수형"
+      },
+      {
+        "word": "para",
+        "pos": "전치사",
+        "meaning": "~를 위한",
+        "note": ""
+      },
+      {
+        "word": "estudiantes",
+        "pos": "명사",
+        "meaning": "학생들",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "tener",
+        "meaning": "가지다",
+        "tense": "직설법 현재",
+        "usedForm": "tienen",
+        "conjugation": {
+          "yo": "tengo",
+          "tu": "tienes",
+          "el": "tiene",
+          "nosotros": "tenemos",
+          "vosotros": "tenéis",
+          "ellos": "tienen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s090",
+    "number": 90,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "Voy a comprar pan en la panadería.",
+    "ko": "나는 빵집에서 빵을 살 것이다.",
+    "audioUrl": {
+      "female": "/audio/female/s090.mp3",
+      "male": "/audio/male/s090.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Voy a",
+        "pos": "동사구",
+        "meaning": "~할 예정이다",
+        "note": "ir a + 동사원형 (1인칭 단수)"
+      },
+      {
+        "word": "comprar",
+        "pos": "동사원형",
+        "meaning": "사다, 구매하다",
+        "note": ""
+      },
+      {
+        "word": "pan",
+        "pos": "명사",
+        "meaning": "빵",
+        "note": "el pan"
+      },
+      {
+        "word": "en",
+        "pos": "전치사",
+        "meaning": "~에서",
+        "note": ""
+      },
+      {
+        "word": "la panadería",
+        "pos": "명사구",
+        "meaning": "빵집, 제과점",
+        "note": "la panadería"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "voy",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "comprar",
+        "meaning": "사다",
+        "tense": "동사원형",
+        "usedForm": "comprar",
+        "conjugation": {
+          "yo": "compro",
+          "tu": "compras",
+          "el": "compra",
+          "nosotros": "compramos",
+          "vosotros": "compráis",
+          "ellos": "compran"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s091",
+    "number": 91,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "¿Dónde están los probadores?",
+    "ko": "피팅룸(탈의실)은 어디에 있나요?",
+    "audioUrl": {
+      "female": "/audio/female/s091.mp3",
+      "male": "/audio/male/s091.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Dónde...?",
+        "pos": "의문사",
+        "meaning": "어디에",
+        "note": ""
+      },
+      {
+        "word": "están",
+        "pos": "동사",
+        "meaning": "있다",
+        "note": "estar 3인칭 복수 현재"
+      },
+      {
+        "word": "los probadores",
+        "pos": "명사구",
+        "meaning": "피팅룸들, 탈의실들",
+        "note": "el probador의 복수형"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "estar",
+        "meaning": "위치해 있다",
+        "tense": "직설법 현재",
+        "usedForm": "están",
+        "conjugation": {
+          "yo": "estoy",
+          "tu": "estás",
+          "el": "está",
+          "nosotros": "estamos",
+          "vosotros": "estáis",
+          "ellos": "están"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s092",
+    "number": 92,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "Queremos pedir el postre.",
+    "ko": "저희는 디저트를 주문하고 싶습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s092.mp3",
+      "male": "/audio/male/s092.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Queremos",
+        "pos": "동사",
+        "meaning": "우리는 원한다",
+        "note": "querer 1인칭 복수 현재"
+      },
+      {
+        "word": "pedir",
+        "pos": "동사원형",
+        "meaning": "주문하다, 요청하다",
+        "note": ""
+      },
+      {
+        "word": "el postre",
+        "pos": "명사구",
+        "meaning": "디저트, 후식",
+        "note": "el postre"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "querer",
+        "meaning": "원하다",
+        "tense": "직설법 현재",
+        "usedForm": "queremos",
+        "conjugation": {
+          "yo": "quiero",
+          "tu": "quieres",
+          "el": "quiere",
+          "nosotros": "queremos",
+          "vosotros": "queréis",
+          "ellos": "quieren"
+        }
+      },
+      {
+        "infinitive": "pedir",
+        "meaning": "주문하다",
+        "tense": "동사원형",
+        "usedForm": "pedir",
+        "conjugation": {
+          "yo": "pido",
+          "tu": "pides",
+          "el": "pide",
+          "nosotros": "pedimos",
+          "vosotros": "pedís",
+          "ellos": "piden"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s093",
+    "number": 93,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "Me queda bien este vestido.",
+    "ko": "이 드레스(원피스)는 나에게 잘 맞는다.",
+    "audioUrl": {
+      "female": "/audio/female/s093.mp3",
+      "male": "/audio/male/s093.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Me",
+        "pos": "대명사",
+        "meaning": "나에게",
+        "note": "1인칭 간접목적격"
+      },
+      {
+        "word": "queda bien",
+        "pos": "동사구",
+        "meaning": "잘 맞다, 어울리다",
+        "note": "quedar 3인칭 단수 현재 + bien"
+      },
+      {
+        "word": "este",
+        "pos": "지시형용사",
+        "meaning": "이",
+        "note": ""
+      },
+      {
+        "word": "vestido",
+        "pos": "명사",
+        "meaning": "원피스, 드레스",
+        "note": "el vestido"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "quedar",
+        "meaning": "어울리다, 남다",
+        "tense": "직설법 현재",
+        "usedForm": "queda",
+        "conjugation": {
+          "yo": "quedo",
+          "tu": "quedas",
+          "el": "queda",
+          "nosotros": "quedamos",
+          "vosotros": "quedáis",
+          "ellos": "quedan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s094",
+    "number": 94,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "¿Puedo probarme esta chaqueta?",
+    "ko": "이 재킷을 입어봐도 될까요?",
+    "audioUrl": {
+      "female": "/audio/female/s094.mp3",
+      "male": "/audio/male/s094.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Puedo...?",
+        "pos": "동사",
+        "meaning": "내가 ~할 수 있습니까?",
+        "note": "poder 1인칭 단수"
+      },
+      {
+        "word": "probarme",
+        "pos": "동사원형+대명사",
+        "meaning": "내가 입어보다",
+        "note": "probarse + me"
+      },
+      {
+        "word": "esta",
+        "pos": "지시형용사",
+        "meaning": "이",
+        "note": "여성 단수"
+      },
+      {
+        "word": "chaqueta",
+        "pos": "명사",
+        "meaning": "재킷, 상의",
+        "note": "la chaqueta"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "poder",
+        "meaning": "~할 수 있다",
+        "tense": "직설법 현재",
+        "usedForm": "puedo",
+        "conjugation": {
+          "yo": "puedo",
+          "tu": "puedes",
+          "el": "puede",
+          "nosotros": "podemos",
+          "vosotros": "podéis",
+          "ellos": "pueden"
+        }
+      },
+      {
+        "infinitive": "probarse",
+        "meaning": "입어보다, 착용해보다",
+        "tense": "동사원형+대명사",
+        "usedForm": "probarme",
+        "conjugation": {
+          "yo": "me pruebo",
+          "tu": "te pruebas",
+          "el": "se prueba",
+          "nosotros": "nos probamos",
+          "vosotros": "os probáis",
+          "ellos": "se prueban"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s095",
+    "number": 95,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "Pago en efectivo.",
+    "ko": "현금으로 결제하겠습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s095.mp3",
+      "male": "/audio/male/s095.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Pago",
+        "pos": "동사",
+        "meaning": "나는 지불한다",
+        "note": "pagar 1인칭 단수 현재"
+      },
+      {
+        "word": "en efectivo",
+        "pos": "전치사구",
+        "meaning": "현금으로",
+        "note": "el efectivo"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "pagar",
+        "meaning": "지불하다",
+        "tense": "직설법 현재",
+        "usedForm": "pago",
+        "conjugation": {
+          "yo": "pago",
+          "tu": "pagas",
+          "el": "paga",
+          "nosotros": "pagamos",
+          "vosotros": "pagáis",
+          "ellos": "pagan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s096",
+    "number": 96,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "¿Tiene alguna mesa libre?",
+    "ko": "빈 테이블이 혹시 있나요?",
+    "audioUrl": {
+      "female": "/audio/female/s096.mp3",
+      "male": "/audio/male/s096.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Tiene...?",
+        "pos": "동사",
+        "meaning": "있습니까 / 가지고 계십니까",
+        "note": "tener 3인칭 단수 현재 (존칭)"
+      },
+      {
+        "word": "alguna",
+        "pos": "부정형용사",
+        "meaning": "어떤, 무슨",
+        "note": "여성 단수 명사 수식"
+      },
+      {
+        "word": "mesa",
+        "pos": "명사",
+        "meaning": "테이블",
+        "note": "la mesa"
+      },
+      {
+        "word": "libre",
+        "pos": "형용사",
+        "meaning": "비어있는, 자유로운",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "tener",
+        "meaning": "가지다",
+        "tense": "직설법 현재",
+        "usedForm": "tiene",
+        "conjugation": {
+          "yo": "tengo",
+          "tu": "tienes",
+          "el": "tiene",
+          "nosotros": "tenemos",
+          "vosotros": "tenéis",
+          "ellos": "tienen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s097",
+    "number": 97,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "El servicio está incluido.",
+    "ko": "봉사료(서비스 요금)가 포함되어 있습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s097.mp3",
+      "male": "/audio/male/s097.mp3"
+    },
+    "vocab": [
+      {
+        "word": "El servicio",
+        "pos": "명사구",
+        "meaning": "서비스, 봉사료",
+        "note": "el servicio"
+      },
+      {
+        "word": "está",
+        "pos": "동사",
+        "meaning": "~한 상태이다",
+        "note": "estar 3인칭 단수 현재"
+      },
+      {
+        "word": "incluido",
+        "pos": "형용사/과거분사",
+        "meaning": "포함된",
+        "note": "incluir의 과거분사형"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "estar",
+        "meaning": "상태가 ~하다",
+        "tense": "직설법 현재",
+        "usedForm": "está",
+        "conjugation": {
+          "yo": "estoy",
+          "tu": "estás",
+          "el": "está",
+          "nosotros": "estamos",
+          "vosotros": "estáis",
+          "ellos": "están"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s098",
+    "number": 98,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "¿Aceptan tarjetas de débito?",
+    "ko": "직불카드를 받으시나요?",
+    "audioUrl": {
+      "female": "/audio/female/s098.mp3",
+      "male": "/audio/male/s098.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Aceptan...?",
+        "pos": "동사",
+        "meaning": "수락합니까 / 받습니까?",
+        "note": "aceptar 3인칭 복수 현재"
+      },
+      {
+        "word": "tarjetas de débito",
+        "pos": "명사구",
+        "meaning": "직불카드, 체크카드",
+        "note": "la tarjeta de débito"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "aceptar",
+        "meaning": "수락하다, 받다",
+        "tense": "직설법 현재",
+        "usedForm": "aceptan",
+        "conjugation": {
+          "yo": "acepto",
+          "tu": "aceptas",
+          "el": "acepta",
+          "nosotros": "aceptamos",
+          "vosotros": "aceptáis",
+          "ellos": "aceptan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s099",
+    "number": 99,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "Necesito un ticket de compra.",
+    "ko": "영수증이 필요합니다.",
+    "audioUrl": {
+      "female": "/audio/female/s099.mp3",
+      "male": "/audio/male/s099.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Necesito",
+        "pos": "동사",
+        "meaning": "나는 필요로 한다",
+        "note": "necesitar 1인칭 단수 현재"
+      },
+      {
+        "word": "un ticket de compra",
+        "pos": "명사구",
+        "meaning": "구매 영수증",
+        "note": "el ticket de compra"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "necesitar",
+        "meaning": "필요로 하다",
+        "tense": "직설법 현재",
+        "usedForm": "necesito",
+        "conjugation": {
+          "yo": "necesito",
+          "tu": "necesitas",
+          "el": "necesita",
+          "nosotros": "necesitamos",
+          "vosotros": "necesitáis",
+          "ellos": "necesitan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s100",
+    "number": 100,
+    "level": "A1",
+    "category": "식당·음식 주문·쇼핑",
+    "es": "Quiero cambiar este jersey por otra talla.",
+    "ko": "이 니트(스웨터)를 다른 사이즈로 교환하고 싶습니다.",
+    "audioUrl": {
+      "female": "/audio/female/s100.mp3",
+      "male": "/audio/male/s100.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Quiero",
+        "pos": "동사",
+        "meaning": "나는 원한다",
+        "note": "querer 1인칭 단수 현재"
+      },
+      {
+        "word": "cambiar",
+        "pos": "동사원형",
+        "meaning": "바꾸다, 교환하다",
+        "note": ""
+      },
+      {
+        "word": "este jersey",
+        "pos": "명사구",
+        "meaning": "이 스웨터/니트",
+        "note": "el jersey"
+      },
+      {
+        "word": "por otra talla",
+        "pos": "전치사구",
+        "meaning": "다른 사이즈로 (교환)",
+        "note": "la talla"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "querer",
+        "meaning": "원하다",
+        "tense": "직설법 현재",
+        "usedForm": "quiero",
+        "conjugation": {
+          "yo": "quiero",
+          "tu": "quieres",
+          "el": "quiere",
+          "nosotros": "queremos",
+          "vosotros": "queréis",
+          "ellos": "quieren"
+        }
+      },
+      {
+        "infinitive": "cambiar",
+        "meaning": "바꾸다",
+        "tense": "동사원형",
+        "usedForm": "cambiar",
+        "conjugation": {
+          "yo": "cambio",
+          "tu": "cambias",
+          "el": "cambia",
+          "nosotros": "cambiamos",
+          "vosotros": "cambiáis",
+          "ellos": "cambian"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s101",
+    "number": 101,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "¿Cómo puedo llegar a la plaza del Sol?",
+    "ko": "솔 광장으로 어떻게 가나요?",
+    "audioUrl": {
+      "female": "/audio/female/s101.mp3",
+      "male": "/audio/male/s101.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Cómo...?",
+        "pos": "의문사",
+        "meaning": "어떻게",
+        "note": ""
+      },
+      {
+        "word": "puedo",
+        "pos": "동사",
+        "meaning": "내가 ~할 수 있다",
+        "note": "poder 1인칭 단수 현재"
+      },
+      {
+        "word": "llegar a",
+        "pos": "동사구",
+        "meaning": "~에 도착하다/가다",
+        "note": ""
+      },
+      {
+        "word": "la plaza del Sol",
+        "pos": "고유명사",
+        "meaning": "솔 광장",
+        "note": "del = de + el"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "poder",
+        "meaning": "~할 수 있다",
+        "tense": "직설법 현재",
+        "usedForm": "puedo",
+        "conjugation": {
+          "yo": "puedo",
+          "tu": "puedes",
+          "el": "puede",
+          "nosotros": "podemos",
+          "vosotros": "podéis",
+          "ellos": "pueden"
+        }
+      },
+      {
+        "infinitive": "llegar",
+        "meaning": "도착하다",
+        "tense": "동사원형",
+        "usedForm": "llegar",
+        "conjugation": {
+          "yo": "llego",
+          "tu": "llegas",
+          "el": "llega",
+          "nosotros": "llegamos",
+          "vosotros": "llegáis",
+          "ellos": "llegan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s102",
+    "number": 102,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "Sigue todo recto y gira a la derecha.",
+    "ko": "계속 직진해서 오른쪽으로 도세요.",
+    "audioUrl": {
+      "female": "/audio/female/s102.mp3",
+      "male": "/audio/male/s102.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Sigue",
+        "pos": "동사",
+        "meaning": "계속 가라",
+        "note": "seguir 3인칭 단수 현재 / 2인칭 명령형 (e->i)"
+      },
+      {
+        "word": "todo recto",
+        "pos": "부사구",
+        "meaning": "쭉 직진해서",
+        "note": ""
+      },
+      {
+        "word": "y",
+        "pos": "접속사",
+        "meaning": "그리고",
+        "note": ""
+      },
+      {
+        "word": "gira",
+        "pos": "동사",
+        "meaning": "돌아라",
+        "note": "girar 3인칭 단수 현재 / 2인칭 명령형"
+      },
+      {
+        "word": "a la derecha",
+        "pos": "전치사구",
+        "meaning": "오른쪽으로",
+        "note": "la derecha"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "seguir",
+        "meaning": "계속하다, 따라가다",
+        "tense": "직설법 현재/명령",
+        "usedForm": "Sigue",
+        "conjugation": {
+          "yo": "sigo",
+          "tu": "sigues",
+          "el": "sigue",
+          "nosotros": "seguimos",
+          "vosotros": "seguís",
+          "ellos": "siguen"
+        }
+      },
+      {
+        "infinitive": "girar",
+        "meaning": "돌다, 회전하다",
+        "tense": "직설법 현재/명령",
+        "usedForm": "gira",
+        "conjugation": {
+          "yo": "giro",
+          "tu": "giras",
+          "el": "gira",
+          "nosotros": "giramos",
+          "vosotros": "giráis",
+          "ellos": "giran"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s103",
+    "number": 103,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "Mañana voy a estudiar en la biblioteca.",
+    "ko": "내일 나는 도서관에서 공부할 예정이다.",
+    "audioUrl": {
+      "female": "/audio/female/s103.mp3",
+      "male": "/audio/male/s103.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Mañana",
+        "pos": "부사/명사",
+        "meaning": "내일",
+        "note": ""
+      },
+      {
+        "word": "voy a",
+        "pos": "동사구",
+        "meaning": "~할 예정이다",
+        "note": "ir a + 동사원형 (1인칭 단수)"
+      },
+      {
+        "word": "estudiar",
+        "pos": "동사원형",
+        "meaning": "공부하다",
+        "note": ""
+      },
+      {
+        "word": "en la biblioteca",
+        "pos": "전치사구",
+        "meaning": "도서관에서",
+        "note": "la biblioteca"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "voy",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "estudiar",
+        "meaning": "공부하다",
+        "tense": "동사원형",
+        "usedForm": "estudiar",
+        "conjugation": {
+          "yo": "estudio",
+          "tu": "estudias",
+          "el": "estudia",
+          "nosotros": "estudiamos",
+          "vosotros": "estudiáis",
+          "ellos": "estudian"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s104",
+    "number": 104,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "¿Vas a salir esta noche?",
+    "ko": "너 오늘 밤에 외출할 거니?",
+    "audioUrl": {
+      "female": "/audio/female/s104.mp3",
+      "male": "/audio/male/s104.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Vas a...?",
+        "pos": "동사구",
+        "meaning": "너는 ~할 예정이니?",
+        "note": "ir a + 동사원형 (2인칭 단수)"
+      },
+      {
+        "word": "salir",
+        "pos": "동사원형",
+        "meaning": "외출하다, 나가다",
+        "note": ""
+      },
+      {
+        "word": "esta noche",
+        "pos": "명사구",
+        "meaning": "오늘 밤",
+        "note": "la noche"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "Vas",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "salir",
+        "meaning": "나가다",
+        "tense": "동사원형",
+        "usedForm": "salir",
+        "conjugation": {
+          "yo": "salgo",
+          "tu": "sales",
+          "el": "sale",
+          "nosotros": "salimos",
+          "vosotros": "salís",
+          "ellos": "salen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s105",
+    "number": 105,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "La parada de autobús está a la izquierda.",
+    "ko": "버스 정류장은 왼쪽에 있다.",
+    "audioUrl": {
+      "female": "/audio/female/s105.mp3",
+      "male": "/audio/male/s105.mp3"
+    },
+    "vocab": [
+      {
+        "word": "La parada de autobús",
+        "pos": "명사구",
+        "meaning": "버스 정류장",
+        "note": "la parada, el autobús"
+      },
+      {
+        "word": "está",
+        "pos": "동사",
+        "meaning": "있다",
+        "note": "estar 3인칭 단수 현재"
+      },
+      {
+        "word": "a la izquierda",
+        "pos": "전치사구",
+        "meaning": "왼쪽에",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "estar",
+        "meaning": "위치해 있다",
+        "tense": "직설법 현재",
+        "usedForm": "está",
+        "conjugation": {
+          "yo": "estoy",
+          "tu": "estás",
+          "el": "está",
+          "nosotros": "estamos",
+          "vosotros": "estáis",
+          "ellos": "están"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s106",
+    "number": 106,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "Vamos a viajar a España este verano.",
+    "ko": "우리는 이번 여름에 스페인으로 여행을 갈 예정이다.",
+    "audioUrl": {
+      "female": "/audio/female/s106.mp3",
+      "male": "/audio/male/s106.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Vamos a",
+        "pos": "동사구",
+        "meaning": "우리는 ~할 예정이다",
+        "note": "ir a + 동사원형 (1인칭 복수)"
+      },
+      {
+        "word": "viajar",
+        "pos": "동사원형",
+        "meaning": "여행하다",
+        "note": ""
+      },
+      {
+        "word": "a España",
+        "pos": "전치사구",
+        "meaning": "스페인으로",
+        "note": ""
+      },
+      {
+        "word": "este verano",
+        "pos": "명사구",
+        "meaning": "이번 여름",
+        "note": "el verano"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "Vamos",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "viajar",
+        "meaning": "여행하다",
+        "tense": "동사원형",
+        "usedForm": "viajar",
+        "conjugation": {
+          "yo": "viajo",
+          "tu": "viajas",
+          "el": "viaja",
+          "nosotros": "viajamos",
+          "vosotros": "viajáis",
+          "ellos": "viajan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s107",
+    "number": 107,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "Cruzar la calle y tomar la primera a la derecha.",
+    "ko": "길을 건너서 첫 번째 골목(길)에서 오른쪽으로 도세요.",
+    "audioUrl": {
+      "female": "/audio/female/s107.mp3",
+      "male": "/audio/male/s107.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Cruzar",
+        "pos": "동사원형",
+        "meaning": "건너다",
+        "note": ""
+      },
+      {
+        "word": "la calle",
+        "pos": "명사구",
+        "meaning": "거리, 길",
+        "note": "la calle"
+      },
+      {
+        "word": "y",
+        "pos": "접속사",
+        "meaning": "그리고",
+        "note": ""
+      },
+      {
+        "word": "tomar",
+        "pos": "동사원형",
+        "meaning": "잡다, (길을) 들어서다",
+        "note": ""
+      },
+      {
+        "word": "la primera",
+        "pos": "형용사/대명사",
+        "meaning": "첫 번째 (길)",
+        "note": "calle 생략"
+      },
+      {
+        "word": "a la derecha",
+        "pos": "전치사구",
+        "meaning": "오른쪽으로",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "cruzar",
+        "meaning": "건너다",
+        "tense": "동사원형",
+        "usedForm": "Cruzar",
+        "conjugation": {
+          "yo": "cruzo",
+          "tu": "cruzas",
+          "el": "cruza",
+          "nosotros": "cruzamos",
+          "vosotros": "cruzáis",
+          "ellos": "cruzan"
+        }
+      },
+      {
+        "infinitive": "tomar",
+        "meaning": "취하다, 들어서다",
+        "tense": "동사원형",
+        "usedForm": "tomar",
+        "conjugation": {
+          "yo": "tomo",
+          "tu": "tomas",
+          "el": "toma",
+          "nosotros": "tomamos",
+          "vosotros": "tomáis",
+          "ellos": "toman"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s108",
+    "number": 108,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "Ellos van a ver una película el fin de semana.",
+    "ko": "그들은 주말에 영화를 한 편 볼 예정이다.",
+    "audioUrl": {
+      "female": "/audio/female/s108.mp3",
+      "male": "/audio/male/s108.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Ellos",
+        "pos": "인칭대명사",
+        "meaning": "그들은",
+        "note": ""
+      },
+      {
+        "word": "van a",
+        "pos": "동사구",
+        "meaning": "~할 예정이다",
+        "note": "ir a + 동사원형 (3인칭 복수)"
+      },
+      {
+        "word": "ver",
+        "pos": "동사원형",
+        "meaning": "보다",
+        "note": ""
+      },
+      {
+        "word": "una película",
+        "pos": "명사구",
+        "meaning": "영화 한 편",
+        "note": "la película"
+      },
+      {
+        "word": "el fin de semana",
+        "pos": "명사구",
+        "meaning": "주말",
+        "note": "el fin de semana"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "van",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "ver",
+        "meaning": "보다",
+        "tense": "동사원형",
+        "usedForm": "ver",
+        "conjugation": {
+          "yo": "veo",
+          "tu": "ves",
+          "el": "ve",
+          "nosotros": "vemos",
+          "vosotros": "veis",
+          "ellos": "ven"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s109",
+    "number": 109,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "¿Está lejos el museo de arte?",
+    "ko": "미술관은 멀리 있나요?",
+    "audioUrl": {
+      "female": "/audio/female/s109.mp3",
+      "male": "/audio/male/s109.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Está...?",
+        "pos": "동사",
+        "meaning": "있습니까?",
+        "note": "estar 3인칭 단수 현재"
+      },
+      {
+        "word": "lejos",
+        "pos": "부사",
+        "meaning": "멀리",
+        "note": ""
+      },
+      {
+        "word": "el museo de arte",
+        "pos": "명사구",
+        "meaning": "미술관",
+        "note": "el museo, el arte"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "estar",
+        "meaning": "위치해 있다",
+        "tense": "직설법 현재",
+        "usedForm": "Está",
+        "conjugation": {
+          "yo": "estoy",
+          "tu": "estás",
+          "el": "está",
+          "nosotros": "estamos",
+          "vosotros": "estáis",
+          "ellos": "están"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s110",
+    "number": 110,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "Voy a cocinar la cena para mis amigos.",
+    "ko": "나는 친구들을 위해 저녁을 요리할 예정이다.",
+    "audioUrl": {
+      "female": "/audio/female/s110.mp3",
+      "male": "/audio/male/s110.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Voy a",
+        "pos": "동사구",
+        "meaning": "~할 예정이다",
+        "note": "ir a + 동사원형 (1인칭 단수)"
+      },
+      {
+        "word": "cocinar",
+        "pos": "동사원형",
+        "meaning": "요리하다",
+        "note": ""
+      },
+      {
+        "word": "la cena",
+        "pos": "명사구",
+        "meaning": "저녁 식사",
+        "note": "la cena"
+      },
+      {
+        "word": "para mis amigos",
+        "pos": "전치사구",
+        "meaning": "내 친구들을 위해",
+        "note": "mis = 나의 (복수)"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "Voy",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "cocinar",
+        "meaning": "요리하다",
+        "tense": "동사원형",
+        "usedForm": "cocinar",
+        "conjugation": {
+          "yo": "cocino",
+          "tu": "cocinas",
+          "el": "cocina",
+          "nosotros": "cocinamos",
+          "vosotros": "cocináis",
+          "ellos": "cocinan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s111",
+    "number": 111,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "¿A qué hora vas a llegar a casa?",
+    "ko": "너는 몇 시에 집에 도착할 예정이니?",
+    "audioUrl": {
+      "female": "/audio/female/s111.mp3",
+      "male": "/audio/male/s111.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿A qué hora...?",
+        "pos": "의문구",
+        "meaning": "몇 시에",
+        "note": ""
+      },
+      {
+        "word": "vas a",
+        "pos": "동사구",
+        "meaning": "너는 ~할 예정이니?",
+        "note": "ir a + 동사원형 (2인칭 단수)"
+      },
+      {
+        "word": "llegar a casa",
+        "pos": "동사구",
+        "meaning": "집에 도착하다",
+        "note": "la casa"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "vas",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "llegar",
+        "meaning": "도착하다",
+        "tense": "동사원형",
+        "usedForm": "llegar",
+        "conjugation": {
+          "yo": "llego",
+          "tu": "llegas",
+          "el": "llega",
+          "nosotros": "llegamos",
+          "vosotros": "llegáis",
+          "ellos": "llegan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s112",
+    "number": 112,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "Tienes que girar a la izquierda en la esquina.",
+    "ko": "너는 모퉁이에서 왼쪽으로 돌아야 해.",
+    "audioUrl": {
+      "female": "/audio/female/s112.mp3",
+      "male": "/audio/male/s112.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Tienes que",
+        "pos": "동사구",
+        "meaning": "너는 ~해야만 한다",
+        "note": "tener que + 동사원형 (의무 표현)"
+      },
+      {
+        "word": "girar",
+        "pos": "동사원형",
+        "meaning": "회전하다, 돌다",
+        "note": ""
+      },
+      {
+        "word": "a la izquierda",
+        "pos": "전치사구",
+        "meaning": "왼쪽으로",
+        "note": ""
+      },
+      {
+        "word": "en la esquina",
+        "pos": "전치사구",
+        "meaning": "길모퉁이에서",
+        "note": "la esquina"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "tener",
+        "meaning": "가지다 (tener que = ~해야 한다)",
+        "tense": "직설법 현재",
+        "usedForm": "Tienes",
+        "conjugation": {
+          "yo": "tengo",
+          "tu": "tienes",
+          "el": "tiene",
+          "nosotros": "tenemos",
+          "vosotros": "tenéis",
+          "ellos": "tienen"
+        }
+      },
+      {
+        "infinitive": "girar",
+        "meaning": "돌다",
+        "tense": "동사원형",
+        "usedForm": "girar",
+        "conjugation": {
+          "yo": "giro",
+          "tu": "giras",
+          "el": "gira",
+          "nosotros": "giramos",
+          "vosotros": "giráis",
+          "ellos": "giran"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s113",
+    "number": 113,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "¿Qué vas a hacer el próximo domingo?",
+    "ko": "너는 다음 주 일요일에 무엇을 할 예정이니?",
+    "audioUrl": {
+      "female": "/audio/female/s113.mp3",
+      "male": "/audio/male/s113.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Qué...?",
+        "pos": "의문사",
+        "meaning": "무엇",
+        "note": ""
+      },
+      {
+        "word": "vas a",
+        "pos": "동사구",
+        "meaning": "너는 ~할 예정이니?",
+        "note": "ir a + 동사원형 (2인칭 단수)"
+      },
+      {
+        "word": "hacer",
+        "pos": "동사원형",
+        "meaning": "하다",
+        "note": ""
+      },
+      {
+        "word": "el próximo domingo",
+        "pos": "명사구",
+        "meaning": "다음 주 일요일",
+        "note": "el domingo"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "vas",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "hacer",
+        "meaning": "하다",
+        "tense": "동사원형",
+        "usedForm": "hacer",
+        "conjugation": {
+          "yo": "hago",
+          "tu": "haces",
+          "el": "hace",
+          "nosotros": "hacemos",
+          "vosotros": "hacéis",
+          "ellos": "hacen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s114",
+    "number": 114,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "La farmacia está justo al lado del banco.",
+    "ko": "약국은 은행 바로 옆에 있다.",
+    "audioUrl": {
+      "female": "/audio/female/s114.mp3",
+      "male": "/audio/male/s114.mp3"
+    },
+    "vocab": [
+      {
+        "word": "La farmacia",
+        "pos": "명사구",
+        "meaning": "약국",
+        "note": "la farmacia"
+      },
+      {
+        "word": "está",
+        "pos": "동사",
+        "meaning": "있다",
+        "note": "estar 3인칭 단수 현재"
+      },
+      {
+        "word": "justo",
+        "pos": "부사",
+        "meaning": "바로, 딱",
+        "note": ""
+      },
+      {
+        "word": "al lado del banco",
+        "pos": "전치사구",
+        "meaning": "은행 옆에",
+        "note": "al lado de + el = del"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "estar",
+        "meaning": "위치해 있다",
+        "tense": "직설법 현재",
+        "usedForm": "está",
+        "conjugation": {
+          "yo": "estoy",
+          "tu": "estás",
+          "el": "está",
+          "nosotros": "estamos",
+          "vosotros": "estáis",
+          "ellos": "están"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s115",
+    "number": 115,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "Voy a tomar el metro para ir al centro.",
+    "ko": "나는 시내에 가기 위해 지하철을 탈 예정이다.",
+    "audioUrl": {
+      "female": "/audio/female/s115.mp3",
+      "male": "/audio/male/s115.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Voy a",
+        "pos": "동사구",
+        "meaning": "나는 ~할 예정이다",
+        "note": "ir a + 동사원형 (1인칭 단수)"
+      },
+      {
+        "word": "tomar el metro",
+        "pos": "동사구",
+        "meaning": "지하철을 타다",
+        "note": "el metro"
+      },
+      {
+        "word": "para",
+        "pos": "전치사",
+        "meaning": "~하기 위해",
+        "note": "목적"
+      },
+      {
+        "word": "ir al centro",
+        "pos": "동사구",
+        "meaning": "시내에 가다",
+        "note": "al = a + el, el centro"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다",
+        "tense": "직설법 현재 / 원형",
+        "usedForm": "Voy / ir",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "tomar",
+        "meaning": "타다",
+        "tense": "동사원형",
+        "usedForm": "tomar",
+        "conjugation": {
+          "yo": "tomo",
+          "tu": "tomas",
+          "el": "toma",
+          "nosotros": "tomamos",
+          "vosotros": "tomáis",
+          "ellos": "toman"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s116",
+    "number": 116,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "Mi madre va a preparar un pastel de chocolate.",
+    "ko": "나의 어머니는 초콜릿 케이크를 만드실(준비하실) 예정이다.",
+    "audioUrl": {
+      "female": "/audio/female/s116.mp3",
+      "male": "/audio/male/s116.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Mi madre",
+        "pos": "명사구",
+        "meaning": "나의 어머니",
+        "note": "la madre"
+      },
+      {
+        "word": "va a",
+        "pos": "동사구",
+        "meaning": "~할 예정이다",
+        "note": "ir a + 동사원형 (3인칭 단수)"
+      },
+      {
+        "word": "preparar",
+        "pos": "동사원형",
+        "meaning": "준비하다, 요리하다",
+        "note": ""
+      },
+      {
+        "word": "un pastel de chocolate",
+        "pos": "명사구",
+        "meaning": "초콜릿 케이크",
+        "note": "el pastel, el chocolate"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "va",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "preparar",
+        "meaning": "준비하다",
+        "tense": "동사원형",
+        "usedForm": "preparar",
+        "conjugation": {
+          "yo": "preparo",
+          "tu": "preparas",
+          "el": "prepara",
+          "nosotros": "preparamos",
+          "vosotros": "preparáis",
+          "ellos": "preparan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s117",
+    "number": 117,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "¿Dónde vas a pasar las vacaciones?",
+    "ko": "너는 휴가를 어디에서 보낼 예정이니?",
+    "audioUrl": {
+      "female": "/audio/female/s117.mp3",
+      "male": "/audio/male/s117.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Dónde...?",
+        "pos": "의문사",
+        "meaning": "어디에서",
+        "note": ""
+      },
+      {
+        "word": "vas a",
+        "pos": "동사구",
+        "meaning": "너는 ~할 예정이니?",
+        "note": "ir a + 동사원형 (2인칭 단수)"
+      },
+      {
+        "word": "pasar",
+        "pos": "동사원형",
+        "meaning": "보내다, 지내다",
+        "note": ""
+      },
+      {
+        "word": "las vacaciones",
+        "pos": "명사구",
+        "meaning": "휴가",
+        "note": "항상 복수 형태로 쓰임"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "vas",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "pasar",
+        "meaning": "보내다",
+        "tense": "동사원형",
+        "usedForm": "pasar",
+        "conjugation": {
+          "yo": "paso",
+          "tu": "pasas",
+          "el": "pasa",
+          "nosotros": "pasamos",
+          "vosotros": "pasáis",
+          "ellos": "pasan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s118",
+    "number": 118,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "Para ir al aeropuerto, es mejor coger un taxi.",
+    "ko": "공항에 가려면 택시를 타는 것이 더 좋다.",
+    "audioUrl": {
+      "female": "/audio/female/s118.mp3",
+      "male": "/audio/male/s118.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Para ir al aeropuerto",
+        "pos": "전치사구",
+        "meaning": "공항에 가기 위해",
+        "note": "al = a + el, el aeropuerto"
+      },
+      {
+        "word": "es mejor",
+        "pos": "동사구",
+        "meaning": "더 좋다",
+        "note": "ser 3인칭 단수 현재 + mejor"
+      },
+      {
+        "word": "coger un taxi",
+        "pos": "동사구",
+        "meaning": "택시를 타다",
+        "note": "el taxi"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다",
+        "tense": "동사원형",
+        "usedForm": "ir",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "ser",
+        "meaning": "~이다",
+        "tense": "직설법 현재",
+        "usedForm": "es",
+        "conjugation": {
+          "yo": "soy",
+          "tu": "eres",
+          "el": "es",
+          "nosotros": "somos",
+          "vosotros": "sois",
+          "ellos": "son"
+        }
+      },
+      {
+        "infinitive": "coger",
+        "meaning": "타다, 잡다",
+        "tense": "동사원형",
+        "usedForm": "coger",
+        "conjugation": {
+          "yo": "cojo",
+          "tu": "coges",
+          "el": "coge",
+          "nosotros": "cogemos",
+          "vosotros": "cogéis",
+          "ellos": "cogen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s119",
+    "number": 119,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "Vamos a comprar las entradas por internet.",
+    "ko": "우리는 인터넷으로 티켓을 구매할 예정이다.",
+    "audioUrl": {
+      "female": "/audio/female/s119.mp3",
+      "male": "/audio/male/s119.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Vamos a",
+        "pos": "동사구",
+        "meaning": "우리는 ~할 예정이다",
+        "note": "ir a + 동사원형 (1인칭 복수)"
+      },
+      {
+        "word": "comprar",
+        "pos": "동사원형",
+        "meaning": "사다, 구매하다",
+        "note": ""
+      },
+      {
+        "word": "las entradas",
+        "pos": "명사구",
+        "meaning": "입장권들, 티켓들",
+        "note": "la entrada의 복수형"
+      },
+      {
+        "word": "por internet",
+        "pos": "전치사구",
+        "meaning": "인터넷으로",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "Vamos",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "comprar",
+        "meaning": "사다",
+        "tense": "동사원형",
+        "usedForm": "comprar",
+        "conjugation": {
+          "yo": "compro",
+          "tu": "compras",
+          "el": "compra",
+          "nosotros": "compramos",
+          "vosotros": "compráis",
+          "ellos": "compran"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s120",
+    "number": 120,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "¿La cafetería está cerca o lejos?",
+    "ko": "카페는 가깝나요, 아니면 먼가요?",
+    "audioUrl": {
+      "female": "/audio/female/s120.mp3",
+      "male": "/audio/male/s120.mp3"
+    },
+    "vocab": [
+      {
+        "word": "La cafetería",
+        "pos": "명사구",
+        "meaning": "카페, 찻집",
+        "note": "la cafetería"
+      },
+      {
+        "word": "está",
+        "pos": "동사",
+        "meaning": "있다/상태이다",
+        "note": "estar 3인칭 단수 현재"
+      },
+      {
+        "word": "cerca",
+        "pos": "부사",
+        "meaning": "가까이",
+        "note": ""
+      },
+      {
+        "word": "o",
+        "pos": "접속사",
+        "meaning": "또는, 아니면",
+        "note": ""
+      },
+      {
+        "word": "lejos",
+        "pos": "부사",
+        "meaning": "멀리",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "estar",
+        "meaning": "위치해 있다",
+        "tense": "직설법 현재",
+        "usedForm": "está",
+        "conjugation": {
+          "yo": "estoy",
+          "tu": "estás",
+          "el": "está",
+          "nosotros": "estamos",
+          "vosotros": "estáis",
+          "ellos": "están"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s121",
+    "number": 121,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "Voy a llamar a mi madre esta tarde.",
+    "ko": "나는 오늘 오후에 어머니께 전화할 예정이다.",
+    "audioUrl": {
+      "female": "/audio/female/s121.mp3",
+      "male": "/audio/male/s121.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Voy a",
+        "pos": "동사구",
+        "meaning": "나는 ~할 예정이다",
+        "note": "ir a + 동사원형 (1인칭 단수)"
+      },
+      {
+        "word": "llamar a mi madre",
+        "pos": "동사구",
+        "meaning": "어머니께 전화하다",
+        "note": "사람 목적어 앞 전치사 a"
+      },
+      {
+        "word": "esta tarde",
+        "pos": "명사구",
+        "meaning": "오늘 오후",
+        "note": "la tarde"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "Voy",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "llamar",
+        "meaning": "전화하다",
+        "tense": "동사원형",
+        "usedForm": "llamar",
+        "conjugation": {
+          "yo": "llamo",
+          "tu": "llamas",
+          "el": "llama",
+          "nosotros": "llamamos",
+          "vosotros": "llamáis",
+          "ellos": "llaman"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s122",
+    "number": 122,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "El autobús va a llegar en cinco minutos.",
+    "ko": "버스가 5분 뒤에 도착할 예정이다.",
+    "audioUrl": {
+      "female": "/audio/female/s122.mp3",
+      "male": "/audio/male/s122.mp3"
+    },
+    "vocab": [
+      {
+        "word": "El autobús",
+        "pos": "명사구",
+        "meaning": "버스",
+        "note": "el autobús"
+      },
+      {
+        "word": "va a",
+        "pos": "동사구",
+        "meaning": "~할 예정이다",
+        "note": "ir a + 동사원형 (3인칭 단수)"
+      },
+      {
+        "word": "llegar",
+        "pos": "동사원형",
+        "meaning": "도착하다",
+        "note": ""
+      },
+      {
+        "word": "en cinco minutos",
+        "pos": "전치사구",
+        "meaning": "5분 뒤에",
+        "note": "el minuto의 복수형"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "va",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "llegar",
+        "meaning": "도착하다",
+        "tense": "동사원형",
+        "usedForm": "llegar",
+        "conjugation": {
+          "yo": "llego",
+          "tu": "llegas",
+          "el": "llega",
+          "nosotros": "llegamos",
+          "vosotros": "llegáis",
+          "ellos": "llegan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s123",
+    "number": 123,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "¿Vais a jugar al fútbol el sábado?",
+    "ko": "너희는 토요일에 축구를 할 예정이니?",
+    "audioUrl": {
+      "female": "/audio/female/s123.mp3",
+      "male": "/audio/male/s123.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Vais a...?",
+        "pos": "동사구",
+        "meaning": "너희는 ~할 예정이니?",
+        "note": "ir a + 동사원형 (2인칭 복수)"
+      },
+      {
+        "word": "jugar al fútbol",
+        "pos": "동사구",
+        "meaning": "축구를 하다",
+        "note": "jugar a + el = al, el fútbol"
+      },
+      {
+        "word": "el sábado",
+        "pos": "명사구",
+        "meaning": "토요일에",
+        "note": "el sábado"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "Vais",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "jugar",
+        "meaning": "경기를 하다, 놀다",
+        "tense": "동사원형",
+        "usedForm": "jugar",
+        "conjugation": {
+          "yo": "juego",
+          "tu": "juegas",
+          "el": "juega",
+          "nosotros": "jugamos",
+          "vosotros": "jugáis",
+          "ellos": "juegan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s124",
+    "number": 124,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "Mi hermano va a empezar la universidad este año.",
+    "ko": "내 남동생(형)은 올해 대학 생활을 시작할 예정이다.",
+    "audioUrl": {
+      "female": "/audio/female/s124.mp3",
+      "male": "/audio/male/s124.mp3"
+    },
+    "vocab": [
+      {
+        "word": "Mi hermano",
+        "pos": "명사구",
+        "meaning": "내 형제",
+        "note": "el hermano"
+      },
+      {
+        "word": "va a",
+        "pos": "동사구",
+        "meaning": "~할 예정이다",
+        "note": "ir a + 동사원형 (3인칭 단수)"
+      },
+      {
+        "word": "empezar",
+        "pos": "동사원형",
+        "meaning": "시작하다",
+        "note": ""
+      },
+      {
+        "word": "la universidad",
+        "pos": "명사구",
+        "meaning": "대학교",
+        "note": "la universidad"
+      },
+      {
+        "word": "este año",
+        "pos": "명사구",
+        "meaning": "올해",
+        "note": "el año"
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다 (~할 예정이다)",
+        "tense": "직설법 현재",
+        "usedForm": "va",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      {
+        "infinitive": "empezar",
+        "meaning": "시작하다",
+        "tense": "동사원형",
+        "usedForm": "empezar",
+        "conjugation": {
+          "yo": "empiezo",
+          "tu": "empiezas",
+          "el": "empieza",
+          "nosotros": "empezamos",
+          "vosotros": "empezáis",
+          "ellos": "empiezan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "s125",
+    "number": 125,
+    "level": "A1",
+    "category": "길 찾기·근접미래",
+    "es": "¿Vas a ir a la fiesta de cumpleaños de María?",
+    "ko": "너는 마리아의 생일 파티에 갈 예정이니?",
+    "audioUrl": {
+      "female": "/audio/female/s125.mp3",
+      "male": "/audio/male/s125.mp3"
+    },
+    "vocab": [
+      {
+        "word": "¿Vas a...?",
+        "pos": "동사구",
+        "meaning": "너는 ~할 예정이니?",
+        "note": "ir a + 동사원형 (2인칭 단수)"
+      },
+      {
+        "word": "ir a",
+        "pos": "동사구",
+        "meaning": "~에 가다",
+        "note": ""
+      },
+      {
+        "word": "la fiesta de cumpleaños",
+        "pos": "명사구",
+        "meaning": "생일 파티",
+        "note": "la fiesta, el cumpleaños"
+      },
+      {
+        "word": "de María",
+        "pos": "전치사구",
+        "meaning": "마리아의",
+        "note": ""
+      }
+    ],
+    "verbs": [
+      {
+        "infinitive": "ir",
+        "meaning": "가다",
+        "tense": "직설법 현재 / 원형",
+        "usedForm": "Vas / ir",
+        "conjugation": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      }
+    ]
+  }
+]
