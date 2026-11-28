@@ -1,4 +1,4 @@
-const CACHE_NAME = 'shadowcast-v6';
+const CACHE_NAME = 'shadowcast-v7';
 const ASSETS = [
   './',
   './index.html',
@@ -11,6 +11,7 @@ const ASSETS = [
   './js/storage.js',
   './js/data-loader.js',
   './js/audio-player.js',
+  './js/wake-lock.js',
   './js/ui-render.js',
   './js/settings.js',
   './js/app.js',

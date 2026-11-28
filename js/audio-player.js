@@ -1,4 +1,6 @@
 // Audio player module: Local MP3 file playback and shadowing loop with requestAnimationFrame.
+import { WakeLock } from './wake-lock.js';
+
 export const AudioPlayer = {
   isPlaying: false,
   isPaused: false,
@@ -62,6 +64,7 @@ export const AudioPlayer = {
     this.currentIteration = 1;
     this.isPlaying = true;
     this.isPaused = false;
+    WakeLock.request();
     this.playListeningPhase();
   },
 
@@ -205,6 +208,7 @@ export const AudioPlayer = {
 
     if (this.isPaused) {
       this.isPaused = false;
+      WakeLock.request();
       if (this.currentPhase === 'listening') {
         if (this.audio && this.audio.src) {
           this.audio.play();
@@ -217,6 +221,7 @@ export const AudioPlayer = {
       }
     } else {
       this.isPaused = true;
+      WakeLock.release();
       if (this.currentPhase === 'listening' && this.audio) {
         this.audio.pause();
       } else if (this.currentPhase === 'speaking') {
@@ -243,6 +248,7 @@ export const AudioPlayer = {
     this.isPaused = false;
     this.currentPhase = 'idle';
     this.speakingElapsedBeforePause = 0;
+    WakeLock.release();
 
     if (this.audio) {
       this.audio.pause();
@@ -256,3 +262,6 @@ export const AudioPlayer = {
     this.callbacks.onPhaseChange('idle', { iteration: 0, totalIterations: this.repeatCount });
   }
 };
+
+WakeLock.bindVisibility(() => AudioPlayer.isPlaying && !AudioPlayer.isPaused);
+
