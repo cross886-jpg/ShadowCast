@@ -7,8 +7,8 @@
     "es": "Hoy he desayunado pan con café.",
     "ko": "오늘 나는 커피를 곁들인 빵을 아침으로 먹었다.",
     "audioUrl": {
-      "female": "/audio/female/s126.mp3",
-      "male": "/audio/male/s126.mp3"
+      "female": "audio/es/female/s126.mp3",
+      "male": "audio/es/male/s126.mp3"
     },
     "vocab": [
       {
@@ -49,13 +49,14 @@
         "tense": "현재완료",
         "usedForm": "he desayunado",
         "conjugation": {
-          "yo": "\\*\\*he desayunado\\*\\*",
+          "yo": "he desayunado",
           "tu": "has desayunado",
-          "el": "han desayunado",
+          "el": "ha desayunado",
           "nosotros": "hemos desayunado",
           "vosotros": "habéis desayunado",
-          "ellos": ""
-        }
+          "ellos": "han desayunado"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -67,8 +68,8 @@
     "es": "¿Has visto mi reloj?",
     "ko": "너 내 시계 봤니?",
     "audioUrl": {
-      "female": "/audio/female/s127.mp3",
-      "male": "/audio/male/s127.mp3"
+      "female": "audio/es/female/s127.mp3",
+      "male": "audio/es/male/s127.mp3"
     },
     "vocab": [
       {
@@ -99,11 +100,12 @@
         "conjugation": {
           "yo": "he visto",
           "tu": "has visto",
-          "el": "han visto",
+          "el": "ha visto",
           "nosotros": "hemos visto",
           "vosotros": "habéis visto",
-          "ellos": ""
-        }
+          "ellos": "han visto"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -115,8 +117,8 @@
     "es": "Ella ha llegado muy temprano.",
     "ko": "그녀는 매우 일찍 도착했다.",
     "audioUrl": {
-      "female": "/audio/female/s128.mp3",
-      "male": "/audio/male/s128.mp3"
+      "female": "audio/es/female/s128.mp3",
+      "male": "audio/es/male/s128.mp3"
     },
     "vocab": [
       {
@@ -153,11 +155,12 @@
         "conjugation": {
           "yo": "he llegado",
           "tu": "has llegado",
-          "el": "han llegado",
+          "el": "ha llegado",
           "nosotros": "hemos llegado",
           "vosotros": "habéis llegado",
-          "ellos": ""
-        }
+          "ellos": "han llegado"
+        },
+        "person": "el"
       }
     ]
   },
@@ -169,8 +172,8 @@
     "es": "Hemos hablado con el profesor.",
     "ko": "우리는 선생님과 이야기했다.",
     "audioUrl": {
-      "female": "/audio/female/s129.mp3",
-      "male": "/audio/male/s129.mp3"
+      "female": "audio/es/female/s129.mp3",
+      "male": "audio/es/male/s129.mp3"
     },
     "vocab": [
       {
@@ -207,11 +210,12 @@
         "conjugation": {
           "yo": "he hablado",
           "tu": "has hablado",
-          "el": "han hablado",
+          "el": "ha hablado",
           "nosotros": "hemos hablado",
           "vosotros": "habéis hablado",
-          "ellos": ""
-        }
+          "ellos": "han hablado"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -223,8 +227,8 @@
     "es": "¿Habéis terminado la tarea?",
     "ko": "너희는 과제를 끝냈니?",
     "audioUrl": {
-      "female": "/audio/female/s130.mp3",
-      "male": "/audio/male/s130.mp3"
+      "female": "audio/es/female/s130.mp3",
+      "male": "audio/es/male/s130.mp3"
     },
     "vocab": [
       {
@@ -255,11 +259,12 @@
         "conjugation": {
           "yo": "he terminado",
           "tu": "has terminado",
-          "el": "han terminado",
+          "el": "ha terminado",
           "nosotros": "hemos terminado",
           "vosotros": "habéis terminado",
-          "ellos": ""
-        }
+          "ellos": "han terminado"
+        },
+        "person": "vosotros"
       }
     ]
   },
@@ -271,8 +276,8 @@
     "es": "Ellos han abierto la ventana.",
     "ko": "그들은 창문을 열었다.",
     "audioUrl": {
-      "female": "/audio/female/s131.mp3",
-      "male": "/audio/male/s131.mp3"
+      "female": "audio/es/female/s131.mp3",
+      "male": "audio/es/male/s131.mp3"
     },
     "vocab": [
       {
@@ -309,11 +314,12 @@
         "conjugation": {
           "yo": "he abierto",
           "tu": "has abierto",
-          "el": "han abierto",
+          "el": "ha abierto",
           "nosotros": "hemos abierto",
           "vosotros": "habéis abierto",
-          "ellos": ""
-        }
+          "ellos": "han abierto"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -325,8 +331,8 @@
     "es": "Todavía no he escrito la carta.",
     "ko": "나는 아직 편지를 쓰지 않았다.",
     "audioUrl": {
-      "female": "/audio/female/s132.mp3",
-      "male": "/audio/male/s132.mp3"
+      "female": "audio/es/female/s132.mp3",
+      "male": "audio/es/male/s132.mp3"
     },
     "vocab": [
       {
@@ -369,11 +375,12 @@
         "conjugation": {
           "yo": "he escrito",
           "tu": "has escrito",
-          "el": "han escrito",
+          "el": "ha escrito",
           "nosotros": "hemos escrito",
           "vosotros": "habéis escrito",
-          "ellos": ""
-        }
+          "ellos": "han escrito"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -385,8 +392,8 @@
     "es": "Ya hemos hecho la reserva.",
     "ko": "우리는 이미 예약을 마쳤다.",
     "audioUrl": {
-      "female": "/audio/female/s133.mp3",
-      "male": "/audio/male/s133.mp3"
+      "female": "audio/es/female/s133.mp3",
+      "male": "audio/es/male/s133.mp3"
     },
     "vocab": [
       {
@@ -423,11 +430,12 @@
         "conjugation": {
           "yo": "he hecho",
           "tu": "has hecho",
-          "el": "han hecho",
+          "el": "ha hecho",
           "nosotros": "hemos hecho",
           "vosotros": "habéis hecho",
-          "ellos": ""
-        }
+          "ellos": "han hecho"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -439,8 +447,8 @@
     "es": "¿Alguna vez has dicho una mentira?",
     "ko": "너 살면서 거짓말을 한 적이 있니?",
     "audioUrl": {
-      "female": "/audio/female/s134.mp3",
-      "male": "/audio/male/s134.mp3"
+      "female": "audio/es/female/s134.mp3",
+      "male": "audio/es/male/s134.mp3"
     },
     "vocab": [
       {
@@ -477,11 +485,12 @@
         "conjugation": {
           "yo": "he dicho",
           "tu": "has dicho",
-          "el": "han dicho",
+          "el": "ha dicho",
           "nosotros": "hemos dicho",
           "vosotros": "habéis dicho",
-          "ellos": ""
-        }
+          "ellos": "han dicho"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -493,8 +502,8 @@
     "es": "Han vuelto de sus vacaciones.",
     "ko": "그들은 휴가에서 돌아왔다.",
     "audioUrl": {
-      "female": "/audio/female/s135.mp3",
-      "male": "/audio/male/s135.mp3"
+      "female": "audio/es/female/s135.mp3",
+      "male": "audio/es/male/s135.mp3"
     },
     "vocab": [
       {
@@ -531,11 +540,12 @@
         "conjugation": {
           "yo": "he vuelto",
           "tu": "has vuelto",
-          "el": "han vuelto",
+          "el": "ha vuelto",
           "nosotros": "hemos vuelto",
           "vosotros": "habéis vuelto",
-          "ellos": ""
-        }
+          "ellos": "han vuelto"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -547,8 +557,8 @@
     "es": "El perro ha muerto de viejo.",
     "ko": "그 개는 늙어서 죽었다.",
     "audioUrl": {
-      "female": "/audio/female/s136.mp3",
-      "male": "/audio/male/s136.mp3"
+      "female": "audio/es/female/s136.mp3",
+      "male": "audio/es/male/s136.mp3"
     },
     "vocab": [
       {
@@ -591,11 +601,12 @@
         "conjugation": {
           "yo": "he muerto",
           "tu": "has muerto",
-          "el": "han muerto",
+          "el": "ha muerto",
           "nosotros": "hemos muerto",
           "vosotros": "habéis muerto",
-          "ellos": ""
-        }
+          "ellos": "han muerto"
+        },
+        "person": "el"
       }
     ]
   },
@@ -607,8 +618,8 @@
     "es": "¿Dónde has puesto las llaves?",
     "ko": "너 열쇠들을 어디에 두었니?",
     "audioUrl": {
-      "female": "/audio/female/s137.mp3",
-      "male": "/audio/male/s137.mp3"
+      "female": "audio/es/female/s137.mp3",
+      "male": "audio/es/male/s137.mp3"
     },
     "vocab": [
       {
@@ -645,11 +656,12 @@
         "conjugation": {
           "yo": "he puesto",
           "tu": "has puesto",
-          "el": "han puesto",
+          "el": "ha puesto",
           "nosotros": "hemos puesto",
           "vosotros": "habéis puesto",
-          "ellos": ""
-        }
+          "ellos": "han puesto"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -661,8 +673,8 @@
     "es": "Se ha roto el cristal de la ventana.",
     "ko": "창문 유리창이 깨졌다.",
     "audioUrl": {
-      "female": "/audio/female/s138.mp3",
-      "male": "/audio/male/s138.mp3"
+      "female": "audio/es/female/s138.mp3",
+      "male": "audio/es/male/s138.mp3"
     },
     "vocab": [
       {
@@ -717,11 +729,12 @@
         "conjugation": {
           "yo": "me he roto",
           "tu": "te has roto",
-          "el": "se han roto",
+          "el": "se ha roto",
           "nosotros": "nos hemos roto",
           "vosotros": "os habéis roto",
-          "ellos": ""
-        }
+          "ellos": "se han roto"
+        },
+        "person": "el"
       }
     ]
   },
@@ -733,8 +746,8 @@
     "es": "He resuelto el problema de matemáticas.",
     "ko": "나는 수학 문제를 풀었다.",
     "audioUrl": {
-      "female": "/audio/female/s139.mp3",
-      "male": "/audio/male/s139.mp3"
+      "female": "audio/es/female/s139.mp3",
+      "male": "audio/es/male/s139.mp3"
     },
     "vocab": [
       {
@@ -777,11 +790,12 @@
         "conjugation": {
           "yo": "he resuelto",
           "tu": "has resuelto",
-          "el": "han resuelto",
+          "el": "ha resuelto",
           "nosotros": "hemos resuelto",
           "vosotros": "habéis resuelto",
-          "ellos": ""
-        }
+          "ellos": "han resuelto"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -793,8 +807,8 @@
     "es": "¿Han descubierto una nueva vacuna?",
     "ko": "그들이 새로운 백신을 발견했나요?",
     "audioUrl": {
-      "female": "/audio/female/s140.mp3",
-      "male": "/audio/male/s140.mp3"
+      "female": "audio/es/female/s140.mp3",
+      "male": "audio/es/male/s140.mp3"
     },
     "vocab": [
       {
@@ -831,11 +845,12 @@
         "conjugation": {
           "yo": "he descubierto",
           "tu": "has descubierto",
-          "el": "han descubierto",
+          "el": "ha descubierto",
           "nosotros": "hemos descubierto",
           "vosotros": "habéis descubierto",
-          "ellos": ""
-        }
+          "ellos": "han descubierto"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -847,8 +862,8 @@
     "es": "Este mes hemos gastado mucho dinero.",
     "ko": "이번 달에 우리는 돈을 많이 썼다.",
     "audioUrl": {
-      "female": "/audio/female/s141.mp3",
-      "male": "/audio/male/s141.mp3"
+      "female": "audio/es/female/s141.mp3",
+      "male": "audio/es/male/s141.mp3"
     },
     "vocab": [
       {
@@ -891,11 +906,12 @@
         "conjugation": {
           "yo": "he gastado",
           "tu": "has gastado",
-          "el": "han gastado",
+          "el": "ha gastado",
           "nosotros": "hemos gastado",
           "vosotros": "habéis gastado",
-          "ellos": ""
-        }
+          "ellos": "han gastado"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -907,8 +923,8 @@
     "es": "Nunca he probado la comida mexicana.",
     "ko": "나는 멕시코 음식을 먹어본 적이 전혀 없다.",
     "audioUrl": {
-      "female": "/audio/female/s142.mp3",
-      "male": "/audio/male/s142.mp3"
+      "female": "audio/es/female/s142.mp3",
+      "male": "audio/es/male/s142.mp3"
     },
     "vocab": [
       {
@@ -951,11 +967,12 @@
         "conjugation": {
           "yo": "he probado",
           "tu": "has probado",
-          "el": "han probado",
+          "el": "ha probado",
           "nosotros": "hemos probado",
           "vosotros": "habéis probado",
-          "ellos": ""
-        }
+          "ellos": "han probado"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -967,8 +984,8 @@
     "es": "¿Esta semana has ido al gimnasio?",
     "ko": "이번 주에 너 체육관에 갔었니?",
     "audioUrl": {
-      "female": "/audio/female/s143.mp3",
-      "male": "/audio/male/s143.mp3"
+      "female": "audio/es/female/s143.mp3",
+      "male": "audio/es/male/s143.mp3"
     },
     "vocab": [
       {
@@ -1011,11 +1028,12 @@
         "conjugation": {
           "yo": "he ido",
           "tu": "has ido",
-          "el": "han ido",
+          "el": "ha ido",
           "nosotros": "hemos ido",
           "vosotros": "habéis ido",
-          "ellos": ""
-        }
+          "ellos": "han ido"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -1027,8 +1045,8 @@
     "es": "Últimamente me he sentido algo cansado.",
     "ko": "최근에 나는 다소 피곤함을 느꼈다.",
     "audioUrl": {
-      "female": "/audio/female/s144.mp3",
-      "male": "/audio/male/s144.mp3"
+      "female": "audio/es/female/s144.mp3",
+      "male": "audio/es/male/s144.mp3"
     },
     "vocab": [
       {
@@ -1065,11 +1083,12 @@
         "conjugation": {
           "yo": "me he sentido",
           "tu": "te has sentido",
-          "el": "se han sentido",
+          "el": "se ha sentido",
           "nosotros": "nos hemos sentido",
           "vosotros": "os habéis sentido",
-          "ellos": ""
-        }
+          "ellos": "se han sentido"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -1081,8 +1100,8 @@
     "es": "Mis padres han comprado una casa en la playa.",
     "ko": "나의 부모님은 해변에 집 한 채를 사셨다.",
     "audioUrl": {
-      "female": "/audio/female/s145.mp3",
-      "male": "/audio/male/s145.mp3"
+      "female": "audio/es/female/s145.mp3",
+      "male": "audio/es/male/s145.mp3"
     },
     "vocab": [
       {
@@ -1143,11 +1162,12 @@
         "conjugation": {
           "yo": "he comprado",
           "tu": "has comprado",
-          "el": "han comprado",
+          "el": "ha comprado",
           "nosotros": "hemos comprado",
           "vosotros": "habéis comprado",
-          "ellos": ""
-        }
+          "ellos": "han comprado"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -1159,8 +1179,8 @@
     "es": "¿Aún no has leído este libro?",
     "ko": "너 아직 이 책을 읽지 않았니?",
     "audioUrl": {
-      "female": "/audio/female/s146.mp3",
-      "male": "/audio/male/s146.mp3"
+      "female": "audio/es/female/s146.mp3",
+      "male": "audio/es/male/s146.mp3"
     },
     "vocab": [
       {
@@ -1203,11 +1223,12 @@
         "conjugation": {
           "yo": "he leído",
           "tu": "has leído",
-          "el": "han leído",
+          "el": "ha leído",
           "nosotros": "hemos leído",
           "vosotros": "habéis leído",
-          "ellos": ""
-        }
+          "ellos": "han leído"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -1219,8 +1240,8 @@
     "es": "Se nos ha olvidado traer la llave.",
     "ko": "우리는 열쇠를 가져오는 것을 잊어버렸다.",
     "audioUrl": {
-      "female": "/audio/female/s147.mp3",
-      "male": "/audio/male/s147.mp3"
+      "female": "audio/es/female/s147.mp3",
+      "male": "audio/es/male/s147.mp3"
     },
     "vocab": [
       {
@@ -1269,11 +1290,12 @@
         "conjugation": {
           "yo": "me he olvidado",
           "tu": "te has olvidado",
-          "el": "se han olvidado",
+          "el": "se ha olvidado",
           "nosotros": "nos hemos olvidado",
           "vosotros": "os habéis olvidado",
-          "ellos": ""
-        }
+          "ellos": "se han olvidado"
+        },
+        "person": "el"
       },
       {
         "infinitive": "traer",
@@ -1283,10 +1305,10 @@
         "conjugation": {
           "yo": "traigo",
           "tu": "traes",
-          "el": "traen",
+          "el": "trae",
           "nosotros": "traemos",
           "vosotros": "traéis",
-          "ellos": ""
+          "ellos": "traen"
         }
       }
     ]
@@ -1299,8 +1321,8 @@
     "es": "¿Quién ha dejado la puerta abierta?",
     "ko": "누가 문을 열어두었나요?",
     "audioUrl": {
-      "female": "/audio/female/s148.mp3",
-      "male": "/audio/male/s148.mp3"
+      "female": "audio/es/female/s148.mp3",
+      "male": "audio/es/male/s148.mp3"
     },
     "vocab": [
       {
@@ -1343,11 +1365,12 @@
         "conjugation": {
           "yo": "he dejado",
           "tu": "has dejado",
-          "el": "han dejado",
+          "el": "ha dejado",
           "nosotros": "hemos dejado",
           "vosotros": "habéis dejado",
-          "ellos": ""
-        }
+          "ellos": "han dejado"
+        },
+        "person": "el"
       }
     ]
   },
@@ -1359,8 +1382,8 @@
     "es": "Hoy me he levantado a las siete de la mañana.",
     "ko": "오늘 나는 아침 7시에 일어났다.",
     "audioUrl": {
-      "female": "/audio/female/s149.mp3",
-      "male": "/audio/male/s149.mp3"
+      "female": "audio/es/female/s149.mp3",
+      "male": "audio/es/male/s149.mp3"
     },
     "vocab": [
       {
@@ -1397,11 +1420,12 @@
         "conjugation": {
           "yo": "me he levantado",
           "tu": "te has levantado",
-          "el": "se han levantado",
+          "el": "se ha levantado",
           "nosotros": "nos hemos levantado",
           "vosotros": "os habéis levantado",
-          "ellos": ""
-        }
+          "ellos": "se han levantado"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -1413,8 +1437,8 @@
     "es": "¿Qué has hecho este fin de semana?",
     "ko": "이번 주말에 너 뭐 했니?",
     "audioUrl": {
-      "female": "/audio/female/s150.mp3",
-      "male": "/audio/male/s150.mp3"
+      "female": "audio/es/female/s150.mp3",
+      "male": "audio/es/male/s150.mp3"
     },
     "vocab": [
       {
@@ -1451,11 +1475,12 @@
         "conjugation": {
           "yo": "he hecho",
           "tu": "has hecho",
-          "el": "han hecho",
+          "el": "ha hecho",
           "nosotros": "hemos hecho",
           "vosotros": "habéis hecho",
-          "ellos": ""
-        }
+          "ellos": "han hecho"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -1467,8 +1492,8 @@
     "es": "Ayer comí una pizza deliciosa.",
     "ko": "어제 나는 맛있는 피자를 먹었다.",
     "audioUrl": {
-      "female": "/audio/female/s151.mp3",
-      "male": "/audio/male/s151.mp3"
+      "female": "audio/es/female/s151.mp3",
+      "male": "audio/es/male/s151.mp3"
     },
     "vocab": [
       {
@@ -1511,11 +1536,12 @@
         "conjugation": {
           "yo": "comí",
           "tu": "comiste",
-          "el": "comieron",
+          "el": "comió",
           "nosotros": "comimos",
           "vosotros": "comisteis",
-          "ellos": ""
-        }
+          "ellos": "comieron"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -1527,8 +1553,8 @@
     "es": "El año pasado viajé a España.",
     "ko": "작년에 나는 스페인으로 여행을 갔다.",
     "audioUrl": {
-      "female": "/audio/female/s152.mp3",
-      "male": "/audio/male/s152.mp3"
+      "female": "audio/es/female/s152.mp3",
+      "male": "audio/es/male/s152.mp3"
     },
     "vocab": [
       {
@@ -1565,11 +1591,12 @@
         "conjugation": {
           "yo": "viajé",
           "tu": "viajaste",
-          "el": "viajaron",
+          "el": "viajó",
           "nosotros": "viajamos",
           "vosotros": "viajasteis",
-          "ellos": ""
-        }
+          "ellos": "viajaron"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -1581,8 +1608,8 @@
     "es": "Anoche salimos con nuestros amigos.",
     "ko": "어젯밤에 우리는 친구들과 외출했다.",
     "audioUrl": {
-      "female": "/audio/female/s153.mp3",
-      "male": "/audio/male/s153.mp3"
+      "female": "audio/es/female/s153.mp3",
+      "male": "audio/es/male/s153.mp3"
     },
     "vocab": [
       {
@@ -1625,11 +1652,12 @@
         "conjugation": {
           "yo": "salí",
           "tu": "saliste",
-          "el": "salieron",
+          "el": "salió",
           "nosotros": "salimos",
           "vosotros": "salisteis",
-          "ellos": ""
-        }
+          "ellos": "salieron"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -1641,8 +1669,8 @@
     "es": "¿A qué hora volviste a casa ayer?",
     "ko": "어제 너 몇 시에 집에 돌아왔니?",
     "audioUrl": {
-      "female": "/audio/female/s154.mp3",
-      "male": "/audio/male/s154.mp3"
+      "female": "audio/es/female/s154.mp3",
+      "male": "audio/es/male/s154.mp3"
     },
     "vocab": [
       {
@@ -1685,11 +1713,12 @@
         "conjugation": {
           "yo": "volví",
           "tu": "volviste",
-          "el": "volvieron",
+          "el": "volvió",
           "nosotros": "volvimos",
           "vosotros": "volvisteis",
-          "ellos": ""
-        }
+          "ellos": "volvieron"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -1701,8 +1730,8 @@
     "es": "Ellos compraron una entrada para el concierto.",
     "ko": "그들은 콘서트 티켓 한 장을 샀다.",
     "audioUrl": {
-      "female": "/audio/female/s155.mp3",
-      "male": "/audio/male/s155.mp3"
+      "female": "audio/es/female/s155.mp3",
+      "male": "audio/es/male/s155.mp3"
     },
     "vocab": [
       {
@@ -1757,11 +1786,12 @@
         "conjugation": {
           "yo": "compré",
           "tu": "compraste",
-          "el": "compraron",
+          "el": "compró",
           "nosotros": "compramos",
           "vosotros": "comprasteis",
-          "ellos": ""
-        }
+          "ellos": "compraron"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -1773,8 +1803,8 @@
     "es": "Mi hermano nació en 1998.",
     "ko": "나의 남동생은 1998년에 태어났다.",
     "audioUrl": {
-      "female": "/audio/female/s156.mp3",
-      "male": "/audio/male/s156.mp3"
+      "female": "audio/es/female/s156.mp3",
+      "male": "audio/es/male/s156.mp3"
     },
     "vocab": [
       {
@@ -1817,11 +1847,12 @@
         "conjugation": {
           "yo": "nací",
           "tu": "naciste",
-          "el": "nacieron",
+          "el": "nació",
           "nosotros": "nacimos",
           "vosotros": "nacisteis",
-          "ellos": ""
-        }
+          "ellos": "nacieron"
+        },
+        "person": "el"
       }
     ]
   },
@@ -1833,8 +1864,8 @@
     "es": "El sábado pasado fui al cine con María.",
     "ko": "지난 토요일에 나는 마리아와 함께 영화관에 갔다.",
     "audioUrl": {
-      "female": "/audio/female/s157.mp3",
-      "male": "/audio/male/s157.mp3"
+      "female": "audio/es/female/s157.mp3",
+      "male": "audio/es/male/s157.mp3"
     },
     "vocab": [
       {
@@ -1883,11 +1914,12 @@
         "conjugation": {
           "yo": "fui",
           "tu": "fuiste",
-          "el": "fueron",
+          "el": "fue",
           "nosotros": "fuimos",
           "vosotros": "fuisteis",
-          "ellos": ""
-        }
+          "ellos": "fueron"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -1899,8 +1931,8 @@
     "es": "¿Estuvisteis en la fiesta de cumpleaños?",
     "ko": "너희는 생일 파티에 있었니?",
     "audioUrl": {
-      "female": "/audio/female/s158.mp3",
-      "male": "/audio/male/s158.mp3"
+      "female": "audio/es/female/s158.mp3",
+      "male": "audio/es/male/s158.mp3"
     },
     "vocab": [
       {
@@ -1949,11 +1981,12 @@
         "conjugation": {
           "yo": "estuve",
           "tu": "estuviste",
-          "el": "estuvieron",
+          "el": "estuvo",
           "nosotros": "estuvimos",
           "vosotros": "estuvisteis",
-          "ellos": ""
-        }
+          "ellos": "estuvieron"
+        },
+        "person": "vosotros"
       }
     ]
   },
@@ -1965,8 +1998,8 @@
     "es": "La película fue muy aburrida.",
     "ko": "그 영화는 매우 지루했다.",
     "audioUrl": {
-      "female": "/audio/female/s159.mp3",
-      "male": "/audio/male/s159.mp3"
+      "female": "audio/es/female/s159.mp3",
+      "male": "audio/es/male/s159.mp3"
     },
     "vocab": [
       {
@@ -2009,11 +2042,12 @@
         "conjugation": {
           "yo": "fui",
           "tu": "fuiste",
-          "el": "fueron",
+          "el": "fue",
           "nosotros": "fuimos",
           "vosotros": "fuisteis",
-          "ellos": ""
-        }
+          "ellos": "fueron"
+        },
+        "person": "el"
       }
     ]
   },
@@ -2025,8 +2059,8 @@
     "es": "Ayer no tuve tiempo para estudiar.",
     "ko": "어제 나는 공부할 시간이 없었다.",
     "audioUrl": {
-      "female": "/audio/female/s160.mp3",
-      "male": "/audio/male/s160.mp3"
+      "female": "audio/es/female/s160.mp3",
+      "male": "audio/es/male/s160.mp3"
     },
     "vocab": [
       {
@@ -2075,11 +2109,12 @@
         "conjugation": {
           "yo": "tuve",
           "tu": "tuviste",
-          "el": "tuvieron",
+          "el": "tuvo",
           "nosotros": "tuvimos",
           "vosotros": "tuvisteis",
-          "ellos": ""
-        }
+          "ellos": "tuvieron"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "estudiar",
@@ -2089,11 +2124,12 @@
         "conjugation": {
           "yo": "estudio",
           "tu": "estudias",
-          "el": "estudian",
+          "el": "estudia",
           "nosotros": "estudiamos",
           "vosotros": "estudiáis",
-          "ellos": ""
-        }
+          "ellos": "estudian"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -2105,8 +2141,8 @@
     "es": "¿Qué hiciste el fin de semana pasado?",
     "ko": "지난 주말에 너 뭐 했니?",
     "audioUrl": {
-      "female": "/audio/female/s161.mp3",
-      "male": "/audio/male/s161.mp3"
+      "female": "audio/es/female/s161.mp3",
+      "male": "audio/es/male/s161.mp3"
     },
     "vocab": [
       {
@@ -2137,11 +2173,12 @@
         "conjugation": {
           "yo": "hice",
           "tu": "hiciste",
-          "el": "hicieron",
+          "el": "hizo",
           "nosotros": "hicimos",
           "vosotros": "hicisteis",
-          "ellos": ""
-        }
+          "ellos": "hicieron"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -2153,8 +2190,8 @@
     "es": "Dijeron que la reunión era a las cuatro.",
     "ko": "그들은 회의가 4시라고 말했다.",
     "audioUrl": {
-      "female": "/audio/female/s162.mp3",
-      "male": "/audio/male/s162.mp3"
+      "female": "audio/es/female/s162.mp3",
+      "male": "audio/es/male/s162.mp3"
     },
     "vocab": [
       {
@@ -2203,11 +2240,12 @@
         "conjugation": {
           "yo": "dije",
           "tu": "dijiste",
-          "el": "dijeron",
+          "el": "dijo",
           "nosotros": "dijimos",
           "vosotros": "dijisteis",
-          "ellos": ""
-        }
+          "ellos": "dijeron"
+        },
+        "person": "ellos"
       },
       {
         "infinitive": "ser",
@@ -2217,11 +2255,12 @@
         "conjugation": {
           "yo": "era",
           "tu": "eras",
-          "el": "eran",
+          "el": "era",
           "nosotros": "éramos",
           "vosotros": "erais",
-          "ellos": ""
-        }
+          "ellos": "eran"
+        },
+        "person": "el"
       }
     ]
   },
@@ -2233,8 +2272,8 @@
     "es": "Le di el regalo a mi madre por su cumpleaños.",
     "ko": "나는 어머니의 생신을 위해 그 선물을 드렸다.",
     "audioUrl": {
-      "female": "/audio/female/s163.mp3",
-      "male": "/audio/male/s163.mp3"
+      "female": "audio/es/female/s163.mp3",
+      "male": "audio/es/male/s163.mp3"
     },
     "vocab": [
       {
@@ -2307,11 +2346,12 @@
         "conjugation": {
           "yo": "di",
           "tu": "diste",
-          "el": "dieron",
+          "el": "dio",
           "nosotros": "dimos",
           "vosotros": "disteis",
-          "ellos": ""
-        }
+          "ellos": "dieron"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -2323,8 +2363,8 @@
     "es": "Puse las llaves sobre la mesa, pero ya no están.",
     "ko": "내가 탁자 위에 열쇠를 놓았는데, 지금은 더 이상 없다.",
     "audioUrl": {
-      "female": "/audio/female/s164.mp3",
-      "male": "/audio/male/s164.mp3"
+      "female": "audio/es/female/s164.mp3",
+      "male": "audio/es/male/s164.mp3"
     },
     "vocab": [
       {
@@ -2391,11 +2431,12 @@
         "conjugation": {
           "yo": "puse",
           "tu": "pusiste",
-          "el": "pusieron",
+          "el": "puso",
           "nosotros": "pusimos",
           "vosotros": "pusisteis",
-          "ellos": ""
-        }
+          "ellos": "pusieron"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "estar",
@@ -2405,11 +2446,12 @@
         "conjugation": {
           "yo": "estoy",
           "tu": "estás",
-          "el": "están",
+          "el": "está",
           "nosotros": "estamos",
           "vosotros": "estáis",
-          "ellos": ""
-        }
+          "ellos": "están"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -2421,8 +2463,8 @@
     "es": "No pude dormirme anoche por el ruido.",
     "ko": "소음 때문에 어젯밤에 잠들 수 없었다.",
     "audioUrl": {
-      "female": "/audio/female/s165.mp3",
-      "male": "/audio/male/s165.mp3"
+      "female": "audio/es/female/s165.mp3",
+      "male": "audio/es/male/s165.mp3"
     },
     "vocab": [
       {
@@ -2477,11 +2519,12 @@
         "conjugation": {
           "yo": "pude",
           "tu": "pudiste",
-          "el": "pudieron",
+          "el": "pudo",
           "nosotros": "pudimos",
           "vosotros": "pudisteis",
-          "ellos": ""
-        }
+          "ellos": "pudieron"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "dormirse",
@@ -2491,11 +2534,12 @@
         "conjugation": {
           "yo": "me duermo",
           "tu": "te duermes",
-          "el": "se duermen",
+          "el": "se duerme",
           "nosotros": "nos dormimos",
           "vosotros": "os dormís",
-          "ellos": ""
-        }
+          "ellos": "se duermen"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -2507,8 +2551,8 @@
     "es": "Supimos la noticia por la televisión.",
     "ko": "우리는 텔레비전을 통해 그 소식을 알게 되었다.",
     "audioUrl": {
-      "female": "/audio/female/s166.mp3",
-      "male": "/audio/male/s166.mp3"
+      "female": "audio/es/female/s166.mp3",
+      "male": "audio/es/male/s166.mp3"
     },
     "vocab": [
       {
@@ -2557,11 +2601,12 @@
         "conjugation": {
           "yo": "supe",
           "tu": "supiste",
-          "el": "supieron",
+          "el": "supo",
           "nosotros": "supimos",
           "vosotros": "supisteis",
-          "ellos": ""
-        }
+          "ellos": "supieron"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -2573,8 +2618,8 @@
     "es": "Quise llamarte, pero se me apagó el móvil.",
     "ko": "너에게 전화하려고 했는데 휴대폰 전원이 꺼졌어.",
     "audioUrl": {
-      "female": "/audio/female/s167.mp3",
-      "male": "/audio/male/s167.mp3"
+      "female": "audio/es/female/s167.mp3",
+      "male": "audio/es/male/s167.mp3"
     },
     "vocab": [
       {
@@ -2623,11 +2668,12 @@
         "conjugation": {
           "yo": "quise",
           "tu": "quisiste",
-          "el": "quisieron",
+          "el": "quiso",
           "nosotros": "quisimos",
           "vosotros": "quisisteis",
-          "ellos": ""
-        }
+          "ellos": "quisieron"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "apagarse",
@@ -2635,12 +2681,12 @@
         "tense": "단순과거",
         "usedForm": "apagó",
         "conjugation": {
-          "yo": "me me apagué",
+          "yo": "me apagué",
           "tu": "te apagaste",
-          "el": "se apagaron",
+          "el": "se apagó",
           "nosotros": "nos apagamos",
           "vosotros": "os apagasteis",
-          "ellos": ""
+          "ellos": "se apagaron"
         }
       }
     ]
@@ -2653,8 +2699,8 @@
     "es": "Trajeron muchos regalos para los niños.",
     "ko": "그들은 아이들을 위해 많은 선물들을 가져왔다.",
     "audioUrl": {
-      "female": "/audio/female/s168.mp3",
-      "male": "/audio/male/s168.mp3"
+      "female": "audio/es/female/s168.mp3",
+      "male": "audio/es/male/s168.mp3"
     },
     "vocab": [
       {
@@ -2703,11 +2749,12 @@
         "conjugation": {
           "yo": "traje",
           "tu": "trajiste",
-          "el": "trajeron",
+          "el": "trajo",
           "nosotros": "trajimos",
           "vosotros": "trajisteis",
-          "ellos": ""
-        }
+          "ellos": "trajeron"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -2719,8 +2766,8 @@
     "es": "Vine en metro porque había mucho tráfico.",
     "ko": "교통 체증이 심해서 나는 지하철을 타고 왔다.",
     "audioUrl": {
-      "female": "/audio/female/s169.mp3",
-      "male": "/audio/male/s169.mp3"
+      "female": "audio/es/female/s169.mp3",
+      "male": "audio/es/male/s169.mp3"
     },
     "vocab": [
       {
@@ -2775,11 +2822,12 @@
         "conjugation": {
           "yo": "vine",
           "tu": "viniste",
-          "el": "vinieron",
+          "el": "vino",
           "nosotros": "vinimos",
           "vosotros": "vinisteis",
-          "ellos": ""
-        }
+          "ellos": "vinieron"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "haber",
@@ -2798,8 +2846,8 @@
     "es": "El profesor tradujo el texto al español.",
     "ko": "선생님께서 텍스트를 스페인어로 번역하셨다.",
     "audioUrl": {
-      "female": "/audio/female/s170.mp3",
-      "male": "/audio/male/s170.mp3"
+      "female": "audio/es/female/s170.mp3",
+      "male": "audio/es/male/s170.mp3"
     },
     "vocab": [
       {
@@ -2854,11 +2902,12 @@
         "conjugation": {
           "yo": "traduje",
           "tu": "tradujiste",
-          "el": "tradujeron",
+          "el": "tradujo",
           "nosotros": "tradujimos",
           "vosotros": "tradujisteis",
-          "ellos": ""
-        }
+          "ellos": "tradujeron"
+        },
+        "person": "el"
       }
     ]
   },
@@ -2870,8 +2919,8 @@
     "es": "Conduje durante tres horas sin parar.",
     "ko": "나는 멈추지 않고 3시간 동안 운전했다.",
     "audioUrl": {
-      "female": "/audio/female/s171.mp3",
-      "male": "/audio/male/s171.mp3"
+      "female": "audio/es/female/s171.mp3",
+      "male": "audio/es/male/s171.mp3"
     },
     "vocab": [
       {
@@ -2920,11 +2969,12 @@
         "conjugation": {
           "yo": "conduje",
           "tu": "condujiste",
-          "el": "condujeron",
+          "el": "condujo",
           "nosotros": "condujimos",
           "vosotros": "condujisteis",
-          "ellos": ""
-        }
+          "ellos": "condujeron"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "parar",
@@ -2934,11 +2984,12 @@
         "conjugation": {
           "yo": "paro",
           "tu": "paras",
-          "el": "paran",
+          "el": "para",
           "nosotros": "paramos",
           "vosotros": "paráis",
-          "ellos": ""
-        }
+          "ellos": "paran"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -2950,8 +3001,8 @@
     "es": "Me dormí en el autobús y me pasé de parada.",
     "ko": "나는 버스에서 잠들어서 정류장을 지나쳐 버렸다.",
     "audioUrl": {
-      "female": "/audio/female/s172.mp3",
-      "male": "/audio/male/s172.mp3"
+      "female": "audio/es/female/s172.mp3",
+      "male": "audio/es/male/s172.mp3"
     },
     "vocab": [
       {
@@ -3012,11 +3063,12 @@
         "conjugation": {
           "yo": "me dormí",
           "tu": "te dormiste",
-          "el": "se durmieron",
+          "el": "se durmió",
           "nosotros": "nos dormimos",
           "vosotros": "os dormisteis",
-          "ellos": ""
-        }
+          "ellos": "se durmieron"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "pasarse",
@@ -3026,11 +3078,12 @@
         "conjugation": {
           "yo": "me pasé",
           "tu": "te pasaste",
-          "el": "se pasaron",
+          "el": "se pasó",
           "nosotros": "nos pasamos",
           "vosotros": "os pasasteis",
-          "ellos": ""
-        }
+          "ellos": "se pasaron"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -3042,8 +3095,8 @@
     "es": "El camarero nos sirvió la comida muy rápido.",
     "ko": "웨이터는 우리에게 음식을 매우 빠르게 서빙했다.",
     "audioUrl": {
-      "female": "/audio/female/s173.mp3",
-      "male": "/audio/male/s173.mp3"
+      "female": "audio/es/female/s173.mp3",
+      "male": "audio/es/male/s173.mp3"
     },
     "vocab": [
       {
@@ -3104,11 +3157,12 @@
         "conjugation": {
           "yo": "serví",
           "tu": "serviste",
-          "el": "sirvieron",
+          "el": "sirvió",
           "nosotros": "servimos",
           "vosotros": "servisteis",
-          "ellos": ""
-        }
+          "ellos": "sirvieron"
+        },
+        "person": "el"
       }
     ]
   },
@@ -3120,8 +3174,8 @@
     "es": "Preferimos quedarnos en casa por el mal tiempo.",
     "ko": "날씨가 나빠서 우리는 집에 머무는 것을 선호했다.",
     "audioUrl": {
-      "female": "/audio/female/s174.mp3",
-      "male": "/audio/male/s174.mp3"
+      "female": "audio/es/female/s174.mp3",
+      "male": "audio/es/male/s174.mp3"
     },
     "vocab": [
       {
@@ -3182,11 +3236,12 @@
         "conjugation": {
           "yo": "preferí",
           "tu": "preferiste",
-          "el": "prefirieron",
+          "el": "prefirió",
           "nosotros": "preferimos",
           "vosotros": "preferisteis",
-          "ellos": ""
-        }
+          "ellos": "prefirieron"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "quedarse",
@@ -3196,11 +3251,12 @@
         "conjugation": {
           "yo": "me quedo",
           "tu": "te quedas",
-          "el": "se quedan",
+          "el": "se queda",
           "nosotros": "nos quedamos",
           "vosotros": "os quedáis",
-          "ellos": ""
-        }
+          "ellos": "se quedan"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -3212,8 +3268,8 @@
     "es": "Se reyeron mucho con los chistes del cómico.",
     "ko": "그들은 코미디언의 농담을 듣고 많이 웃었다.",
     "audioUrl": {
-      "female": "/audio/female/s175.mp3",
-      "male": "/audio/male/s175.mp3"
+      "female": "audio/es/female/s175.mp3",
+      "male": "audio/es/male/s175.mp3"
     },
     "vocab": [
       {
@@ -3268,11 +3324,12 @@
         "conjugation": {
           "yo": "me reí",
           "tu": "te reíste",
-          "el": "se reyeron",
+          "el": "se rió",
           "nosotros": "nos reímos",
           "vosotros": "os reísteis",
-          "ellos": ""
-        }
+          "ellos": "se reyeron"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -3284,8 +3341,8 @@
     "es": "Cuando era niño, jugaba al fútbol todos los días.",
     "ko": "내가 어렸을 때, 나는 매일 축구를 하곤 했다.",
     "audioUrl": {
-      "female": "/audio/female/s176.mp3",
-      "male": "/audio/male/s176.mp3"
+      "female": "audio/es/female/s176.mp3",
+      "male": "audio/es/male/s176.mp3"
     },
     "vocab": [
       {
@@ -3340,11 +3397,12 @@
         "conjugation": {
           "yo": "era",
           "tu": "eras",
-          "el": "eran",
+          "el": "era",
           "nosotros": "éramos",
           "vosotros": "erais",
-          "ellos": ""
-        }
+          "ellos": "eran"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "jugar",
@@ -3354,11 +3412,12 @@
         "conjugation": {
           "yo": "jugaba",
           "tu": "jugabas",
-          "el": "jugaban",
+          "el": "jugaba",
           "nosotros": "jugábamos",
           "vosotros": "jugabais",
-          "ellos": ""
-        }
+          "ellos": "jugaban"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -3370,8 +3429,8 @@
     "es": "Mi abuela siempre cocinaba para toda la familia.",
     "ko": "나의 할머니는 항상 온 가족을 위해 요리를 하시곤 했다.",
     "audioUrl": {
-      "female": "/audio/female/s177.mp3",
-      "male": "/audio/male/s177.mp3"
+      "female": "audio/es/female/s177.mp3",
+      "male": "audio/es/male/s177.mp3"
     },
     "vocab": [
       {
@@ -3432,11 +3491,12 @@
         "conjugation": {
           "yo": "cocinaba",
           "tu": "cocinabas",
-          "el": "cocinaban",
+          "el": "cocinaba",
           "nosotros": "cocinábamos",
           "vosotros": "cocinabais",
-          "ellos": ""
-        }
+          "ellos": "cocinaban"
+        },
+        "person": "el"
       }
     ]
   },
@@ -3448,8 +3508,8 @@
     "es": "En aquella época no teníamos ordenador en casa.",
     "ko": "그 시절에는 집에 컴퓨터가 없었다.",
     "audioUrl": {
-      "female": "/audio/female/s178.mp3",
-      "male": "/audio/male/s178.mp3"
+      "female": "audio/es/female/s178.mp3",
+      "male": "audio/es/male/s178.mp3"
     },
     "vocab": [
       {
@@ -3510,11 +3570,12 @@
         "conjugation": {
           "yo": "tenía",
           "tu": "tenías",
-          "el": "tenían",
+          "el": "tenía",
           "nosotros": "teníamos",
           "vosotros": "teníais",
-          "ellos": ""
-        }
+          "ellos": "tenían"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -3526,8 +3587,8 @@
     "es": "Todos los veranos íbamos a la playa.",
     "ko": "여름마다 우리는 해변으로 가곤 했다.",
     "audioUrl": {
-      "female": "/audio/female/s179.mp3",
-      "male": "/audio/male/s179.mp3"
+      "female": "audio/es/female/s179.mp3",
+      "male": "audio/es/male/s179.mp3"
     },
     "vocab": [
       {
@@ -3570,11 +3631,12 @@
         "conjugation": {
           "yo": "iba",
           "tu": "ibas",
-          "el": "iban",
+          "el": "iba",
           "nosotros": "íbamos",
           "vosotros": "ibais",
-          "ellos": ""
-        }
+          "ellos": "iban"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -3586,8 +3648,8 @@
     "es": "Veíamos los dibujos animados todas las tardes.",
     "ko": "우리는 매일 오후에 만화 영화를 보곤 했다.",
     "audioUrl": {
-      "female": "/audio/female/s180.mp3",
-      "male": "/audio/male/s180.mp3"
+      "female": "audio/es/female/s180.mp3",
+      "male": "audio/es/male/s180.mp3"
     },
     "vocab": [
       {
@@ -3624,11 +3686,12 @@
         "conjugation": {
           "yo": "veía",
           "tu": "veías",
-          "el": "veían",
+          "el": "veía",
           "nosotros": "veíamos",
           "vosotros": "veíais",
-          "ellos": ""
-        }
+          "ellos": "veían"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -3640,8 +3703,8 @@
     "es": "De joven vivía en un pueblo muy tranquilo.",
     "ko": "젊었을 때 나는 매우 조용한 마을에 살았었다.",
     "audioUrl": {
-      "female": "/audio/female/s181.mp3",
-      "male": "/audio/male/s181.mp3"
+      "female": "audio/es/female/s181.mp3",
+      "male": "audio/es/male/s181.mp3"
     },
     "vocab": [
       {
@@ -3696,11 +3759,12 @@
         "conjugation": {
           "yo": "vivía",
           "tu": "vivías",
-          "el": "vivían",
+          "el": "vivía",
           "nosotros": "vivíamos",
           "vosotros": "vivíais",
-          "ellos": ""
-        }
+          "ellos": "vivían"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -3712,8 +3776,8 @@
     "es": "Hacía buen tiempo y los pájaros cantaban.",
     "ko": "날씨가 좋았고 새들이 지저귀고 있었다.",
     "audioUrl": {
-      "female": "/audio/female/s182.mp3",
-      "male": "/audio/male/s182.mp3"
+      "female": "audio/es/female/s182.mp3",
+      "male": "audio/es/male/s182.mp3"
     },
     "vocab": [
       {
@@ -3775,11 +3839,12 @@
         "conjugation": {
           "yo": "cantaba",
           "tu": "cantabas",
-          "el": "cantaban",
+          "el": "cantaba",
           "nosotros": "cantábamos",
           "vosotros": "cantabais",
-          "ellos": ""
-        }
+          "ellos": "cantaban"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -3791,8 +3856,8 @@
     "es": "Estaba durmiendo cuando me llamaste.",
     "ko": "네가 나에게 전화했을 때 나는 자고 있던 중이었다.",
     "audioUrl": {
-      "female": "/audio/female/s183.mp3",
-      "male": "/audio/male/s183.mp3"
+      "female": "audio/es/female/s183.mp3",
+      "male": "audio/es/male/s183.mp3"
     },
     "vocab": [
       {
@@ -3835,11 +3900,12 @@
         "conjugation": {
           "yo": "estaba",
           "tu": "estabas",
-          "el": "estaban",
+          "el": "estaba",
           "nosotros": "estábamos",
           "vosotros": "estabais",
-          "ellos": ""
-        }
+          "ellos": "estaban"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "llamar",
@@ -3849,11 +3915,12 @@
         "conjugation": {
           "yo": "llamé",
           "tu": "llamaste",
-          "el": "llamaron",
+          "el": "llamó",
           "nosotros": "llamamos",
           "vosotros": "llamasteis",
-          "ellos": ""
-        }
+          "ellos": "llamaron"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -3865,8 +3932,8 @@
     "es": "Mientras estudiaba, escuchaba música clásica.",
     "ko": "나는 공부하는 동안 클래식 음악을 듣곤 했다/듣고 있었다.",
     "audioUrl": {
-      "female": "/audio/female/s184.mp3",
-      "male": "/audio/male/s184.mp3"
+      "female": "audio/es/female/s184.mp3",
+      "male": "audio/es/male/s184.mp3"
     },
     "vocab": [
       {
@@ -3909,11 +3976,12 @@
         "conjugation": {
           "yo": "estudiaba",
           "tu": "estudiabas",
-          "el": "estudiaban",
+          "el": "estudiaba",
           "nosotros": "estudiábamos",
           "vosotros": "estudiabais",
-          "ellos": ""
-        }
+          "ellos": "estudiaban"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "escuchar",
@@ -3923,11 +3991,12 @@
         "conjugation": {
           "yo": "escuchaba",
           "tu": "escuchabas",
-          "el": "escuchaban",
+          "el": "escuchaba",
           "nosotros": "escuchábamos",
           "vosotros": "escuchabais",
-          "ellos": ""
-        }
+          "ellos": "escuchaban"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -3939,8 +4008,8 @@
     "es": "La casa tenía un jardín enorme y lleno de flores.",
     "ko": "그 집은 거대하고 꽃으로 가득 찬 정원을 가지고 있었다.",
     "audioUrl": {
-      "female": "/audio/female/s185.mp3",
-      "male": "/audio/male/s185.mp3"
+      "female": "audio/es/female/s185.mp3",
+      "male": "audio/es/male/s185.mp3"
     },
     "vocab": [
       {
@@ -4013,11 +4082,12 @@
         "conjugation": {
           "yo": "tenía",
           "tu": "tenías",
-          "el": "tenían",
+          "el": "tenía",
           "nosotros": "teníamos",
           "vosotros": "teníais",
-          "ellos": ""
-        }
+          "ellos": "tenían"
+        },
+        "person": "el"
       }
     ]
   },
@@ -4029,8 +4099,8 @@
     "es": "Antes no me gustaban las verduras, pero ahora sí.",
     "ko": "예전에는 채소를 좋아하지 않았지만, 지금은 좋아한다.",
     "audioUrl": {
-      "female": "/audio/female/s186.mp3",
-      "male": "/audio/male/s186.mp3"
+      "female": "audio/es/female/s186.mp3",
+      "male": "audio/es/male/s186.mp3"
     },
     "vocab": [
       {
@@ -4095,13 +4165,14 @@
         "tense": "불완료과거",
         "usedForm": "gustaban",
         "conjugation": {
-          "yo": "",
+          "yo": "me gustaba",
           "tu": "te gustaba",
-          "el": "",
-          "nosotros": "",
+          "el": "le gustaba",
+          "nosotros": "nos gustaba",
           "vosotros": "os gustaba",
-          "ellos": ""
-        }
+          "ellos": "les gustaba"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -4113,8 +4184,8 @@
     "es": "Mi padre llevaba gafas y tenía el pelo rizado.",
     "ko": "나의 아버지는 안경을 쓰셨고 곱슬머리를 가지고 계셨다.",
     "audioUrl": {
-      "female": "/audio/female/s187.mp3",
-      "male": "/audio/male/s187.mp3"
+      "female": "audio/es/female/s187.mp3",
+      "male": "audio/es/male/s187.mp3"
     },
     "vocab": [
       {
@@ -4181,11 +4252,12 @@
         "conjugation": {
           "yo": "llevaba",
           "tu": "llevabas",
-          "el": "llevaban",
+          "el": "llevaba",
           "nosotros": "llevábamos",
           "vosotros": "llevabais",
-          "ellos": ""
-        }
+          "ellos": "llevaban"
+        },
+        "person": "el"
       },
       {
         "infinitive": "tener",
@@ -4195,11 +4267,12 @@
         "conjugation": {
           "yo": "tenía",
           "tu": "tenías",
-          "el": "tenían",
+          "el": "tenía",
           "nosotros": "teníamos",
           "vosotros": "teníais",
-          "ellos": ""
-        }
+          "ellos": "tenían"
+        },
+        "person": "el"
       }
     ]
   },
@@ -4211,8 +4284,8 @@
     "es": "Estábamos cansados porque habíamos caminado mucho.",
     "ko": "우리는 많이 걸었었기 때문에 피곤한 상태였다.",
     "audioUrl": {
-      "female": "/audio/female/s188.mp3",
-      "male": "/audio/male/s188.mp3"
+      "female": "audio/es/female/s188.mp3",
+      "male": "audio/es/male/s188.mp3"
     },
     "vocab": [
       {
@@ -4255,11 +4328,12 @@
         "conjugation": {
           "yo": "estaba",
           "tu": "estabas",
-          "el": "estaban",
+          "el": "estaba",
           "nosotros": "estábamos",
           "vosotros": "estabais",
-          "ellos": ""
-        }
+          "ellos": "estaban"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "caminar",
@@ -4269,11 +4343,12 @@
         "conjugation": {
           "yo": "había caminado",
           "tu": "habías caminado",
-          "el": "habían caminado",
+          "el": "había caminado",
           "nosotros": "habíamos caminado",
           "vosotros": "habíais caminado",
-          "ellos": ""
-        }
+          "ellos": "habían caminado"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -4285,8 +4360,8 @@
     "es": "De pequeña solía ir en bicicleta al colegio.",
     "ko": "어릴 적에 나는 자전거를 타고 학교에 가곤 했다.",
     "audioUrl": {
-      "female": "/audio/female/s189.mp3",
-      "male": "/audio/male/s189.mp3"
+      "female": "audio/es/female/s189.mp3",
+      "male": "audio/es/male/s189.mp3"
     },
     "vocab": [
       {
@@ -4341,11 +4416,12 @@
         "conjugation": {
           "yo": "solía",
           "tu": "solías",
-          "el": "solían",
+          "el": "solía",
           "nosotros": "solíamos",
           "vosotros": "solíais",
-          "ellos": ""
-        }
+          "ellos": "solían"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "ir",
@@ -4355,11 +4431,12 @@
         "conjugation": {
           "yo": "voy",
           "tu": "vas",
-          "el": "van",
+          "el": "va",
           "nosotros": "vamos",
           "vosotros": "vais",
-          "ellos": ""
-        }
+          "ellos": "van"
+        },
+        "person": "el"
       }
     ]
   },
@@ -4371,8 +4448,8 @@
     "es": "Pensaba que la tienda estaba abierta hoy.",
     "ko": "나는 오늘 가게가 열려 있는 줄 생각했다.",
     "audioUrl": {
-      "female": "/audio/female/s190.mp3",
-      "male": "/audio/male/s190.mp3"
+      "female": "audio/es/female/s190.mp3",
+      "male": "audio/es/male/s190.mp3"
     },
     "vocab": [
       {
@@ -4427,11 +4504,12 @@
         "conjugation": {
           "yo": "pensaba",
           "tu": "pensabas",
-          "el": "pensaban",
+          "el": "pensaba",
           "nosotros": "pensábamos",
           "vosotros": "pensabais",
-          "ellos": ""
-        }
+          "ellos": "pensaban"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "estar",
@@ -4441,11 +4519,12 @@
         "conjugation": {
           "yo": "estaba",
           "tu": "estabas",
-          "el": "estaban",
+          "el": "estaba",
           "nosotros": "estábamos",
           "vosotros": "estabais",
-          "ellos": ""
-        }
+          "ellos": "estaban"
+        },
+        "person": "el"
       }
     ]
   },
@@ -4457,8 +4536,8 @@
     "es": "Eran las diez de la noche cuando llegó mi hermano.",
     "ko": "내 남동생이 도착했을 때는 밤 10시였다.",
     "audioUrl": {
-      "female": "/audio/female/s191.mp3",
-      "male": "/audio/male/s191.mp3"
+      "female": "audio/es/female/s191.mp3",
+      "male": "audio/es/male/s191.mp3"
     },
     "vocab": [
       {
@@ -4513,11 +4592,12 @@
         "conjugation": {
           "yo": "era",
           "tu": "eras",
-          "el": "eran",
+          "el": "era",
           "nosotros": "éramos",
           "vosotros": "erais",
-          "ellos": ""
-        }
+          "ellos": "eran"
+        },
+        "person": "ellos"
       },
       {
         "infinitive": "llegar",
@@ -4527,11 +4607,12 @@
         "conjugation": {
           "yo": "llegué",
           "tu": "llegaste",
-          "el": "llegaron",
+          "el": "llegó",
           "nosotros": "llegamos",
           "vosotros": "llegasteis",
-          "ellos": ""
-        }
+          "ellos": "llegaron"
+        },
+        "person": "el"
       }
     ]
   },
@@ -4543,8 +4624,8 @@
     "es": "La calle estaba vacía y no había nadie.",
     "ko": "거리는 비어 있었고 아무도 없었다.",
     "audioUrl": {
-      "female": "/audio/female/s192.mp3",
-      "male": "/audio/male/s192.mp3"
+      "female": "audio/es/female/s192.mp3",
+      "male": "audio/es/male/s192.mp3"
     },
     "vocab": [
       {
@@ -4605,11 +4686,12 @@
         "conjugation": {
           "yo": "estaba",
           "tu": "estabas",
-          "el": "estaban",
+          "el": "estaba",
           "nosotros": "estábamos",
           "vosotros": "estabais",
-          "ellos": ""
-        }
+          "ellos": "estaban"
+        },
+        "person": "el"
       },
       {
         "infinitive": "haber",
@@ -4628,8 +4710,8 @@
     "es": "Hacía mucho frío, así que me puse el abrigo.",
     "ko": "매우 추워서 나는 코트를 입었다.",
     "audioUrl": {
-      "female": "/audio/female/s193.mp3",
-      "male": "/audio/male/s193.mp3"
+      "female": "audio/es/female/s193.mp3",
+      "male": "audio/es/male/s193.mp3"
     },
     "vocab": [
       {
@@ -4691,11 +4773,12 @@
         "conjugation": {
           "yo": "me puse",
           "tu": "te pusiste",
-          "el": "se pusieron",
+          "el": "se puso",
           "nosotros": "nos pusimos",
           "vosotros": "os pusisteis",
-          "ellos": ""
-        }
+          "ellos": "se pusieron"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -4707,8 +4790,8 @@
     "es": "Mis abuelos vivían en una casa cerca del río.",
     "ko": "나의 조부모님은 강 근처의 한 집에 살고 계셨다.",
     "audioUrl": {
-      "female": "/audio/female/s194.mp3",
-      "male": "/audio/male/s194.mp3"
+      "female": "audio/es/female/s194.mp3",
+      "male": "audio/es/male/s194.mp3"
     },
     "vocab": [
       {
@@ -4769,11 +4852,12 @@
         "conjugation": {
           "yo": "vivía",
           "tu": "vivías",
-          "el": "vivían",
+          "el": "vivía",
           "nosotros": "vivíamos",
           "vosotros": "vivíais",
-          "ellos": ""
-        }
+          "ellos": "vivían"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -4785,8 +4869,8 @@
     "es": "Siempre queríamos jugar en el parque después de clase.",
     "ko": "우리는 항상 수업 후에 공원에서 놀고 싶어 했다.",
     "audioUrl": {
-      "female": "/audio/female/s195.mp3",
-      "male": "/audio/male/s195.mp3"
+      "female": "audio/es/female/s195.mp3",
+      "male": "audio/es/male/s195.mp3"
     },
     "vocab": [
       {
@@ -4847,11 +4931,12 @@
         "conjugation": {
           "yo": "quería",
           "tu": "querías",
-          "el": "querían",
+          "el": "quería",
           "nosotros": "queríamos",
           "vosotros": "queríais",
-          "ellos": ""
-        }
+          "ellos": "querían"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "jugar",
@@ -4861,11 +4946,12 @@
         "conjugation": {
           "yo": "juego",
           "tu": "juegas",
-          "el": "juegan",
+          "el": "juega",
           "nosotros": "jugamos",
           "vosotros": "jugáis",
-          "ellos": ""
-        }
+          "ellos": "juegan"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -4877,8 +4963,8 @@
     "es": "Ella llevaba un vestido rojo precioso.",
     "ko": "그녀는 아름다운 빨간색 드레스를 입고 있었다.",
     "audioUrl": {
-      "female": "/audio/female/s196.mp3",
-      "male": "/audio/male/s196.mp3"
+      "female": "audio/es/female/s196.mp3",
+      "male": "audio/es/male/s196.mp3"
     },
     "vocab": [
       {
@@ -4927,11 +5013,12 @@
         "conjugation": {
           "yo": "llevaba",
           "tu": "llevabas",
-          "el": "llevaban",
+          "el": "llevaba",
           "nosotros": "llevábamos",
           "vosotros": "llevabais",
-          "ellos": ""
-        }
+          "ellos": "llevaban"
+        },
+        "person": "el"
       }
     ]
   },
@@ -4943,8 +5030,8 @@
     "es": "Mientras el profesor explicaba, los alumnos tomaban notas.",
     "ko": "선생님께서 설명하시는 동안 학생들은 노트 필기를 하고 있었다.",
     "audioUrl": {
-      "female": "/audio/female/s197.mp3",
-      "male": "/audio/male/s197.mp3"
+      "female": "audio/es/female/s197.mp3",
+      "male": "audio/es/male/s197.mp3"
     },
     "vocab": [
       {
@@ -5005,11 +5092,12 @@
         "conjugation": {
           "yo": "explicaba",
           "tu": "explicabas",
-          "el": "explicaban",
+          "el": "explicaba",
           "nosotros": "explicábamos",
           "vosotros": "explicabais",
-          "ellos": ""
-        }
+          "ellos": "explicaban"
+        },
+        "person": "el"
       },
       {
         "infinitive": "tomar",
@@ -5019,11 +5107,12 @@
         "conjugation": {
           "yo": "tomaba",
           "tu": "tomabas",
-          "el": "tomaban",
+          "el": "tomaba",
           "nosotros": "tomábamos",
           "vosotros": "tomabais",
-          "ellos": ""
-        }
+          "ellos": "tomaban"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -5035,8 +5124,8 @@
     "es": "El sol brillaba y la brisa era muy agradable.",
     "ko": "햇살이 빛나고 있었고 미풍은 매우 기분 좋았다.",
     "audioUrl": {
-      "female": "/audio/female/s198.mp3",
-      "male": "/audio/male/s198.mp3"
+      "female": "audio/es/female/s198.mp3",
+      "male": "audio/es/male/s198.mp3"
     },
     "vocab": [
       {
@@ -5103,11 +5192,12 @@
         "conjugation": {
           "yo": "brillaba",
           "tu": "brillabas",
-          "el": "brillaban",
+          "el": "brillaba",
           "nosotros": "brillábamos",
           "vosotros": "brillabais",
-          "ellos": ""
-        }
+          "ellos": "brillaban"
+        },
+        "person": "el"
       },
       {
         "infinitive": "ser",
@@ -5117,11 +5207,12 @@
         "conjugation": {
           "yo": "era",
           "tu": "eras",
-          "el": "eran",
+          "el": "era",
           "nosotros": "éramos",
           "vosotros": "erais",
-          "ellos": ""
-        }
+          "ellos": "eran"
+        },
+        "person": "el"
       }
     ]
   },
@@ -5133,8 +5224,8 @@
     "es": "Cuando vivía en Madrid, visitaba el Museo del Prado a menudo.",
     "ko": "마드리드에 살 때, 나는 프라도 미술관을 자주 방문하곤 했다.",
     "audioUrl": {
-      "female": "/audio/female/s199.mp3",
-      "male": "/audio/male/s199.mp3"
+      "female": "audio/es/female/s199.mp3",
+      "male": "audio/es/male/s199.mp3"
     },
     "vocab": [
       {
@@ -5189,11 +5280,12 @@
         "conjugation": {
           "yo": "vivía",
           "tu": "vivías",
-          "el": "vivían",
+          "el": "vivía",
           "nosotros": "vivíamos",
           "vosotros": "vivíais",
-          "ellos": ""
-        }
+          "ellos": "vivían"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "visitar",
@@ -5203,11 +5295,12 @@
         "conjugation": {
           "yo": "visitaba",
           "tu": "visitabas",
-          "el": "visitaban",
+          "el": "visitaba",
           "nosotros": "visitábamos",
           "vosotros": "visitabais",
-          "ellos": ""
-        }
+          "ellos": "visitaban"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -5219,8 +5312,8 @@
     "es": "No sabía que hablabas español tan bien.",
     "ko": "네가 스페인어를 이렇게 잘하는 줄 몰랐다.",
     "audioUrl": {
-      "female": "/audio/female/s200.mp3",
-      "male": "/audio/male/s200.mp3"
+      "female": "audio/es/female/s200.mp3",
+      "male": "audio/es/male/s200.mp3"
     },
     "vocab": [
       {
@@ -5275,11 +5368,12 @@
         "conjugation": {
           "yo": "sabía",
           "tu": "sabías",
-          "el": "sabían",
+          "el": "sabía",
           "nosotros": "sabíamos",
           "vosotros": "sabíais",
-          "ellos": ""
-        }
+          "ellos": "sabían"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "hablar",
@@ -5289,11 +5383,12 @@
         "conjugation": {
           "yo": "hablaba",
           "tu": "hablabas",
-          "el": "hablaban",
+          "el": "hablaba",
           "nosotros": "hablábamos",
           "vosotros": "hablabais",
-          "ellos": ""
-        }
+          "ellos": "hablaban"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -5305,8 +5400,8 @@
     "es": "No he ido a trabajar porque estoy enfermo.",
     "ko": "나는 아프기 때문에 일하러 가지 않았다.",
     "audioUrl": {
-      "female": "/audio/female/s201.mp3",
-      "male": "/audio/male/s201.mp3"
+      "female": "audio/es/female/s201.mp3",
+      "male": "audio/es/male/s201.mp3"
     },
     "vocab": [
       {
@@ -5355,11 +5450,12 @@
         "conjugation": {
           "yo": "he ido",
           "tu": "has ido",
-          "el": "han ido",
+          "el": "ha ido",
           "nosotros": "hemos ido",
           "vosotros": "habéis ido",
-          "ellos": ""
-        }
+          "ellos": "han ido"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "trabajar",
@@ -5369,11 +5465,12 @@
         "conjugation": {
           "yo": "trabajo",
           "tu": "trabajas",
-          "el": "trabajan",
+          "el": "trabaja",
           "nosotros": "trabajamos",
           "vosotros": "trabajáis",
-          "ellos": ""
-        }
+          "ellos": "trabajan"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "estar",
@@ -5383,11 +5480,12 @@
         "conjugation": {
           "yo": "estoy",
           "tu": "estás",
-          "el": "están",
+          "el": "está",
           "nosotros": "estamos",
           "vosotros": "estáis",
-          "ellos": ""
-        }
+          "ellos": "están"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -5399,8 +5497,8 @@
     "es": "Como llovía mucho, decidimos quedarnos en casa.",
     "ko": "비가 많이 내렸기 때문에, 우리는 집에 머물기로 결정했다.",
     "audioUrl": {
-      "female": "/audio/female/s202.mp3",
-      "male": "/audio/male/s202.mp3"
+      "female": "audio/es/female/s202.mp3",
+      "male": "audio/es/male/s202.mp3"
     },
     "vocab": [
       {
@@ -5462,11 +5560,12 @@
         "conjugation": {
           "yo": "decidí",
           "tu": "decidiste",
-          "el": "decidieron",
+          "el": "decidió",
           "nosotros": "decidimos",
           "vosotros": "decidisteis",
-          "ellos": ""
-        }
+          "ellos": "decidieron"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -5478,8 +5577,8 @@
     "es": "Estudio español para viajar por Latinoamérica.",
     "ko": "나는 라틴아메리카를 여행하기 위해 스페인어를 공부한다.",
     "audioUrl": {
-      "female": "/audio/female/s203.mp3",
-      "male": "/audio/male/s203.mp3"
+      "female": "audio/es/female/s203.mp3",
+      "male": "audio/es/male/s203.mp3"
     },
     "vocab": [
       {
@@ -5528,11 +5627,12 @@
         "conjugation": {
           "yo": "estudio",
           "tu": "estudias",
-          "el": "estudian",
+          "el": "estudia",
           "nosotros": "estudiamos",
           "vosotros": "estudiáis",
-          "ellos": ""
-        }
+          "ellos": "estudian"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "viajar",
@@ -5542,11 +5642,12 @@
         "conjugation": {
           "yo": "viajo",
           "tu": "viajas",
-          "el": "viajan",
+          "el": "viaja",
           "nosotros": "viajamos",
           "vosotros": "viajáis",
-          "ellos": ""
-        }
+          "ellos": "viajan"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -5558,8 +5659,8 @@
     "es": "Te llamo para saber si estás bien.",
     "ko": "네가 잘 지내는지 알고 싶어서 너에게 전화하는 거야.",
     "audioUrl": {
-      "female": "/audio/female/s204.mp3",
-      "male": "/audio/male/s204.mp3"
+      "female": "audio/es/female/s204.mp3",
+      "male": "audio/es/male/s204.mp3"
     },
     "vocab": [
       {
@@ -5614,11 +5715,12 @@
         "conjugation": {
           "yo": "llamo",
           "tu": "llamas",
-          "el": "llaman",
+          "el": "llama",
           "nosotros": "llamamos",
           "vosotros": "llamáis",
-          "ellos": ""
-        }
+          "ellos": "llaman"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "estar",
@@ -5628,11 +5730,12 @@
         "conjugation": {
           "yo": "estoy",
           "tu": "estás",
-          "el": "están",
+          "el": "está",
           "nosotros": "estamos",
           "vosotros": "estáis",
-          "ellos": ""
-        }
+          "ellos": "están"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -5644,8 +5747,8 @@
     "es": "Si mañana hace buen tiempo, iremos a la montaña.",
     "ko": "내일 날씨가 좋다면, 우리는 산에 갈 것이다.",
     "audioUrl": {
-      "female": "/audio/female/s205.mp3",
-      "male": "/audio/male/s205.mp3"
+      "female": "audio/es/female/s205.mp3",
+      "male": "audio/es/male/s205.mp3"
     },
     "vocab": [
       {
@@ -5719,11 +5822,12 @@
         "conjugation": {
           "yo": "iré",
           "tu": "irás",
-          "el": "irán",
+          "el": "irá",
           "nosotros": "iremos",
           "vosotros": "iréis",
-          "ellos": ""
-        }
+          "ellos": "irán"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -5735,8 +5839,8 @@
     "es": "Si tienes alguna duda, pregúntame.",
     "ko": "질문이나 의문이 있다면 나에게 물어봐.",
     "audioUrl": {
-      "female": "/audio/female/s206.mp3",
-      "male": "/audio/male/s206.mp3"
+      "female": "audio/es/female/s206.mp3",
+      "male": "audio/es/male/s206.mp3"
     },
     "vocab": [
       {
@@ -5779,11 +5883,12 @@
         "conjugation": {
           "yo": "tengo",
           "tu": "tienes",
-          "el": "tienen",
+          "el": "tiene",
           "nosotros": "tenemos",
           "vosotros": "tenéis",
-          "ellos": ""
-        }
+          "ellos": "tienen"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "preguntar",
@@ -5793,10 +5898,10 @@
         "conjugation": {
           "yo": "",
           "tu": "pregunta (pregúntame)",
-          "el": "",
+          "el": "pregunte",
           "nosotros": "preguntemos",
           "vosotros": "preguntad",
-          "ellos": ""
+          "ellos": "pregunten"
         }
       }
     ]
@@ -5809,8 +5914,8 @@
     "es": "Este coche es más rápido que el mío.",
     "ko": "이 차는 내 것보다 더 빠르다.",
     "audioUrl": {
-      "female": "/audio/female/s207.mp3",
-      "male": "/audio/male/s207.mp3"
+      "female": "audio/es/female/s207.mp3",
+      "male": "audio/es/male/s207.mp3"
     },
     "vocab": [
       {
@@ -5865,11 +5970,12 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
-        }
+          "ellos": "son"
+        },
+        "person": "el"
       }
     ]
   },
@@ -5881,8 +5987,8 @@
     "es": "Mi hermano es menos paciente que yo.",
     "ko": "내 남동생은 나보다 참을성이 적다.",
     "audioUrl": {
-      "female": "/audio/female/s208.mp3",
-      "male": "/audio/male/s208.mp3"
+      "female": "audio/es/female/s208.mp3",
+      "male": "audio/es/male/s208.mp3"
     },
     "vocab": [
       {
@@ -5937,11 +6043,12 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
-        }
+          "ellos": "son"
+        },
+        "person": "el"
       }
     ]
   },
@@ -5953,8 +6060,8 @@
     "es": "Esta película es tan interesante como la anterior.",
     "ko": "이 영화는 이전 영화만큼 재미있다.",
     "audioUrl": {
-      "female": "/audio/female/s209.mp3",
-      "male": "/audio/male/s209.mp3"
+      "female": "audio/es/female/s209.mp3",
+      "male": "audio/es/male/s209.mp3"
     },
     "vocab": [
       {
@@ -6009,11 +6116,12 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
-        }
+          "ellos": "son"
+        },
+        "person": "el"
       }
     ]
   },
@@ -6025,8 +6133,8 @@
     "es": "Tengo tantos libros como tú.",
     "ko": "나는 너만큼 많은 책들을 가지고 있다.",
     "audioUrl": {
-      "female": "/audio/female/s210.mp3",
-      "male": "/audio/male/s210.mp3"
+      "female": "audio/es/female/s210.mp3",
+      "male": "audio/es/male/s210.mp3"
     },
     "vocab": [
       {
@@ -6069,11 +6177,12 @@
         "conjugation": {
           "yo": "tengo",
           "tu": "tienes",
-          "el": "tienen",
+          "el": "tiene",
           "nosotros": "tenemos",
           "vosotros": "tenéis",
-          "ellos": ""
-        }
+          "ellos": "tienen"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -6085,8 +6194,8 @@
     "es": "Este restaurante es el mejor de la ciudad.",
     "ko": "이 식당은 도시에서 최고이다.",
     "audioUrl": {
-      "female": "/audio/female/s211.mp3",
-      "male": "/audio/male/s211.mp3"
+      "female": "audio/es/female/s211.mp3",
+      "male": "audio/es/male/s211.mp3"
     },
     "vocab": [
       {
@@ -6141,11 +6250,12 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
-        }
+          "ellos": "son"
+        },
+        "person": "el"
       }
     ]
   },
@@ -6157,8 +6267,8 @@
     "es": "Es el peor servicio que he visto en mi vida.",
     "ko": "그것은 내 인생에서 본 것 중 최악의 서비스이다.",
     "audioUrl": {
-      "female": "/audio/female/s212.mp3",
-      "male": "/audio/male/s212.mp3"
+      "female": "audio/es/female/s212.mp3",
+      "male": "audio/es/male/s212.mp3"
     },
     "vocab": [
       {
@@ -6219,11 +6329,12 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
-        }
+          "ellos": "son"
+        },
+        "person": "el"
       },
       {
         "infinitive": "ver",
@@ -6233,11 +6344,12 @@
         "conjugation": {
           "yo": "he visto",
           "tu": "has visto",
-          "el": "han visto",
+          "el": "ha visto",
           "nosotros": "hemos visto",
           "vosotros": "habéis visto",
-          "ellos": ""
-        }
+          "ellos": "han visto"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -6249,8 +6361,8 @@
     "es": "Mi hermano mayor vive en Barcelona.",
     "ko": "나의 형(오빠)은 바르셀로나에 산다.",
     "audioUrl": {
-      "female": "/audio/female/s213.mp3",
-      "male": "/audio/male/s213.mp3"
+      "female": "audio/es/female/s213.mp3",
+      "male": "audio/es/male/s213.mp3"
     },
     "vocab": [
       {
@@ -6299,11 +6411,12 @@
         "conjugation": {
           "yo": "vivo",
           "tu": "vives",
-          "el": "viven",
+          "el": "vive",
           "nosotros": "vivimos",
           "vosotros": "vivís",
-          "ellos": ""
-        }
+          "ellos": "viven"
+        },
+        "person": "el"
       }
     ]
   },
@@ -6315,8 +6428,8 @@
     "es": "Mi hermana menor todavía va al colegio.",
     "ko": "나의 여동생은 아직 학교에 다닌다.",
     "audioUrl": {
-      "female": "/audio/female/s214.mp3",
-      "male": "/audio/male/s214.mp3"
+      "female": "audio/es/female/s214.mp3",
+      "male": "audio/es/male/s214.mp3"
     },
     "vocab": [
       {
@@ -6371,11 +6484,12 @@
         "conjugation": {
           "yo": "voy",
           "tu": "vas",
-          "el": "van",
+          "el": "va",
           "nosotros": "vamos",
           "vosotros": "vais",
-          "ellos": ""
-        }
+          "ellos": "van"
+        },
+        "person": "el"
       }
     ]
   },
@@ -6387,8 +6501,8 @@
     "es": "No fui a la fiesta aunque me invitaron.",
     "ko": "그들이 나를 초대했음에도 불구하고 나는 파티에 가지 않았다.",
     "audioUrl": {
-      "female": "/audio/female/s215.mp3",
-      "male": "/audio/male/s215.mp3"
+      "female": "audio/es/female/s215.mp3",
+      "male": "audio/es/male/s215.mp3"
     },
     "vocab": [
       {
@@ -6449,11 +6563,12 @@
         "conjugation": {
           "yo": "fui",
           "tu": "fuiste",
-          "el": "fueron",
+          "el": "fue",
           "nosotros": "fuimos",
           "vosotros": "fuisteis",
-          "ellos": ""
-        }
+          "ellos": "fueron"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "invitar",
@@ -6463,11 +6578,12 @@
         "conjugation": {
           "yo": "invité",
           "tu": "invitaste",
-          "el": "invitaron",
+          "el": "invitó",
           "nosotros": "invitamos",
           "vosotros": "invitasteis",
-          "ellos": ""
-        }
+          "ellos": "invitaron"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -6479,8 +6595,8 @@
     "es": "Estudio mucho para aprobar el examen.",
     "ko": "나는 시험에 합격하기 위해 열심히 공부한다.",
     "audioUrl": {
-      "female": "/audio/female/s216.mp3",
-      "male": "/audio/male/s216.mp3"
+      "female": "audio/es/female/s216.mp3",
+      "male": "audio/es/male/s216.mp3"
     },
     "vocab": [
       {
@@ -6529,11 +6645,12 @@
         "conjugation": {
           "yo": "estudio",
           "tu": "estudias",
-          "el": "estudian",
+          "el": "estudia",
           "nosotros": "estudiamos",
           "vosotros": "estudiáis",
-          "ellos": ""
-        }
+          "ellos": "estudian"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "aprobar",
@@ -6543,11 +6660,12 @@
         "conjugation": {
           "yo": "apruebo",
           "tu": "apruebas",
-          "el": "aprueban",
+          "el": "aprueba",
           "nosotros": "aprobamos",
           "vosotros": "aprobáis",
-          "ellos": ""
-        }
+          "ellos": "aprueban"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -6559,8 +6677,8 @@
     "es": "Me puse el abrigo porque hacía mucho frío.",
     "ko": "날씨가 매우 추웠기 때문에 나는 코트를 입었다.",
     "audioUrl": {
-      "female": "/audio/female/s217.mp3",
-      "male": "/audio/male/s217.mp3"
+      "female": "audio/es/female/s217.mp3",
+      "male": "audio/es/male/s217.mp3"
     },
     "vocab": [
       {
@@ -6615,11 +6733,12 @@
         "conjugation": {
           "yo": "me puse",
           "tu": "te pusiste",
-          "el": "se pusieron",
+          "el": "se puso",
           "nosotros": "nos pusimos",
           "vosotros": "os pusisteis",
-          "ellos": ""
-        }
+          "ellos": "se pusieron"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "hacer",
@@ -6638,8 +6757,8 @@
     "es": "Si necesitas ayuda, dímelo.",
     "ko": "도우미 필요하다면 나에게 그것을 말해줘.",
     "audioUrl": {
-      "female": "/audio/female/s218.mp3",
-      "male": "/audio/male/s218.mp3"
+      "female": "audio/es/female/s218.mp3",
+      "male": "audio/es/male/s218.mp3"
     },
     "vocab": [
       {
@@ -6676,11 +6795,12 @@
         "conjugation": {
           "yo": "necesito",
           "tu": "necesitas",
-          "el": "necesitan",
+          "el": "necesita",
           "nosotros": "necesitamos",
           "vosotros": "necesitáis",
-          "ellos": ""
-        }
+          "ellos": "necesitan"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "decir",
@@ -6690,10 +6810,10 @@
         "conjugation": {
           "yo": "",
           "tu": "di (dímelo)",
-          "el": "",
+          "el": "diga",
           "nosotros": "digamos",
           "vosotros": "decid",
-          "ellos": ""
+          "ellos": "digan"
         }
       }
     ]
@@ -6706,8 +6826,8 @@
     "es": "Este libro es más interesante que el que leí la semana pasada.",
     "ko": "이 책은 내가 지난주에 읽은 책보다 더 흥미롭다.",
     "audioUrl": {
-      "female": "/audio/female/s219.mp3",
-      "male": "/audio/male/s219.mp3"
+      "female": "audio/es/female/s219.mp3",
+      "male": "audio/es/male/s219.mp3"
     },
     "vocab": [
       {
@@ -6774,11 +6894,12 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
-        }
+          "ellos": "son"
+        },
+        "person": "el"
       },
       {
         "infinitive": "leer",
@@ -6788,11 +6909,12 @@
         "conjugation": {
           "yo": "leí",
           "tu": "leíste",
-          "el": "me leyeron",
+          "el": "leyó",
           "nosotros": "leímos",
           "vosotros": "leísteis",
-          "ellos": ""
-        }
+          "ellos": "leyeron"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -6804,8 +6926,8 @@
     "es": "Trabajo tanto como puedo.",
     "ko": "나는 내가 할 수 있는 만큼 열심히 일한다.",
     "audioUrl": {
-      "female": "/audio/female/s220.mp3",
-      "male": "/audio/male/s220.mp3"
+      "female": "audio/es/female/s220.mp3",
+      "male": "audio/es/male/s220.mp3"
     },
     "vocab": [
       {
@@ -6836,11 +6958,12 @@
         "conjugation": {
           "yo": "trabajo",
           "tu": "trabajas",
-          "el": "trabajan",
+          "el": "trabaja",
           "nosotros": "trabajamos",
           "vosotros": "trabajáis",
-          "ellos": ""
-        }
+          "ellos": "trabajan"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "poder",
@@ -6850,11 +6973,12 @@
         "conjugation": {
           "yo": "puedo",
           "tu": "puedes",
-          "el": "pueden",
+          "el": "puede",
           "nosotros": "podemos",
           "vosotros": "podéis",
-          "ellos": ""
-        }
+          "ellos": "pueden"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -6866,8 +6990,8 @@
     "es": "La situación es peor de lo que pensábamos.",
     "ko": "상황은 우리가 생각했던 것보다 더 악화되어 있다.",
     "audioUrl": {
-      "female": "/audio/female/s221.mp3",
-      "male": "/audio/male/s221.mp3"
+      "female": "audio/es/female/s221.mp3",
+      "male": "audio/es/male/s221.mp3"
     },
     "vocab": [
       {
@@ -6916,11 +7040,12 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
-        }
+          "ellos": "son"
+        },
+        "person": "el"
       },
       {
         "infinitive": "pensar",
@@ -6930,11 +7055,12 @@
         "conjugation": {
           "yo": "pensaba",
           "tu": "pensabas",
-          "el": "pensaban",
+          "el": "pensaba",
           "nosotros": "pensábamos",
           "vosotros": "pensabais",
-          "ellos": ""
-        }
+          "ellos": "pensaban"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -6946,8 +7072,8 @@
     "es": "Es el edificio más alto de la ciudad.",
     "ko": "그것은 도시에서 가장 높은 건물이다.",
     "audioUrl": {
-      "female": "/audio/female/s222.mp3",
-      "male": "/audio/male/s222.mp3"
+      "female": "audio/es/female/s222.mp3",
+      "male": "audio/es/male/s222.mp3"
     },
     "vocab": [
       {
@@ -7008,11 +7134,12 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
-        }
+          "ellos": "son"
+        },
+        "person": "el"
       }
     ]
   },
@@ -7024,8 +7151,8 @@
     "es": "Aunque estaba cansado, continué estudiando.",
     "ko": "나는 피곤했음에도 불구하고 계속 공부했다.",
     "audioUrl": {
-      "female": "/audio/female/s223.mp3",
-      "male": "/audio/male/s223.mp3"
+      "female": "audio/es/female/s223.mp3",
+      "male": "audio/es/male/s223.mp3"
     },
     "vocab": [
       {
@@ -7068,11 +7195,12 @@
         "conjugation": {
           "yo": "estaba",
           "tu": "estabas",
-          "el": "estaban",
+          "el": "estaba",
           "nosotros": "estábamos",
           "vosotros": "estabais",
-          "ellos": ""
-        }
+          "ellos": "estaban"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "continuar",
@@ -7082,11 +7210,12 @@
         "conjugation": {
           "yo": "continué",
           "tu": "continuaste",
-          "el": "continuaron",
+          "el": "continuó",
           "nosotros": "continuamos",
           "vosotros": "continuasteis",
-          "ellos": ""
-        }
+          "ellos": "continuaron"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -7098,8 +7227,8 @@
     "es": "No compré el abrigo porque era demasiado caro.",
     "ko": "코트가 너무 비쌌기 때문에 나는 그것을 사지 않았다.",
     "audioUrl": {
-      "female": "/audio/female/s224.mp3",
-      "male": "/audio/male/s224.mp3"
+      "female": "audio/es/female/s224.mp3",
+      "male": "audio/es/male/s224.mp3"
     },
     "vocab": [
       {
@@ -7160,11 +7289,12 @@
         "conjugation": {
           "yo": "compré",
           "tu": "compraste",
-          "el": "compraron",
+          "el": "compró",
           "nosotros": "compramos",
           "vosotros": "comprasteis",
-          "ellos": ""
-        }
+          "ellos": "compraron"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "ser",
@@ -7174,11 +7304,12 @@
         "conjugation": {
           "yo": "era",
           "tu": "eras",
-          "el": "eran",
+          "el": "era",
           "nosotros": "éramos",
           "vosotros": "erais",
-          "ellos": ""
-        }
+          "ellos": "eran"
+        },
+        "person": "el"
       }
     ]
   },
@@ -7190,8 +7321,8 @@
     "es": "Si vienes a mi casa, te cocinaré una cena especial.",
     "ko": "네가 우리 집에 온다면, 내가 너에게 특별한 저녁을 요리해 줄게.",
     "audioUrl": {
-      "female": "/audio/female/s225.mp3",
-      "male": "/audio/male/s225.mp3"
+      "female": "audio/es/female/s225.mp3",
+      "male": "audio/es/male/s225.mp3"
     },
     "vocab": [
       {
@@ -7264,11 +7395,12 @@
         "conjugation": {
           "yo": "vengo",
           "tu": "vienes",
-          "el": "vienen",
+          "el": "viene",
           "nosotros": "venimos",
           "vosotros": "venís",
-          "ellos": ""
-        }
+          "ellos": "vienen"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "cocinar",
@@ -7278,11 +7410,12 @@
         "conjugation": {
           "yo": "cocinaré",
           "tu": "cocinarás",
-          "el": "cocinarán",
+          "el": "cocinará",
           "nosotros": "cocinaremos",
           "vosotros": "cocinaréis",
-          "ellos": ""
-        }
+          "ellos": "cocinarán"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -7294,8 +7427,8 @@
     "es": "Creo que tienes razón.",
     "ko": "나는 네 말이 맞다고 생각한다.",
     "audioUrl": {
-      "female": "/audio/female/s226.mp3",
-      "male": "/audio/male/s226.mp3"
+      "female": "audio/es/female/s226.mp3",
+      "male": "audio/es/male/s226.mp3"
     },
     "vocab": [
       {
@@ -7332,11 +7465,12 @@
         "conjugation": {
           "yo": "creo",
           "tu": "crees",
-          "el": "creen",
+          "el": "cree",
           "nosotros": "creemos",
           "vosotros": "creéis",
-          "ellos": ""
-        }
+          "ellos": "creen"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "tener",
@@ -7346,11 +7480,12 @@
         "conjugation": {
           "yo": "tengo",
           "tu": "tienes",
-          "el": "tienen",
+          "el": "tiene",
           "nosotros": "tenemos",
           "vosotros": "tenéis",
-          "ellos": ""
-        }
+          "ellos": "tienen"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -7362,8 +7497,8 @@
     "es": "En mi opinión, esta opción es la mejor.",
     "ko": "내 의견으로는, 이 옵션이 최고이다.",
     "audioUrl": {
-      "female": "/audio/female/s227.mp3",
-      "male": "/audio/male/s227.mp3"
+      "female": "audio/es/female/s227.mp3",
+      "male": "audio/es/male/s227.mp3"
     },
     "vocab": [
       {
@@ -7406,11 +7541,12 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
-        }
+          "ellos": "son"
+        },
+        "person": "el"
       }
     ]
   },
@@ -7422,8 +7558,8 @@
     "es": "Me alegro de verte de nuevo.",
     "ko": "너를 다시 보게 되어 기뻐.",
     "audioUrl": {
-      "female": "/audio/female/s228.mp3",
-      "male": "/audio/male/s228.mp3"
+      "female": "audio/es/female/s228.mp3",
+      "male": "audio/es/male/s228.mp3"
     },
     "vocab": [
       {
@@ -7460,11 +7596,12 @@
         "conjugation": {
           "yo": "me alegro",
           "tu": "te alegras",
-          "el": "se alegran",
+          "el": "se alegra",
           "nosotros": "nos alegramos",
           "vosotros": "os alegráis",
-          "ellos": ""
-        }
+          "ellos": "se alegran"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "ver",
@@ -7474,11 +7611,12 @@
         "conjugation": {
           "yo": "veo",
           "tu": "ves",
-          "el": "ven",
+          "el": "ve",
           "nosotros": "vemos",
           "vosotros": "veis",
-          "ellos": ""
-        }
+          "ellos": "ven"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -7490,8 +7628,8 @@
     "es": "Siento mucho lo ocurrido.",
     "ko": "일어난 일에 대해 정말 유감스럽게 생각해 / 죄송합니다.",
     "audioUrl": {
-      "female": "/audio/female/s229.mp3",
-      "male": "/audio/male/s229.mp3"
+      "female": "audio/es/female/s229.mp3",
+      "male": "audio/es/male/s229.mp3"
     },
     "vocab": [
       {
@@ -7522,11 +7660,12 @@
         "conjugation": {
           "yo": "siento",
           "tu": "sientes",
-          "el": "sienten",
+          "el": "siente",
           "nosotros": "sentimos",
           "vosotros": "sentís",
-          "ellos": ""
-        }
+          "ellos": "sienten"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -7538,8 +7677,8 @@
     "es": "¿Qué opinas sobre este tema?",
     "ko": "이 주제에 대해 어떻게 생각하니?",
     "audioUrl": {
-      "female": "/audio/female/s230.mp3",
-      "male": "/audio/male/s230.mp3"
+      "female": "audio/es/female/s230.mp3",
+      "male": "audio/es/male/s230.mp3"
     },
     "vocab": [
       {
@@ -7582,11 +7721,12 @@
         "conjugation": {
           "yo": "opino",
           "tu": "opinas",
-          "el": "opinan",
+          "el": "opina",
           "nosotros": "opinamos",
           "vosotros": "opináis",
-          "ellos": ""
-        }
+          "ellos": "opinan"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -7598,8 +7738,8 @@
     "es": "Me parece una idea excelente.",
     "ko": "나에게는 그것이 훌륭한 아이디어로 보인다.",
     "audioUrl": {
-      "female": "/audio/female/s231.mp3",
-      "male": "/audio/male/s231.mp3"
+      "female": "audio/es/female/s231.mp3",
+      "male": "audio/es/male/s231.mp3"
     },
     "vocab": [
       {
@@ -7640,13 +7780,14 @@
         "tense": "현재",
         "usedForm": "parece",
         "conjugation": {
-          "yo": "",
+          "yo": "me parece",
           "tu": "te parece",
-          "el": "",
-          "nosotros": "",
+          "el": "le parece",
+          "nosotros": "nos parece",
           "vosotros": "os parece",
-          "ellos": ""
-        }
+          "ellos": "les parece"
+        },
+        "person": "el"
       }
     ]
   },
@@ -7658,8 +7799,8 @@
     "es": "Deberías descansar un poco más.",
     "ko": "너는 조금 더 쉬어야 해.",
     "audioUrl": {
-      "female": "/audio/female/s232.mp3",
-      "male": "/audio/male/s232.mp3"
+      "female": "audio/es/female/s232.mp3",
+      "male": "audio/es/male/s232.mp3"
     },
     "vocab": [
       {
@@ -7696,11 +7837,12 @@
         "conjugation": {
           "yo": "debería",
           "tu": "deberías",
-          "el": "deberían",
+          "el": "debería",
           "nosotros": "deberíamos",
           "vosotros": "deberíais",
-          "ellos": ""
-        }
+          "ellos": "deberían"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "descansar",
@@ -7710,11 +7852,12 @@
         "conjugation": {
           "yo": "descanso",
           "tu": "descansas",
-          "el": "descansan",
+          "el": "descansa",
           "nosotros": "descansamos",
           "vosotros": "descansáis",
-          "ellos": ""
-        }
+          "ellos": "descansan"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -7726,8 +7869,8 @@
     "es": "¿Por qué no vamos al cine esta tarde?",
     "ko": "오늘 오후에 영화관에 가는 게 어때?",
     "audioUrl": {
-      "female": "/audio/female/s233.mp3",
-      "male": "/audio/male/s233.mp3"
+      "female": "audio/es/female/s233.mp3",
+      "male": "audio/es/male/s233.mp3"
     },
     "vocab": [
       {
@@ -7776,11 +7919,12 @@
         "conjugation": {
           "yo": "voy",
           "tu": "vas",
-          "el": "van",
+          "el": "va",
           "nosotros": "vamos",
           "vosotros": "vais",
-          "ellos": ""
-        }
+          "ellos": "van"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -7792,8 +7936,8 @@
     "es": "Te recomiendo visitar ese museo.",
     "ko": "나는 너에게 그 박물관을 방문해 보라고 추천해.",
     "audioUrl": {
-      "female": "/audio/female/s234.mp3",
-      "male": "/audio/male/s234.mp3"
+      "female": "audio/es/female/s234.mp3",
+      "male": "audio/es/male/s234.mp3"
     },
     "vocab": [
       {
@@ -7836,11 +7980,12 @@
         "conjugation": {
           "yo": "recomiendo",
           "tu": "recomiendas",
-          "el": "recomiendan",
+          "el": "recomienda",
           "nosotros": "recomendamos",
           "vosotros": "recomendáis",
-          "ellos": ""
-        }
+          "ellos": "recomiendan"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "visitar",
@@ -7850,11 +7995,12 @@
         "conjugation": {
           "yo": "visito",
           "tu": "visitas",
-          "el": "visitan",
+          "el": "visita",
           "nosotros": "visitamos",
           "vosotros": "visitáis",
-          "ellos": ""
-        }
+          "ellos": "visitan"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -7866,8 +8012,8 @@
     "es": "Espero que tengas un buen viaje.",
     "ko": "네가 즐거운 여행을 하기를 바라.",
     "audioUrl": {
-      "female": "/audio/female/s235.mp3",
-      "male": "/audio/male/s235.mp3"
+      "female": "audio/es/female/s235.mp3",
+      "male": "audio/es/male/s235.mp3"
     },
     "vocab": [
       {
@@ -7916,11 +8062,12 @@
         "conjugation": {
           "yo": "espero",
           "tu": "esperas",
-          "el": "esperan",
+          "el": "espera",
           "nosotros": "esperamos",
           "vosotros": "esperáis",
-          "ellos": ""
-        }
+          "ellos": "esperan"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "tener",
@@ -7930,11 +8077,12 @@
         "conjugation": {
           "yo": "tenga",
           "tu": "tengas",
-          "el": "tengan",
+          "el": "tenga",
           "nosotros": "tengamos",
           "vosotros": "tengáis",
-          "ellos": ""
-        }
+          "ellos": "tengan"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -7946,8 +8094,8 @@
     "es": "¡Que tengas un buen fin de semana!",
     "ko": "좋은 주말 보내!",
     "audioUrl": {
-      "female": "/audio/female/s236.mp3",
-      "male": "/audio/male/s236.mp3"
+      "female": "audio/es/female/s236.mp3",
+      "male": "audio/es/male/s236.mp3"
     },
     "vocab": [
       {
@@ -7990,11 +8138,12 @@
         "conjugation": {
           "yo": "tenga",
           "tu": "tengas",
-          "el": "tengan",
+          "el": "tenga",
           "nosotros": "tengamos",
           "vosotros": "tengáis",
-          "ellos": ""
-        }
+          "ellos": "tengan"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -8006,8 +8155,8 @@
     "es": "Lo siento, pero no puedo ir a tu fiesta.",
     "ko": "미안하지만, 네 파티에 갈 수 없어.",
     "audioUrl": {
-      "female": "/audio/female/s237.mp3",
-      "male": "/audio/male/s237.mp3"
+      "female": "audio/es/female/s237.mp3",
+      "male": "audio/es/male/s237.mp3"
     },
     "vocab": [
       {
@@ -8068,11 +8217,12 @@
         "conjugation": {
           "yo": "siento",
           "tu": "sientes",
-          "el": "sienten",
+          "el": "siente",
           "nosotros": "sentimos",
           "vosotros": "sentís",
-          "ellos": ""
-        }
+          "ellos": "sienten"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "poder",
@@ -8082,11 +8232,12 @@
         "conjugation": {
           "yo": "puedo",
           "tu": "puedes",
-          "el": "pueden",
+          "el": "puede",
           "nosotros": "podemos",
           "vosotros": "podéis",
-          "ellos": ""
-        }
+          "ellos": "pueden"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "ir",
@@ -8096,11 +8247,12 @@
         "conjugation": {
           "yo": "voy",
           "tu": "vas",
-          "el": "van",
+          "el": "va",
           "nosotros": "vamos",
           "vosotros": "vais",
-          "ellos": ""
-        }
+          "ellos": "van"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -8112,8 +8264,8 @@
     "es": "¡Muchas gracias por tu ayuda!",
     "ko": "너의 도움에 정말 고마워!",
     "audioUrl": {
-      "female": "/audio/female/s238.mp3",
-      "male": "/audio/male/s238.mp3"
+      "female": "audio/es/female/s238.mp3",
+      "male": "audio/es/male/s238.mp3"
     },
     "vocab": [
       {
@@ -8151,8 +8303,8 @@
     "es": "¿Te gustaría comer algo juntos?",
     "ko": "너 우리 같이 뭐 좀 먹을래?",
     "audioUrl": {
-      "female": "/audio/female/s239.mp3",
-      "male": "/audio/male/s239.mp3"
+      "female": "audio/es/female/s239.mp3",
+      "male": "audio/es/male/s239.mp3"
     },
     "vocab": [
       {
@@ -8193,13 +8345,14 @@
         "tense": "가능보조/조건법",
         "usedForm": "gustaría",
         "conjugation": {
-          "yo": "",
+          "yo": "me gustaría",
           "tu": "te gustaría",
-          "el": "",
-          "nosotros": "",
+          "el": "le gustaría",
+          "nosotros": "nos gustaría",
           "vosotros": "os gustaría",
-          "ellos": ""
-        }
+          "ellos": "les gustaría"
+        },
+        "person": "el"
       },
       {
         "infinitive": "comer",
@@ -8209,11 +8362,12 @@
         "conjugation": {
           "yo": "como",
           "tu": "comes",
-          "el": "comen",
+          "el": "come",
           "nosotros": "comemos",
           "vosotros": "coméis",
-          "ellos": ""
-        }
+          "ellos": "comen"
+        },
+        "person": "el"
       }
     ]
   },
@@ -8225,8 +8379,8 @@
     "es": "¡Hasta la próxima vez!",
     "ko": "다음 번에 또 만나요!",
     "audioUrl": {
-      "female": "/audio/female/s240.mp3",
-      "male": "/audio/male/s240.mp3"
+      "female": "audio/es/female/s240.mp3",
+      "male": "audio/es/male/s240.mp3"
     },
     "vocab": [
       {

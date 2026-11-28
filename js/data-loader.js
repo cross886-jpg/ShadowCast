@@ -1,18 +1,27 @@
-// Data loader module: Fetches and indexes local Spanish curriculum JSON files.
-const DATA_FILES = [
-  './data/a1_part1.json',
-  './data/a1_part2.json',
-  './data/a2.json',
-  './data/b1.json',
-  './data/b2.json'
-];
-
+// Data loader module: Fetches and indexes local curriculum JSON files by learning language code.
+let currentLang = 'es';
 let allSentences = [];
 let sentencesById = new Map();
 
 export const DataLoader = {
-  async loadAll() {
-    const responses = await Promise.all(DATA_FILES.map((url) => fetch(url)));
+  getLanguage() {
+    return currentLang;
+  },
+
+  getDataFiles(lang = 'es') {
+    return [
+      `./data/${lang}/a1_part1.json`,
+      `./data/${lang}/a1_part2.json`,
+      `./data/${lang}/a2.json`,
+      `./data/${lang}/b1.json`,
+      `./data/${lang}/b2.json`
+    ];
+  },
+
+  async loadAll(lang = 'es') {
+    currentLang = lang;
+    const files = this.getDataFiles(lang);
+    const responses = await Promise.all(files.map((url) => fetch(url)));
     const jsonLists = await Promise.all(responses.map((res) => res.json()));
 
     allSentences = jsonLists.flat();

@@ -4,6 +4,7 @@ import { DataLoader } from './data-loader.js';
 import { AudioPlayer } from './audio-player.js';
 import { UIRenderer } from './ui-render.js';
 import { SettingsView, getEffectiveTheme } from './settings.js';
+import { I18n } from './i18n.js';
 
 let appState = {
   currentLevel: 'all',
@@ -57,7 +58,8 @@ async function init() {
     document.getElementById('grammarToggleLabel').textContent = '해설 펼치기';
   }
 
-  await DataLoader.loadAll();
+  await I18n.load('ko');
+  await DataLoader.loadAll('es');
 
   AudioPlayer.setSpeed(appState.settings.speed);
   AudioPlayer.setWaitMultiplier(appState.settings.waitMultiplier);
@@ -380,6 +382,7 @@ function bindEventListeners(domMap) {
   toggleEsBtn.addEventListener('click', () => {
     appState.isEsHidden = !appState.isEsHidden;
     domMap.spanishContainer.style.opacity = appState.isEsHidden ? '0' : '1';
+    domMap.spanishContainer.style.pointerEvents = appState.isEsHidden ? 'none' : 'auto';
     toggleEsLabel.textContent = appState.isEsHidden ? '스페인어 보기' : '스페인어 가리기';
   });
 
@@ -445,6 +448,18 @@ function bindEventListeners(domMap) {
   document.getElementById('headerSettingsBtn').addEventListener('click', () => {
     AudioPlayer.stop();
     SettingsView.open(appState, DataLoader.getAll().length);
+  });
+
+  // Word meaning popup modal close bindings
+  const wordPopup = document.getElementById('wordPopupModal');
+  const closeWordPopup = () => {
+    wordPopup.classList.add('hidden');
+    wordPopup.classList.remove('flex');
+  };
+  document.getElementById('closeWordPopupBtn').addEventListener('click', closeWordPopup);
+  document.getElementById('confirmWordPopupBtn').addEventListener('click', closeWordPopup);
+  wordPopup.addEventListener('click', (e) => {
+    if (e.target === wordPopup) closeWordPopup();
   });
 
   // Grammar & Playlist collapsible accordions

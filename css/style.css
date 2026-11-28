@@ -15,6 +15,7 @@
   --border-light: #ebe5db;
   --speaking-bar: #85613d;
   --speaking-bg: #ede5d6;
+  --spanish-point: #1A1918;
   --shadow-sm: 0 1px 3px rgba(99, 75, 46, 0.05);
   --shadow-card: 0 4px 16px rgba(99, 75, 46, 0.05);
 }
@@ -36,6 +37,7 @@
   --border-light: #473d35;
   --speaking-bar: #d4a373;
   --speaking-bg: #3d3126;
+  --spanish-point: #f5eee6;
   --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
   --shadow-card: 0 4px 16px rgba(0, 0, 0, 0.4);
 }
@@ -99,4 +101,36 @@ body {
   align-items: center;
   justify-content: center;
   box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.04);
+}
+
+/* Vocabulary & Verb Tile Word Wrapping */
+.vocab-word {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+  white-space: normal;
+}
+
+/* Spanish word click interactive styling */
+.interactive-word {
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 0 2px;
+  transition: background-color 0.15s ease, transform 0.1s ease;
+  display: inline-block;
+}
+.interactive-word:hover {
+  background-color: rgba(26, 25, 24, 0.08);
+}
+.interactive-word:active {
+  transform: scale(0.96);
+  background-color: rgba(26, 25, 24, 0.16);
+}
+.dark .interactive-word:hover {
+  background-color: rgba(245, 238, 230, 0.12);
+}
+.dark .interactive-word:active {
+  background-color: rgba(245, 238, 230, 0.22);
+}
+.spanish-point-color {
+  color: var(--spanish-point);
 }

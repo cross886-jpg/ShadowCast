@@ -101,7 +101,7 @@
 
         <div class="text-left pt-2 pb-1 h-[136px] flex flex-col justify-center overflow-y-auto pr-7">
           <div id="spanishContainer" class="transition-opacity duration-200">
-            <h2 id="spanishText" class="text-[21px] sm:text-[23px] font-bold text-on-surface tracking-tight leading-snug">로딩 중...</h2>
+            <h2 id="spanishText" class="text-[21px] sm:text-[23px] font-bold spanish-point-color tracking-tight leading-snug">로딩 중...</h2>
           </div>
           <div id="koreanContainer" class="transition-opacity duration-200 mt-2">
             <p id="koreanText" class="text-[14px] font-medium text-on-surface-variant leading-relaxed">잠시만 기다려주세요.</p>
@@ -540,6 +540,40 @@
         </button>
         <button id="cancelProfileBtn" type="button" class="w-full py-2 text-center text-on-surface-muted hover:text-on-surface text-[13px] font-medium transition-colors">
           닫기
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Word Meaning Popup Modal -->
+  <div id="wordPopupModal" class="fixed inset-0 z-50 hidden items-center justify-center bg-black/40 backdrop-blur-sm p-4">
+    <div class="w-full max-w-sm bg-surface-card rounded-2xl p-5 border border-[#e6dfd3] dark:border-[#3d342d] shadow-xl space-y-3.5 animate-in fade-in zoom-in-95 duration-150">
+      <div class="flex items-start justify-between gap-2 pb-2 border-b border-[#e6dfd3]/60 dark:border-[#3d342d]">
+        <div class="space-y-0.5 min-w-0">
+          <div class="flex items-center gap-2 flex-wrap">
+            <h3 id="wordPopupTerm" class="text-[17px] font-bold spanish-point-color tracking-tight break-words">단어</h3>
+            <span id="wordPopupPos" class="text-[11px] font-semibold bg-surface-container dark:bg-[#332b25] text-primary px-2 py-0.5 rounded border border-[#ebe5db] dark:border-[#473d35]">품사</span>
+          </div>
+        </div>
+        <button id="closeWordPopupBtn" type="button" aria-label="닫기" class="w-7 h-7 rounded-full flex items-center justify-center text-on-surface-muted hover:text-on-surface hover:bg-surface-container transition-colors shrink-0">
+          <span class="material-symbols-outlined text-[18px]">close</span>
+        </button>
+      </div>
+
+      <div class="space-y-2">
+        <div>
+          <span class="text-[11px] font-semibold text-on-surface-muted block mb-0.5">한국어 뜻</span>
+          <p id="wordPopupMeaning" class="text-[14px] font-bold text-on-surface leading-snug break-words">의미</p>
+        </div>
+        <div id="wordPopupNoteSection" class="hidden pt-1.5 border-t border-[#e6dfd3]/40 dark:border-[#3d342d]">
+          <span class="text-[11px] font-semibold text-primary block mb-0.5">학습 메모</span>
+          <p id="wordPopupNote" class="text-[12px] text-on-surface-variant leading-relaxed bg-surface-container-low dark:bg-[#2b241f] p-2 rounded-lg border border-[#e6dfd3] dark:border-[#3d342d] break-words"></p>
+        </div>
+      </div>
+
+      <div class="pt-1">
+        <button id="confirmWordPopupBtn" type="button" class="w-full py-2 rounded-xl bg-surface-container-low dark:bg-[#2b241f] hover:bg-surface-container dark:hover:bg-[#382f28] text-primary text-[13px] font-semibold border border-[#e6dfd3] dark:border-[#3d342d] transition-colors">
+          확인
         </button>
       </div>
     </div>

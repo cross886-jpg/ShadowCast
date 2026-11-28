@@ -17,9 +17,10 @@ export const UIRenderer = {
       return;
     }
 
-    this.elements.spanishText.textContent = sentence.es;
+    this.renderInteractiveSpanish(sentence);
     this.elements.koreanText.textContent = sentence.ko;
     this.elements.spanishContainer.style.opacity = isEsHidden ? '0' : '1';
+    this.elements.spanishContainer.style.pointerEvents = isEsHidden ? 'none' : 'auto';
     this.elements.koreanContainer.style.opacity = isKoHidden ? '0' : '1';
 
     if (isBookmarked) {
@@ -29,6 +30,75 @@ export const UIRenderer = {
       this.elements.bookmarkBtn.classList.remove('text-primary');
       this.elements.bookmarkIcon.classList.remove('fill');
     }
+  },
+
+  renderInteractiveSpanish(sentence) {
+    const container = this.elements.spanishText;
+    container.innerHTML = '';
+
+    const words = sentence.es.split(' ');
+    words.forEach((word, idx) => {
+      const span = document.createElement('span');
+      span.className = 'interactive-word';
+      span.textContent = word;
+      span.addEventListener('click', (e) => {
+        e.stopPropagation();
+        this.openWordPopup(word, sentence.vocab || []);
+      });
+      container.appendChild(span);
+
+      if (idx < words.length - 1) {
+        container.appendChild(document.createTextNode(' '));
+      }
+    });
+  },
+
+  openWordPopup(rawWord, vocabList) {
+    const modal = document.getElementById('wordPopupModal');
+    if (!modal) return;
+
+    const cleanWord = rawWord.replace(/^[¿¡"«'(\[]+/, '').replace(/[?!.,:;)"»\]]+$/, '').toLowerCase();
+    
+    // Find matching vocab entry
+    let matched = null;
+    for (const v of vocabList) {
+      const vClean = v.word.replace(/^[¿¡"«'(\[]+/, '').replace(/[?!.,:;)"»\]]+$/, '').toLowerCase();
+      if (cleanWord === vClean) {
+        matched = v;
+        break;
+      }
+      const vTokens = v.word.toLowerCase().split(/\s+/).map((t) => t.replace(/^[¿¡"«'(\[]+/, '').replace(/[?!.,:;)"»\]]+$/, ''));
+      if (vTokens.includes(cleanWord)) {
+        matched = v;
+        break;
+      }
+    }
+
+    const termElem = document.getElementById('wordPopupTerm');
+    const posElem = document.getElementById('wordPopupPos');
+    const meaningElem = document.getElementById('wordPopupMeaning');
+    const noteSection = document.getElementById('wordPopupNoteSection');
+    const noteElem = document.getElementById('wordPopupNote');
+
+    if (matched) {
+      termElem.textContent = matched.word;
+      posElem.textContent = matched.pos || '단어';
+      meaningElem.textContent = matched.meaning;
+      if (matched.note && matched.note.trim()) {
+        noteElem.textContent = matched.note;
+        noteSection.classList.remove('hidden');
+      } else {
+        noteSection.classList.add('hidden');
+      }
+    } else {
+      termElem.textContent = rawWord.replace(/^[¿¡"«'(\[]+/, '').replace(/[?!.,:;)"»\]]+$/, '');
+      posElem.textContent = '단어';
+      meaningElem.textContent = '문맥 어휘 카드 및 동사 해설을 참고하세요.';
+      noteSection.classList.add('hidden');
+    }
+
+    modal.classList.remove('hidden');
+    modal.classList.add('flex');
   },
 
   renderPhase(phase, data) {
@@ -85,12 +155,12 @@ export const UIRenderer = {
       const hasNote = Boolean(item.note && item.note.trim());
 
       tile.innerHTML = `
-        <div class="flex items-center justify-between gap-1">
-          <span class="font-bold text-[#1e1b18] dark:text-[#f5eee6] text-[13px] leading-tight truncate">${item.word}</span>
-          <span class="text-[10px] text-[#85613d] dark:text-[#d4a373] font-semibold bg-[#f8f5ee] dark:bg-[#332b25] px-1.5 py-0.5 rounded border border-[#ebe5db] dark:border-[#473d35] shrink-0">${item.pos}</span>
+        <div class="flex items-start justify-between gap-1.5">
+          <span class="font-bold text-[#1e1b18] dark:text-[#f5eee6] text-[13px] leading-snug break-words flex-1">${item.word}</span>
+          <span class="text-[10px] text-[#85613d] dark:text-[#d4a373] font-semibold bg-[#f8f5ee] dark:bg-[#332b25] px-1.5 py-0.5 rounded border border-[#ebe5db] dark:border-[#473d35] shrink-0 mt-0.5">${item.pos}</span>
         </div>
-        <span class="text-[11px] text-[#554b42] dark:text-[#c3b7ab] font-medium leading-snug truncate">${item.meaning}</span>
-        ${hasNote ? `<div class="mt-0.5 text-[10px] text-[#7d736a] dark:text-[#9c8e80] bg-[#faf7f2] dark:bg-[#231e1a] px-1.5 py-0.5 rounded leading-tight border border-[#ebe5db] dark:border-[#3d342d]"><span class="font-semibold text-primary">메모:</span> ${item.note}</div>` : ''}
+        <span class="text-[11px] text-[#554b42] dark:text-[#c3b7ab] font-medium leading-snug break-words">${item.meaning}</span>
+        ${hasNote ? `<div class="mt-0.5 text-[10px] text-[#7d736a] dark:text-[#9c8e80] bg-[#faf7f2] dark:bg-[#231e1a] px-1.5 py-0.5 rounded leading-normal border border-[#ebe5db] dark:border-[#3d342d] break-words"><span class="font-semibold text-primary">메모:</span> ${item.note}</div>` : ''}
       `;
       container.appendChild(tile);
     }
@@ -122,7 +192,8 @@ export const UIRenderer = {
       let gridHtml = '';
       for (const p of personKeys) {
         const form = (vb.conjugation && vb.conjugation[p.key]) || '-';
-        const isUsed = vb.usedForm && form.toLowerCase().trim() === vb.usedForm.toLowerCase().trim();
+        const formMatches = Boolean(vb.usedForm && form.toLowerCase().trim() === vb.usedForm.toLowerCase().trim());
+        const isUsed = vb.person ? (vb.person === p.key && formMatches) : formMatches;
 
         if (isUsed) {
           gridHtml += `

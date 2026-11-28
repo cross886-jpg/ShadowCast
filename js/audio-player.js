@@ -23,16 +23,18 @@ export const AudioPlayer = {
     onSentenceComplete: () => {}
   },
 
-  getAudioUrl(sentence) {
+  getAudioUrl(sentence, lang = 'es', voice = 'female') {
     if (!sentence) return '';
     if (typeof sentence.audioUrl === 'string') {
-      return sentence.audioUrl.startsWith('/') ? sentence.audioUrl.slice(1) : sentence.audioUrl;
+      const raw = sentence.audioUrl.startsWith('/') ? sentence.audioUrl.slice(1) : sentence.audioUrl;
+      return raw.startsWith('./') ? raw : `./${raw}`;
     }
-    if (sentence.audioUrl && sentence.audioUrl.female) {
-      const url = sentence.audioUrl.female;
-      return url.startsWith('/') ? url.slice(1) : url;
+    if (sentence.audioUrl && sentence.audioUrl[voice]) {
+      const raw = sentence.audioUrl[voice];
+      const clean = raw.startsWith('/') ? raw.slice(1) : raw;
+      return clean.startsWith('./') ? clean : `./${clean}`;
     }
-    return `audio/female/${sentence.id}.mp3`;
+    return `./audio/${lang}/${voice}/${sentence.id}.mp3`;
   },
 
   setCallbacks(cb) {

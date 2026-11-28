@@ -7,8 +7,8 @@
     "es": "Si tuviera más dinero, me compraría una casa en la playa.",
     "ko": "내가 돈이 더 있다면, 바닷가에 집을 한 채 살 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s341.mp3",
-      "male": "/audio/male/s341.mp3"
+      "female": "audio/es/female/s341.mp3",
+      "male": "audio/es/male/s341.mp3"
     },
     "vocab": [
       {
@@ -87,11 +87,12 @@
         "conjugation": {
           "yo": "tuviera",
           "tu": "tuvieras",
-          "el": "tuvieran",
+          "el": "tuviera",
           "nosotros": "tuviéramos",
           "vosotros": "tuvierais",
-          "ellos": ""
-        }
+          "ellos": "tuvieran"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "comprar",
@@ -101,11 +102,12 @@
         "conjugation": {
           "yo": "compraría",
           "tu": "comprarías",
-          "el": "comprarían",
+          "el": "compraría",
           "nosotros": "compraríamos",
           "vosotros": "compraríais",
-          "ellos": ""
-        }
+          "ellos": "comprarían"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -117,8 +119,8 @@
     "es": "Si hubieras estudiado más, habrías aprobado el examen de español.",
     "ko": "네가 공부를 더 했었더라면, 스페인어 시험에 합격했을 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s342.mp3",
-      "male": "/audio/male/s342.mp3"
+      "female": "audio/es/female/s342.mp3",
+      "male": "audio/es/male/s342.mp3"
     },
     "vocab": [
       {
@@ -191,11 +193,12 @@
         "conjugation": {
           "yo": "hubiera estudiado",
           "tu": "hubieras estudiado",
-          "el": "hubieran estudiado",
+          "el": "hubiera estudiado",
           "nosotros": "hubiéramos estudiado",
           "vosotros": "hubierais estudiado",
-          "ellos": ""
-        }
+          "ellos": "hubieran estudiado"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "aprobar",
@@ -205,11 +208,12 @@
         "conjugation": {
           "yo": "habría aprobado",
           "tu": "habrías aprobado",
-          "el": "habrían aprobado",
+          "el": "habría aprobado",
           "nosotros": "habríamos aprobado",
           "vosotros": "habríais aprobado",
-          "ellos": ""
-        }
+          "ellos": "habrían aprobado"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -221,8 +225,8 @@
     "es": "Si supiera la verdad, te la diría inmediatamente.",
     "ko": "내가 진실을 안다면, 너에게 즉시 말해줄 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s343.mp3",
-      "male": "/audio/male/s343.mp3"
+      "female": "audio/es/female/s343.mp3",
+      "male": "audio/es/male/s343.mp3"
     },
     "vocab": [
       {
@@ -283,11 +287,12 @@
         "conjugation": {
           "yo": "supiera",
           "tu": "supieras",
-          "el": "supieran",
+          "el": "supiera",
           "nosotros": "supiéramos",
           "vosotros": "supierais",
-          "ellos": ""
-        }
+          "ellos": "supieran"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "decir",
@@ -297,11 +302,12 @@
         "conjugation": {
           "yo": "diría",
           "tu": "dirías",
-          "el": "dirían",
+          "el": "diría",
           "nosotros": "diríamos",
           "vosotros": "diríais",
-          "ellos": ""
-        }
+          "ellos": "dirían"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -313,8 +319,8 @@
     "es": "Si no hubiéramos perdido el tren, ya habríamos llegado a Madrid.",
     "ko": "우리가 기차를 놓치지 않았었더라면, 마드리드에 벌써 도착했을 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s344.mp3",
-      "male": "/audio/male/s344.mp3"
+      "female": "audio/es/female/s344.mp3",
+      "male": "audio/es/male/s344.mp3"
     },
     "vocab": [
       {
@@ -393,11 +399,12 @@
         "conjugation": {
           "yo": "hubiera perdido",
           "tu": "hubieras perdido",
-          "el": "hubieran perdido",
+          "el": "hubiera perdido",
           "nosotros": "hubiéramos perdido",
           "vosotros": "hubierais perdido",
-          "ellos": ""
-        }
+          "ellos": "hubieran perdido"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "llegar",
@@ -407,11 +414,12 @@
         "conjugation": {
           "yo": "habría llegado",
           "tu": "habrías llegado",
-          "el": "habrían llegado",
+          "el": "habría llegado",
           "nosotros": "habríamos llegado",
           "vosotros": "habríais llegado",
-          "ellos": ""
-        }
+          "ellos": "habrían llegado"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -423,8 +431,8 @@
     "es": "Si pudieras viajar a cualquier lugar, ¿adónde irías?",
     "ko": "네가 어느 장소로든 여행할 수 있다면, 어디로 가겠니?",
     "audioUrl": {
-      "female": "/audio/female/s345.mp3",
-      "male": "/audio/male/s345.mp3"
+      "female": "audio/es/female/s345.mp3",
+      "male": "audio/es/male/s345.mp3"
     },
     "vocab": [
       {
@@ -485,11 +493,12 @@
         "conjugation": {
           "yo": "pudiera",
           "tu": "pudieras",
-          "el": "pudieran",
+          "el": "pudiera",
           "nosotros": "pudiéramos",
           "vosotros": "pudierais",
-          "ellos": ""
-        }
+          "ellos": "pudieran"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "viajar",
@@ -499,10 +508,10 @@
         "conjugation": {
           "yo": "viajo",
           "tu": "viajas",
-          "el": "viajan",
+          "el": "viaja",
           "nosotros": "viajamos",
           "vosotros": "viajáis",
-          "ellos": ""
+          "ellos": "viajan"
         }
       },
       {
@@ -513,11 +522,12 @@
         "conjugation": {
           "yo": "iría",
           "tu": "irías",
-          "el": "irían",
+          "el": "iría",
           "nosotros": "iríamos",
           "vosotros": "iríais",
-          "ellos": ""
-        }
+          "ellos": "irían"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -529,8 +539,8 @@
     "es": "Si me hubieras llamado antes, te habría acompañado a la reunión.",
     "ko": "네가 나에게 더 일찍 전화했었더라면, 회의에 너와 동행했을 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s346.mp3",
-      "male": "/audio/male/s346.mp3"
+      "female": "audio/es/female/s346.mp3",
+      "male": "audio/es/male/s346.mp3"
     },
     "vocab": [
       {
@@ -609,11 +619,12 @@
         "conjugation": {
           "yo": "hubiera llamado",
           "tu": "hubieras llamado",
-          "el": "hubieran llamado",
+          "el": "hubiera llamado",
           "nosotros": "hubiéramos llamado",
           "vosotros": "hubierais llamado",
-          "ellos": ""
-        }
+          "ellos": "hubieran llamado"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "acompañar",
@@ -623,11 +634,12 @@
         "conjugation": {
           "yo": "habría acompañado",
           "tu": "habrías acompañado",
-          "el": "habrían acompañado",
+          "el": "habría acompañado",
           "nosotros": "habríamos acompañado",
           "vosotros": "habríais acompañado",
-          "ellos": ""
-        }
+          "ellos": "habrían acompañado"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -639,8 +651,8 @@
     "es": "Como si fuera fácil, me pidió que terminara todo el informe hoy.",
     "ko": "마치 쉬운 일이라는 듯이, 그는 나에게 오늘 보고서 전체를 끝내라고 요청했다.",
     "audioUrl": {
-      "female": "/audio/female/s347.mp3",
-      "male": "/audio/male/s347.mp3"
+      "female": "audio/es/female/s347.mp3",
+      "male": "audio/es/male/s347.mp3"
     },
     "vocab": [
       {
@@ -719,11 +731,12 @@
         "conjugation": {
           "yo": "fuera",
           "tu": "fueras",
-          "el": "fueran",
+          "el": "fuera",
           "nosotros": "fuéramos",
           "vosotros": "fuerais",
-          "ellos": ""
-        }
+          "ellos": "fueran"
+        },
+        "person": "el"
       },
       {
         "infinitive": "pedir",
@@ -733,11 +746,12 @@
         "conjugation": {
           "yo": "pedí",
           "tu": "pediste",
-          "el": "pidieron",
+          "el": "pidió",
           "nosotros": "pedimos",
           "vosotros": "pedisteis",
-          "ellos": ""
-        }
+          "ellos": "pidieron"
+        },
+        "person": "el"
       },
       {
         "infinitive": "terminar",
@@ -747,11 +761,12 @@
         "conjugation": {
           "yo": "terminara",
           "tu": "terminaras",
-          "el": "terminaran",
+          "el": "terminara",
           "nosotros": "termináramos",
           "vosotros": "terminarais",
-          "ellos": ""
-        }
+          "ellos": "terminaran"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -763,8 +778,8 @@
     "es": "Si hubiese sabido tus intenciones, no te habría prestado dinero.",
     "ko": "내가 너의 의도를 알았었더라면, 너에게 돈을 빌려주지 않았을 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s348.mp3",
-      "male": "/audio/male/s348.mp3"
+      "female": "audio/es/female/s348.mp3",
+      "male": "audio/es/male/s348.mp3"
     },
     "vocab": [
       {
@@ -837,11 +852,12 @@
         "conjugation": {
           "yo": "hubiese sabido",
           "tu": "hubieses sabido",
-          "el": "hubiesen sabido",
+          "el": "hubiese sabido",
           "nosotros": "hubiésemos sabido",
           "vosotros": "hubieseis sabido",
-          "ellos": ""
-        }
+          "ellos": "hubiesen sabido"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "prestar",
@@ -851,11 +867,12 @@
         "conjugation": {
           "yo": "habría prestado",
           "tu": "habrías prestado",
-          "el": "habrían prestado",
+          "el": "habría prestado",
           "nosotros": "habríamos prestado",
           "vosotros": "habríais prestado",
-          "ellos": ""
-        }
+          "ellos": "habrían prestado"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -867,8 +884,8 @@
     "es": "Si hiciera buen tiempo este fin de semana, iríamos de excursión a la montaña.",
     "ko": "이번 주말에 날씨가 좋다면, 우리는 산으로 소풍을 갈 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s349.mp3",
-      "male": "/audio/male/s349.mp3"
+      "female": "audio/es/female/s349.mp3",
+      "male": "audio/es/male/s349.mp3"
     },
     "vocab": [
       {
@@ -947,11 +964,12 @@
         "conjugation": {
           "yo": "hiciera",
           "tu": "hicieras",
-          "el": "hicieran",
+          "el": "hiciera",
           "nosotros": "hiciéramos",
           "vosotros": "hicierais",
-          "ellos": ""
-        }
+          "ellos": "hicieran"
+        },
+        "person": "el"
       },
       {
         "infinitive": "ir",
@@ -961,11 +979,12 @@
         "conjugation": {
           "yo": "iría",
           "tu": "irías",
-          "el": "irían",
+          "el": "iría",
           "nosotros": "iríamos",
           "vosotros": "iríais",
-          "ellos": ""
-        }
+          "ellos": "irían"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -977,8 +996,8 @@
     "es": "Hablaría mejor español si tuviera la oportunidad de practicar todos los días.",
     "ko": "매일 연습할 기회가 있다면 스페인어를 더 잘할 수 있을 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s350.mp3",
-      "male": "/audio/male/s350.mp3"
+      "female": "audio/es/female/s350.mp3",
+      "male": "audio/es/male/s350.mp3"
     },
     "vocab": [
       {
@@ -1051,11 +1070,12 @@
         "conjugation": {
           "yo": "hablaría",
           "tu": "hablarías",
-          "el": "hablarían",
+          "el": "hablaría",
           "nosotros": "hablaríamos",
           "vosotros": "hablaríais",
-          "ellos": ""
-        }
+          "ellos": "hablarían"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "tener",
@@ -1065,11 +1085,12 @@
         "conjugation": {
           "yo": "tuviera",
           "tu": "tuvieras",
-          "el": "tuvieran",
+          "el": "tuviera",
           "nosotros": "tuviéramos",
           "vosotros": "tuvierais",
-          "ellos": ""
-        }
+          "ellos": "tuvieran"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "practicar",
@@ -1079,10 +1100,10 @@
         "conjugation": {
           "yo": "practico",
           "tu": "practicas",
-          "el": "practican",
+          "el": "practica",
           "nosotros": "practicamos",
           "vosotros": "practicáis",
-          "ellos": ""
+          "ellos": "practican"
         }
       }
     ]
@@ -1095,8 +1116,8 @@
     "es": "Si hubieras seguido mis consejos, ahora no estarías en un problema tan grave.",
     "ko": "네가 내 조언을 따랐었더라면, 지금 그렇게 심각한 문제에 처해 있지 않을 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s351.mp3",
-      "male": "/audio/male/s351.mp3"
+      "female": "audio/es/female/s351.mp3",
+      "male": "audio/es/male/s351.mp3"
     },
     "vocab": [
       {
@@ -1187,11 +1208,12 @@
         "conjugation": {
           "yo": "hubiera seguido",
           "tu": "hubieras seguido",
-          "el": "hubieran seguido",
+          "el": "hubiera seguido",
           "nosotros": "hubiéramos seguido",
           "vosotros": "hubierais seguido",
-          "ellos": ""
-        }
+          "ellos": "hubieran seguido"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "estar",
@@ -1201,11 +1223,12 @@
         "conjugation": {
           "yo": "estaría",
           "tu": "estarías",
-          "el": "estarían",
+          "el": "estaría",
           "nosotros": "estaríamos",
           "vosotros": "estaríais",
-          "ellos": ""
-        }
+          "ellos": "estarían"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -1217,8 +1240,8 @@
     "es": "Habría comprado la entrada si el precio no hubiera sido tan elevado.",
     "ko": "가격이 그렇게 비싸지 않았었더라면 티켓을 샀을 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s352.mp3",
-      "male": "/audio/male/s352.mp3"
+      "female": "audio/es/female/s352.mp3",
+      "male": "audio/es/male/s352.mp3"
     },
     "vocab": [
       {
@@ -1303,11 +1326,12 @@
         "conjugation": {
           "yo": "habría comprado",
           "tu": "habrías comprado",
-          "el": "habrían comprado",
+          "el": "habría comprado",
           "nosotros": "habríamos comprado",
           "vosotros": "habríais comprado",
-          "ellos": ""
-        }
+          "ellos": "habrían comprado"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "ser",
@@ -1317,11 +1341,12 @@
         "conjugation": {
           "yo": "hubiera sido",
           "tu": "hubieras sido",
-          "el": "hubieran sido",
+          "el": "hubiera sido",
           "nosotros": "hubiéramos sido",
           "vosotros": "hubierais sido",
-          "ellos": ""
-        }
+          "ellos": "hubieran sido"
+        },
+        "person": "el"
       }
     ]
   },
@@ -1333,8 +1358,8 @@
     "es": "Si tuvieras que tomar una decisión ahora mismo, ¿qué elegirías?",
     "ko": "네가 지금 당장 결정을 내려야 한다면, 무엇을 선택하겠니?",
     "audioUrl": {
-      "female": "/audio/female/s353.mp3",
-      "male": "/audio/male/s353.mp3"
+      "female": "audio/es/female/s353.mp3",
+      "male": "audio/es/male/s353.mp3"
     },
     "vocab": [
       {
@@ -1401,11 +1426,12 @@
         "conjugation": {
           "yo": "tuviera",
           "tu": "tuvieras",
-          "el": "tuvieran",
+          "el": "tuviera",
           "nosotros": "tuviéramos",
           "vosotros": "tuvierais",
-          "ellos": ""
-        }
+          "ellos": "tuvieran"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "tomar",
@@ -1415,10 +1441,10 @@
         "conjugation": {
           "yo": "tomo",
           "tu": "tomas",
-          "el": "toman",
+          "el": "toma",
           "nosotros": "tomamos",
           "vosotros": "tomáis",
-          "ellos": ""
+          "ellos": "toman"
         }
       },
       {
@@ -1429,11 +1455,12 @@
         "conjugation": {
           "yo": "elegiría",
           "tu": "elegirías",
-          "el": "elegirían",
+          "el": "elegiría",
           "nosotros": "elegiríamos",
           "vosotros": "elegiríais",
-          "ellos": ""
-        }
+          "ellos": "elegirían"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -1445,8 +1472,8 @@
     "es": "Si el director hubiera aprobado la propuesta, ya habríamos empezado el proyecto.",
     "ko": "이사님이 제안서를 승인하셨었더라면, 우리는 이미 프로젝트를 시작했을 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s354.mp3",
-      "male": "/audio/male/s354.mp3"
+      "female": "audio/es/female/s354.mp3",
+      "male": "audio/es/male/s354.mp3"
     },
     "vocab": [
       {
@@ -1531,11 +1558,12 @@
         "conjugation": {
           "yo": "hubiera aprobado",
           "tu": "hubieras aprobado",
-          "el": "hubieran aprobado",
+          "el": "hubiera aprobado",
           "nosotros": "hubiéramos aprobado",
           "vosotros": "hubierais aprobado",
-          "ellos": ""
-        }
+          "ellos": "hubieran aprobado"
+        },
+        "person": "el"
       },
       {
         "infinitive": "empezar",
@@ -1545,11 +1573,12 @@
         "conjugation": {
           "yo": "habría empezado",
           "tu": "habrías empezado",
-          "el": "habrían empezado",
+          "el": "habría empezado",
           "nosotros": "habríamos empezado",
           "vosotros": "habríais empezado",
-          "ellos": ""
-        }
+          "ellos": "habrían empezado"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -1561,8 +1590,8 @@
     "es": "Ella actúa como si supiera todo sobre la economía mundial.",
     "ko": "그녀는 마치 세계 경제에 대해 모든 것을 다 안다는 듯이 행동한다.",
     "audioUrl": {
-      "female": "/audio/female/s355.mp3",
-      "male": "/audio/male/s355.mp3"
+      "female": "audio/es/female/s355.mp3",
+      "male": "audio/es/male/s355.mp3"
     },
     "vocab": [
       {
@@ -1629,11 +1658,12 @@
         "conjugation": {
           "yo": "actúo",
           "tu": "actúas",
-          "el": "actúan",
+          "el": "actúa",
           "nosotros": "actuamos",
           "vosotros": "actuáis",
-          "ellos": ""
-        }
+          "ellos": "actúan"
+        },
+        "person": "el"
       },
       {
         "infinitive": "saber",
@@ -1643,11 +1673,12 @@
         "conjugation": {
           "yo": "supiera",
           "tu": "supieras",
-          "el": "supieran",
+          "el": "supiera",
           "nosotros": "supiéramos",
           "vosotros": "supierais",
-          "ellos": ""
-        }
+          "ellos": "supieran"
+        },
+        "person": "el"
       }
     ]
   },
@@ -1659,8 +1690,8 @@
     "es": "Si no hubiera habido tanto tráfico, habría llegado a tiempo a la cita.",
     "ko": "교통량이 그렇게 많지 않았었더라면, 약속 시간에 제때 도착했을 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s356.mp3",
-      "male": "/audio/male/s356.mp3"
+      "female": "audio/es/female/s356.mp3",
+      "male": "audio/es/male/s356.mp3"
     },
     "vocab": [
       {
@@ -1746,11 +1777,12 @@
         "conjugation": {
           "yo": "habría llegado",
           "tu": "habrías llegado",
-          "el": "habrían llegado",
+          "el": "habría llegado",
           "nosotros": "habríamos llegado",
           "vosotros": "habríais llegado",
-          "ellos": ""
-        }
+          "ellos": "habrían llegado"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -1762,8 +1794,8 @@
     "es": "Te llamaría por teléfono si tuviera tu número de contacto.",
     "ko": "내가 너의 연락처 번호를 가지고 있다면 너에게 전화할 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s357.mp3",
-      "male": "/audio/male/s357.mp3"
+      "female": "audio/es/female/s357.mp3",
+      "male": "audio/es/male/s357.mp3"
     },
     "vocab": [
       {
@@ -1830,11 +1862,12 @@
         "conjugation": {
           "yo": "llamaría",
           "tu": "llamarías",
-          "el": "llamarían",
+          "el": "llamaría",
           "nosotros": "llamaríamos",
           "vosotros": "llamaríais",
-          "ellos": ""
-        }
+          "ellos": "llamarían"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "tener",
@@ -1844,11 +1877,12 @@
         "conjugation": {
           "yo": "tuviera",
           "tu": "tuvieras",
-          "el": "tuvieran",
+          "el": "tuviera",
           "nosotros": "tuviéramos",
           "vosotros": "tuvierais",
-          "ellos": ""
-        }
+          "ellos": "tuvieran"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -1860,8 +1894,8 @@
     "es": "Si hubieras visto la película, habrías entendido el final.",
     "ko": "네가 그 영화를 봤었더라면, 결말을 이해했을 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s358.mp3",
-      "male": "/audio/male/s358.mp3"
+      "female": "audio/es/female/s358.mp3",
+      "male": "audio/es/male/s358.mp3"
     },
     "vocab": [
       {
@@ -1928,11 +1962,12 @@
         "conjugation": {
           "yo": "hubiera visto",
           "tu": "hubieras visto",
-          "el": "hubieran visto",
+          "el": "hubiera visto",
           "nosotros": "hubiéramos visto",
           "vosotros": "hubierais visto",
-          "ellos": ""
-        }
+          "ellos": "hubieran visto"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "entender",
@@ -1942,11 +1977,12 @@
         "conjugation": {
           "yo": "habría entendido",
           "tu": "habrías entendido",
-          "el": "habrían entendido",
+          "el": "habría entendido",
           "nosotros": "habríamos entendido",
           "vosotros": "habríais entendido",
-          "ellos": ""
-        }
+          "ellos": "habrían entendido"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -1958,8 +1994,8 @@
     "es": "Si viviéramos más cerca del centro, no necesitaríamos coger el autobús.",
     "ko": "우리가 시내에서 더 가까이 산다면, 버스를 탈 필요가 없을 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s359.mp3",
-      "male": "/audio/male/s359.mp3"
+      "female": "audio/es/female/s359.mp3",
+      "male": "audio/es/male/s359.mp3"
     },
     "vocab": [
       {
@@ -2038,11 +2074,12 @@
         "conjugation": {
           "yo": "viviera",
           "tu": "vivieras",
-          "el": "vivieran",
+          "el": "viviera",
           "nosotros": "viviéramos",
           "vosotros": "vivierais",
-          "ellos": ""
-        }
+          "ellos": "vivieran"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "necesitar",
@@ -2052,11 +2089,12 @@
         "conjugation": {
           "yo": "necesitaría",
           "tu": "necesitarías",
-          "el": "necesitarían",
+          "el": "necesitaría",
           "nosotros": "necesitaríamos",
           "vosotros": "necesitaríais",
-          "ellos": ""
-        }
+          "ellos": "necesitarían"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "coger",
@@ -2066,10 +2104,10 @@
         "conjugation": {
           "yo": "cojo",
           "tu": "coges",
-          "el": "cogen",
+          "el": "coge",
           "nosotros": "cogemos",
           "vosotros": "cogéis",
-          "ellos": ""
+          "ellos": "cogen"
         }
       }
     ]
@@ -2082,8 +2120,8 @@
     "es": "Me habrías encontrado si me hubieras buscado en el despacho.",
     "ko": "네가 나를 사무실에서 찾았었더라면, 나를 만났을(찾았을) 텐데.",
     "audioUrl": {
-      "female": "/audio/female/s360.mp3",
-      "male": "/audio/male/s360.mp3"
+      "female": "audio/es/female/s360.mp3",
+      "male": "audio/es/male/s360.mp3"
     },
     "vocab": [
       {
@@ -2156,11 +2194,12 @@
         "conjugation": {
           "yo": "habría encontrado",
           "tu": "habrías encontrado",
-          "el": "habrían encontrado",
+          "el": "habría encontrado",
           "nosotros": "habríamos encontrado",
           "vosotros": "habríais encontrado",
-          "ellos": ""
-        }
+          "ellos": "habrían encontrado"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "buscar",
@@ -2170,11 +2209,12 @@
         "conjugation": {
           "yo": "hubiera buscado",
           "tu": "hubieras buscado",
-          "el": "hubieran buscado",
+          "el": "hubiera buscado",
           "nosotros": "hubiéramos buscado",
           "vosotros": "hubierais buscado",
-          "ellos": ""
-        }
+          "ellos": "hubieran buscado"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -2186,8 +2226,8 @@
     "es": "Ojalá hubiera sabido la verdad antes de tomar esa decisión.",
     "ko": "그 결정을 내리기 전에 진실을 알았었더라면 얼마나 좋았을까!",
     "audioUrl": {
-      "female": "/audio/female/s361.mp3",
-      "male": "/audio/male/s361.mp3"
+      "female": "audio/es/female/s361.mp3",
+      "male": "audio/es/male/s361.mp3"
     },
     "vocab": [
       {
@@ -2254,11 +2294,12 @@
         "conjugation": {
           "yo": "hubiera sabido",
           "tu": "hubieras sabido",
-          "el": "hubieran sabido",
+          "el": "hubiera sabido",
           "nosotros": "hubiéramos sabido",
           "vosotros": "hubierais sabido",
-          "ellos": ""
-        }
+          "ellos": "hubieran sabido"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "tomar",
@@ -2268,10 +2309,10 @@
         "conjugation": {
           "yo": "tomo",
           "tu": "tomas",
-          "el": "toman",
+          "el": "toma",
           "nosotros": "tomamos",
           "vosotros": "tomáis",
-          "ellos": ""
+          "ellos": "toman"
         }
       }
     ]
@@ -2284,8 +2325,8 @@
     "es": "Me molestó mucho que no me hubieran informado del cambio de planes.",
     "ko": "계획 변경에 대해 나에게 미리 알려주지 않았던 점이 매우 불쾌했다.",
     "audioUrl": {
-      "female": "/audio/female/s362.mp3",
-      "male": "/audio/male/s362.mp3"
+      "female": "audio/es/female/s362.mp3",
+      "male": "audio/es/male/s362.mp3"
     },
     "vocab": [
       {
@@ -2370,11 +2411,12 @@
         "conjugation": {
           "yo": "molesté",
           "tu": "molestaste",
-          "el": "molestaron",
+          "el": "molestó",
           "nosotros": "molestamos",
           "vosotros": "molestasteis",
-          "ellos": ""
-        }
+          "ellos": "molestaron"
+        },
+        "person": "el"
       },
       {
         "infinitive": "informar",
@@ -2384,11 +2426,12 @@
         "conjugation": {
           "yo": "hubiera informado",
           "tu": "hubieras informado",
-          "el": "hubieran informado",
+          "el": "hubiera informado",
           "nosotros": "hubiéramos informado",
           "vosotros": "hubierais informado",
-          "ellos": ""
-        }
+          "ellos": "hubieran informado"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -2400,8 +2443,8 @@
     "es": "Era una lástima que no pudieras asistir a la ceremonia de graduación.",
     "ko": "네가 졸업식에 참석할 수 없었다는 것이 정말 아쉬운 일이었다.",
     "audioUrl": {
-      "female": "/audio/female/s363.mp3",
-      "male": "/audio/male/s363.mp3"
+      "female": "audio/es/female/s363.mp3",
+      "male": "audio/es/male/s363.mp3"
     },
     "vocab": [
       {
@@ -2480,11 +2523,12 @@
         "conjugation": {
           "yo": "era",
           "tu": "eras",
-          "el": "eran",
+          "el": "era",
           "nosotros": "éramos",
           "vosotros": "erais",
-          "ellos": ""
-        }
+          "ellos": "eran"
+        },
+        "person": "el"
       },
       {
         "infinitive": "poder",
@@ -2494,11 +2538,12 @@
         "conjugation": {
           "yo": "pudiera",
           "tu": "pudieras",
-          "el": "pudieran",
+          "el": "pudiera",
           "nosotros": "pudiéramos",
           "vosotros": "pudierais",
-          "ellos": ""
-        }
+          "ellos": "pudieran"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "asistir",
@@ -2508,10 +2553,10 @@
         "conjugation": {
           "yo": "asisto",
           "tu": "asistes",
-          "el": "asisten",
+          "el": "asiste",
           "nosotros": "asistimos",
           "vosotros": "asistís",
-          "ellos": ""
+          "ellos": "asisten"
         }
       }
     ]
@@ -2524,8 +2569,8 @@
     "es": "Aunque lloviera a cántaros, saldríamos a dar un paseo.",
     "ko": "비가 억수같이 쏟아진다 할지라도, 우리는 산책을 나갈 것이다.",
     "audioUrl": {
-      "female": "/audio/female/s364.mp3",
-      "male": "/audio/male/s364.mp3"
+      "female": "audio/es/female/s364.mp3",
+      "male": "audio/es/male/s364.mp3"
     },
     "vocab": [
       {
@@ -2581,11 +2626,12 @@
         "conjugation": {
           "yo": "saldría",
           "tu": "saldrías",
-          "el": "saldrían",
+          "el": "saldría",
           "nosotros": "saldríamos",
           "vosotros": "saldríais",
-          "ellos": ""
-        }
+          "ellos": "saldrían"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "dar",
@@ -2595,10 +2641,10 @@
         "conjugation": {
           "yo": "doy",
           "tu": "das",
-          "el": "dan",
+          "el": "da",
           "nosotros": "damos",
           "vosotros": "dais",
-          "ellos": ""
+          "ellos": "dan"
         }
       }
     ]
@@ -2611,8 +2657,8 @@
     "es": "Dudo que él hubiera aceptado esas condiciones tan perjudiciales.",
     "ko": "그가 그렇게 불리한 조건들을 수락했었으리라고는 믿기지 않는다(의심스럽다).",
     "audioUrl": {
-      "female": "/audio/female/s365.mp3",
-      "male": "/audio/male/s365.mp3"
+      "female": "audio/es/female/s365.mp3",
+      "male": "audio/es/male/s365.mp3"
     },
     "vocab": [
       {
@@ -2679,11 +2725,12 @@
         "conjugation": {
           "yo": "dudo",
           "tu": "dudas",
-          "el": "dudan",
+          "el": "duda",
           "nosotros": "dudamos",
           "vosotros": "dudáis",
-          "ellos": ""
-        }
+          "ellos": "dudan"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "aceptar",
@@ -2693,11 +2740,12 @@
         "conjugation": {
           "yo": "hubiera aceptado",
           "tu": "hubieras aceptado",
-          "el": "hubieran aceptado",
+          "el": "hubiera aceptado",
           "nosotros": "hubiéramos aceptado",
           "vosotros": "hubierais aceptado",
-          "ellos": ""
-        }
+          "ellos": "hubieran aceptado"
+        },
+        "person": "el"
       }
     ]
   },
@@ -2709,8 +2757,8 @@
     "es": "Le aconsejé que buscase un trabajo más estable en la capital.",
     "ko": "나는 그에게 수도에서 더 안정적인 직장을 찾으라고 조언했다.",
     "audioUrl": {
-      "female": "/audio/female/s366.mp3",
-      "male": "/audio/male/s366.mp3"
+      "female": "audio/es/female/s366.mp3",
+      "male": "audio/es/male/s366.mp3"
     },
     "vocab": [
       {
@@ -2789,11 +2837,12 @@
         "conjugation": {
           "yo": "aconsejé",
           "tu": "aconsejaste",
-          "el": "aconsejaron",
+          "el": "aconsejó",
           "nosotros": "aconsejamos",
           "vosotros": "aconsejasteis",
-          "ellos": ""
-        }
+          "ellos": "aconsejaron"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "buscar",
@@ -2803,11 +2852,12 @@
         "conjugation": {
           "yo": "buscase",
           "tu": "buscases",
-          "el": "buscasen",
+          "el": "buscase",
           "nosotros": "buscásemos",
           "vosotros": "buscaseis",
-          "ellos": ""
-        }
+          "ellos": "buscasen"
+        },
+        "person": "el"
       }
     ]
   },
@@ -2819,8 +2869,8 @@
     "es": "Ojalá el examen de mañana no fuera tan difícil.",
     "ko": "내일 시험이 그렇게 어렵지 않다면 얼마나 좋을까!",
     "audioUrl": {
-      "female": "/audio/female/s367.mp3",
-      "male": "/audio/male/s367.mp3"
+      "female": "audio/es/female/s367.mp3",
+      "male": "audio/es/male/s367.mp3"
     },
     "vocab": [
       {
@@ -2887,11 +2937,12 @@
         "conjugation": {
           "yo": "fuera",
           "tu": "fueras",
-          "el": "fueran",
+          "el": "fuera",
           "nosotros": "fuéramos",
           "vosotros": "fuerais",
-          "ellos": ""
-        }
+          "ellos": "fueran"
+        },
+        "person": "el"
       }
     ]
   },
@@ -2903,8 +2954,8 @@
     "es": "Mis padres querían que estudiara medicina, pero yo preferí el arte.",
     "ko": "부모님은 내가 의학을 공부하기를 바라셨지만, 나는 예술을 선호했다.",
     "audioUrl": {
-      "female": "/audio/female/s368.mp3",
-      "male": "/audio/male/s368.mp3"
+      "female": "audio/es/female/s368.mp3",
+      "male": "audio/es/male/s368.mp3"
     },
     "vocab": [
       {
@@ -2983,11 +3034,12 @@
         "conjugation": {
           "yo": "quería",
           "tu": "querías",
-          "el": "querían",
+          "el": "quería",
           "nosotros": "queríamos",
           "vosotros": "queríais",
-          "ellos": ""
-        }
+          "ellos": "querían"
+        },
+        "person": "ellos"
       },
       {
         "infinitive": "estudiar",
@@ -2997,11 +3049,12 @@
         "conjugation": {
           "yo": "estudiara",
           "tu": "estudiaras",
-          "el": "estudiaran",
+          "el": "estudiara",
           "nosotros": "estudiáramos",
           "vosotros": "estudiarais",
-          "ellos": ""
-        }
+          "ellos": "estudiaran"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "preferir",
@@ -3011,11 +3064,12 @@
         "conjugation": {
           "yo": "preferí",
           "tu": "preferiste",
-          "el": "prefirieron",
+          "el": "prefirió",
           "nosotros": "preferimos",
           "vosotros": "preferisteis",
-          "ellos": ""
-        }
+          "ellos": "prefirieron"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -3027,8 +3081,8 @@
     "es": "Fue sorprendente que los resultados del análisis salieran tan bien.",
     "ko": "분석 결과가 그렇게 좋게 나왔다는 것은 놀라운 일이었다.",
     "audioUrl": {
-      "female": "/audio/female/s369.mp3",
-      "male": "/audio/male/s369.mp3"
+      "female": "audio/es/female/s369.mp3",
+      "male": "audio/es/male/s369.mp3"
     },
     "vocab": [
       {
@@ -3101,11 +3155,12 @@
         "conjugation": {
           "yo": "fui",
           "tu": "fuiste",
-          "el": "fueron",
+          "el": "fue",
           "nosotros": "fuimos",
           "vosotros": "fuisteis",
-          "ellos": ""
-        }
+          "ellos": "fueron"
+        },
+        "person": "el"
       },
       {
         "infinitive": "salir",
@@ -3115,11 +3170,12 @@
         "conjugation": {
           "yo": "saliera",
           "tu": "salieras",
-          "el": "salieran",
+          "el": "saliera",
           "nosotros": "saliéramos",
           "vosotros": "salierais",
-          "ellos": ""
-        }
+          "ellos": "salieran"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -3131,8 +3187,8 @@
     "es": "No me parecía que esa medida fuera la más adecuada para resolver la crisis.",
     "ko": "나는 그 조치가 위기를 해결하기에 가장 적절하다고 생각하지 않았다.",
     "audioUrl": {
-      "female": "/audio/female/s370.mp3",
-      "male": "/audio/male/s370.mp3"
+      "female": "audio/es/female/s370.mp3",
+      "male": "audio/es/male/s370.mp3"
     },
     "vocab": [
       {
@@ -3223,11 +3279,12 @@
         "conjugation": {
           "yo": "parecía",
           "tu": "parecías",
-          "el": "parecían",
+          "el": "parecía",
           "nosotros": "parecíamos",
           "vosotros": "parecíais",
-          "ellos": ""
-        }
+          "ellos": "parecían"
+        },
+        "person": "el"
       },
       {
         "infinitive": "ser",
@@ -3237,11 +3294,12 @@
         "conjugation": {
           "yo": "fuera",
           "tu": "fueras",
-          "el": "fueran",
+          "el": "fuera",
           "nosotros": "fuéramos",
           "vosotros": "fuerais",
-          "ellos": ""
-        }
+          "ellos": "fueran"
+        },
+        "person": "el"
       },
       {
         "infinitive": "resolver",
@@ -3251,10 +3309,10 @@
         "conjugation": {
           "yo": "resuelvo",
           "tu": "resuelves",
-          "el": "resuelven",
+          "el": "resuelve",
           "nosotros": "resolvemos",
           "vosotros": "resolvéis",
-          "ellos": ""
+          "ellos": "resuelven"
         }
       }
     ]
@@ -3267,8 +3325,8 @@
     "es": "Por mucho que insistieras, no cambiarían de opinión al respecto.",
     "ko": "네가 아무리 강력히 주장한다 한들, 그들은 그 점에 대해 의견을 바꾸지 않을 것이다.",
     "audioUrl": {
-      "female": "/audio/female/s371.mp3",
-      "male": "/audio/male/s371.mp3"
+      "female": "audio/es/female/s371.mp3",
+      "male": "audio/es/male/s371.mp3"
     },
     "vocab": [
       {
@@ -3323,11 +3381,12 @@
         "conjugation": {
           "yo": "insistiera",
           "tu": "insistieras",
-          "el": "insistieran",
+          "el": "insistiera",
           "nosotros": "insistiéramos",
           "vosotros": "insistierais",
-          "ellos": ""
-        }
+          "ellos": "insistieran"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "cambiar",
@@ -3337,11 +3396,12 @@
         "conjugation": {
           "yo": "cambiaría",
           "tu": "cambiarías",
-          "el": "cambiarían",
+          "el": "cambiaría",
           "nosotros": "cambiaríamos",
           "vosotros": "cambiaríais",
-          "ellos": ""
-        }
+          "ellos": "cambiarían"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -3353,8 +3413,8 @@
     "es": "Me extrañó que no nos hubieran saludado al entrar en el restaurante.",
     "ko": "그들이 레스토랑에 들어올 때 우리에게 인사조차 하지 않았던 것이 의아했다.",
     "audioUrl": {
-      "female": "/audio/female/s372.mp3",
-      "male": "/audio/male/s372.mp3"
+      "female": "audio/es/female/s372.mp3",
+      "male": "audio/es/male/s372.mp3"
     },
     "vocab": [
       {
@@ -3433,11 +3493,12 @@
         "conjugation": {
           "yo": "extrañé",
           "tu": "extrañaste",
-          "el": "extrañaron",
+          "el": "extrañó",
           "nosotros": "extrañamos",
           "vosotros": "extrañasteis",
-          "ellos": ""
-        }
+          "ellos": "extrañaron"
+        },
+        "person": "el"
       },
       {
         "infinitive": "saludar",
@@ -3447,11 +3508,12 @@
         "conjugation": {
           "yo": "hubiera saludado",
           "tu": "hubieras saludado",
-          "el": "hubieran saludado",
+          "el": "hubiera saludado",
           "nosotros": "hubiéramos saludado",
           "vosotros": "hubierais saludado",
-          "ellos": ""
-        }
+          "ellos": "hubieran saludado"
+        },
+        "person": "ellos"
       },
       {
         "infinitive": "entrar",
@@ -3461,10 +3523,10 @@
         "conjugation": {
           "yo": "entro",
           "tu": "entras",
-          "el": "entran",
+          "el": "entra",
           "nosotros": "entramos",
           "vosotros": "entráis",
-          "ellos": ""
+          "ellos": "entran"
         }
       }
     ]
@@ -3477,8 +3539,8 @@
     "es": "El jefe exigía que la entrega del informe se hiciera a tiempo.",
     "ko": "상사는 보고서 제출이 제때 이루어지기를 요구했다.",
     "audioUrl": {
-      "female": "/audio/female/s373.mp3",
-      "male": "/audio/male/s373.mp3"
+      "female": "audio/es/female/s373.mp3",
+      "male": "audio/es/male/s373.mp3"
     },
     "vocab": [
       {
@@ -3557,11 +3619,12 @@
         "conjugation": {
           "yo": "exigía",
           "tu": "exigías",
-          "el": "exigían",
+          "el": "exigía",
           "nosotros": "exigíamos",
           "vosotros": "exigíais",
-          "ellos": ""
-        }
+          "ellos": "exigían"
+        },
+        "person": "el"
       },
       {
         "infinitive": "hacer",
@@ -3571,11 +3634,12 @@
         "conjugation": {
           "yo": "hiciera",
           "tu": "hicieras",
-          "el": "hicieran",
+          "el": "hiciera",
           "nosotros": "hiciéramos",
           "vosotros": "hicierais",
-          "ellos": ""
-        }
+          "ellos": "hicieran"
+        },
+        "person": "el"
       }
     ]
   },
@@ -3587,8 +3651,8 @@
     "es": "Me alegró enormemente que hubieras ganado el concurso de fotografía.",
     "ko": "네가 사진 공모전에서 우승했다는 소식을 듣고 정말 기뻤다.",
     "audioUrl": {
-      "female": "/audio/female/s374.mp3",
-      "male": "/audio/male/s374.mp3"
+      "female": "audio/es/female/s374.mp3",
+      "male": "audio/es/male/s374.mp3"
     },
     "vocab": [
       {
@@ -3661,11 +3725,12 @@
         "conjugation": {
           "yo": "me alegré",
           "tu": "te alegraste",
-          "el": "alegraron",
+          "el": "se alegró",
           "nosotros": "nos alegramos",
           "vosotros": "os alegrasteis",
-          "ellos": ""
-        }
+          "ellos": "alegraron"
+        },
+        "person": "el"
       },
       {
         "infinitive": "ganar",
@@ -3675,11 +3740,12 @@
         "conjugation": {
           "yo": "hubiera ganado",
           "tu": "hubieras ganado",
-          "el": "hubieran ganado",
+          "el": "hubiera ganado",
           "nosotros": "hubiéramos ganado",
           "vosotros": "hubierais ganado",
-          "ellos": ""
-        }
+          "ellos": "hubieran ganado"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -3691,8 +3757,8 @@
     "es": "Dijeron que harían lo posible para que el evento fuera un éxito.",
     "ko": "그들은 행사가 성공적이 되도록 최선을 다하겠다고 말했다.",
     "audioUrl": {
-      "female": "/audio/female/s375.mp3",
-      "male": "/audio/male/s375.mp3"
+      "female": "audio/es/female/s375.mp3",
+      "male": "audio/es/male/s375.mp3"
     },
     "vocab": [
       {
@@ -3765,11 +3831,12 @@
         "conjugation": {
           "yo": "dije",
           "tu": "dijiste",
-          "el": "dijeron",
+          "el": "dijo",
           "nosotros": "dijimos",
           "vosotros": "dijisteis",
-          "ellos": ""
-        }
+          "ellos": "dijeron"
+        },
+        "person": "ellos"
       },
       {
         "infinitive": "hacer",
@@ -3779,11 +3846,12 @@
         "conjugation": {
           "yo": "haría",
           "tu": "harías",
-          "el": "harían",
+          "el": "haría",
           "nosotros": "haríamos",
           "vosotros": "haríais",
-          "ellos": ""
-        }
+          "ellos": "harían"
+        },
+        "person": "ellos"
       },
       {
         "infinitive": "ser",
@@ -3793,11 +3861,12 @@
         "conjugation": {
           "yo": "fuera",
           "tu": "fueras",
-          "el": "fueran",
+          "el": "fuera",
           "nosotros": "fuéramos",
           "vosotros": "fuerais",
-          "ellos": ""
-        }
+          "ellos": "fueran"
+        },
+        "person": "el"
       }
     ]
   },
@@ -3809,8 +3878,8 @@
     "es": "No creí que me hubieran engañado de una manera tan descarada.",
     "ko": "그들이 나를 그렇게 노골적인 방식으로 속였었으리라고는 믿지 않았다.",
     "audioUrl": {
-      "female": "/audio/female/s376.mp3",
-      "male": "/audio/male/s376.mp3"
+      "female": "audio/es/female/s376.mp3",
+      "male": "audio/es/male/s376.mp3"
     },
     "vocab": [
       {
@@ -3889,11 +3958,12 @@
         "conjugation": {
           "yo": "creí",
           "tu": "creíste",
-          "el": "creyeron",
+          "el": "creyó",
           "nosotros": "creímos",
           "vosotros": "creísteis",
-          "ellos": ""
-        }
+          "ellos": "creyeron"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "engañar",
@@ -3903,11 +3973,12 @@
         "conjugation": {
           "yo": "hubiera engañado",
           "tu": "hubieras engañado",
-          "el": "hubieran engañado",
+          "el": "hubiera engañado",
           "nosotros": "hubiéramos engañado",
           "vosotros": "hubierais engañado",
-          "ellos": ""
-        }
+          "ellos": "hubieran engañado"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -3919,8 +3990,8 @@
     "es": "Aunque hubiese sabido el peligro, habría intentado salvar a mi perro.",
     "ko": "비록 위험을 알았었더라도, 나는 내 개를 구하기 위해 시도했을 것이다.",
     "audioUrl": {
-      "female": "/audio/female/s377.mp3",
-      "male": "/audio/male/s377.mp3"
+      "female": "audio/es/female/s377.mp3",
+      "male": "audio/es/male/s377.mp3"
     },
     "vocab": [
       {
@@ -3999,11 +4070,12 @@
         "conjugation": {
           "yo": "hubiese sabido",
           "tu": "hubieses sabido",
-          "el": "hubiesen sabido",
+          "el": "hubiese sabido",
           "nosotros": "hubiésemos sabido",
           "vosotros": "hubieseis sabido",
-          "ellos": ""
-        }
+          "ellos": "hubiesen sabido"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "intentar",
@@ -4013,11 +4085,12 @@
         "conjugation": {
           "yo": "habría intentado",
           "tu": "habrías intentado",
-          "el": "habrían intentado",
+          "el": "habría intentado",
           "nosotros": "habríamos intentado",
           "vosotros": "habríais intentado",
-          "ellos": ""
-        }
+          "ellos": "habrían intentado"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "salvar",
@@ -4027,10 +4100,10 @@
         "conjugation": {
           "yo": "salvo",
           "tu": "salvas",
-          "el": "salvan",
+          "el": "salva",
           "nosotros": "salvamos",
           "vosotros": "salváis",
-          "ellos": ""
+          "ellos": "salvan"
         }
       }
     ]
@@ -4043,8 +4116,8 @@
     "es": "Ojalá me dieran una beca para realizar los estudios de posgrado en España.",
     "ko": "스페인에서 석박사 과정을 이수할 장학금을 받는다면 얼마나 좋을까!",
     "audioUrl": {
-      "female": "/audio/female/s378.mp3",
-      "male": "/audio/male/s378.mp3"
+      "female": "audio/es/female/s378.mp3",
+      "male": "audio/es/male/s378.mp3"
     },
     "vocab": [
       {
@@ -4123,11 +4196,12 @@
         "conjugation": {
           "yo": "diera",
           "tu": "dieras",
-          "el": "dieran",
+          "el": "diera",
           "nosotros": "diéramos",
           "vosotros": "dierais",
-          "ellos": ""
-        }
+          "ellos": "dieran"
+        },
+        "person": "ellos"
       },
       {
         "infinitive": "realizar",
@@ -4137,10 +4211,10 @@
         "conjugation": {
           "yo": "realizo",
           "tu": "realizas",
-          "el": "realizan",
+          "el": "realiza",
           "nosotros": "realizamos",
           "vosotros": "realizáis",
-          "ellos": ""
+          "ellos": "realizan"
         }
       }
     ]
@@ -4153,8 +4227,8 @@
     "es": "Temía que la empresa se declarara en quiebra tras la crisis bancaria.",
     "ko": "은행 위기 이후 회사가 파산을 선언할까 봐 두려웠다.",
     "audioUrl": {
-      "female": "/audio/female/s379.mp3",
-      "male": "/audio/male/s379.mp3"
+      "female": "audio/es/female/s379.mp3",
+      "male": "audio/es/male/s379.mp3"
     },
     "vocab": [
       {
@@ -4227,11 +4301,12 @@
         "conjugation": {
           "yo": "temía",
           "tu": "temías",
-          "el": "temían",
+          "el": "temía",
           "nosotros": "temíamos",
           "vosotros": "temíais",
-          "ellos": ""
-        }
+          "ellos": "temían"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "declarar",
@@ -4241,11 +4316,12 @@
         "conjugation": {
           "yo": "declarara",
           "tu": "declararas",
-          "el": "declararan",
+          "el": "declarara",
           "nosotros": "declaráramos",
           "vosotros": "declararais",
-          "ellos": ""
-        }
+          "ellos": "declararan"
+        },
+        "person": "el"
       }
     ]
   },
@@ -4257,8 +4333,8 @@
     "es": "Me pareció sorprendente que nadie se hubiera dado cuenta del error.",
     "ko": "아무도 그 실수를 눈치채지 못했었다는 것이 내게는 놀랍게 다가왔다.",
     "audioUrl": {
-      "female": "/audio/female/s380.mp3",
-      "male": "/audio/male/s380.mp3"
+      "female": "audio/es/female/s380.mp3",
+      "male": "audio/es/male/s380.mp3"
     },
     "vocab": [
       {
@@ -4331,11 +4407,12 @@
         "conjugation": {
           "yo": "parecí",
           "tu": "pareciste",
-          "el": "parecieron",
+          "el": "pareció",
           "nosotros": "parecimos",
           "vosotros": "parecisteis",
-          "ellos": ""
-        }
+          "ellos": "parecieron"
+        },
+        "person": "el"
       },
       {
         "infinitive": "darse cuenta",
@@ -4345,11 +4422,12 @@
         "conjugation": {
           "yo": "me hubiera dado",
           "tu": "te hubieras dado",
-          "el": "se hubieran dado",
+          "el": "se hubiera dado",
           "nosotros": "nos hubiéramos dado",
           "vosotros": "os hubierais dado",
-          "ellos": ""
-        }
+          "ellos": "se hubieran dado"
+        },
+        "person": "el"
       }
     ]
   },
@@ -4361,8 +4439,8 @@
     "es": "A pesar de los esfuerzos, no se consiguieron los objetivos previstos.",
     "ko": "많은 노력에도 불구하고, 예상했던 목표들은 달성되지 못했다.",
     "audioUrl": {
-      "female": "/audio/female/s381.mp3",
-      "male": "/audio/male/s381.mp3"
+      "female": "audio/es/female/s381.mp3",
+      "male": "audio/es/male/s381.mp3"
     },
     "vocab": [
       {
@@ -4429,11 +4507,12 @@
         "conjugation": {
           "yo": "conseguí",
           "tu": "conseguiste",
-          "el": "consiguieron",
+          "el": "consiguió",
           "nosotros": "conseguimos",
           "vosotros": "conseguisteis",
-          "ellos": ""
-        }
+          "ellos": "consiguieron"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -4445,8 +4524,8 @@
     "es": "Por consiguiente, debemos modificar la estrategia comercial cuanto antes.",
     "ko": "따라서, 우리는 가능한 한 빨리 영업 전략을 수정해야만 합니다.",
     "audioUrl": {
-      "female": "/audio/female/s382.mp3",
-      "male": "/audio/male/s382.mp3"
+      "female": "audio/es/female/s382.mp3",
+      "male": "audio/es/male/s382.mp3"
     },
     "vocab": [
       {
@@ -4501,11 +4580,12 @@
         "conjugation": {
           "yo": "debo",
           "tu": "debes",
-          "el": "deben",
+          "el": "debe",
           "nosotros": "debemos",
           "vosotros": "debéis",
-          "ellos": ""
-        }
+          "ellos": "deben"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "modificar",
@@ -4515,10 +4595,10 @@
         "conjugation": {
           "yo": "modifico",
           "tu": "modificas",
-          "el": "modifican",
+          "el": "modifica",
           "nosotros": "modificamos",
           "vosotros": "modificáis",
-          "ellos": ""
+          "ellos": "modifican"
         }
       }
     ]
@@ -4531,8 +4611,8 @@
     "es": "A no ser que haya sorpresas de última hora, la reunión comenzará puntual.",
     "ko": "막판의 변수가 있지 않은 한, 회의는 정각에 시작될 것입니다.",
     "audioUrl": {
-      "female": "/audio/female/s383.mp3",
-      "male": "/audio/male/s383.mp3"
+      "female": "audio/es/female/s383.mp3",
+      "male": "audio/es/male/s383.mp3"
     },
     "vocab": [
       {
@@ -4600,11 +4680,12 @@
         "conjugation": {
           "yo": "comenzaré",
           "tu": "comenzarás",
-          "el": "comenzarán",
+          "el": "comenzará",
           "nosotros": "comenzaremos",
           "vosotros": "comenzaréis",
-          "ellos": ""
-        }
+          "ellos": "comenzarán"
+        },
+        "person": "el"
       }
     ]
   },
@@ -4616,8 +4697,8 @@
     "es": "Te doy esta copia a fin de que puedas revisar los datos detenidamente.",
     "ko": "네가 수치들을 면밀히 검토할 수 있도록 이 복사본을 너에게 준다.",
     "audioUrl": {
-      "female": "/audio/female/s384.mp3",
-      "male": "/audio/male/s384.mp3"
+      "female": "audio/es/female/s384.mp3",
+      "male": "audio/es/male/s384.mp3"
     },
     "vocab": [
       {
@@ -4690,11 +4771,12 @@
         "conjugation": {
           "yo": "doy",
           "tu": "das",
-          "el": "dan",
+          "el": "da",
           "nosotros": "damos",
           "vosotros": "dais",
-          "ellos": ""
-        }
+          "ellos": "dan"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "poder",
@@ -4704,11 +4786,12 @@
         "conjugation": {
           "yo": "pueda",
           "tu": "puedas",
-          "el": "puedan",
+          "el": "pueda",
           "nosotros": "podamos",
           "vosotros": "podáis",
-          "ellos": ""
-        }
+          "ellos": "puedan"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "revisar",
@@ -4718,10 +4801,10 @@
         "conjugation": {
           "yo": "reviso",
           "tu": "revisas",
-          "el": "revisan",
+          "el": "revisa",
           "nosotros": "revisamos",
           "vosotros": "revisáis",
-          "ellos": ""
+          "ellos": "revisan"
         }
       }
     ]
@@ -4734,8 +4817,8 @@
     "es": "Sin embargo, los inversores prefieren mantener una actitud prudente.",
     "ko": "그럼에도 불구하고, 투자자들은 신중한 태도를 유지하는 것을 선호합니다.",
     "audioUrl": {
-      "female": "/audio/female/s385.mp3",
-      "male": "/audio/male/s385.mp3"
+      "female": "audio/es/female/s385.mp3",
+      "male": "audio/es/male/s385.mp3"
     },
     "vocab": [
       {
@@ -4796,11 +4879,12 @@
         "conjugation": {
           "yo": "prefiero",
           "tu": "prefieres",
-          "el": "prefieren",
+          "el": "prefiere",
           "nosotros": "preferimos",
           "vosotros": "preferís",
-          "ellos": ""
-        }
+          "ellos": "prefieren"
+        },
+        "person": "ellos"
       },
       {
         "infinitive": "mantener",
@@ -4810,10 +4894,10 @@
         "conjugation": {
           "yo": "mantengo",
           "tu": "mantienes",
-          "el": "mantienen",
+          "el": "mantiene",
           "nosotros": "mantenemos",
           "vosotros": "mantenéis",
-          "ellos": ""
+          "ellos": "mantienen"
         }
       }
     ]
@@ -4826,8 +4910,8 @@
     "es": "En vista de que el mercado es tan inestable, reduciremos los gastos operativos.",
     "ko": "시장이 이토록 불안정하다는 점을 고려하여, 우리는 운영 비용을 줄일 것입니다.",
     "audioUrl": {
-      "female": "/audio/female/s386.mp3",
-      "male": "/audio/male/s386.mp3"
+      "female": "audio/es/female/s386.mp3",
+      "male": "audio/es/male/s386.mp3"
     },
     "vocab": [
       {
@@ -4900,11 +4984,12 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
-        }
+          "ellos": "son"
+        },
+        "person": "el"
       },
       {
         "infinitive": "reducir",
@@ -4914,11 +4999,12 @@
         "conjugation": {
           "yo": "reduciré",
           "tu": "reducirás",
-          "el": "reducirán",
+          "el": "reducirá",
           "nosotros": "reduciremos",
           "vosotros": "reduciréis",
-          "ellos": ""
-        }
+          "ellos": "reducirán"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -4930,8 +5016,8 @@
     "es": "Siempre y cuando presentes los documentos requeridos, obtendrás el visado.",
     "ko": "요구되는 서류들을 제출하기만 한다면, 너는 비자를 발급받을 것이다.",
     "audioUrl": {
-      "female": "/audio/female/s387.mp3",
-      "male": "/audio/male/s387.mp3"
+      "female": "audio/es/female/s387.mp3",
+      "male": "audio/es/male/s387.mp3"
     },
     "vocab": [
       {
@@ -4992,11 +5078,12 @@
         "conjugation": {
           "yo": "presente",
           "tu": "presentes",
-          "el": "presenten",
+          "el": "presente",
           "nosotros": "presentemos",
           "vosotros": "presentéis",
-          "ellos": ""
-        }
+          "ellos": "presenten"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "obtener",
@@ -5006,11 +5093,12 @@
         "conjugation": {
           "yo": "obtendré",
           "tu": "obtendrás",
-          "el": "obtendrán",
+          "el": "obtendrá",
           "nosotros": "obtendremos",
           "vosotros": "obtendréis",
-          "ellos": ""
-        }
+          "ellos": "obtendrán"
+        },
+        "person": "tu"
       }
     ]
   },
@@ -5022,8 +5110,8 @@
     "es": "No solo es un experto en finanzas, sino que también domina tres idiomas.",
     "ko": "그는 금융 전문가일 뿐만 아니라 3개 국어에도 능통하다.",
     "audioUrl": {
-      "female": "/audio/female/s388.mp3",
-      "male": "/audio/male/s388.mp3"
+      "female": "audio/es/female/s388.mp3",
+      "male": "audio/es/male/s388.mp3"
     },
     "vocab": [
       {
@@ -5096,11 +5184,12 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
-        }
+          "ellos": "son"
+        },
+        "person": "el"
       },
       {
         "infinitive": "dominar",
@@ -5110,11 +5199,12 @@
         "conjugation": {
           "yo": "domino",
           "tu": "dominas",
-          "el": "dominan",
+          "el": "domina",
           "nosotros": "dominamos",
           "vosotros": "domináis",
-          "ellos": ""
-        }
+          "ellos": "dominan"
+        },
+        "person": "el"
       }
     ]
   },
@@ -5126,8 +5216,8 @@
     "es": "Con el propósito de reducir la contaminación, la ciudad ampliará las zonas peatonales.",
     "ko": "오염을 줄일 목적으로, 도시는 보행자 전용 구역을 확대할 것입니다.",
     "audioUrl": {
-      "female": "/audio/female/s389.mp3",
-      "male": "/audio/male/s389.mp3"
+      "female": "audio/es/female/s389.mp3",
+      "male": "audio/es/male/s389.mp3"
     },
     "vocab": [
       {
@@ -5200,10 +5290,10 @@
         "conjugation": {
           "yo": "reduzco",
           "tu": "reduces",
-          "el": "reducen",
+          "el": "reduce",
           "nosotros": "reducimos",
           "vosotros": "reducís",
-          "ellos": ""
+          "ellos": "reducen"
         }
       },
       {
@@ -5214,11 +5304,12 @@
         "conjugation": {
           "yo": "ampliaré",
           "tu": "ampliarás",
-          "el": "ampliarán",
+          "el": "ampliará",
           "nosotros": "ampliaremos",
           "vosotros": "ampliaréis",
-          "ellos": ""
-        }
+          "ellos": "ampliarán"
+        },
+        "person": "el"
       }
     ]
   },
@@ -5230,8 +5321,8 @@
     "es": "En cambio, su competidor directo ha decidido bajar los precios.",
     "ko": "반면에, 그들의 직접적인 경쟁업체는 가격을 내리기로 결정했습니다.",
     "audioUrl": {
-      "female": "/audio/female/s390.mp3",
-      "male": "/audio/male/s390.mp3"
+      "female": "audio/es/female/s390.mp3",
+      "male": "audio/es/male/s390.mp3"
     },
     "vocab": [
       {
@@ -5298,11 +5389,12 @@
         "conjugation": {
           "yo": "he decidido",
           "tu": "has decidido",
-          "el": "han decidido",
+          "el": "ha decidido",
           "nosotros": "hemos decidido",
           "vosotros": "habéis decidido",
-          "ellos": ""
-        }
+          "ellos": "han decidido"
+        },
+        "person": "el"
       },
       {
         "infinitive": "bajar",
@@ -5312,10 +5404,10 @@
         "conjugation": {
           "yo": "bajo",
           "tu": "bajas",
-          "el": "bajan",
+          "el": "baja",
           "nosotros": "bajamos",
           "vosotros": "bajáis",
-          "ellos": ""
+          "ellos": "bajan"
         }
       }
     ]
@@ -5328,8 +5420,8 @@
     "es": "De ahí que sea tan importante verificar la información antes de publicarla.",
     "ko": "그러한 이유로 게시하기 전에 정보를 검증하는 것이 매우 중요한 것입니다.",
     "audioUrl": {
-      "female": "/audio/female/s391.mp3",
-      "male": "/audio/male/s391.mp3"
+      "female": "audio/es/female/s391.mp3",
+      "male": "audio/es/male/s391.mp3"
     },
     "vocab": [
       {
@@ -5396,11 +5488,12 @@
         "conjugation": {
           "yo": "sea",
           "tu": "seas",
-          "el": "sean",
+          "el": "sea",
           "nosotros": "seamos",
           "vosotros": "seáis",
-          "ellos": ""
-        }
+          "ellos": "sean"
+        },
+        "person": "el"
       },
       {
         "infinitive": "verificar",
@@ -5410,10 +5503,10 @@
         "conjugation": {
           "yo": "verifico",
           "tu": "verificas",
-          "el": "verifican",
+          "el": "verifica",
           "nosotros": "verificamos",
           "vosotros": "verificáis",
-          "ellos": ""
+          "ellos": "verifican"
         }
       },
       {
@@ -5424,10 +5517,10 @@
         "conjugation": {
           "yo": "publico",
           "tu": "publicas",
-          "el": "publican",
+          "el": "publica",
           "nosotros": "publicamos",
           "vosotros": "publicáis",
-          "ellos": ""
+          "ellos": "publican"
         }
       }
     ]
@@ -5440,8 +5533,8 @@
     "es": "Dado que no hay quórum suficiente, la sesión queda suspendida.",
     "ko": "정족수가 충분하지 않다는 점에 비추어 볼 때, 회의는 정회(중단) 처리됩니다.",
     "audioUrl": {
-      "female": "/audio/female/s392.mp3",
-      "male": "/audio/male/s392.mp3"
+      "female": "audio/es/female/s392.mp3",
+      "male": "audio/es/male/s392.mp3"
     },
     "vocab": [
       {
@@ -5515,11 +5608,12 @@
         "conjugation": {
           "yo": "quedo",
           "tu": "quedas",
-          "el": "quedan",
+          "el": "queda",
           "nosotros": "quedamos",
           "vosotros": "quedáis",
-          "ellos": ""
-        }
+          "ellos": "quedan"
+        },
+        "person": "el"
       }
     ]
   },
@@ -5531,8 +5625,8 @@
     "es": "Salvo que surja algún problema imprevisto, terminaremos las obras en mayo.",
     "ko": "예상치 못한 문제가 발생하지 않는 한, 우리는 5월에 공사를 마칠 것입니다.",
     "audioUrl": {
-      "female": "/audio/female/s393.mp3",
-      "male": "/audio/male/s393.mp3"
+      "female": "audio/es/female/s393.mp3",
+      "male": "audio/es/male/s393.mp3"
     },
     "vocab": [
       {
@@ -5605,11 +5699,12 @@
         "conjugation": {
           "yo": "surja",
           "tu": "surjas",
-          "el": "surjan",
+          "el": "surja",
           "nosotros": "surjamos",
           "vosotros": "surjáis",
-          "ellos": ""
-        }
+          "ellos": "surjan"
+        },
+        "person": "el"
       },
       {
         "infinitive": "terminar",
@@ -5619,11 +5714,12 @@
         "conjugation": {
           "yo": "terminaré",
           "tu": "terminarás",
-          "el": "terminarán",
+          "el": "terminará",
           "nosotros": "terminaremos",
           "vosotros": "terminaréis",
-          "ellos": ""
-        }
+          "ellos": "terminarán"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -5635,8 +5731,8 @@
     "es": "Con tal de conseguir el contrato, la empresa aceptó reducir sus márgenes de beneficio.",
     "ko": "계약을 따내기 위해서라면, 그 회사는 이윤 폭을 줄이는 것까지 수락했습니다.",
     "audioUrl": {
-      "female": "/audio/female/s394.mp3",
-      "male": "/audio/male/s394.mp3"
+      "female": "audio/es/female/s394.mp3",
+      "male": "audio/es/male/s394.mp3"
     },
     "vocab": [
       {
@@ -5721,10 +5817,10 @@
         "conjugation": {
           "yo": "consigo",
           "tu": "consigues",
-          "el": "consiguen",
+          "el": "consigue",
           "nosotros": "conseguimos",
           "vosotros": "conseguís",
-          "ellos": ""
+          "ellos": "consiguen"
         }
       },
       {
@@ -5735,11 +5831,12 @@
         "conjugation": {
           "yo": "acepté",
           "tu": "aceptaste",
-          "el": "aceptaron",
+          "el": "aceptó",
           "nosotros": "aceptamos",
           "vosotros": "aceptasteis",
-          "ellos": ""
-        }
+          "ellos": "aceptaron"
+        },
+        "person": "el"
       },
       {
         "infinitive": "reducir",
@@ -5749,10 +5846,10 @@
         "conjugation": {
           "yo": "reduzco",
           "tu": "reduces",
-          "el": "reducen",
+          "el": "reduce",
           "nosotros": "reducimos",
           "vosotros": "reducís",
-          "ellos": ""
+          "ellos": "reducen"
         }
       }
     ]
@@ -5765,8 +5862,8 @@
     "es": "Por consiguiente, procederemos a la firma del acuerdo formal.",
     "ko": "따라서, 우리는 공식 협정 체결을 진행하겠습니다.",
     "audioUrl": {
-      "female": "/audio/female/s395.mp3",
-      "male": "/audio/male/s395.mp3"
+      "female": "audio/es/female/s395.mp3",
+      "male": "audio/es/male/s395.mp3"
     },
     "vocab": [
       {
@@ -5821,11 +5918,12 @@
         "conjugation": {
           "yo": "procederé",
           "tu": "procederás",
-          "el": "procederán",
+          "el": "procederá",
           "nosotros": "procederemos",
           "vosotros": "procederéis",
-          "ellos": ""
-        }
+          "ellos": "procederán"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -5837,8 +5935,8 @@
     "es": "Así pues, se concluye que el impacto económico será mínimo.",
     "ko": "그러므로, 경제적 파급 효과는 미미할 것이라는 결론이 도출됩니다.",
     "audioUrl": {
-      "female": "/audio/female/s396.mp3",
-      "male": "/audio/male/s396.mp3"
+      "female": "audio/es/female/s396.mp3",
+      "male": "audio/es/male/s396.mp3"
     },
     "vocab": [
       {
@@ -5905,11 +6003,12 @@
         "conjugation": {
           "yo": "concluyo",
           "tu": "concluyes",
-          "el": "concluyen",
+          "el": "concluye",
           "nosotros": "concluimos",
           "vosotros": "concluís",
-          "ellos": ""
-        }
+          "ellos": "concluyen"
+        },
+        "person": "el"
       },
       {
         "infinitive": "ser",
@@ -5919,11 +6018,12 @@
         "conjugation": {
           "yo": "seré",
           "tu": "serás",
-          "el": "serán",
+          "el": "será",
           "nosotros": "seremos",
           "vosotros": "seréis",
-          "ellos": ""
-        }
+          "ellos": "serán"
+        },
+        "person": "el"
       }
     ]
   },
@@ -5935,8 +6035,8 @@
     "es": "No obstante, debemos tener en cuenta los posibles riesgos a largo plazo.",
     "ko": "그럼에도 불구하고, 우리는 장기적인 잠재 위험 요소들을 고려해야 합니다.",
     "audioUrl": {
-      "female": "/audio/female/s397.mp3",
-      "male": "/audio/male/s397.mp3"
+      "female": "audio/es/female/s397.mp3",
+      "male": "audio/es/male/s397.mp3"
     },
     "vocab": [
       {
@@ -5991,11 +6091,12 @@
         "conjugation": {
           "yo": "debo",
           "tu": "debes",
-          "el": "deben",
+          "el": "debe",
           "nosotros": "debemos",
           "vosotros": "debéis",
-          "ellos": ""
-        }
+          "ellos": "deben"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "tener",
@@ -6005,10 +6106,10 @@
         "conjugation": {
           "yo": "tengo",
           "tu": "tienes",
-          "el": "tienen",
+          "el": "tiene",
           "nosotros": "tenemos",
           "vosotros": "tenéis",
-          "ellos": ""
+          "ellos": "tienen"
         }
       }
     ]
@@ -6021,8 +6122,8 @@
     "es": "Para que todos estén informados, enviaré un resumen por correo electrónico.",
     "ko": "모든 사람이 정보를 공유받을 수 있도록, 이메일로 요약본을 보내겠습니다.",
     "audioUrl": {
-      "female": "/audio/female/s398.mp3",
-      "male": "/audio/male/s398.mp3"
+      "female": "audio/es/female/s398.mp3",
+      "male": "audio/es/male/s398.mp3"
     },
     "vocab": [
       {
@@ -6089,11 +6190,12 @@
         "conjugation": {
           "yo": "esté",
           "tu": "estés",
-          "el": "estén",
+          "el": "esté",
           "nosotros": "estemos",
           "vosotros": "estéis",
-          "ellos": ""
-        }
+          "ellos": "estén"
+        },
+        "person": "ellos"
       },
       {
         "infinitive": "enviar",
@@ -6103,11 +6205,12 @@
         "conjugation": {
           "yo": "enviaré",
           "tu": "enviarás",
-          "el": "enviarán",
+          "el": "enviará",
           "nosotros": "enviaremos",
           "vosotros": "enviaréis",
-          "ellos": ""
-        }
+          "ellos": "enviarán"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -6119,8 +6222,8 @@
     "es": "En la medida en que aumente la demanda, ampliaremos la plantilla de trabajadores.",
     "ko": "수요가 증가하는 정도에 따라, 우리는 직원 인원을 늘릴 것입니다.",
     "audioUrl": {
-      "female": "/audio/female/s399.mp3",
-      "male": "/audio/male/s399.mp3"
+      "female": "audio/es/female/s399.mp3",
+      "male": "audio/es/male/s399.mp3"
     },
     "vocab": [
       {
@@ -6187,11 +6290,12 @@
         "conjugation": {
           "yo": "aumente",
           "tu": "aumentes",
-          "el": "aumenten",
+          "el": "aumente",
           "nosotros": "aumentemos",
           "vosotros": "aumentéis",
-          "ellos": ""
-        }
+          "ellos": "aumenten"
+        },
+        "person": "el"
       },
       {
         "infinitive": "ampliar",
@@ -6201,11 +6305,12 @@
         "conjugation": {
           "yo": "ampliaré",
           "tu": "ampliarás",
-          "el": "ampliarán",
+          "el": "ampliará",
           "nosotros": "ampliaremos",
           "vosotros": "ampliaréis",
-          "ellos": ""
-        }
+          "ellos": "ampliarán"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -6217,8 +6322,8 @@
     "es": "En conclusión, los beneficios superan con creces los costes iniciales.",
     "ko": "결론적으로, 이익이 초기 비용을 훨씬 뛰어넘습니다.",
     "audioUrl": {
-      "female": "/audio/female/s400.mp3",
-      "male": "/audio/male/s400.mp3"
+      "female": "audio/es/female/s400.mp3",
+      "male": "audio/es/male/s400.mp3"
     },
     "vocab": [
       {
@@ -6279,11 +6384,12 @@
         "conjugation": {
           "yo": "supero",
           "tu": "superas",
-          "el": "superan",
+          "el": "supera",
           "nosotros": "superamos",
           "vosotros": "superáis",
-          "ellos": ""
-        }
+          "ellos": "superan"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -6295,8 +6401,8 @@
     "es": "Tras varios años de investigación, llegaron a descubrir una cura eficaz.",
     "ko": "수년간의 연구 끝에, 그들은 마침내 효과적인 치료법을 발견하기에 이르렀다.",
     "audioUrl": {
-      "female": "/audio/female/s401.mp3",
-      "male": "/audio/male/s401.mp3"
+      "female": "audio/es/female/s401.mp3",
+      "male": "audio/es/male/s401.mp3"
     },
     "vocab": [
       {
@@ -6369,11 +6475,12 @@
         "conjugation": {
           "yo": "llegué",
           "tu": "llegaste",
-          "el": "llegaron",
+          "el": "llegó",
           "nosotros": "llegamos",
           "vosotros": "llegasteis",
-          "ellos": ""
-        }
+          "ellos": "llegaron"
+        },
+        "person": "ellos"
       },
       {
         "infinitive": "descubrir",
@@ -6383,10 +6490,10 @@
         "conjugation": {
           "yo": "descubro",
           "tu": "descubres",
-          "el": "descubren",
+          "el": "descubre",
           "nosotros": "descubrimos",
           "vosotros": "descubrís",
-          "ellos": ""
+          "ellos": "descubren"
         }
       }
     ]
@@ -6399,8 +6506,8 @@
     "es": "No debes dejar de intentar conseguir tus metas a pesar de los obstáculos.",
     "ko": "방해 요소에도 불구하고 너는 너의 목표를 달성하려는 노력을 멈추어서는 안 된다.",
     "audioUrl": {
-      "female": "/audio/female/s402.mp3",
-      "male": "/audio/male/s402.mp3"
+      "female": "audio/es/female/s402.mp3",
+      "male": "audio/es/male/s402.mp3"
     },
     "vocab": [
       {
@@ -6473,11 +6580,12 @@
         "conjugation": {
           "yo": "debo",
           "tu": "debes",
-          "el": "deben",
+          "el": "debe",
           "nosotros": "debemos",
           "vosotros": "debéis",
-          "ellos": ""
-        }
+          "ellos": "deben"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "dejar",
@@ -6487,10 +6595,10 @@
         "conjugation": {
           "yo": "dejo",
           "tu": "dejas",
-          "el": "dejan",
+          "el": "deja",
           "nosotros": "dejamos",
           "vosotros": "dejáis",
-          "ellos": ""
+          "ellos": "dejan"
         }
       },
       {
@@ -6501,10 +6609,10 @@
         "conjugation": {
           "yo": "intento",
           "tu": "intentas",
-          "el": "intentan",
+          "el": "intenta",
           "nosotros": "intentamos",
           "vosotros": "intentáis",
-          "ellos": ""
+          "ellos": "intentan"
         }
       },
       {
@@ -6515,10 +6623,10 @@
         "conjugation": {
           "yo": "consigo",
           "tu": "consigues",
-          "el": "consiguen",
+          "el": "consigue",
           "nosotros": "conseguimos",
           "vosotros": "conseguís",
-          "ellos": ""
+          "ellos": "consiguen"
         }
       }
     ]
@@ -6531,8 +6639,8 @@
     "es": "Se están evaluando distintas alternativas para resolver el conflicto laboral.",
     "ko": "노사 갈등을 해결하기 위해 여러 대안이 평가되고 있는 중입니다.",
     "audioUrl": {
-      "female": "/audio/female/s403.mp3",
-      "male": "/audio/male/s403.mp3"
+      "female": "audio/es/female/s403.mp3",
+      "male": "audio/es/male/s403.mp3"
     },
     "vocab": [
       {
@@ -6599,11 +6707,12 @@
         "conjugation": {
           "yo": "estoy",
           "tu": "estás",
-          "el": "están",
+          "el": "está",
           "nosotros": "estamos",
           "vosotros": "estáis",
-          "ellos": ""
-        }
+          "ellos": "están"
+        },
+        "person": "ellos"
       },
       {
         "infinitive": "evaluar",
@@ -6613,10 +6722,10 @@
         "conjugation": {
           "yo": "evalúo",
           "tu": "evalúas",
-          "el": "evalúan",
+          "el": "evalúa",
           "nosotros": "evaluamos",
           "vosotros": "evaluáis",
-          "ellos": ""
+          "ellos": "evalúan"
         }
       },
       {
@@ -6627,10 +6736,10 @@
         "conjugation": {
           "yo": "resuelvo",
           "tu": "resuelves",
-          "el": "resuelven",
+          "el": "resuelve",
           "nosotros": "resolvemos",
           "vosotros": "resolvéis",
-          "ellos": ""
+          "ellos": "resuelven"
         }
       }
     ]
@@ -6643,8 +6752,8 @@
     "es": "El edificio fue diseñado por un afamado arquitecto español.",
     "ko": "그 건물은 유명한 스페인 건축가에 의해 설계되었습니다.",
     "audioUrl": {
-      "female": "/audio/female/s404.mp3",
-      "male": "/audio/male/s404.mp3"
+      "female": "audio/es/female/s404.mp3",
+      "male": "audio/es/male/s404.mp3"
     },
     "vocab": [
       {
@@ -6711,11 +6820,12 @@
         "conjugation": {
           "yo": "fui diseñado/a",
           "tu": "fuiste diseñado/a",
-          "el": "fueron diseñados/as",
+          "el": "fue diseñado/a",
           "nosotros": "fuimos diseñados/as",
           "vosotros": "fuisteis diseñados/as",
-          "ellos": ""
-        }
+          "ellos": "fueron diseñados/as"
+        },
+        "person": "el"
       }
     ]
   },
@@ -6727,8 +6837,8 @@
     "es": "Llevo trabajando en este proyecto más de seis meses.",
     "ko": "나는 이 프로젝트에서 6개월 이상 계속 일해 오고 있다.",
     "audioUrl": {
-      "female": "/audio/female/s405.mp3",
-      "male": "/audio/male/s405.mp3"
+      "female": "audio/es/female/s405.mp3",
+      "male": "audio/es/male/s405.mp3"
     },
     "vocab": [
       {
@@ -6783,11 +6893,12 @@
         "conjugation": {
           "yo": "llevo",
           "tu": "llevas",
-          "el": "llevan",
+          "el": "lleva",
           "nosotros": "llevamos",
           "vosotros": "lleváis",
-          "ellos": ""
-        }
+          "ellos": "llevan"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "trabajar",
@@ -6797,10 +6908,10 @@
         "conjugation": {
           "yo": "trabajo",
           "tu": "trabajas",
-          "el": "trabajan",
+          "el": "trabaja",
           "nosotros": "trabajamos",
           "vosotros": "trabajáis",
-          "ellos": ""
+          "ellos": "trabajan"
         }
       }
     ]
@@ -6813,8 +6924,8 @@
     "es": "Acabamos de enterarnos de la triste noticia del fallecimiento del profesor.",
     "ko": "우리는 교수님의 서거라는 슬픈 소식을 방금 막 알게 되었습니다.",
     "audioUrl": {
-      "female": "/audio/female/s406.mp3",
-      "male": "/audio/male/s406.mp3"
+      "female": "audio/es/female/s406.mp3",
+      "male": "audio/es/male/s406.mp3"
     },
     "vocab": [
       {
@@ -6881,11 +6992,12 @@
         "conjugation": {
           "yo": "acabo",
           "tu": "acabas",
-          "el": "acaban",
+          "el": "acaba",
           "nosotros": "acabamos",
           "vosotros": "acabáis",
-          "ellos": ""
-        }
+          "ellos": "acaban"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "enterarse",
@@ -6898,7 +7010,7 @@
           "el": "enterarse",
           "nosotros": "enterarnos",
           "vosotros": "enteraros",
-          "ellos": ""
+          "ellos": "enterarse"
         }
       }
     ]
@@ -6911,8 +7023,8 @@
     "es": "Se han de tomar medidas drásticas para combatir la inflación.",
     "ko": "인플레이션에 대처하기 위해 과감한 조치들이 취해져야 합니다.",
     "audioUrl": {
-      "female": "/audio/female/s407.mp3",
-      "male": "/audio/male/s407.mp3"
+      "female": "audio/es/female/s407.mp3",
+      "male": "audio/es/male/s407.mp3"
     },
     "vocab": [
       {
@@ -6979,11 +7091,12 @@
         "conjugation": {
           "yo": "he",
           "tu": "has",
-          "el": "han",
+          "el": "ha",
           "nosotros": "hemos",
           "vosotros": "habéis",
-          "ellos": ""
-        }
+          "ellos": "han"
+        },
+        "person": "ellos"
       },
       {
         "infinitive": "tomar",
@@ -6993,10 +7106,10 @@
         "conjugation": {
           "yo": "tomo",
           "tu": "tomas",
-          "el": "toman",
+          "el": "toma",
           "nosotros": "tomamos",
           "vosotros": "tomáis",
-          "ellos": ""
+          "ellos": "toman"
         }
       },
       {
@@ -7007,10 +7120,10 @@
         "conjugation": {
           "yo": "combato",
           "tu": "combates",
-          "el": "combaten",
+          "el": "combate",
           "nosotros": "combatimos",
           "vosotros": "combatís",
-          "ellos": ""
+          "ellos": "combaten"
         }
       }
     ]
@@ -7023,8 +7136,8 @@
     "es": "Volvió a cometer el mismo error a pesar de mis advertencias.",
     "ko": "나의 경고에도 불구하고 그는 똑같은 실수를 다시 저질렀다.",
     "audioUrl": {
-      "female": "/audio/female/s408.mp3",
-      "male": "/audio/male/s408.mp3"
+      "female": "audio/es/female/s408.mp3",
+      "male": "audio/es/male/s408.mp3"
     },
     "vocab": [
       {
@@ -7085,11 +7198,12 @@
         "conjugation": {
           "yo": "volví",
           "tu": "volviste",
-          "el": "volvieron",
+          "el": "volvió",
           "nosotros": "volvimos",
           "vosotros": "volvisteis",
-          "ellos": ""
-        }
+          "ellos": "volvieron"
+        },
+        "person": "el"
       },
       {
         "infinitive": "cometer",
@@ -7099,10 +7213,10 @@
         "conjugation": {
           "yo": "cometo",
           "tu": "cometes",
-          "el": "cometen",
+          "el": "comete",
           "nosotros": "cometemos",
           "vosotros": "cometéis",
-          "ellos": ""
+          "ellos": "cometen"
         }
       }
     ]
@@ -7115,8 +7229,8 @@
     "es": "El acuerdo será firmado por los representantes de ambas naciones mañana.",
     "ko": "협정은 내일 양국 대표들에 의해 체결될 것입니다.",
     "audioUrl": {
-      "female": "/audio/female/s409.mp3",
-      "male": "/audio/male/s409.mp3"
+      "female": "audio/es/female/s409.mp3",
+      "male": "audio/es/male/s409.mp3"
     },
     "vocab": [
       {
@@ -7195,11 +7309,12 @@
         "conjugation": {
           "yo": "seré firmado/a",
           "tu": "serás firmado/a",
-          "el": "serán firmados/as",
+          "el": "será firmado/a",
           "nosotros": "seremos firmados/as",
           "vosotros": "seréis firmados/as",
-          "ellos": ""
-        }
+          "ellos": "serán firmados/as"
+        },
+        "person": "el"
       }
     ]
   },
@@ -7211,8 +7326,8 @@
     "es": "Sigo pensando que deberíamos haber consultado a un especialista.",
     "ko": "나는 여전히 우리가 전문가에게 자문을 구했어야 했다고 생각한다.",
     "audioUrl": {
-      "female": "/audio/female/s410.mp3",
-      "male": "/audio/male/s410.mp3"
+      "female": "audio/es/female/s410.mp3",
+      "male": "audio/es/male/s410.mp3"
     },
     "vocab": [
       {
@@ -7273,11 +7388,12 @@
         "conjugation": {
           "yo": "sigo",
           "tu": "sigues",
-          "el": "siguen",
+          "el": "sigue",
           "nosotros": "seguimos",
           "vosotros": "seguís",
-          "ellos": ""
-        }
+          "ellos": "siguen"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "pensar",
@@ -7287,10 +7403,10 @@
         "conjugation": {
           "yo": "pienso",
           "tu": "piensas",
-          "el": "piensan",
+          "el": "piensa",
           "nosotros": "pensamos",
           "vosotros": "pensáis",
-          "ellos": ""
+          "ellos": "piensan"
         }
       },
       {
@@ -7301,11 +7417,12 @@
         "conjugation": {
           "yo": "debería haber consultado",
           "tu": "deberías haber consultado",
-          "el": "deberían haber consultado",
+          "el": "debería haber consultado",
           "nosotros": "deberíamos haber consultado",
           "vosotros": "deberíais haber consultado",
-          "ellos": ""
-        }
+          "ellos": "deberían haber consultado"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -7317,8 +7434,8 @@
     "es": "Se ruega a los asistentes que apaguen sus teléfonos móviles.",
     "ko": "참석자분들께서는 휴대폰 전원을 꺼주시기 바랍니다.",
     "audioUrl": {
-      "female": "/audio/female/s411.mp3",
-      "male": "/audio/male/s411.mp3"
+      "female": "audio/es/female/s411.mp3",
+      "male": "audio/es/male/s411.mp3"
     },
     "vocab": [
       {
@@ -7385,11 +7502,12 @@
         "conjugation": {
           "yo": "ruego",
           "tu": "ruegas",
-          "el": "ruegan",
+          "el": "ruega",
           "nosotros": "rogamos",
           "vosotros": "rogáis",
-          "ellos": ""
-        }
+          "ellos": "ruegan"
+        },
+        "person": "el"
       },
       {
         "infinitive": "apagar",
@@ -7399,11 +7517,12 @@
         "conjugation": {
           "yo": "apague",
           "tu": "apagues",
-          "el": "apaguen",
+          "el": "apague",
           "nosotros": "apaguemos",
           "vosotros": "apaguéis",
-          "ellos": ""
-        }
+          "ellos": "apaguen"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -7415,8 +7534,8 @@
     "es": "El sospechoso fue detenido por la policía en el aeropuerto.",
     "ko": "용의자는 공항에서 경찰에 의해 체포되었습니다.",
     "audioUrl": {
-      "female": "/audio/female/s412.mp3",
-      "male": "/audio/male/s412.mp3"
+      "female": "audio/es/female/s412.mp3",
+      "male": "audio/es/male/s412.mp3"
     },
     "vocab": [
       {
@@ -7489,11 +7608,12 @@
         "conjugation": {
           "yo": "fui detenido/a",
           "tu": "fuiste detenido/a",
-          "el": "fueron detenidos/as",
+          "el": "fue detenido/a",
           "nosotros": "fuimos detenidos/as",
           "vosotros": "fuisteis detenidos/as",
-          "ellos": ""
-        }
+          "ellos": "fueron detenidos/as"
+        },
+        "person": "el"
       }
     ]
   },
@@ -7505,8 +7625,8 @@
     "es": "La conferencia se llevará a cabo en la sala principal del hotel.",
     "ko": "컨퍼런스는 호텔 메인 홀에서 개최될 것입니다.",
     "audioUrl": {
-      "female": "/audio/female/s413.mp3",
-      "male": "/audio/male/s413.mp3"
+      "female": "audio/es/female/s413.mp3",
+      "male": "audio/es/male/s413.mp3"
     },
     "vocab": [
       {
@@ -7579,11 +7699,12 @@
         "conjugation": {
           "yo": "me llevaré a cabo",
           "tu": "te llevarás a cabo",
-          "el": "se llevarán a cabo",
+          "el": "se llevará a cabo",
           "nosotros": "nos llevaremos a cabo",
           "vosotros": "os llevaréis a cabo",
-          "ellos": ""
-        }
+          "ellos": "se llevarán a cabo"
+        },
+        "person": "el"
       }
     ]
   },
@@ -7595,8 +7716,8 @@
     "es": "Hay que tener en cuenta que el proyecto se encuentra en su fase final.",
     "ko": "프로젝트가 최종 단계에 위치해 있다는 점을 명심해야 합니다.",
     "audioUrl": {
-      "female": "/audio/female/s414.mp3",
-      "male": "/audio/male/s414.mp3"
+      "female": "audio/es/female/s414.mp3",
+      "male": "audio/es/male/s414.mp3"
     },
     "vocab": [
       {
@@ -7676,11 +7797,12 @@
         "conjugation": {
           "yo": "me encuentro",
           "tu": "te encuentras",
-          "el": "se encuentran",
+          "el": "se encuentra",
           "nosotros": "nos encontramos",
           "vosotros": "os encontráis",
-          "ellos": ""
-        }
+          "ellos": "se encuentran"
+        },
+        "person": "el"
       }
     ]
   },
@@ -7692,8 +7814,8 @@
     "es": "Dejamos de colaborar con esa empresa por falta de transparencia.",
     "ko": "투명성 부족으로 인해 우리는 그 회사와의 협력을 중단했습니다.",
     "audioUrl": {
-      "female": "/audio/female/s415.mp3",
-      "male": "/audio/male/s415.mp3"
+      "female": "audio/es/female/s415.mp3",
+      "male": "audio/es/male/s415.mp3"
     },
     "vocab": [
       {
@@ -7760,11 +7882,12 @@
         "conjugation": {
           "yo": "dejé",
           "tu": "dejaste",
-          "el": "dejaron",
+          "el": "dejó",
           "nosotros": "dejamos",
           "vosotros": "dejasteis",
-          "ellos": ""
-        }
+          "ellos": "dejaron"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "colaborar",
@@ -7774,10 +7897,10 @@
         "conjugation": {
           "yo": "colaboro",
           "tu": "colaboras",
-          "el": "colaboran",
+          "el": "colabora",
           "nosotros": "colaboramos",
           "vosotros": "colaboráis",
-          "ellos": ""
+          "ellos": "colaboran"
         }
       }
     ]
@@ -7790,8 +7913,8 @@
     "es": "Se venden productos ecológicos de alta calidad en este mercado local.",
     "ko": "이 지역 시장에서는 고품질의 친환경 제품들이 판매됩니다.",
     "audioUrl": {
-      "female": "/audio/female/s416.mp3",
-      "male": "/audio/male/s416.mp3"
+      "female": "audio/es/female/s416.mp3",
+      "male": "audio/es/male/s416.mp3"
     },
     "vocab": [
       {
@@ -7858,11 +7981,12 @@
         "conjugation": {
           "yo": "vendo",
           "tu": "vendes",
-          "el": "venden",
+          "el": "vende",
           "nosotros": "vendemos",
           "vosotros": "vendéis",
-          "ellos": ""
-        }
+          "ellos": "venden"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -7874,8 +7998,8 @@
     "es": "El problema se resolvió gracias a la mediación de un tercero neutral.",
     "ko": "그 문제는 중립적인 제3자의 중재 덕분에 해결되었습니다.",
     "audioUrl": {
-      "female": "/audio/female/s417.mp3",
-      "male": "/audio/male/s417.mp3"
+      "female": "audio/es/female/s417.mp3",
+      "male": "audio/es/male/s417.mp3"
     },
     "vocab": [
       {
@@ -7954,11 +8078,12 @@
         "conjugation": {
           "yo": "resolví",
           "tu": "resolviste",
-          "el": "resolvieron",
+          "el": "resolvió",
           "nosotros": "resolvimos",
           "vosotros": "resolvisteis",
-          "ellos": ""
-        }
+          "ellos": "resolvieron"
+        },
+        "person": "el"
       }
     ]
   },
@@ -7970,8 +8095,8 @@
     "es": "Iba a salir de casa cuando empezó a llover fuertemente.",
     "ko": "비가 세차게 내리기 시작했을 때 나는 집에서 막 나가려던 참이었다.",
     "audioUrl": {
-      "female": "/audio/female/s418.mp3",
-      "male": "/audio/male/s418.mp3"
+      "female": "audio/es/female/s418.mp3",
+      "male": "audio/es/male/s418.mp3"
     },
     "vocab": [
       {
@@ -8026,11 +8151,12 @@
         "conjugation": {
           "yo": "iba",
           "tu": "ibas",
-          "el": "iban",
+          "el": "iba",
           "nosotros": "íbamos",
           "vosotros": "ibais",
-          "ellos": ""
-        }
+          "ellos": "iban"
+        },
+        "person": "yo"
       },
       {
         "infinitive": "salir",
@@ -8040,10 +8166,10 @@
         "conjugation": {
           "yo": "salgo",
           "tu": "sales",
-          "el": "salen",
+          "el": "sale",
           "nosotros": "salimos",
           "vosotros": "salís",
-          "ellos": ""
+          "ellos": "salen"
         }
       },
       {
@@ -8054,11 +8180,12 @@
         "conjugation": {
           "yo": "empecé",
           "tu": "empezaste",
-          "el": "empezaron",
+          "el": "empezó",
           "nosotros": "empezamos",
           "vosotros": "empezasteis",
-          "ellos": ""
-        }
+          "ellos": "empezaron"
+        },
+        "person": "el"
       },
       {
         "infinitive": "llover",
@@ -8077,8 +8204,8 @@
     "es": "Se dice que la nueva ley beneficiará a las pequeñas y medianas empresas.",
     "ko": "새로운 법안이 중소기업들에게 이로울 것이라고들 말합니다.",
     "audioUrl": {
-      "female": "/audio/female/s419.mp3",
-      "male": "/audio/male/s419.mp3"
+      "female": "audio/es/female/s419.mp3",
+      "male": "audio/es/male/s419.mp3"
     },
     "vocab": [
       {
@@ -8151,11 +8278,12 @@
         "conjugation": {
           "yo": "digo",
           "tu": "dices",
-          "el": "dicen",
+          "el": "dice",
           "nosotros": "decimos",
           "vosotros": "decís",
-          "ellos": ""
-        }
+          "ellos": "dicen"
+        },
+        "person": "el"
       },
       {
         "infinitive": "beneficiar",
@@ -8165,11 +8293,12 @@
         "conjugation": {
           "yo": "beneficiaré",
           "tu": "beneficiarás",
-          "el": "beneficiarán",
+          "el": "beneficiará",
           "nosotros": "beneficiaremos",
           "vosotros": "beneficiaréis",
-          "ellos": ""
-        }
+          "ellos": "beneficiarán"
+        },
+        "person": "el"
       }
     ]
   },
@@ -8181,8 +8310,8 @@
     "es": "Llevamos años luchando por defender los derechos de los trabajadores.",
     "ko": "우리는 근로자들의 권리를 옹호하기 위해 수년 동안 투쟁해 오고 있다.",
     "audioUrl": {
-      "female": "/audio/female/s420.mp3",
-      "male": "/audio/male/s420.mp3"
+      "female": "audio/es/female/s420.mp3",
+      "male": "audio/es/male/s420.mp3"
     },
     "vocab": [
       {
@@ -8249,11 +8378,12 @@
         "conjugation": {
           "yo": "llevo",
           "tu": "llevas",
-          "el": "llevan",
+          "el": "lleva",
           "nosotros": "llevamos",
           "vosotros": "lleváis",
-          "ellos": ""
-        }
+          "ellos": "llevan"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "luchar",
@@ -8263,10 +8393,10 @@
         "conjugation": {
           "yo": "lucho",
           "tu": "luchas",
-          "el": "luchan",
+          "el": "lucha",
           "nosotros": "luchamos",
           "vosotros": "lucháis",
-          "ellos": ""
+          "ellos": "luchan"
         }
       },
       {
@@ -8277,10 +8407,10 @@
         "conjugation": {
           "yo": "defiendo",
           "tu": "defiendes",
-          "el": "defienden",
+          "el": "defiende",
           "nosotros": "defendemos",
           "vosotros": "defendéis",
-          "ellos": ""
+          "ellos": "defienden"
         }
       }
     ]
@@ -8293,8 +8423,8 @@
     "es": "Desde mi punto de vista, la propuesta carece de un plan financiero sólido.",
     "ko": "내 관점에서는, 그 제안서에 견고한 재정 계획이 결여되어 있다.",
     "audioUrl": {
-      "female": "/audio/female/s421.mp3",
-      "male": "/audio/male/s421.mp3"
+      "female": "audio/es/female/s421.mp3",
+      "male": "audio/es/male/s421.mp3"
     },
     "vocab": [
       {
@@ -8355,11 +8485,12 @@
         "conjugation": {
           "yo": "carezco",
           "tu": "careces",
-          "el": "carecen",
+          "el": "carece",
           "nosotros": "carecemos",
           "vosotros": "carecéis",
-          "ellos": ""
-        }
+          "ellos": "carecen"
+        },
+        "person": "el"
       }
     ]
   },
@@ -8371,8 +8502,8 @@
     "es": "Hay que ponerse en el lugar del cliente para entender sus necesidades reales.",
     "ko": "고객의 실질적인 니즈를 이해하기 위해서는 고객의 입장에 서 보아야 합니다.",
     "audioUrl": {
-      "female": "/audio/female/s422.mp3",
-      "male": "/audio/male/s422.mp3"
+      "female": "audio/es/female/s422.mp3",
+      "male": "audio/es/male/s422.mp3"
     },
     "vocab": [
       {
@@ -8446,10 +8577,10 @@
         "conjugation": {
           "yo": "me pongo",
           "tu": "te pones",
-          "el": "se ponen",
+          "el": "se pone",
           "nosotros": "nos ponemos",
           "vosotros": "os ponéis",
-          "ellos": ""
+          "ellos": "se ponen"
         }
       },
       {
@@ -8460,10 +8591,10 @@
         "conjugation": {
           "yo": "entiendo",
           "tu": "entiendes",
-          "el": "entienden",
+          "el": "entiende",
           "nosotros": "entendemos",
           "vosotros": "entendéis",
-          "ellos": ""
+          "ellos": "entienden"
         }
       }
     ]
@@ -8476,8 +8607,8 @@
     "es": "El proyecto costó un ojo de la cara, pero los resultados valieron la pena.",
     "ko": "프로젝트에 엄청난 돈이 들었지만, 결과는 그만한 가치가 있었다.",
     "audioUrl": {
-      "female": "/audio/female/s423.mp3",
-      "male": "/audio/male/s423.mp3"
+      "female": "audio/es/female/s423.mp3",
+      "male": "audio/es/male/s423.mp3"
     },
     "vocab": [
       {
@@ -8538,11 +8669,12 @@
         "conjugation": {
           "yo": "costé",
           "tu": "costaste",
-          "el": "costaron",
+          "el": "costó",
           "nosotros": "costamos",
           "vosotros": "costasteis",
-          "ellos": ""
-        }
+          "ellos": "costaron"
+        },
+        "person": "el"
       },
       {
         "infinitive": "valer",
@@ -8552,11 +8684,12 @@
         "conjugation": {
           "yo": "valí",
           "tu": "valiste",
-          "el": "valieron",
+          "el": "valió",
           "nosotros": "valimos",
           "vosotros": "valisteis",
-          "ellos": ""
-        }
+          "ellos": "valieron"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -8568,8 +8701,8 @@
     "es": "No debemos dar el brazo a torcer durante la negociación del contrato.",
     "ko": "계약 협상 중에 우리는 쉽게 굴복하거나 타협해서는 안 된다.",
     "audioUrl": {
-      "female": "/audio/female/s424.mp3",
-      "male": "/audio/male/s424.mp3"
+      "female": "audio/es/female/s424.mp3",
+      "male": "audio/es/male/s424.mp3"
     },
     "vocab": [
       {
@@ -8630,11 +8763,12 @@
         "conjugation": {
           "yo": "debo",
           "tu": "debes",
-          "el": "deben",
+          "el": "debe",
           "nosotros": "debemos",
           "vosotros": "debéis",
-          "ellos": ""
-        }
+          "ellos": "deben"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "dar",
@@ -8644,10 +8778,10 @@
         "conjugation": {
           "yo": "doy",
           "tu": "das",
-          "el": "dan",
+          "el": "da",
           "nosotros": "damos",
           "vosotros": "dais",
-          "ellos": ""
+          "ellos": "dan"
         }
       }
     ]
@@ -8660,8 +8794,8 @@
     "es": "En lo que respecta al cambio climático, se requieren medidas urgentes a nivel global.",
     "ko": "기후 변화에 관해서 말하자면, 전 세계적 차원의 긴급 조치가 요구된다.",
     "audioUrl": {
-      "female": "/audio/female/s425.mp3",
-      "male": "/audio/male/s425.mp3"
+      "female": "audio/es/female/s425.mp3",
+      "male": "audio/es/male/s425.mp3"
     },
     "vocab": [
       {
@@ -8722,11 +8856,12 @@
         "conjugation": {
           "yo": "requiero",
           "tu": "requieres",
-          "el": "requieren",
+          "el": "requiere",
           "nosotros": "requerimos",
           "vosotros": "requerís",
-          "ellos": ""
-        }
+          "ellos": "requieren"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -8738,8 +8873,8 @@
     "es": "Es fundamental llegar a un acuerdo mutuamente beneficioso para ambas partes.",
     "ko": "양측 모두에게 상호 이익이 되는 합의에 도달하는 것이 필수적입니다.",
     "audioUrl": {
-      "female": "/audio/female/s426.mp3",
-      "male": "/audio/male/s426.mp3"
+      "female": "audio/es/female/s426.mp3",
+      "male": "audio/es/male/s426.mp3"
     },
     "vocab": [
       {
@@ -8812,11 +8947,12 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
-        }
+          "ellos": "son"
+        },
+        "person": "el"
       },
       {
         "infinitive": "llegar",
@@ -8826,10 +8962,10 @@
         "conjugation": {
           "yo": "llego",
           "tu": "llegas",
-          "el": "llegan",
+          "el": "llega",
           "nosotros": "llegamos",
           "vosotros": "llegáis",
-          "ellos": ""
+          "ellos": "llegan"
         }
       }
     ]
@@ -8842,8 +8978,8 @@
     "es": "No hay que andar con rodeos y debemos ir al grano directamente.",
     "ko": "돌려서 말하지 말고 곧바로 본론으로 들어가야 합니다.",
     "audioUrl": {
-      "female": "/audio/female/s427.mp3",
-      "male": "/audio/male/s427.mp3"
+      "female": "audio/es/female/s427.mp3",
+      "male": "audio/es/male/s427.mp3"
     },
     "vocab": [
       {
@@ -8898,10 +9034,10 @@
         "conjugation": {
           "yo": "ando",
           "tu": "andas",
-          "el": "andan",
+          "el": "anda",
           "nosotros": "andamos",
           "vosotros": "andáis",
-          "ellos": ""
+          "ellos": "andan"
         }
       },
       {
@@ -8912,11 +9048,12 @@
         "conjugation": {
           "yo": "debo",
           "tu": "debes",
-          "el": "deben",
+          "el": "debe",
           "nosotros": "debemos",
           "vosotros": "debéis",
-          "ellos": ""
-        }
+          "ellos": "deben"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "ir",
@@ -8926,10 +9063,10 @@
         "conjugation": {
           "yo": "voy",
           "tu": "vas",
-          "el": "van",
+          "el": "va",
           "nosotros": "vamos",
           "vosotros": "vais",
-          "ellos": ""
+          "ellos": "van"
         }
       }
     ]
@@ -8942,8 +9079,8 @@
     "es": "En lo tocante a la inteligencia artificial, existen diversos debates éticos.",
     "ko": "인공지능에 관한 한, 다양한 윤리적 논쟁들이 존재합니다.",
     "audioUrl": {
-      "female": "/audio/female/s428.mp3",
-      "male": "/audio/male/s428.mp3"
+      "female": "audio/es/female/s428.mp3",
+      "male": "audio/es/male/s428.mp3"
     },
     "vocab": [
       {
@@ -8998,11 +9135,12 @@
         "conjugation": {
           "yo": "existo",
           "tu": "existes",
-          "el": "existen",
+          "el": "existe",
           "nosotros": "existimos",
           "vosotros": "existís",
-          "ellos": ""
-        }
+          "ellos": "existen"
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -9014,8 +9152,8 @@
     "es": "El director decidió tirar la toalla después de varios intentos fallidos.",
     "ko": "대표는 수차례의 실패한 시도 끝에 결국 포기하기로 결정했다.",
     "audioUrl": {
-      "female": "/audio/female/s429.mp3",
-      "male": "/audio/male/s429.mp3"
+      "female": "audio/es/female/s429.mp3",
+      "male": "audio/es/male/s429.mp3"
     },
     "vocab": [
       {
@@ -9076,11 +9214,12 @@
         "conjugation": {
           "yo": "decidí",
           "tu": "decidiste",
-          "el": "decidieron",
+          "el": "decidió",
           "nosotros": "decidimos",
           "vosotros": "decidisteis",
-          "ellos": ""
-        }
+          "ellos": "decidieron"
+        },
+        "person": "el"
       },
       {
         "infinitive": "tirar",
@@ -9090,10 +9229,10 @@
         "conjugation": {
           "yo": "tiro",
           "tu": "tiras",
-          "el": "tiran",
+          "el": "tira",
           "nosotros": "tiramos",
           "vosotros": "tiráis",
-          "ellos": ""
+          "ellos": "tiran"
         }
       }
     ]
@@ -9106,8 +9245,8 @@
     "es": "Me parece que estás haciendo un monte de un grano de arena.",
     "ko": "내가 보기에 너는 작은 일(모래 한 알)을 너무 크게 부풀리고(산처럼 만들고) 있는 것 같다.",
     "audioUrl": {
-      "female": "/audio/female/s430.mp3",
-      "male": "/audio/male/s430.mp3"
+      "female": "audio/es/female/s430.mp3",
+      "male": "audio/es/male/s430.mp3"
     },
     "vocab": [
       {
@@ -9174,11 +9313,12 @@
         "conjugation": {
           "yo": "parezco",
           "tu": "pareces",
-          "el": "parecen",
+          "el": "parece",
           "nosotros": "parecemos",
           "vosotros": "parecéis",
-          "ellos": ""
-        }
+          "ellos": "parecen"
+        },
+        "person": "el"
       },
       {
         "infinitive": "estar",
@@ -9188,11 +9328,12 @@
         "conjugation": {
           "yo": "estoy",
           "tu": "estás",
-          "el": "están",
+          "el": "está",
           "nosotros": "estamos",
           "vosotros": "estáis",
-          "ellos": ""
-        }
+          "ellos": "están"
+        },
+        "person": "tu"
       },
       {
         "infinitive": "hacer",
@@ -9202,10 +9343,10 @@
         "conjugation": {
           "yo": "hago",
           "tu": "haces",
-          "el": "hacen",
+          "el": "hace",
           "nosotros": "hacemos",
           "vosotros": "hacéis",
-          "ellos": ""
+          "ellos": "hacen"
         }
       }
     ]
@@ -9218,8 +9359,8 @@
     "es": "Tomando todo en consideración, asumiremos el riesgo de la inversión.",
     "ko": "모든 것을 종합적으로 고려할 때, 우리는 투자 위험을 감수할 것입니다.",
     "audioUrl": {
-      "female": "/audio/female/s431.mp3",
-      "male": "/audio/male/s431.mp3"
+      "female": "audio/es/female/s431.mp3",
+      "male": "audio/es/male/s431.mp3"
     },
     "vocab": [
       {
@@ -9286,10 +9427,10 @@
         "conjugation": {
           "yo": "tomo",
           "tu": "tomas",
-          "el": "toman",
+          "el": "toma",
           "nosotros": "tomamos",
           "vosotros": "tomáis",
-          "ellos": ""
+          "ellos": "toman"
         }
       },
       {
@@ -9300,11 +9441,12 @@
         "conjugation": {
           "yo": "asumiré",
           "tu": "asumirás",
-          "el": "asumirán",
+          "el": "asumirá",
           "nosotros": "asumiremos",
           "vosotros": "asumiréis",
-          "ellos": ""
-        }
+          "ellos": "asumirán"
+        },
+        "person": "nosotros"
       }
     ]
   },
@@ -9316,8 +9458,8 @@
     "es": "Es indispensable estar al tanto de las últimas tendencias del mercado.",
     "ko": "최신 시장 트렌드를 지속적으로 파악하고 있는 것이 필수적입니다.",
     "audioUrl": {
-      "female": "/audio/female/s432.mp3",
-      "male": "/audio/male/s432.mp3"
+      "female": "audio/es/female/s432.mp3",
+      "male": "audio/es/male/s432.mp3"
     },
     "vocab": [
       {
@@ -9378,11 +9520,12 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
-        }
+          "ellos": "son"
+        },
+        "person": "el"
       },
       {
         "infinitive": "estar",
@@ -9392,10 +9535,10 @@
         "conjugation": {
           "yo": "estoy",
           "tu": "estás",
-          "el": "están",
+          "el": "está",
           "nosotros": "estamos",
           "vosotros": "estáis",
-          "ellos": ""
+          "ellos": "están"
         }
       }
     ]
@@ -9408,8 +9551,8 @@
     "es": "El nuevo gerente decidió cortar por lo sano y reorganizar todo el departamento.",
     "ko": "신임 매니저는 과감한 조치를 취해(단칼에 끊어내고) 부서 전체를 재편하기로 결정했다.",
     "audioUrl": {
-      "female": "/audio/female/s433.mp3",
-      "male": "/audio/male/s433.mp3"
+      "female": "audio/es/female/s433.mp3",
+      "male": "audio/es/male/s433.mp3"
     },
     "vocab": [
       {
@@ -9482,11 +9625,12 @@
         "conjugation": {
           "yo": "decidí",
           "tu": "decidiste",
-          "el": "decidieron",
+          "el": "decidió",
           "nosotros": "decidimos",
           "vosotros": "decidisteis",
-          "ellos": ""
-        }
+          "ellos": "decidieron"
+        },
+        "person": "el"
       },
       {
         "infinitive": "cortar",
@@ -9496,10 +9640,10 @@
         "conjugation": {
           "yo": "corto",
           "tu": "cortas",
-          "el": "cortan",
+          "el": "corta",
           "nosotros": "cortamos",
           "vosotros": "cortáis",
-          "ellos": ""
+          "ellos": "cortan"
         }
       },
       {
@@ -9510,10 +9654,10 @@
         "conjugation": {
           "yo": "reorganizo",
           "tu": "reorganizas",
-          "el": "reorganizan",
+          "el": "reorganiza",
           "nosotros": "reorganizamos",
           "vosotros": "reorganizáis",
-          "ellos": ""
+          "ellos": "reorganizan"
         }
       }
     ]
@@ -9526,8 +9670,8 @@
     "es": "En resumidas cuentas, la reunión fue un fracaso absoluto.",
     "ko": "요약하자면, 회의는 완벽한 실패였다.",
     "audioUrl": {
-      "female": "/audio/female/s434.mp3",
-      "male": "/audio/male/s434.mp3"
+      "female": "audio/es/female/s434.mp3",
+      "male": "audio/es/male/s434.mp3"
     },
     "vocab": [
       {
@@ -9582,11 +9726,12 @@
         "conjugation": {
           "yo": "fui",
           "tu": "fuiste",
-          "el": "fueron",
+          "el": "fue",
           "nosotros": "fuimos",
           "vosotros": "fuisteis",
-          "ellos": ""
-        }
+          "ellos": "fueron"
+        },
+        "person": "el"
       }
     ]
   },
@@ -9598,8 +9743,8 @@
     "es": "Hay que tomar cartas en el asunto antes de que sea demasiado tarde.",
     "ko": "더 늦기 전에 그 문제에 대책을 강구해야(개입해야) 합니다.",
     "audioUrl": {
-      "female": "/audio/female/s435.mp3",
-      "male": "/audio/male/s435.mp3"
+      "female": "audio/es/female/s435.mp3",
+      "male": "audio/es/male/s435.mp3"
     },
     "vocab": [
       {
@@ -9648,10 +9793,10 @@
         "conjugation": {
           "yo": "tomo",
           "tu": "tomas",
-          "el": "toman",
+          "el": "toma",
           "nosotros": "tomamos",
           "vosotros": "tomáis",
-          "ellos": ""
+          "ellos": "toman"
         }
       },
       {
@@ -9662,11 +9807,12 @@
         "conjugation": {
           "yo": "sea",
           "tu": "seas",
-          "el": "sean",
+          "el": "sea",
           "nosotros": "seamos",
           "vosotros": "seáis",
-          "ellos": ""
-        }
+          "ellos": "sean"
+        },
+        "person": "el"
       }
     ]
   },
@@ -9678,8 +9824,8 @@
     "es": "El ministro declaró que no pensaba dar un paso atrás en sus reformas.",
     "ko": "장관은 개혁 과제에서 한 걸음도 물러설 생각이 없다고 선언했습니다.",
     "audioUrl": {
-      "female": "/audio/female/s436.mp3",
-      "male": "/audio/male/s436.mp3"
+      "female": "audio/es/female/s436.mp3",
+      "male": "audio/es/male/s436.mp3"
     },
     "vocab": [
       {
@@ -9752,11 +9898,12 @@
         "conjugation": {
           "yo": "declaré",
           "tu": "declaraste",
-          "el": "declararon",
+          "el": "declaró",
           "nosotros": "declaramos",
           "vosotros": "declarasteis",
-          "ellos": ""
-        }
+          "ellos": "declararon"
+        },
+        "person": "el"
       },
       {
         "infinitive": "pensar",
@@ -9766,11 +9913,12 @@
         "conjugation": {
           "yo": "pensaba",
           "tu": "pensabas",
-          "el": "pensaban",
+          "el": "pensaba",
           "nosotros": "pensábamos",
           "vosotros": "pensabais",
-          "ellos": ""
-        }
+          "ellos": "pensaban"
+        },
+        "person": "el"
       },
       {
         "infinitive": "dar",
@@ -9780,10 +9928,10 @@
         "conjugation": {
           "yo": "doy",
           "tu": "das",
-          "el": "dan",
+          "el": "da",
           "nosotros": "damos",
           "vosotros": "dais",
-          "ellos": ""
+          "ellos": "dan"
         }
       }
     ]
@@ -9796,8 +9944,8 @@
     "es": "A mi juicio, la globalización presenta tanto ventajas como inconvenientes.",
     "ko": "내 판단으로는, 세계화는 장점과 더불어 단점도 동시에 제시한다.",
     "audioUrl": {
-      "female": "/audio/female/s437.mp3",
-      "male": "/audio/male/s437.mp3"
+      "female": "audio/es/female/s437.mp3",
+      "male": "audio/es/male/s437.mp3"
     },
     "vocab": [
       {
@@ -9852,11 +10000,12 @@
         "conjugation": {
           "yo": "presento",
           "tu": "presentas",
-          "el": "presentan",
+          "el": "presenta",
           "nosotros": "presentamos",
           "vosotros": "presentáis",
-          "ellos": ""
-        }
+          "ellos": "presentan"
+        },
+        "person": "el"
       }
     ]
   },
@@ -9868,8 +10017,8 @@
     "es": "No vale la pena devanarse los sesos por un asunto sin importancia.",
     "ko": "중요하지 않은 문제로 머리를 짜내며(안달복달하며) 고뇌할 가치가 없다.",
     "audioUrl": {
-      "female": "/audio/female/s438.mp3",
-      "male": "/audio/male/s438.mp3"
+      "female": "audio/es/female/s438.mp3",
+      "male": "audio/es/male/s438.mp3"
     },
     "vocab": [
       {
@@ -9924,11 +10073,12 @@
         "conjugation": {
           "yo": "valgo",
           "tu": "vales",
-          "el": "valen",
+          "el": "vale",
           "nosotros": "valemos",
           "vosotros": "valéis",
-          "ellos": ""
-        }
+          "ellos": "valen"
+        },
+        "person": "el"
       },
       {
         "infinitive": "devanarse",
@@ -9938,10 +10088,10 @@
         "conjugation": {
           "yo": "me devano",
           "tu": "te devanas",
-          "el": "se devanan",
+          "el": "se devana",
           "nosotros": "nos devanamos",
           "vosotros": "os devanáis",
-          "ellos": ""
+          "ellos": "se devanan"
         }
       }
     ]
@@ -9954,8 +10104,8 @@
     "es": "Por lo que a mí respecta, apruebo el plan de expansión internacional.",
     "ko": "나로 말할 것 같으면, 나는 국제 확장 계획을 승인합니다.",
     "audioUrl": {
-      "female": "/audio/female/s439.mp3",
-      "male": "/audio/male/s439.mp3"
+      "female": "audio/es/female/s439.mp3",
+      "male": "audio/es/male/s439.mp3"
     },
     "vocab": [
       {
@@ -10010,11 +10160,12 @@
         "conjugation": {
           "yo": "respecto",
           "tu": "respectas",
-          "el": "respectan",
+          "el": "respecta",
           "nosotros": "respectamos",
           "vosotros": "respectáis",
-          "ellos": ""
-        }
+          "ellos": "respectan"
+        },
+        "person": "el"
       },
       {
         "infinitive": "aprobar",
@@ -10024,11 +10175,12 @@
         "conjugation": {
           "yo": "apruebo",
           "tu": "apruebas",
-          "el": "aprueban",
+          "el": "aprueba",
           "nosotros": "aprobamos",
           "vosotros": "aprobáis",
-          "ellos": ""
-        }
+          "ellos": "aprueban"
+        },
+        "person": "yo"
       }
     ]
   },
@@ -10040,8 +10192,8 @@
     "es": "En definitiva, debemos adaptarnos a la nueva era digital para seguir siendo competitivos.",
     "ko": "결론적으로, 우리는 경쟁력을 유지하기 위해 새로운 디지털 시대에 적응해야만 합니다.",
     "audioUrl": {
-      "female": "/audio/female/s440.mp3",
-      "male": "/audio/male/s440.mp3"
+      "female": "audio/es/female/s440.mp3",
+      "male": "audio/es/male/s440.mp3"
     },
     "vocab": [
       {
@@ -10114,11 +10266,12 @@
         "conjugation": {
           "yo": "debo",
           "tu": "debes",
-          "el": "deben",
+          "el": "debe",
           "nosotros": "debemos",
           "vosotros": "debéis",
-          "ellos": ""
-        }
+          "ellos": "deben"
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "adaptarse",
@@ -10131,7 +10284,7 @@
           "el": "adaptarse",
           "nosotros": "adaptarnos",
           "vosotros": "adaptaros",
-          "ellos": ""
+          "ellos": "adaptarse"
         }
       },
       {
@@ -10142,10 +10295,10 @@
         "conjugation": {
           "yo": "sigo",
           "tu": "sigues",
-          "el": "siguen",
+          "el": "sigue",
           "nosotros": "seguimos",
           "vosotros": "seguís",
-          "ellos": ""
+          "ellos": "siguen"
         }
       },
       {
@@ -10156,10 +10309,10 @@
         "conjugation": {
           "yo": "soy",
           "tu": "eres",
-          "el": "son",
+          "el": "es",
           "nosotros": "somos",
           "vosotros": "sois",
-          "ellos": ""
+          "ellos": "son"
         }
       }
     ]

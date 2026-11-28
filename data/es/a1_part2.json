@@ -7,8 +7,8 @@
     "es": "¿A qué hora te acuestas normalmente?",
     "ko": "너는 보통 몇 시에 잠자리에 드니?",
     "audioUrl": {
-      "female": "/audio/female/s066.mp3",
-      "male": "/audio/male/s066.mp3"
+      "female": "audio/es/female/s066.mp3",
+      "male": "audio/es/male/s066.mp3"
     },
     "vocab": [
       {
@@ -49,7 +49,8 @@
           "nosotros": "nos acostamos",
           "vosotros": "os acostáis",
           "ellos": "se acuestan"
-        }
+        },
+        "person": "tu"
       }
     ]
   },
@@ -61,8 +62,8 @@
     "es": "Me duermo muy rápido por la noche.",
     "ko": "나는 밤에 매우 빠르게 잠이 든다.",
     "audioUrl": {
-      "female": "/audio/female/s067.mp3",
-      "male": "/audio/male/s067.mp3"
+      "female": "audio/es/female/s067.mp3",
+      "male": "audio/es/male/s067.mp3"
     },
     "vocab": [
       {
@@ -109,7 +110,8 @@
           "nosotros": "nos dormimos",
           "vosotros": "os dormís",
           "ellos": "se duermen"
-        }
+        },
+        "person": "yo"
       }
     ]
   },
@@ -121,8 +123,8 @@
     "es": "Mi padre se afeita todas las mañanas.",
     "ko": "나의 아버지는 매일 아침 면도를 하신다.",
     "audioUrl": {
-      "female": "/audio/female/s068.mp3",
-      "male": "/audio/male/s068.mp3"
+      "female": "audio/es/female/s068.mp3",
+      "male": "audio/es/male/s068.mp3"
     },
     "vocab": [
       {
@@ -169,7 +171,8 @@
           "nosotros": "nos afeitamos",
           "vosotros": "os afeitáis",
           "ellos": "se afeitan"
-        }
+        },
+        "person": "el"
       }
     ]
   },
@@ -181,8 +184,8 @@
     "es": "Hago ejercicio por las tardes.",
     "ko": "나는 오후마다 운동을 한다.",
     "audioUrl": {
-      "female": "/audio/female/s069.mp3",
-      "male": "/audio/male/s069.mp3"
+      "female": "audio/es/female/s069.mp3",
+      "male": "audio/es/male/s069.mp3"
     },
     "vocab": [
       {
@@ -217,7 +220,8 @@
           "nosotros": "hacemos",
           "vosotros": "hacéis",
           "ellos": "hacen"
-        }
+        },
+        "person": "yo"
       }
     ]
   },
@@ -229,8 +233,8 @@
     "es": "Nos lavamos los dientes después de comer.",
     "ko": "우리는 식사 후에 이빨을 닦는다.",
     "audioUrl": {
-      "female": "/audio/female/s070.mp3",
-      "male": "/audio/male/s070.mp3"
+      "female": "audio/es/female/s070.mp3",
+      "male": "audio/es/male/s070.mp3"
     },
     "vocab": [
       {
@@ -283,7 +287,8 @@
           "nosotros": "nos lavamos",
           "vosotros": "os laváis",
           "ellos": "se lavan"
-        }
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "comer",
@@ -309,8 +314,8 @@
     "es": "Siempre me maquillo antes de salir.",
     "ko": "나는 외출하기 전에 항상 화장을 한다.",
     "audioUrl": {
-      "female": "/audio/female/s071.mp3",
-      "male": "/audio/male/s071.mp3"
+      "female": "audio/es/female/s071.mp3",
+      "male": "audio/es/male/s071.mp3"
     },
     "vocab": [
       {
@@ -357,7 +362,8 @@
           "nosotros": "nos maquillamos",
           "vosotros": "os maquilláis",
           "ellos": "se maquillan"
-        }
+        },
+        "person": "yo"
       },
       {
         "infinitive": "salir",
@@ -383,8 +389,8 @@
     "es": "¿Te bañas o te duchas?",
     "ko": "너는 욕조 목욕을 하니, 아니면 샤워를 하니?",
     "audioUrl": {
-      "female": "/audio/female/s072.mp3",
-      "male": "/audio/male/s072.mp3"
+      "female": "audio/es/female/s072.mp3",
+      "male": "audio/es/male/s072.mp3"
     },
     "vocab": [
       {
@@ -425,7 +431,8 @@
           "nosotros": "nos bañamos",
           "vosotros": "os bañáis",
           "ellos": "se bañan"
-        }
+        },
+        "person": "tu"
       },
       {
         "infinitive": "ducharse",
@@ -439,7 +446,8 @@
           "nosotros": "nos duchamos",
           "vosotros": "os ducháis",
           "ellos": "se duchan"
-        }
+        },
+        "person": "tu"
       }
     ]
   },
@@ -451,8 +459,8 @@
     "es": "Mis amigos se despiertan muy temprano.",
     "ko": "내 친구들은 매우 일찍 깨어난다(일어난다).",
     "audioUrl": {
-      "female": "/audio/female/s073.mp3",
-      "male": "/audio/male/s073.mp3"
+      "female": "audio/es/female/s073.mp3",
+      "male": "audio/es/male/s073.mp3"
     },
     "vocab": [
       {
@@ -505,7 +513,8 @@
           "nosotros": "nos despertamos",
           "vosotros": "os despertáis",
           "ellos": "se despiertan"
-        }
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -517,8 +526,8 @@
     "es": "¿A qué hora os acostáis los fines de semana?",
     "ko": "너희는 주말에 몇 시에 잠자리에 드니?",
     "audioUrl": {
-      "female": "/audio/female/s074.mp3",
-      "male": "/audio/male/s074.mp3"
+      "female": "audio/es/female/s074.mp3",
+      "male": "audio/es/male/s074.mp3"
     },
     "vocab": [
       {
@@ -559,7 +568,8 @@
           "nosotros": "nos acostamos",
           "vosotros": "os acostáis",
           "ellos": "se acuestan"
-        }
+        },
+        "person": "vosotros"
       }
     ]
   },
@@ -571,8 +581,8 @@
     "es": "Leo un libro antes de dormirme.",
     "ko": "나는 잠들기 전에 책을 한 권 읽는다.",
     "audioUrl": {
-      "female": "/audio/female/s075.mp3",
-      "male": "/audio/male/s075.mp3"
+      "female": "audio/es/female/s075.mp3",
+      "male": "audio/es/male/s075.mp3"
     },
     "vocab": [
       {
@@ -619,7 +629,8 @@
           "nosotros": "leemos",
           "vosotros": "leéis",
           "ellos": "leen"
-        }
+        },
+        "person": "yo"
       },
       {
         "infinitive": "dormirse",
@@ -645,8 +656,8 @@
     "es": "¿Qué desea tomar?",
     "ko": "무엇을 드시겠습니까? (주문 받기)",
     "audioUrl": {
-      "female": "/audio/female/s076.mp3",
-      "male": "/audio/male/s076.mp3"
+      "female": "audio/es/female/s076.mp3",
+      "male": "audio/es/male/s076.mp3"
     },
     "vocab": [
       {
@@ -681,7 +692,8 @@
           "nosotros": "deseamos",
           "vosotros": "deseáis",
           "ellos": "desean"
-        }
+        },
+        "person": "el"
       },
       {
         "infinitive": "tomar",
@@ -707,8 +719,8 @@
     "es": "Para mí, un café con leche, por favor.",
     "ko": "저에게는 라떼(우유 넣은 커피) 한 잔 주세요.",
     "audioUrl": {
-      "female": "/audio/female/s077.mp3",
-      "male": "/audio/male/s077.mp3"
+      "female": "audio/es/female/s077.mp3",
+      "male": "audio/es/male/s077.mp3"
     },
     "vocab": [
       {
@@ -746,8 +758,8 @@
     "es": "¿Cuánto cuesta este libro?",
     "ko": "이 책은 얼마인가요?",
     "audioUrl": {
-      "female": "/audio/female/s078.mp3",
-      "male": "/audio/male/s078.mp3"
+      "female": "audio/es/female/s078.mp3",
+      "male": "audio/es/male/s078.mp3"
     },
     "vocab": [
       {
@@ -788,7 +800,8 @@
           "nosotros": "costamos",
           "vosotros": "costáis",
           "ellos": "cuestan"
-        }
+        },
+        "person": "el"
       }
     ]
   },
@@ -800,8 +813,8 @@
     "es": "Quisiera una mesa para dos personas.",
     "ko": "2명용 테이블 하나 부탁합니다 (예약/방문).",
     "audioUrl": {
-      "female": "/audio/female/s079.mp3",
-      "male": "/audio/male/s079.mp3"
+      "female": "audio/es/female/s079.mp3",
+      "male": "audio/es/male/s079.mp3"
     },
     "vocab": [
       {
@@ -854,7 +867,8 @@
           "nosotros": "quisiéramos",
           "vosotros": "quisierais",
           "ellos": "quisieran"
-        }
+        },
+        "person": "yo"
       }
     ]
   },
@@ -866,8 +880,8 @@
     "es": "La cuenta, por favor.",
     "ko": "계산서 주세요.",
     "audioUrl": {
-      "female": "/audio/female/s080.mp3",
-      "male": "/audio/male/s080.mp3"
+      "female": "audio/es/female/s080.mp3",
+      "male": "audio/es/male/s080.mp3"
     },
     "vocab": [
       {
@@ -899,8 +913,8 @@
     "es": "¿Tiene este pantalón en talla M?",
     "ko": "이 바지 M 사이즈 있나요?",
     "audioUrl": {
-      "female": "/audio/female/s081.mp3",
-      "male": "/audio/male/s081.mp3"
+      "female": "audio/es/female/s081.mp3",
+      "male": "audio/es/male/s081.mp3"
     },
     "vocab": [
       {
@@ -953,7 +967,8 @@
           "nosotros": "tenemos",
           "vosotros": "tenéis",
           "ellos": "tienen"
-        }
+        },
+        "person": "el"
       }
     ]
   },
@@ -965,8 +980,8 @@
     "es": "¿Puedo pagar con tarjeta de crédito?",
     "ko": "신용카드로 결제할 수 있나요?",
     "audioUrl": {
-      "female": "/audio/female/s082.mp3",
-      "male": "/audio/male/s082.mp3"
+      "female": "audio/es/female/s082.mp3",
+      "male": "audio/es/male/s082.mp3"
     },
     "vocab": [
       {
@@ -1007,7 +1022,8 @@
           "nosotros": "podemos",
           "vosotros": "podéis",
           "ellos": "pueden"
-        }
+        },
+        "person": "yo"
       },
       {
         "infinitive": "pagar",
@@ -1033,8 +1049,8 @@
     "es": "¿Cuánto valen estas manzanas?",
     "ko": "이 사과들은 얼마인가요?",
     "audioUrl": {
-      "female": "/audio/female/s083.mp3",
-      "male": "/audio/male/s083.mp3"
+      "female": "audio/es/female/s083.mp3",
+      "male": "audio/es/male/s083.mp3"
     },
     "vocab": [
       {
@@ -1075,7 +1091,8 @@
           "nosotros": "valemos",
           "vosotros": "valéis",
           "ellos": "valen"
-        }
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -1087,8 +1104,8 @@
     "es": "De segundo plato quiero pescado.",
     "ko": "두 번째 요리(메인 요리)로는 생선을 원합니다.",
     "audioUrl": {
-      "female": "/audio/female/s084.mp3",
-      "male": "/audio/male/s084.mp3"
+      "female": "audio/es/female/s084.mp3",
+      "male": "audio/es/male/s084.mp3"
     },
     "vocab": [
       {
@@ -1123,7 +1140,8 @@
           "nosotros": "queremos",
           "vosotros": "queréis",
           "ellos": "quieren"
-        }
+        },
+        "person": "yo"
       }
     ]
   },
@@ -1135,8 +1153,8 @@
     "es": "¿Tienen menú del día?",
     "ko": "오늘의 정식(오늘의 메뉴)이 있나요?",
     "audioUrl": {
-      "female": "/audio/female/s085.mp3",
-      "male": "/audio/male/s085.mp3"
+      "female": "audio/es/female/s085.mp3",
+      "male": "audio/es/male/s085.mp3"
     },
     "vocab": [
       {
@@ -1165,7 +1183,8 @@
           "nosotros": "tenemos",
           "vosotros": "tenéis",
           "ellos": "tienen"
-        }
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -1177,8 +1196,8 @@
     "es": "Esta camisa es muy cara.",
     "ko": "이 셔츠는 매우 비싸다.",
     "audioUrl": {
-      "female": "/audio/female/s086.mp3",
-      "male": "/audio/male/s086.mp3"
+      "female": "audio/es/female/s086.mp3",
+      "male": "audio/es/male/s086.mp3"
     },
     "vocab": [
       {
@@ -1225,7 +1244,8 @@
           "nosotros": "somos",
           "vosotros": "sois",
           "ellos": "son"
-        }
+        },
+        "person": "el"
       }
     ]
   },
@@ -1237,8 +1257,8 @@
     "es": "Busco un regalo para mi amigo.",
     "ko": "내 친구를 위한 선물을 찾고 있습니다.",
     "audioUrl": {
-      "female": "/audio/female/s087.mp3",
-      "male": "/audio/male/s087.mp3"
+      "female": "audio/es/female/s087.mp3",
+      "male": "audio/es/male/s087.mp3"
     },
     "vocab": [
       {
@@ -1291,7 +1311,8 @@
           "nosotros": "buscamos",
           "vosotros": "buscáis",
           "ellos": "buscan"
-        }
+        },
+        "person": "yo"
       }
     ]
   },
@@ -1303,8 +1324,8 @@
     "es": "¿Me trae un poco más de agua, por favor?",
     "ko": "물 좀 더 가져다주시겠어요?",
     "audioUrl": {
-      "female": "/audio/female/s088.mp3",
-      "male": "/audio/male/s088.mp3"
+      "female": "audio/es/female/s088.mp3",
+      "male": "audio/es/male/s088.mp3"
     },
     "vocab": [
       {
@@ -1351,7 +1372,8 @@
           "nosotros": "traemos",
           "vosotros": "traéis",
           "ellos": "traen"
-        }
+        },
+        "person": "el"
       }
     ]
   },
@@ -1363,8 +1385,8 @@
     "es": "¿Tienen descuentos para estudiantes?",
     "ko": "학생 할인이 있나요?",
     "audioUrl": {
-      "female": "/audio/female/s089.mp3",
-      "male": "/audio/male/s089.mp3"
+      "female": "audio/es/female/s089.mp3",
+      "male": "audio/es/male/s089.mp3"
     },
     "vocab": [
       {
@@ -1405,7 +1427,8 @@
           "nosotros": "tenemos",
           "vosotros": "tenéis",
           "ellos": "tienen"
-        }
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -1417,8 +1440,8 @@
     "es": "Voy a comprar pan en la panadería.",
     "ko": "나는 빵집에서 빵을 살 것이다.",
     "audioUrl": {
-      "female": "/audio/female/s090.mp3",
-      "male": "/audio/male/s090.mp3"
+      "female": "audio/es/female/s090.mp3",
+      "male": "audio/es/male/s090.mp3"
     },
     "vocab": [
       {
@@ -1465,7 +1488,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "yo"
       },
       {
         "infinitive": "comprar",
@@ -1491,8 +1515,8 @@
     "es": "¿Dónde están los probadores?",
     "ko": "피팅룸(탈의실)은 어디에 있나요?",
     "audioUrl": {
-      "female": "/audio/female/s091.mp3",
-      "male": "/audio/male/s091.mp3"
+      "female": "audio/es/female/s091.mp3",
+      "male": "audio/es/male/s091.mp3"
     },
     "vocab": [
       {
@@ -1527,7 +1551,8 @@
           "nosotros": "estamos",
           "vosotros": "estáis",
           "ellos": "están"
-        }
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -1539,8 +1564,8 @@
     "es": "Queremos pedir el postre.",
     "ko": "저희는 디저트를 주문하고 싶습니다.",
     "audioUrl": {
-      "female": "/audio/female/s092.mp3",
-      "male": "/audio/male/s092.mp3"
+      "female": "audio/es/female/s092.mp3",
+      "male": "audio/es/male/s092.mp3"
     },
     "vocab": [
       {
@@ -1575,7 +1600,8 @@
           "nosotros": "queremos",
           "vosotros": "queréis",
           "ellos": "quieren"
-        }
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "pedir",
@@ -1601,8 +1627,8 @@
     "es": "Me queda bien este vestido.",
     "ko": "이 드레스(원피스)는 나에게 잘 맞는다.",
     "audioUrl": {
-      "female": "/audio/female/s093.mp3",
-      "male": "/audio/male/s093.mp3"
+      "female": "audio/es/female/s093.mp3",
+      "male": "audio/es/male/s093.mp3"
     },
     "vocab": [
       {
@@ -1643,7 +1669,8 @@
           "nosotros": "quedamos",
           "vosotros": "quedáis",
           "ellos": "quedan"
-        }
+        },
+        "person": "el"
       }
     ]
   },
@@ -1655,8 +1682,8 @@
     "es": "¿Puedo probarme esta chaqueta?",
     "ko": "이 재킷을 입어봐도 될까요?",
     "audioUrl": {
-      "female": "/audio/female/s094.mp3",
-      "male": "/audio/male/s094.mp3"
+      "female": "audio/es/female/s094.mp3",
+      "male": "audio/es/male/s094.mp3"
     },
     "vocab": [
       {
@@ -1697,7 +1724,8 @@
           "nosotros": "podemos",
           "vosotros": "podéis",
           "ellos": "pueden"
-        }
+        },
+        "person": "yo"
       },
       {
         "infinitive": "probarse",
@@ -1723,8 +1751,8 @@
     "es": "Pago en efectivo.",
     "ko": "현금으로 결제하겠습니다.",
     "audioUrl": {
-      "female": "/audio/female/s095.mp3",
-      "male": "/audio/male/s095.mp3"
+      "female": "audio/es/female/s095.mp3",
+      "male": "audio/es/male/s095.mp3"
     },
     "vocab": [
       {
@@ -1753,7 +1781,8 @@
           "nosotros": "pagamos",
           "vosotros": "pagáis",
           "ellos": "pagan"
-        }
+        },
+        "person": "yo"
       }
     ]
   },
@@ -1765,8 +1794,8 @@
     "es": "¿Tiene alguna mesa libre?",
     "ko": "빈 테이블이 혹시 있나요?",
     "audioUrl": {
-      "female": "/audio/female/s096.mp3",
-      "male": "/audio/male/s096.mp3"
+      "female": "audio/es/female/s096.mp3",
+      "male": "audio/es/male/s096.mp3"
     },
     "vocab": [
       {
@@ -1807,7 +1836,8 @@
           "nosotros": "tenemos",
           "vosotros": "tenéis",
           "ellos": "tienen"
-        }
+        },
+        "person": "el"
       }
     ]
   },
@@ -1819,8 +1849,8 @@
     "es": "El servicio está incluido.",
     "ko": "봉사료(서비스 요금)가 포함되어 있습니다.",
     "audioUrl": {
-      "female": "/audio/female/s097.mp3",
-      "male": "/audio/male/s097.mp3"
+      "female": "audio/es/female/s097.mp3",
+      "male": "audio/es/male/s097.mp3"
     },
     "vocab": [
       {
@@ -1855,7 +1885,8 @@
           "nosotros": "estamos",
           "vosotros": "estáis",
           "ellos": "están"
-        }
+        },
+        "person": "el"
       }
     ]
   },
@@ -1867,8 +1898,8 @@
     "es": "¿Aceptan tarjetas de débito?",
     "ko": "직불카드를 받으시나요?",
     "audioUrl": {
-      "female": "/audio/female/s098.mp3",
-      "male": "/audio/male/s098.mp3"
+      "female": "audio/es/female/s098.mp3",
+      "male": "audio/es/male/s098.mp3"
     },
     "vocab": [
       {
@@ -1897,7 +1928,8 @@
           "nosotros": "aceptamos",
           "vosotros": "aceptáis",
           "ellos": "aceptan"
-        }
+        },
+        "person": "ellos"
       }
     ]
   },
@@ -1909,8 +1941,8 @@
     "es": "Necesito un ticket de compra.",
     "ko": "영수증이 필요합니다.",
     "audioUrl": {
-      "female": "/audio/female/s099.mp3",
-      "male": "/audio/male/s099.mp3"
+      "female": "audio/es/female/s099.mp3",
+      "male": "audio/es/male/s099.mp3"
     },
     "vocab": [
       {
@@ -1939,7 +1971,8 @@
           "nosotros": "necesitamos",
           "vosotros": "necesitáis",
           "ellos": "necesitan"
-        }
+        },
+        "person": "yo"
       }
     ]
   },
@@ -1951,8 +1984,8 @@
     "es": "Quiero cambiar este jersey por otra talla.",
     "ko": "이 니트(스웨터)를 다른 사이즈로 교환하고 싶습니다.",
     "audioUrl": {
-      "female": "/audio/female/s100.mp3",
-      "male": "/audio/male/s100.mp3"
+      "female": "audio/es/female/s100.mp3",
+      "male": "audio/es/male/s100.mp3"
     },
     "vocab": [
       {
@@ -1993,7 +2026,8 @@
           "nosotros": "queremos",
           "vosotros": "queréis",
           "ellos": "quieren"
-        }
+        },
+        "person": "yo"
       },
       {
         "infinitive": "cambiar",
@@ -2019,8 +2053,8 @@
     "es": "¿Cómo puedo llegar a la plaza del Sol?",
     "ko": "솔 광장으로 어떻게 가나요?",
     "audioUrl": {
-      "female": "/audio/female/s101.mp3",
-      "male": "/audio/male/s101.mp3"
+      "female": "audio/es/female/s101.mp3",
+      "male": "audio/es/male/s101.mp3"
     },
     "vocab": [
       {
@@ -2061,7 +2095,8 @@
           "nosotros": "podemos",
           "vosotros": "podéis",
           "ellos": "pueden"
-        }
+        },
+        "person": "yo"
       },
       {
         "infinitive": "llegar",
@@ -2087,8 +2122,8 @@
     "es": "Sigue todo recto y gira a la derecha.",
     "ko": "계속 직진해서 오른쪽으로 도세요.",
     "audioUrl": {
-      "female": "/audio/female/s102.mp3",
-      "male": "/audio/male/s102.mp3"
+      "female": "audio/es/female/s102.mp3",
+      "male": "audio/es/male/s102.mp3"
     },
     "vocab": [
       {
@@ -2135,7 +2170,8 @@
           "nosotros": "seguimos",
           "vosotros": "seguís",
           "ellos": "siguen"
-        }
+        },
+        "person": "el"
       },
       {
         "infinitive": "girar",
@@ -2149,7 +2185,8 @@
           "nosotros": "giramos",
           "vosotros": "giráis",
           "ellos": "giran"
-        }
+        },
+        "person": "el"
       }
     ]
   },
@@ -2161,8 +2198,8 @@
     "es": "Mañana voy a estudiar en la biblioteca.",
     "ko": "내일 나는 도서관에서 공부할 예정이다.",
     "audioUrl": {
-      "female": "/audio/female/s103.mp3",
-      "male": "/audio/male/s103.mp3"
+      "female": "audio/es/female/s103.mp3",
+      "male": "audio/es/male/s103.mp3"
     },
     "vocab": [
       {
@@ -2203,7 +2240,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "yo"
       },
       {
         "infinitive": "estudiar",
@@ -2229,8 +2267,8 @@
     "es": "¿Vas a salir esta noche?",
     "ko": "너 오늘 밤에 외출할 거니?",
     "audioUrl": {
-      "female": "/audio/female/s104.mp3",
-      "male": "/audio/male/s104.mp3"
+      "female": "audio/es/female/s104.mp3",
+      "male": "audio/es/male/s104.mp3"
     },
     "vocab": [
       {
@@ -2265,7 +2303,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "tu"
       },
       {
         "infinitive": "salir",
@@ -2291,8 +2330,8 @@
     "es": "La parada de autobús está a la izquierda.",
     "ko": "버스 정류장은 왼쪽에 있다.",
     "audioUrl": {
-      "female": "/audio/female/s105.mp3",
-      "male": "/audio/male/s105.mp3"
+      "female": "audio/es/female/s105.mp3",
+      "male": "audio/es/male/s105.mp3"
     },
     "vocab": [
       {
@@ -2327,7 +2366,8 @@
           "nosotros": "estamos",
           "vosotros": "estáis",
           "ellos": "están"
-        }
+        },
+        "person": "el"
       }
     ]
   },
@@ -2339,8 +2379,8 @@
     "es": "Vamos a viajar a España este verano.",
     "ko": "우리는 이번 여름에 스페인으로 여행을 갈 예정이다.",
     "audioUrl": {
-      "female": "/audio/female/s106.mp3",
-      "male": "/audio/male/s106.mp3"
+      "female": "audio/es/female/s106.mp3",
+      "male": "audio/es/male/s106.mp3"
     },
     "vocab": [
       {
@@ -2381,7 +2421,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "viajar",
@@ -2407,8 +2448,8 @@
     "es": "Cruzar la calle y tomar la primera a la derecha.",
     "ko": "길을 건너서 첫 번째 골목(길)에서 오른쪽으로 도세요.",
     "audioUrl": {
-      "female": "/audio/female/s107.mp3",
-      "male": "/audio/male/s107.mp3"
+      "female": "audio/es/female/s107.mp3",
+      "male": "audio/es/male/s107.mp3"
     },
     "vocab": [
       {
@@ -2487,8 +2528,8 @@
     "es": "Ellos van a ver una película el fin de semana.",
     "ko": "그들은 주말에 영화를 한 편 볼 예정이다.",
     "audioUrl": {
-      "female": "/audio/female/s108.mp3",
-      "male": "/audio/male/s108.mp3"
+      "female": "audio/es/female/s108.mp3",
+      "male": "audio/es/male/s108.mp3"
     },
     "vocab": [
       {
@@ -2535,7 +2576,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "ellos"
       },
       {
         "infinitive": "ver",
@@ -2561,8 +2603,8 @@
     "es": "¿Está lejos el museo de arte?",
     "ko": "미술관은 멀리 있나요?",
     "audioUrl": {
-      "female": "/audio/female/s109.mp3",
-      "male": "/audio/male/s109.mp3"
+      "female": "audio/es/female/s109.mp3",
+      "male": "audio/es/male/s109.mp3"
     },
     "vocab": [
       {
@@ -2597,7 +2639,8 @@
           "nosotros": "estamos",
           "vosotros": "estáis",
           "ellos": "están"
-        }
+        },
+        "person": "el"
       }
     ]
   },
@@ -2609,8 +2652,8 @@
     "es": "Voy a cocinar la cena para mis amigos.",
     "ko": "나는 친구들을 위해 저녁을 요리할 예정이다.",
     "audioUrl": {
-      "female": "/audio/female/s110.mp3",
-      "male": "/audio/male/s110.mp3"
+      "female": "audio/es/female/s110.mp3",
+      "male": "audio/es/male/s110.mp3"
     },
     "vocab": [
       {
@@ -2651,7 +2694,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "yo"
       },
       {
         "infinitive": "cocinar",
@@ -2677,8 +2721,8 @@
     "es": "¿A qué hora vas a llegar a casa?",
     "ko": "너는 몇 시에 집에 도착할 예정이니?",
     "audioUrl": {
-      "female": "/audio/female/s111.mp3",
-      "male": "/audio/male/s111.mp3"
+      "female": "audio/es/female/s111.mp3",
+      "male": "audio/es/male/s111.mp3"
     },
     "vocab": [
       {
@@ -2713,7 +2757,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "tu"
       },
       {
         "infinitive": "llegar",
@@ -2739,8 +2784,8 @@
     "es": "Tienes que girar a la izquierda en la esquina.",
     "ko": "너는 모퉁이에서 왼쪽으로 돌아야 해.",
     "audioUrl": {
-      "female": "/audio/female/s112.mp3",
-      "male": "/audio/male/s112.mp3"
+      "female": "audio/es/female/s112.mp3",
+      "male": "audio/es/male/s112.mp3"
     },
     "vocab": [
       {
@@ -2781,7 +2826,8 @@
           "nosotros": "tenemos",
           "vosotros": "tenéis",
           "ellos": "tienen"
-        }
+        },
+        "person": "tu"
       },
       {
         "infinitive": "girar",
@@ -2807,8 +2853,8 @@
     "es": "¿Qué vas a hacer el próximo domingo?",
     "ko": "너는 다음 주 일요일에 무엇을 할 예정이니?",
     "audioUrl": {
-      "female": "/audio/female/s113.mp3",
-      "male": "/audio/male/s113.mp3"
+      "female": "audio/es/female/s113.mp3",
+      "male": "audio/es/male/s113.mp3"
     },
     "vocab": [
       {
@@ -2849,7 +2895,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "tu"
       },
       {
         "infinitive": "hacer",
@@ -2875,8 +2922,8 @@
     "es": "La farmacia está justo al lado del banco.",
     "ko": "약국은 은행 바로 옆에 있다.",
     "audioUrl": {
-      "female": "/audio/female/s114.mp3",
-      "male": "/audio/male/s114.mp3"
+      "female": "audio/es/female/s114.mp3",
+      "male": "audio/es/male/s114.mp3"
     },
     "vocab": [
       {
@@ -2917,7 +2964,8 @@
           "nosotros": "estamos",
           "vosotros": "estáis",
           "ellos": "están"
-        }
+        },
+        "person": "el"
       }
     ]
   },
@@ -2929,8 +2977,8 @@
     "es": "Voy a tomar el metro para ir al centro.",
     "ko": "나는 시내에 가기 위해 지하철을 탈 예정이다.",
     "audioUrl": {
-      "female": "/audio/female/s115.mp3",
-      "male": "/audio/male/s115.mp3"
+      "female": "audio/es/female/s115.mp3",
+      "male": "audio/es/male/s115.mp3"
     },
     "vocab": [
       {
@@ -2971,7 +3019,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "yo"
       },
       {
         "infinitive": "tomar",
@@ -2997,8 +3046,8 @@
     "es": "Mi madre va a preparar un pastel de chocolate.",
     "ko": "나의 어머니는 초콜릿 케이크를 만드실(준비하실) 예정이다.",
     "audioUrl": {
-      "female": "/audio/female/s116.mp3",
-      "male": "/audio/male/s116.mp3"
+      "female": "audio/es/female/s116.mp3",
+      "male": "audio/es/male/s116.mp3"
     },
     "vocab": [
       {
@@ -3039,7 +3088,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "el"
       },
       {
         "infinitive": "preparar",
@@ -3065,8 +3115,8 @@
     "es": "¿Dónde vas a pasar las vacaciones?",
     "ko": "너는 휴가를 어디에서 보낼 예정이니?",
     "audioUrl": {
-      "female": "/audio/female/s117.mp3",
-      "male": "/audio/male/s117.mp3"
+      "female": "audio/es/female/s117.mp3",
+      "male": "audio/es/male/s117.mp3"
     },
     "vocab": [
       {
@@ -3107,7 +3157,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "tu"
       },
       {
         "infinitive": "pasar",
@@ -3133,8 +3184,8 @@
     "es": "Para ir al aeropuerto, es mejor coger un taxi.",
     "ko": "공항에 가려면 택시를 타는 것이 더 좋다.",
     "audioUrl": {
-      "female": "/audio/female/s118.mp3",
-      "male": "/audio/male/s118.mp3"
+      "female": "audio/es/female/s118.mp3",
+      "male": "audio/es/male/s118.mp3"
     },
     "vocab": [
       {
@@ -3183,7 +3234,8 @@
           "nosotros": "somos",
           "vosotros": "sois",
           "ellos": "son"
-        }
+        },
+        "person": "el"
       },
       {
         "infinitive": "coger",
@@ -3209,8 +3261,8 @@
     "es": "Vamos a comprar las entradas por internet.",
     "ko": "우리는 인터넷으로 티켓을 구매할 예정이다.",
     "audioUrl": {
-      "female": "/audio/female/s119.mp3",
-      "male": "/audio/male/s119.mp3"
+      "female": "audio/es/female/s119.mp3",
+      "male": "audio/es/male/s119.mp3"
     },
     "vocab": [
       {
@@ -3251,7 +3303,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "nosotros"
       },
       {
         "infinitive": "comprar",
@@ -3277,8 +3330,8 @@
     "es": "¿La cafetería está cerca o lejos?",
     "ko": "카페는 가깝나요, 아니면 먼가요?",
     "audioUrl": {
-      "female": "/audio/female/s120.mp3",
-      "male": "/audio/male/s120.mp3"
+      "female": "audio/es/female/s120.mp3",
+      "male": "audio/es/male/s120.mp3"
     },
     "vocab": [
       {
@@ -3325,7 +3378,8 @@
           "nosotros": "estamos",
           "vosotros": "estáis",
           "ellos": "están"
-        }
+        },
+        "person": "el"
       }
     ]
   },
@@ -3337,8 +3391,8 @@
     "es": "Voy a llamar a mi madre esta tarde.",
     "ko": "나는 오늘 오후에 어머니께 전화할 예정이다.",
     "audioUrl": {
-      "female": "/audio/female/s121.mp3",
-      "male": "/audio/male/s121.mp3"
+      "female": "audio/es/female/s121.mp3",
+      "male": "audio/es/male/s121.mp3"
     },
     "vocab": [
       {
@@ -3373,7 +3427,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "yo"
       },
       {
         "infinitive": "llamar",
@@ -3399,8 +3454,8 @@
     "es": "El autobús va a llegar en cinco minutos.",
     "ko": "버스가 5분 뒤에 도착할 예정이다.",
     "audioUrl": {
-      "female": "/audio/female/s122.mp3",
-      "male": "/audio/male/s122.mp3"
+      "female": "audio/es/female/s122.mp3",
+      "male": "audio/es/male/s122.mp3"
     },
     "vocab": [
       {
@@ -3441,7 +3496,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "el"
       },
       {
         "infinitive": "llegar",
@@ -3467,8 +3523,8 @@
     "es": "¿Vais a jugar al fútbol el sábado?",
     "ko": "너희는 토요일에 축구를 할 예정이니?",
     "audioUrl": {
-      "female": "/audio/female/s123.mp3",
-      "male": "/audio/male/s123.mp3"
+      "female": "audio/es/female/s123.mp3",
+      "male": "audio/es/male/s123.mp3"
     },
     "vocab": [
       {
@@ -3503,7 +3559,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "vosotros"
       },
       {
         "infinitive": "jugar",
@@ -3529,8 +3586,8 @@
     "es": "Mi hermano va a empezar la universidad este año.",
     "ko": "내 남동생(형)은 올해 대학 생활을 시작할 예정이다.",
     "audioUrl": {
-      "female": "/audio/female/s124.mp3",
-      "male": "/audio/male/s124.mp3"
+      "female": "audio/es/female/s124.mp3",
+      "male": "audio/es/male/s124.mp3"
     },
     "vocab": [
       {
@@ -3577,7 +3634,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "el"
       },
       {
         "infinitive": "empezar",
@@ -3603,8 +3661,8 @@
     "es": "¿Vas a ir a la fiesta de cumpleaños de María?",
     "ko": "너는 마리아의 생일 파티에 갈 예정이니?",
     "audioUrl": {
-      "female": "/audio/female/s125.mp3",
-      "male": "/audio/male/s125.mp3"
+      "female": "audio/es/female/s125.mp3",
+      "male": "audio/es/male/s125.mp3"
     },
     "vocab": [
       {
@@ -3645,7 +3703,8 @@
           "nosotros": "vamos",
           "vosotros": "vais",
           "ellos": "van"
-        }
+        },
+        "person": "tu"
       }
     ]
   }
