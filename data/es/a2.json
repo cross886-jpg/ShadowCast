@@ -2831,7 +2831,7 @@
       },
       {
         "infinitive": "haber",
-        "meaning": "있느다 - 비인칭",
+        "meaning": "있다 (비인칭)",
         "tense": "불완료과거",
         "usedForm": "había",
         "conjugation": null
@@ -4695,7 +4695,7 @@
       },
       {
         "infinitive": "haber",
-        "meaning": "존재/비인칭",
+        "meaning": "존재하다 (비인칭)",
         "tense": "불완료과거",
         "usedForm": "había",
         "conjugation": null

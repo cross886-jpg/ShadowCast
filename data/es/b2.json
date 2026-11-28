@@ -1764,7 +1764,7 @@
     "verbs": [
       {
         "infinitive": "haber",
-        "meaning": "있다 - 비인칭",
+        "meaning": "있다 (비인칭)",
         "tense": "접속법 과거완료 3인칭 단수",
         "usedForm": "hubiera habido",
         "conjugation": null
@@ -2613,7 +2613,7 @@
     "verbs": [
       {
         "infinitive": "llover",
-        "meaning": "비가 오다 - 비인칭",
+        "meaning": "비가 오다 (비인칭)",
         "tense": "접속법 과거 3인칭 단수",
         "usedForm": "lloviera",
         "conjugation": null
@@ -4667,7 +4667,7 @@
     "verbs": [
       {
         "infinitive": "haber",
-        "meaning": "있다 - 비인칭",
+        "meaning": "있다 (비인칭)",
         "tense": "접속법 현재 3인칭 단수",
         "usedForm": "haya",
         "conjugation": null
@@ -5595,7 +5595,7 @@
     "verbs": [
       {
         "infinitive": "haber",
-        "meaning": "있다 - 비인칭",
+        "meaning": "있다 (비인칭)",
         "tense": "직설법 현재 3인칭 단수",
         "usedForm": "hay",
         "conjugation": null

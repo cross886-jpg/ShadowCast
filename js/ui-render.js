@@ -166,6 +166,23 @@ export const UIRenderer = {
     }
   },
 
+  getImpersonalDescription(vb) {
+    if (vb.note && vb.note.trim()) return vb.note;
+    if (vb.infinitive === 'haber') {
+      if (vb.meaning && vb.meaning.includes('해야 한다')) {
+        return 'hay que + 동사원형 구문으로, 주어 없이 일반적인 의무(~해야 한다)를 나타내는 비인칭 표현입니다.';
+      }
+      return '존재를 나타내는 비인칭 동사로, 주어의 수나 인칭에 관계없이 3인칭 단수 형태로 사용됩니다.';
+    }
+    if (vb.infinitive === 'hacer') {
+      return '날씨나 기후를 표현할 때 주어 없이 3인칭 단수 형태로 사용되는 비인칭 표현입니다.';
+    }
+    if (vb.infinitive === 'llover') {
+      return '날씨 현상을 나타내는 자연 비인칭 동사로, 3인칭 단수 형태로만 고정되어 사용됩니다.';
+    }
+    return '주어에 따른 인칭 변화 없이 3인칭 단수 형태로 고정되어 사용되는 비인칭 표현입니다.';
+  },
+
   renderVerbs(verbsList = []) {
     const container = this.elements.verbsContainer;
     container.innerHTML = '';
@@ -188,6 +205,35 @@ export const UIRenderer = {
     for (const vb of verbsList) {
       const card = document.createElement('div');
       card.className = 'bg-[#faf7f2] dark:bg-[#231e1a] rounded-xl p-3 space-y-2.5 border border-[#ebe5db] dark:border-[#3d342d] shadow-sm';
+
+      if (!vb.conjugation) {
+        card.innerHTML = `
+          <div class="flex items-center justify-between flex-wrap gap-1.5 pb-1 border-b border-[#ebe5db] dark:border-[#3d342d]">
+            <div class="flex items-center gap-1.5 flex-wrap">
+              <span class="material-symbols-outlined text-primary text-[16px]">menu_book</span>
+              <span class="font-bold text-[14px] text-on-surface">${vb.infinitive}</span>
+              <span class="px-1.5 py-0.5 rounded bg-white dark:bg-[#2b241f] text-primary text-[11px] font-semibold border border-[#ebe5db] dark:border-[#3d342d]">비인칭 동사</span>
+              <span class="text-on-surface-variant text-[12px]">· ${vb.meaning}</span>
+            </div>
+            <span class="px-2 py-0.5 rounded-full bg-white dark:bg-[#2b241f] text-secondary font-medium text-[11px] border border-[#ebe5db] dark:border-[#3d342d]">${vb.tense}</span>
+          </div>
+          <div class="space-y-2">
+            <div class="p-3 rounded-lg bg-primary text-on-primary flex items-center justify-between shadow-sm">
+              <div class="flex items-center gap-2.5">
+                <span class="text-[11px] text-white/90 font-medium bg-white/20 px-2 py-0.5 rounded">비인칭 형태</span>
+                <span class="text-[16px] font-bold text-white tracking-wide">${vb.usedForm}</span>
+              </div>
+              <span class="inline-flex items-center gap-0.5 text-[10px] bg-white/20 text-white px-2 py-0.5 rounded font-bold">★ 문장 사용</span>
+            </div>
+            <div class="px-3 py-2 rounded-lg bg-white dark:bg-[#2b241f] border border-[#ebe5db] dark:border-[#3d342d] text-[12px] text-on-surface-variant flex items-center gap-2">
+              <span class="material-symbols-outlined text-[16px] text-primary shrink-0">info</span>
+              <span class="leading-relaxed">${this.getImpersonalDescription(vb)}</span>
+            </div>
+          </div>
+        `;
+        container.appendChild(card);
+        continue;
+      }
 
       let gridHtml = '';
       for (const p of personKeys) {
